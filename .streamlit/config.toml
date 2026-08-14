@@ -1,0 +1,12 @@
+[client]
+showSidebarNavigation = false
+
+[theme]
+base = "light"
+primaryColor = "#176B87"
+backgroundColor = "#F4F6F8"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#17212B"
+font = "sans-serif"
+baseRadius = "medium"
+buttonRadius = "medium"

@@ -1,0 +1,791 @@
+registry_player_id,fantrax_player_id,fantrax_player_name,fantrax_current_team,fantrax_position,understat_player_id,understat_player_name,fbref_player_id,fbref_player_name,whoscored_player_id,whoscored_player_name,sofascore_player_id,sofascore_player_name,football_data_player_id,football_data_player_name,fpl_player_id,fpl_player_name,espn_player_id,espn_player_name,pundit_player_name,rotowire_player_id,active_current_epl,player_status,first_seen_season,last_seen_season,needs_review,review_reason
+FTX-06EX2,06ex2,Aaron Bott,NOT,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-062OG,062og,Aaron Hickey,BRF,D,8942,Aaron Hickey,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-04AMH,04amh,Aaron Ramsdale,NEW,G,5603,Aaron Ramsdale,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06XZN,06xzn,Abdoullah Ba,SUN,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06R9W,06r9w,Abdukodir Khusanov,MCI,D,11763,Abduqodir Khusanov,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-060U6,060u6,Abu Kamara,HUL,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06ZEF,06zef,Adam Aznou,EVE,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06IDS,06ids,Adam Harrison,NEW,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-02LP5,02lp5,Adam Smith,BOU,D,825,Adam Smith,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-056IR,056ir,Adam Webster,BHA,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06JGS,06jgs,Adam Wharton,CRY,M,12409,Adam Wharton,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06UYC,06uyc,Adrien Truffert,BOU,D,8640,Adrien Truffert,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06V0U,06v0u,Ahmed Abdullahi,SUN,F,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06H1G,06h1g,Aidan Harris,NEW,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-059TU,059tu,Akin Famewo,HUL,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-060WH,060wh,Alejandro Garnacho,AVL,"M,F",10552,Alejandro Garnacho,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06UZW,06uzw,Alex Cairns,LEE,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-038ZE,038ze,Alex Iwobi,FUL,"M,F",500,Alex Iwobi,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-070GU,070gu,Alex Jimenez,BOU,"D,M",12168,Alejandro Jiménez,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06EWY,06ewy,Alex Murphy,NEW,D,12199,Alex Murphy,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-03P9Y,03p9y,Alex Palmer,IPS,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06F8Y,06f8y,Alex Scott,BOU,M,12149,Alex Scott,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-072PC,072pc,Alex Toth,BOU,M,14374,Alex Tóth,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-0646F,0646f,Alexander Isak,LIV,F,5232,Alexander Isak,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06NK2,06nk2,Alexei Rojas Fedorushchenko,ARS,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-0522H,0522h,Alexis Mac Allister,LIV,M,8379,Alexis Mac Allister,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-075ZI,075zi,Alfie Cresswell,LEE,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-072JC,072jc,Alfie McNally,FUL,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-04SJT,04sjt,Alisson,LIV,G,1257,Alisson,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06FX0,06fx0,Altay Bayindir,MUN,G,12054,Altay Bayindir,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-072J3,072j3,Alysson,AVL,F,14446,Alysson Edward,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05R34,05r34,Amad Diallo,MUN,"M,F",8127,Amad Diallo Traore,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-063HU,063hu,Amadou Onana,AVL,M,9667,Amadou Onana,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06KUD,06kud,Amara Nallo,LIV,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-070CI,070ci,Amine Adli,BOU,"M,F",8211,Amine Adli,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-076DM,076dm,Amir Hadziahmetovic,HUL,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06ZBQ,06zbq,Andre Harriman-Annous,ARS,F,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06R9V,06r9v,Andres Garcia,AVL,D,13392,Andrés García,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-03GU5,03gu5,Andrew Robertson,TOT,D,1688,Andrew Robertson,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-068A0,068a0,Andrey Santos,MUN,M,11808,Andrey Santos,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-044I7,044i7,Angus Gunn,NOT,G,5544,Angus Gunn,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-076DW,076dw,Anis Mehmeti,IPS,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-05OGB,05ogb,Anthony Elanga,NEW,F,9524,Anthony Elanga,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-04MDN,04mdn,Anthony Gordon,NEW,F,8150,Anthony Gordon,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-068Y0,068y0,Antoine Semenyo,MCI,"M,F",11363,Antoine Semenyo,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06ZBX,06zbx,Anton Stach,LEE,M,9910,Anton Stach,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-03RZP,03rzp,Antonee Robinson,FUL,D,8940,Antonee Robinson,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06Y4G,06y4g,Antoni Milambo,BRF,M,13780,Antoni Milambo,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06R6S,06r6s,Antonin Kinsky,TOT,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06UZY,06uzy,Ao Tanaka,LEE,M,13834,Ao Tanaka,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05Y7C,05y7c,Archie Gray,TOT,M,10184,Archie Gray,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-076DF,076df,Archie Howard,HUL,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-0700Q,0700q,Archie Whitehall,NOT,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-04GW6,04gw6,Arijanet Muric,IPS,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06V04,06v04,Armin Pecsi,LIV,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-02LNY,02lny,Ashley Young,IPS,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06KQY,06kqy,Ayden Heaven,MUN,D,13080,Ayden Heaven,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-076DU,076du,Azor Matusiwa,IPS,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-0700U,0700u,Bafode Diakite,BOU,D,7268,Bafode Diakite,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06CMU,06cmu,Bart Verbruggen,BHA,G,11711,Bart Verbruggen,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-072H8,072h8,Ben Casey,CRY,F,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-02OO1,02oo1,Ben Davies,TOT,D,660,Ben Davies,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-066NN,066nn,Ben Doak,BOU,"M,F",11231,Ben Doak,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-04MCG,04mcg,Ben Johnson,IPS,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-04E1E,04e1e,Ben White,ARS,D,7298,Ben White,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-076CX,076cx,Ben Wilson,COV,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06TF6,06tf6,Bendito Mantato,MUN,"M,F",14266,Bendito Mantato,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06ZBW,06zbw,Benjamin Lecomte,FUL,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06ZXY,06zxy,Benjamin Sesko,MUN,F,11974,Benjamin Sesko,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06804,06804,Benoit Badiashile,CHE,D,7240,Benoit Badiashile Mukinayi,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-04FK6,04fk6,Bernardo Silva,MCI,M,3635,Bernardo Silva,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-04QOR,04qor,Bernd Leno,FUL,G,181,Bernd Leno,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-035N1,035n1,Bertrand Traore,SUN,"M,F",695,Bertrand Traoré,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06FVN,06fvn,Beto,EVE,F,9983,Beto,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05L2Z,05l2z,Bobby Thomas,COV,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06YEY,06yey,Borna Sosa,CRY,D,7075,Borna Sosa,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-061VA,061va,Boubacar Kamara,AVL,M,5789,Boubacar Kamara,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06R7L,06r7l,Bradley Burrowes,AVL,M,13870,Bradley Burrowes,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-04T3N,04t3n,Bradley Collins,COV,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-072IU,072iu,Braiden Graham,EVE,F,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-072X8,072x8,Brando Bailey-Joseph,ARS,F,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-04GYD,04gyd,Brandon Austin,TOT,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-076DB,076db,Brandon Thomas-Asante,COV,F,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-061VP,061vp,Brenden Aaronson,LEE,"M,F",10751,Brenden Aaronson,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-061YA,061ya,Brennan Johnson,CRY,"M,F",10760,Brennan Johnson,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-070HC,070hc,Brian Brobbey,SUN,F,9789,Brian Brobbey,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-072MQ,072mq,Brian Madjo,AVL,F,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-05GCR,05gcr,Bruno Fernandes,MUN,M,1228,Bruno Fernandes,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05YLJ,05ylj,Bruno Guimaraes,NEW,M,8327,Bruno Guimarães,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05TRB,05trb,Bryan Mbeumo,MUN,"M,F",6552,Bryan Mbeumo,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-04Y92,04y92,Bukayo Saka,ARS,"M,F",7322,Bukayo Saka,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06NVB,06nvb,Caleb Kporha,CRY,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06QQM,06qqm,Callum Bates,EVE,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-04MI4,04mi4,Callum Hudson-Odoi,NOT,"M,F",6456,Callum Hudson-Odoi,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06QQ8,06qq8,Callum Olusesi,TOT,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-03R8X,03r8x,Callum Wilson,BRF,F,468,Callum Wilson,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-0554G,0554g,Calvin Bassey,FUL,D,11728,Calvin Bassey,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-061Z5,061z5,Calvin Ramsay,LIV,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-045OB,045ob,Caoimhin Kelleher,BRF,G,7904,Caoimhin Kelleher,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-062CT,062ct,Carl Rushworth,COV,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-0687C,0687c,Carlos Alcaraz,EVE,M,11297,Carlos Alcaraz,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06FWI,06fwi,Carlos Baleba,BHA,M,10527,Carlos Baleba,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-0642L,0642l,Casemiro,MUN,M,2248,Casemiro,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-076DK,076dk,Cathal McCarthy,HUL,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-073AC,073ac,Ceadach O'Neill,ARS,F,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-05O6G,05o6g,Cedric Kipre,IPS,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06MNN,06mnn,Chadi Riad,CRY,D,11167,Chadi Riad,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06XZD,06xzd,Charalampos Kostoulas,BHA,F,14118,Charalampos Kostoulas,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06XZF,06xzf,Charlie Crew,LEE,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-072HT,072ht,Charlie Gray,MCI,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-0730I,0730i,Charlie Holland,CHE,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-076DH,076dh,Charlie Hughes,HUL,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-072P7,072p7,Charlie Stevens,BOU,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06RWP,06rwp,Charlie Tasker,BHA,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-062OT,062ot,Cheick Doucoure,CRY,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06YBQ,06ybq,Chemsdine Talbi,SUN,"M,F",13717,Chemsdine Talbi,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06ROJ,06roj,Chido Obi-Martin,MUN,F,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-0635J,0635j,Chris Richards,CRY,D,8430,Chris Richards,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06V0L,06v0l,Chris Rigg,SUN,M,13719,Chris Rigg,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-02M5B,02m5b,Chris Wood,NOT,F,4456,Chris Wood,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-070HH,070hh,Christantus Uche,CRY,M,12726,Christantus Uche,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05TR8,05tr8,Christian Norgaard,ARS,M,7083,Christian Nørgaard,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-04FJZ,04fjz,Christian Walton,IPS,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-072X6,072x6,Christos Mandas,BOU,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-05UOX,05uox,Christos Tzolis,ARS,F,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-0326X,0326x,Chuba Akpom,IPS,F,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-05ROA,05roa,Cody Drameh,HUL,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-067YV,067yv,Cody Gakpo,LIV,"M,F",11296,Cody Gakpo,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05L8Q,05l8q,Cole Palmer,CHE,M,8497,Cole Palmer,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05UHJ,05uhj,Conor Bradley,LIV,D,10120,Conor Bradley,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06MG7,06mg7,Conor Chaplin,IPS,"M,F",,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-051K8,051k8,Conor Gallagher,TOT,M,9040,Conor Gallagher,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06MWX,06mwx,Conor McManus,BRF,"D,M",,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-03297,03297,Conor Townsend,IPS,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-076KD,076kd,Costinha,BHA,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06ZBM,06zbm,Cristhian Mosquera,ARS,D,10024,Cristhian Mosquera,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05UOC,05uoc,Cristian Romero,TOT,D,7218,Cristian Romero,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-04O82,04o82,Curtis Jones,LIV,"D,M",6665,Curtis Jones,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06MNC,06mnc,Daichi Kamada,CRY,"M,F",6145,Daichi Kamada,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-02LSA,02lsa,Dan Burn,NEW,D,7382,Dan Burn,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06ZNA,06zna,Dan Ndoye,NOT,"M,F",8662,Dan Ndoye,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06V0J,06v0j,Dan Neil,SUN,M,13720,Dan Neil,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-068LX,068lx,Dango Ouattara,BRF,"M,F",9662,Dango Ouattara,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-03YR0,03yr0,Daniel James,LEE,"M,F",5595,Daniel James,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06JGI,06jgi,Daniel Munoz,CRY,"D,M",12408,Daniel Muñoz,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05NNS,05nns,Danny Ballard,SUN,D,13715,Dan Ballard,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-02LNX,02lnx,Danny Welbeck,BHA,F,501,Danny Welbeck,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-04GPX,04gpx,Dara O'Shea,IPS,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06UZV,06uzv,Dario Essugo,CHE,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-062DU,062du,Darko Gyabi,HUL,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-03MGA,03mga,Darnell Furlong,IPS,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-076DR,076dr,David Akintola,HUL,"M,F",,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-04RH9,04rh9,David Brooks,BOU,M,6820,David Brooks,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-02T13,02t13,David Button,IPS,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-05TQX,05tqx,David Raya,ARS,G,9676,David Raya,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06ZOD,06zod,Dean Benamar,CRY,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-03YWW,03yww,Dean Henderson,CRY,G,7702,Dean Henderson,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-04AGZ,04agz,Declan Rice,ARS,M,5553,Declan Rice,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05YLX,05ylx,Dejan Kulusevski,TOT,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-05G4D,05g4d,Dennis Cirkin,SUN,D,8537,Dennis Cirkin,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-063Y7,063y7,Destiny Udogie,TOT,D,8831,Iyenoma Destiny Udogie,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06R5B,06r5b,Diego Gomez,BHA,"M,F",13364,Diego Gómez,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06YB8,06yb8,Diego Leon,MUN,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-070HN,070hn,Dilane Bakwa,NOT,"M,F",8920,Dilane Bakwa,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-076DE,076de,Dillon Phillips,HUL,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-04QFZ,04qfz,Diogo Dalot,MUN,"D,M",7281,Diogo Dalot,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-062TS,062ts,Djed Spence,TOT,"D,M",10764,Djed Spence,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06FUW,06fuw,Djordje Petrovic,BOU,G,12032,Djordje Petrovic,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-049TQ,049tq,Dominic Calvert-Lewin,LEE,F,5555,Dominic Calvert-Lewin,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-03FGO,03fgo,Dominic Solanke,TOT,F,1679,Dominic Solanke,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06CMM,06cmm,Dominik Szoboszlai,LIV,"D,M",9788,Dominik Szoboszlai,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-04GE7,04ge7,Donyell Malen,AVL,F,9749,Donyell Malen,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-04SPP,04spp,Douglas Luiz,AVL,M,6122,Douglas Luiz,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-04P0D,04p0d,Dwight McNeil,EVE,"M,F",6756,Dwight McNeil,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05NT6,05nt6,Eberechi Eze,ARS,"M,F",8706,Eberechi Eze,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-04GE9,04ge9,Eddie Nketiah,CRY,F,6482,Eddie Nketiah,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-066R9,066r9,Ehor Yarmolyuk,BRF,M,11772,Yehor Yarmolyuk,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06XZA,06xza,Eli Kroupi,BOU,"M,F",11504,Eli Junior Kroupi,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06V0S,06v0s,Eliezer Mayenda,SUN,F,13718,Eliezer Mayenda,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-076DL,076dl,Eliot Matazo,HUL,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06MN3,06mn3,Elkan Baggott,IPS,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-05U40,05u40,Ellery Balcombe,BRF,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-05OPJ,05opj,Elliot Anderson,MCI,M,9154,Elliot Anderson,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05M9R,05m9r,Ellis Simms,COV,F,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-05746,05746,Emil Krafth,NEW,D,1545,Emil Krafth,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-04SAT,04sat,Emile Smith Rowe,FUL,M,7230,Emile Smith-Rowe,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-051KL,051kl,Emiliano Buendia,AVL,M,2203,Emiliano Buendía,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-02LZ0,02lz0,Emiliano Martinez,AVL,G,4401,Emiliano Martinez,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-076KG,076kg,Emmanuel Emegha,CHE,F,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-03SBH,03sbh,Enes Unal,BOU,F,6219,Enes Ünal,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-068YM,068ym,Enzo Fernandez,CHE,M,11356,Enzo Fernández,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06V0P,06v0p,Enzo Le Fee,SUN,"M,F",8651,Enzo Le Fée,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-076D9,076d9,Ephron Mason-Clark,COV,"M,F",,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06MND,06mnd,Eric da Silva Moreira,NOT,F,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-061VQ,061vq,Erling Haaland,MCI,F,8260,Erling Haaland,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06YXE,06yxe,Estevao,CHE,"M,F",13775,Estêvão,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-04LAV,04lav,Ethan Ampadu,LEE,"D,M",6369,Ethan Ampadu,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06DPX,06dpx,Ethan Brierley,BRF,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-05TR1,05tr1,Ethan Pinnock,BRF,D,9678,Ethan Pinnock,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06P6J,06p6j,Evanilson,BOU,F,12963,Evanilson,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06ZWJ,06zwj,Evann Guessand,AVL,"M,F",8006,Evann Guessand,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-076KI,076ki,Ewen Jaouen,NEW,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-052CA,052ca,Ezri Konsa,AVL,D,7726,Ezri Konsa Ngoyo,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-04TIG,04tig,Fabian Schar,NEW,D,76,Fabian Schär,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05OJF,05ojf,Fabio Carvalho,BRF,M,9501,Fabio Carvalho,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-067YU,067yu,Facundo Buonanotte,LEE,M,11362,Facundo Buonanotte,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06PHW,06phw,Federico Chiesa,LIV,F,1433,Federico Chiesa,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06PHE,06phe,Ferdi Kadioglu,BHA,"D,M",13066,Ferdi Kadioglu,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06NV3,06nv3,Filip Jorgensen,CHE,G,9272,Filip Jorgensen,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-073VO,073vo,Finn Geragusyan,SUN,F,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06V21,06v21,Florian Wirtz,LIV,M,8397,Florian Wirtz,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-073AB,073ab,Floyd Samba,MCI,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-05UE7,05ue7,Frank Onyeka,COV,M,9681,Frank Onyeka,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-02LTW,02ltw,Fraser Forster,BOU,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06S7R,06s7r,Freddie Simmonds,BHA,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-03M5I,03m5i,Freddie Woodman,LIV,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06YB7,06yb7,Gabriel Gudmundsson,LEE,"D,M",9944,Gabriel Gudmundsson,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-045C8,045c8,Gabriel Jesus,ARS,F,5543,Gabriel Jesus,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05NZU,05nzu,Gabriel Magalhaes,ARS,D,5613,Gabriel,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-052H5,052h5,Gabriel Martinelli,ARS,"M,F",7752,Gabriel Martinelli,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-063C2,063c2,Gabriel Slonina,CHE,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06ZVN,06zvn,George Hemmings,AVL,M,14193,George Hemmings,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05M47,05m47,George Hirst,IPS,F,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06YGL,06ygl,George King,CRY,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-076QY,076qy,George Munday,BHA,F,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-076D8,076d8,George Shepherd,COV,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-0689W,0689w,Georginio Rutter,BHA,"M,F",6937,Georginio Rutter,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-076KF,076kf,Geovany Quenda,CHE,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-070HS,070hs,Gianluigi Donnarumma,MCI,G,1116,Gianluigi Donnarumma,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06XZG,06xzg,Giorgi Mamardashvili,LIV,G,9693,Giorgi Mamardashvili,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-0701Y,0701y,Giovanni Leoni,LIV,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06QX6,06qx6,Godwill Kukonki,MUN,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-0435M,0435m,Granit Xhaka,SUN,M,204,Granit Xhaka,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06CMB,06cmb,Guglielmo Vicario,TOT,G,8858,Guglielmo Vicario,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06Y29,06y29,Habib Diarra,SUN,M,9767,Habib Diarra,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-076DA,076da,Haji Wright,COV,F,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06JFE,06jfe,Hakon Valdimarsson,BRF,G,12595,Hákon Valdimarsson,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06ONV,06onv,Harrison Armstrong,EVE,M,12757,Harrison Armstrong,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-074VJ,074vj,Harrison Dudziak,ARS,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06V0Q,06v0q,Harrison Jones,SUN,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-037MT,037mt,Harrison Reed,FUL,M,910,Harrison Reed,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06S7S,06s7s,Harry Howell,BHA,"M,F",13584,Harry Howell,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-03GU4,03gu4,Harry Maguire,MUN,D,1687,Harry Maguire,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-076KH,076kh,Harry Vaughan,HUL,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-03RXS,03rxs,Harry Wilson,LEE,"M,F",5596,Harry Wilson,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-04ABN,04abn,Harvey Barnes,NEW,"M,F",6681,Harvey Barnes,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05RFP,05rfp,Harvey Davies,LIV,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-04XJR,04xjr,Harvey Elliott,AVL,M,7546,Harvey Elliott,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06ZBZ,06zbz,Hugo Ekitike,LIV,F,8995,Hugo Ekitike,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-052CB,052cb,Ian Maatsen,AVL,D,11807,Ian Maatsen,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06FXU,06fxu,Ibrahim Sangare,NOT,M,5722,Ibrahim Sangare,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05U7F,05u7f,Ibrahima Konate,LIV,D,6326,Ibrahima Konaté,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-03RXA,03rxa,Idrissa Gueye,EVE,M,668,Idrissa Gueye,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-072X7,072x7,Ife Ibrahim,ARS,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06Y9O,06y9o,Igor Jesus,NOT,F,13778,Igor Jesus,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06EKA,06eka,Igor Julio,BHA,D,7943,Igor Julio,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06MN0,06mn0,Igor Thiago,BRF,F,13222,Thiago,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06V01,06v01,Ilia Gruev,LEE,M,8000,Ilia Gruev,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05R94,05r94,Iliman Ndiaye,EVE,"M,F",9307,Iliman Ndiaye,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05MZT,05mzt,Illan Meslier,ARS,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-05748,05748,Ismaila Sarr,CRY,"M,F",5675,Ismaila Sarr,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-076DY,076dy,Ivan Azon,IPS,F,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-076DD,076dd,Ivor Pandur,HUL,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-032AA,032aa,Jack Butland,HUL,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-05244,05244,Jack Clarke,IPS,"M,F",,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06MUL,06mul,Jack Fletcher,MUN,M,13150,Jack Fletcher,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-02LM7,02lm7,Jack Grealish,MCI,M,675,Jack Grealish,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-067YS,067ys,Jack Hinshelwood,BHA,M,11269,Jack Hinshelwood,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06ROI,06roi,Jack Moorhouse,MUN,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06PPI,06ppi,Jack Porter,ARS,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-076D3,076d3,Jack Rudoni,COV,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06MG2,06mg2,Jack Taylor,IPS,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-072DY,072dy,Jack Thompson,NOT,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-070EQ,070eq,Jack Whittaker,SUN,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-0746J,0746j,Jackson Izquierdo,CRY,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06MSC,06msc,Jacob Greaves,IPS,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-03AM7,03am7,Jacob Murphy,NEW,"M,F",6063,Jacob Murphy,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-051K3,051k3,Jacob Ramsey,NEW,M,8941,Jacob Ramsey,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-073UE,073ue,Jaden Dixon,ARS,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-05RFF,05rff,Jaden Philogene,IPS,"M,F",,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-04GW7,04gw7,Jadon Sancho,MUN,"M,F",6345,Jadon Sancho,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-076DC,076dc,Jahnoah Markelo,COV,"M,F",,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-061VK,061vk,Jaidon Anthony,BRF,"M,F",10746,Jaidon Anthony,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06YGM,06ygm,Jair Cunha,NOT,D,13779,Jair,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06V51,06v51,Jaka Bijol,LEE,D,6807,Jaka Bijol,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-02LPI,02lpi,Jake Bidwell,COV,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-062OH,062oh,Jake O'Brien,EVE,D,12014,Jake O&#039;Brien,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-066NJ,066nj,James Debayo,HUL,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-05VYF,05vyf,James Furlong,HUL,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-04SPW,04spw,James Garner,EVE,"D,M",7438,James Garner,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-061VB,061vb,James Hill,BOU,D,10747,James Hill,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-0521Z,0521z,James Justin,LEE,"D,M",7753,James Justin,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-0414O,0414o,James Maddison,TOT,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06DO3,06do3,James McConnell,LIV,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-05UHS,05uhs,James Mcatee,NOT,M,10126,James McAtee,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-02LV9,02lv9,James Milner,BHA,M,489,James Milner,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06ZC5,06zc5,James Rowswell,TOT,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-0427D,0427d,James Tarkowski,EVE,D,1665,James Tarkowski,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05OZ3,05oz3,James Trafford,MCI,G,9077,James Trafford,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-073K1,073k1,James Wilson,TOT,F,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06AVM,06avm,James Wright,AVL,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-076D5,076d5,Jamie Allen,COV,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06Y9N,06y9n,Jamie Gittens,CHE,"M,F",10542,Jamie Bynoe-Gittens,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05OH0,05oh0,Jan-Paul van Hecke,TOT,D,10807,Jan Paul van Hecke,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-076KC,076kc,Jannik Schuster,BRF,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-05L27,05l27,Jarrad Branthwaite,EVE,D,8476,Jarrad Branthwaite,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-04RHA,04rha,Jason Steele,BHA,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-03FGL,03fgl,Jay da Silva,COV,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-070HB,070hb,Jaydee Canvot,CRY,D,13091,Jaydee Canvot,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05O8O,05o8o,Jayden Bogle,LEE,"D,M",9205,Jayden Bogle,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06KLV,06klv,Jayden Danns,LIV,F,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-070EP,070ep,Jayden Jones,SUN,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-075SH,075sh,Jayden Lienou,LEE,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-05R8O,05r8o,Jean-Philippe Mateta,CRY,F,5735,Jean-Philippe Mateta,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-04TZT,04tzt,Jefferson Lerma,CRY,"D,M",2182,Jefferson Lerma,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06PDL,06pdl,Jens Cajuste,IPS,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-070EO,070eo,Jenson Jones,SUN,"D,M",,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06V05,06v05,Jeremie Frimpong,LIV,"D,M",9328,Jeremie Frimpong,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06FUP,06fup,Jeremy Doku,MCI,"M,F",8981,Jéremy Doku,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06RMV,06rmv,Jeremy Monga,MCI,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-0738B,0738b,Jesse Derry,CHE,F,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06V0B,06v0b,Jim Thwaites,MUN,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-0700R,0700r,Jimmy Sinclair,NOT,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-05OS8,05os8,Joachim Andersen,FUL,D,6314,Joachim Andersen,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-068YD,068yd,Joao Gomes,AVL,M,11384,João Gomes,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-062DT,062dt,Joao Palhinha,TOT,M,10715,João Palhinha,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05G2O,05g2o,Joao Pedro,CHE,"M,F",8272,João Pedro,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-072O9,072o9,Jocelin Ta Bi,SUN,"M,F",14460,Djiamgone Jocelin Ta Bi,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05N3U,05n3u,Joe Gelhardt,HUL,F,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-03YQZ,03yqz,Joe Rodon,LEE,D,6377,Joe Rodon,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-04GE6,04ge6,Joe Willock,NEW,M,6630,Joe Willock,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-072H9,072h9,Joel Drakes-Thomas,CRY,F,14263,Joél Drakes-Thomas,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-04H87,04h87,Joel Latibeaudiere,COV,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06NBY,06nby,Joel Ndala,MCI,F,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06V02,06v02,Joel Piroe,LEE,F,13835,Joël Piroe,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05MXA,05mxa,Joel Veltman,BHA,D,8780,Joël Veltman,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-0554I,0554i,Joelinton,NEW,M,87,Joelinton,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-02M5L,02m5l,John Egan,HUL,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-0327P,0327p,John Lundstram,HUL,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-051K0,051k0,John McGinn,AVL,M,7723,John McGinn,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-02M3V,02m3v,John Ruddy,NEW,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-02YL5,02yl5,John Stones,MCI,D,586,John Stones,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-070GT,070gt,John Victor Maciel Furtado,NOT,G,14017,John Victor,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-070HR,070hr,Jonah Kusi-Asare,FUL,F,13262,Jonah Kusi-Asare,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-02LK5,02lk5,Jordan Henderson,BRF,M,605,Jordan Henderson,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-032F9,032f9,Jordan Pickford,EVE,G,741,Jordan Pickford,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06NYW,06nyw,Jorge Cuenca,FUL,D,8489,Jorge Cuenca,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06MOW,06mow,Jorgen Strand Larsen,CRY,F,11070,Jørgen Strand Larsen,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06ZQQ,06zqq,Jorrel Hato,CHE,D,13776,Jorrel Hato,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-03R93,03r93,Joseph Gomez,LIV,D,987,Joseph Gomez,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06KWP,06kwp,Josh Acheampong,CHE,D,12535,Josh Acheampong,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-048XG,048xg,Josh Dasilva,BRF,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-076D6,076d6,Josh Eccles,COV,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06NK3,06nk3,Josh Nichols,ARS,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06JH3,06jh3,Joshua King,FUL,M,12410,Joshua King,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06ZQI,06zqi,Joshua Stephenson,BRF,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06MVE,06mve,Joshua Zirkzee,MUN,F,8044,Joshua Zirkzee,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06EX4,06ex4,Josko Gvardiol,MCI,D,9790,Josko Gvardiol,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06ON4,06on4,Julian Eyestone,BRF,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06R7F,06r7f,Julio Soler,BOU,D,13474,Julio Soler,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06ZC3,06zc3,Jun'ai Byfield,TOT,D,14134,Jun&#039;ai Byfield,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06DMJ,06dmj,Jurrien Timber,ARS,D,11707,Jurriën Timber,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06KX1,06kx1,Justin Devenny,CRY,"M,F",13038,Justin Devenny,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06CLT,06clt,Justin Kluivert,BOU,"M,F",6963,Justin Kluivert,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06PRY,06pry,Kaden Braithwaite,MCI,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-062OI,062oi,Kaden Rodney,CRY,M,11033,Kaden Rodney,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05O6H,05o6h,Kai Havertz,ARS,F,5220,Kai Havertz,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05UHL,05uhl,Kaide Gordon,LIV,F,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-05REY,05rey,Kaine Hayden,COV,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-062CI,062ci,Kaoru Mitoma,BHA,"M,F",10806,Kaoru Mitoma,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-03PIF,03pif,Karl Darlow,MUN,G,780,Karl Darlow,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05OZ4,05oz4,Karl Hein,ARS,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-05Y55,05y55,Kasey McAteer,IPS,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-072MP,072mp,Kaye Furo,BRF,F,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-062P3,062p3,Keane Lewis-Potter,BRF,"D,M,F",10809,Keane Lewis-Potter,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06617,06617,Keehan Willows,NOT,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-05OEH,05oeh,Kenny Tete,FUL,D,5973,Kenny Tete,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-04U40,04u40,Kepa,ARS,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-070HJ,070hj,Kevin,FUL,"M,F",14030,Kevin,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-057CR,057cr,Kevin Danso,TOT,D,5261,Kevin Danso,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-067ZV,067zv,Kevin Schade,BRF,"M,F",9156,Kevin Schade,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-072CF,072cf,Keyrol Figueroa,LIV,F,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-073Y1,073y1,Khari Ranson,ARS,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-072P2,072p2,Kian Noble,MCI,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-03M5H,03m5h,Kieran Dowell,HUL,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06RKQ,06rkq,Kieran Morrison,LIV,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-03DX3,03dx3,Kieran Trippier,NEW,D,652,Kieran Trippier,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05GCC,05gcc,Kiernan Dewsbury-Hall,EVE,M,9739,Kiernan Dewsbury-Hall,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-0666P,0666p,Kobbie Mainoo,MUN,M,11174,Kobbie Mainoo,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06ZBY,06zby,Kornel Misciur,LIV,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-05UEL,05uel,Kristoffer Ajer,BRF,D,9677,Kristoffer Ajer,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-076DT,076dt,Kyle Joseph,HUL,F,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-05R4H,05r4h,Lamare Bogarde,AVL,"D,M",10025,Lamare Bogarde,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-07659,07659,Lamin Sillah,NOT,"D,F",,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06SHP,06shp,Landon Emenalo,CHE,"D,M",,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-0520R,0520r,Leandro Trossard,ARS,"M,F",7698,Leandro Trossard,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05NIL,05nil,Leif Davis,IPS,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06MX0,06mx0,Leny Yoro,MUN,D,10564,Leny Yoro,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06ON5,06on5,Leo Shahar,NEW,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06MG5,06mg5,Leon Ayinde,IPS,"M,F",,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-05UNS,05uns,Leon Bailey,AVL,"M,F",5221,Leon Bailey,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-072I1,072i1,Leon Routh,AVL,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-062P5,062p5,Levi Colwill,CHE,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-076DG,076dg,Lewie Coyle,HUL,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-043QY,043qy,Lewis Cook,BOU,M,1789,Lewis Cook,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-04E1C,04e1c,Lewis Dunk,BHA,D,6048,Lewis Dunk,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05Y9N,05y9n,Lewis Hall,NEW,D,10216,Lewis Hall,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06AB3,06ab3,Lewis Miley,NEW,"D,M",11386,Lewis Miley,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05OIG,05oig,Liam Delap,CHE,F,8868,Liam Delap,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-076CZ,076cz,Liam Kitching,COV,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-052H1,052h1,Liam Millar,HUL,"M,F",,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-062PL,062pl,Lisandro Martinez,MUN,D,10802,Lisandro Martínez,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-072R2,072r2,Lorenzo Lucca,NOT,F,11936,Lorenzo Lucca,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06DO4,06do4,Louie Koumas,HUL,F,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06EXJ,06exj,Luca Gunter,TOT,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-072ZR,072zr,Luca Netz,NOT,D,8401,Luca Netz,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06QQ9,06qq9,Luca Williams-Barnett,TOT,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06MN7,06mn7,Lucas Bergvall,TOT,M,12912,Lucas Bergvall,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-04TM0,04tm0,Lucas Digne,AVL,D,1823,Lucas Digne,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-04YM7,04ym7,Lucas Perri,LEE,G,12369,Lucas Perri,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-062H9,062h9,Luis Sinisterra,BOU,F,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-072ZO,072zo,Luka Bentt,BRF,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06V0Y,06v0y,Luka Vuskovic,BHA,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-04LNU,04lnu,Lukas Nmecha,LEE,F,6544,Lukas Nmecha,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06V0M,06v0m,Luke O'Nien,SUN,"D,M",14099,Luke O&#039;Nien,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-02OQ6,02oq6,Luke Shaw,MUN,D,1006,Luke Shaw,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06MFY,06mfy,Luke Woolfenden,COV,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-070HO,070ho,Lutsharel Geertruida,SUN,"D,M",13064,Lutsharel Geertruida,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06QVV,06qvv,Malachi Hardy,TOT,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-072GA,072ga,Malcom DaCosta,BOU,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-0700P,0700p,Malick Thiaw,NEW,D,8378,Malick Thiaw,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-072LP,072lp,Malik Olayiwola,EVE,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06CLZ,06clz,Malo Gusto,CHE,D,9017,Malo Gusto,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06UZU,06uzu,Mamadou Sarr,CHE,D,11253,Mamadou Sarr,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06PIB,06pib,Manuel Ugarte,MUN,M,11766,Manuel Ugarte,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05W9I,05w9i,Marc Cucurella,CHE,D,7134,Marc Cucurella,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-050JQ,050jq,Marc Guehi,MCI,D,7603,Marc Guehi,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06MNM,06mnm,Marc Guiu,CHE,F,11633,Marc Guiu,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-076DV,076dv,Marcelino Nunez,IPS,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06YMT,06ymt,Marco Bizot,AVL,G,9614,Marco Bizot,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-063E7,063e7,Marcos Senesi,TOT,D,10864,Marcos Senesi,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-02LS8,02ls8,Marcus Bettinelli,MCI,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-0639X,0639x,Marcus Tavernier,BOU,M,10741,Marcus Tavernier,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05N09,05n09,Mark Gillespie,NEW,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-04VY4,04vy4,Mark Travers,EVE,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06ZBN,06zbn,Marli Salmon,ARS,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-05R9B,05r9b,Martin Odegaard,ARS,M,2517,Martin Odegaard,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06Y9Z,06y9z,Martin Zubimendi,ARS,M,7526,Martín Zubimendi,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-052CD,052cd,Mason Mount,MUN,"M,F",7768,Mason Mount,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06R5R,06r5r,Matai Akinmboni,BOU,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-04U41,04u41,Mateo Kovacic,MCI,M,2254,Mateo Kovacic,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06PE1,06pe1,Mateus Goncalo Espanha Fernandes,TOT,M,12948,Mateus Fernandes,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-067YZ,067yz,Matheus Cunha,MUN,"M,F",7080,Matheus Cunha,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-063ZI,063zi,Matheus Nunes,MCI,"D,M",11000,Matheus Nunes,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05TR9,05tr9,Mathias Jensen,BRF,M,7166,Mathias Jensen,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-075QP,075qp,Mathis Eboue,CHE,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06RM8,06rm8,Mathys Tel,TOT,"M,F",9780,Mathys Tel,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06MPP,06mpp,Mats Wieffer,BHA,"D,M",12758,Mats Wieffer,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-076DN,076dn,Matt Crooks,HUL,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-03MFE,03mfe,Matt Grimes,COV,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-04QFQ,04qfq,Matt O'Riley,BHA,M,13206,Matt O&#039;Riley,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-0372Y,0372y,Matt Targett,HUL,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06P4K,06p4k,Matthijs de Ligt,MUN,D,7902,Matthijs de Ligt,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05O4B,05o4b,Matty Cash,AVL,D,8864,Matthew Cash,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-076DI,076di,Matty Jacob,HUL,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-04F6H,04f6h,Matz Sels,NOT,G,6903,Matz Sels,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-067X6,067x6,Max Alleyne,MCI,D,13298,Max Alleyne,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06ZBP,06zbp,Max Dowman,ARS,M,13872,Max Dowman,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06JFH,06jfh,Max Merrick,CHE,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06ZEG,06zeg,Max Thompson,NEW,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06PIA,06pia,Maxence Lacroix,CRY,D,8853,Maxence Lacroix,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06Y9M,06y9m,Maxim De Cuyper,BHA,"D,M",13711,Maxim De Cuyper,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-072ZP,072zp,Melker Ellborg,SUN,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-070HI,070hi,Merlin Rohl,EVE,M,11331,Merlin Röhl,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06RGG,06rgg,Michael Kayode,BRF,D,11281,Michael Kayode,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-0327R,0327r,Michael Keane,EVE,D,1653,Michael Keane,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06ZRS,06zrs,Michael Laffey,LIV,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06EZB,06ezb,Micky van de Ven,TOT,D,10050,Micky van de Ven,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-076D1,076d1,Miguel Angel Brau,COV,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-04HK9,04hk9,Mikel Merino,ARS,"M,F",5304,Mikel Merino,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-063Q8,063q8,Mikkel Damsgaard,BRF,M,8859,Mikkel Damsgaard,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06V0V,06v0v,Milan Aleksic,SUN,"M,F",,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-076D0,076d0,Milan van Ewijk,COV,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06DO9,06do9,Milos Kerkez,LIV,D,11709,Milos Kerkez,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06R5D,06r5d,Min-Hyeok Yang,COV,"M,F",,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-076DQ,076dq,Mohamed Belloumi,HUL,"M,F",,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-073AA,073aa,Mohamed Kone,AVL,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-03AQP,03aqp,Mohamed Salah,LIV,"M,F",1250,Mohamed Salah,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06FV8,06fv8,Mohammed Kudus,TOT,"M,F",12027,Mohammed Kudus,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05RB8,05rb8,Moises Caicedo,CHE,M,9453,Moisés Caicedo,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06PIG,06pig,Morato,NOT,D,13068,Morato,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-04QR9,04qr9,Morgan Gibbs-White,NOT,M,6857,Morgan Gibbs-White,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05UHT,05uht,Morgan Rogers,CHE,"M,F",12412,Morgan Rogers,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06FWZ,06fwz,Murillo,NOT,D,12123,Murillo,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-068A1,068a1,Mykhailo Mudryk,CHE,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-066SD,066sd,Myles Lewis-Skelly,ARS,"D,M",12272,Myles Lewis-Skelly,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-02Y6O,02y6o,Nathan Ake,MCI,D,579,Nathan Aké,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05U1M,05u1m,Nathan Collins,BRF,D,9733,Nathan Collins,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05YCT,05yct,Nathan Patterson,EVE,D,10292,Nathan Patterson,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-076DP,076dp,Nathan Tinsdale,HUL,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-02T1K,02t1k,Nathaniel Clyne,CRY,"D,M",603,Nathaniel Clyne,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05A6E,05a6e,Neco Williams,NOT,D,8204,Neco Williams,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-072AT,072at,Nehemiah Oriola,BHA,F,14127,Nehemiah Oriola,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05R2T,05r2t,Niall Huggins,SUN,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-044EI,044ei,Nick Pope,NEW,G,5552,Nick Pope,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-070G7,070g7,Nick Woltemade,NEW,"M,F",8117,Nick Woltemade,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06RM7,06rm7,Nico Gonzalez,MCI,M,9802,Nico González,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-067X8,067x8,Nico O'Reilly,MCI,"D,M",11592,Nico O&#039;Reilly,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06FY7,06fy7,Nicolas Dominguez,NOT,M,8252,Nicolás Domínguez,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-070G8,070g8,Nicolo Savona,NOT,D,12905,Nicolò Savona,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06MW0,06mw0,Nikola Milenkovic,NOT,D,6174,Nikola Milenkovic,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-072CD,072cd,Nils Ramming,BHA,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-072ZS,072zs,Nilson Angulo,SUN,"M,F",14424,Nilson Angulo,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-070CJ,070cj,Noah Okafor,LEE,F,11966,Noah Okafor,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06Y59,06y59,Noah Sadiki,SUN,M,13716,Noah Sadiki,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-068N8,068n8,Noni Madueke,ARS,"M,F",11357,Noni Madueke,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-0703C,0703c,Nordi Mukiele,SUN,D,5659,Nordi Mukiele,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06P4J,06p4j,Noussair Mazraoui,MUN,"D,M",10696,Noussair Mazraoui,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-03FRX,03frx,Ola Aina,NOT,D,725,Ola Aina,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-076CW,076cw,Oliver Dovin,COV,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-0477B,0477b,Oliver McBurnie,HUL,F,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06Y26,06y26,Olivier Boscagli,BHA,D,3645,Olivier Boscagli,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06KJI,06kji,Ollie Harrison,CHE,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-073B0,073b0,Ollie Shield,BRF,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-05OCL,05ocl,Ollie Watkins,AVL,F,8865,Ollie Watkins,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-0700T,0700t,Omar Alderete,SUN,D,8986,Omar Alderete,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06RF9,06rf9,Omar Marmoush,MCI,F,8393,Omar Marmoush,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05UBV,05ubv,Omari Hutchinson,NOT,"M,F",10348,Omari Hutchinson,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05YE7,05ye7,Oscar Bobb,FUL,M,11903,Oscar Bobb,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-076CY,076cy,Oscar Varney,COV,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-0643R,0643r,Owen Bevan,BOU,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-03JLW,03jlw,Paddy McNair,HUL,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-05W7T,05w7t,Pape Sarr,TOT,M,9021,Pape Sarr,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-04FK1,04fk1,Pascal Gross,BHA,M,239,Pascal Groß,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05MZZ,05mzz,Pascal Struijk,BHA,D,8717,Pascal Struijk,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06RLJ,06rlj,Patrick Dorgu,MUN,"D,M",11944,Patrick Dorgu,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06CRM,06crm,Pau Torres,AVL,D,6221,Pau Torres,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-056IY,056iy,Pedro Neto,CHE,"M,F",6382,Pedro Neto,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05N07,05n07,Pedro Porro,TOT,D,6912,Pedro Porro,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-076DO,076do,Pharrell Brown,HUL,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-04ABB,04abb,Phil Foden,MCI,M,6055,Phil Foden,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-070HQ,070hq,Piero Hincapie,ARS,D,9911,Piero Hincapié,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06IME,06ime,Radu Dragusin,TOT,D,9105,Radu Dragusin,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-070HP,070hp,Randal Kolo Muani,TOT,"M,F",5743,Randal Kolo Muani,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06EXB,06exb,Rasmus Hojlund,MUN,F,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-04QRC,04qrc,Raul Jimenez,FUL,F,4105,Raúl Jiménez,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-072WQ,072wq,Rayan,BOU,"M,F",14395,Rayan,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05OS4,05os4,Rayan Ait-Nouri,MCI,D,6674,Rayan Ait Nouri,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06V07,06v07,Rayan Cherki,MCI,M,8094,Mathis Cherki,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-051K7,051k7,Reece James,CHE,"D,M",8067,Reece James,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05RKA,05rka,Reece Welch,EVE,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-05O2P,05o2p,Regan Slater,HUL,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06RRQ,06rrq,Reggie Walsh,CHE,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06NLC,06nlc,Reigan Heskey,MCI,F,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06YB9,06yb9,Reinildo,SUN,D,7432,Reinildo,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-04GE8,04ge8,Reiss Nelson,BRF,F,6492,Reiss Nelson,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05UBH,05ubh,Remi Matthews,CRY,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06R3W,06r3w,Remy Rees-Dottin,BOU,F,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06YXD,06yxd,Rhys Chadwick,LEE,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-0722R,0722r,Rhys Oakley,AVL,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-05OJI,05oji,Rhys Williams,LIV,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06NU7,06nu7,Riccardo Calafiori,ARS,D,8129,Riccardo Calafiori,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-04IO4,04io4,Richarlison,TOT,F,6026,Richarlison,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05TQZ,05tqz,Rico Henry,BRF,D,9679,Rico Henry,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-062X7,062x7,Rico Lewis,MCI,D,10847,Rico Lewis,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06MWU,06mwu,Riley Owen,BRF,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06ZBT,06zbt,Rio Cardines,CRY,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06MGN,06mgn,Rio Kyerematen,TOT,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06R2G,06r2g,Rio Ngumoha,LIV,"M,F",13692,Rio Ngumoha,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-04YME,04yme,Robert Sanchez,CHE,G,9098,Robert Sánchez,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06ZNB,06znb,Robin Roefs,SUN,G,13712,Robin Roefs,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-0524K,0524k,Rodri,MCI,M,2496,Rodri,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05YLW,05ylw,Rodrigo Bentancur,TOT,M,6108,Rodrigo Bentancur,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-061VN,061vn,Rodrigo Muniz,FUL,F,10717,Rodrigo Muniz,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06R9H,06r9h,Romain Esse,COV,M,13387,Romain Esse,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05UDW,05udw,Romaine Mundle,SUN,"M,F",11461,Romaine Mundle,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06XZB,06xzb,Romelle Donovan,BRF,M,14217,Romelle Donovan,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05UNU,05unu,Romeo Lavia,CHE,M,10004,Romeo Lavia,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-072GZ,072gz,Ronnie Hollingshead,AVL,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-02LPF,02lpf,Ross Barkley,AVL,M,592,Ross Barkley,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05OMU,05omu,Ruben Dias,MCI,D,8961,Rúben Dias,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-061VE,061ve,Ryan Christie,BOU,M,10744,Ryan Christie,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-04SJV,04sjv,Ryan Giles,HUL,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06FXE,06fxe,Ryan Gravenberch,LIV,M,10697,Ryan Gravenberch,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-072B6,072b6,Ryan Kavuma-McQueen,CHE,F,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-0722T,0722t,Ryan McAidoo,MCI,F,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-04QFM,04qfm,Ryan Sessegnon,FUL,"D,M",6837,Ryan Sessegnon,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-0643W,0643w,Ryan Trevitt,BRF,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-061Y6,061y6,Ryan Yates,NOT,M,11003,Ryan Yates,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-072G3,072g3,Sam Alabi,NEW,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-03YSD,03ysd,Sam Byram,LEE,D,902,Sam Byram,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06V00,06v00,Sam Chambers,LEE,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06IE2,06ie2,Sam Proctor,AVL,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06EWP,06ewp,Samuel Amissah,FUL,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-070HK,070hk,Samuel Chukwueze,FUL,"M,F",7208,Samuel Chukwueze,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05GCS,05gcs,Sander Berge,FUL,M,8285,Sander Berge,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06CMS,06cms,Sandro Tonali,TOT,M,7958,Sandro Tonali,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-068YT,068yt,Sasa Lukic,FUL,M,1537,Sasa Lukic,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06MVZ,06mvz,Savio,MCI,"M,F",11735,Sávio,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-02LPL,02lpl,Seamus Coleman,EVE,D,585,Seamus Coleman,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-04UG0,04ug0,Sean Longstaff,LEE,M,7078,Sean Longstaff,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06RNN,06rnn,Sean Neave,NEW,F,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06Y28,06y28,Sebastiaan Bornauw,LEE,D,7791,Sebastiaan Bornauw,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-03KSL,03ksl,Semi Ajayi,HUL,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-070HL,070hl,Senne Lammens,MUN,G,14056,Senne Lammens,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05220,05220,Sepp van den Berg,BRF,D,10721,Sepp van den Berg,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-072CB,072cb,Seth Ridgeon,FUL,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06ZC0,06zc0,Seung-Soo Park,NEW,F,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06V0C,06v0c,Shea Lacey,MUN,F,14198,Shea Lacey,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06QGN,06qgn,Shumaira Mheuka,CHE,F,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-033L8,033l8,Simon Moore,SUN,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-076DX,076dx,Sindre Egeli,IPS,"M,F",,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-04E1K,04e1k,Solly March,BHA,M,6049,Solly March,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06SJ8,06sj8,Somto Boniface,IPS,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-072PY,072py,Souza,TOT,D,14410,Souza,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-076DJ,076dj,Stanley Ashbee,HUL,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-062P0,062p0,Stefan Bajcetic,LIV,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-062CW,062cw,Stefan Ortega,NOT,G,8786,Stefan Ortega Moreno,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06XZC,06xzc,Stefanos Tzimas,BHA,F,14028,Stefanos Tzimas,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06FWN,06fwn,Steven Benda,FUL,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-062A9,062a9,Sven Botman,NEW,D,8635,Sven Botman,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06YS4,06ys4,Sverre Nypan,MCI,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-072J7,072j7,TJ Carroll,AVL,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-04RZL,04rzl,Taiwo Awoniyi,NOT,F,7814,Taiwo Awoniyi,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-075KD,075kd,Talla Ndiaye,LIV,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-0410J,0410j,Tammy Abraham,AVL,F,702,Tammy Abraham,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-076D4,076d4,Tatsuhiro Sakamoto,COV,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-05XTR,05xtr,Teddy Sharman-Lowe,CHE,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06YBP,06ybp,Thierno Barry,EVE,F,12916,Thierno Barry,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05RBN,05rbn,Thomas McGill,BHA,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06V06,06v06,Tijjani Reijnders,MCI,M,11965,Tijjani Reijnders,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05T6Z,05t6z,Tim Iroegbunam,EVE,M,9554,Tim Iroegbunam,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05O4C,05o4c,Timothy Castagne,FUL,"D,M",6157,Timothy Castagne,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06CRN,06crn,Toby Collyer,HUL,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-0328Q,0328q,Tom Cairney,FUL,M,6835,Tom Cairney,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-03DWZ,03dwz,Tom Heaton,MUN,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06CMT,06cmt,Tom King,EVE,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06YJZ,06yjz,Tommy Pilling,LIV,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06NK0,06nk0,Tommy Setford,ARS,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-03YEG,03yeg,Tosin Adarabioyo,CHE,D,5590,Tosin Adarabioyo,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06V0G,06v0g,Trai Hume,SUN,"D,M",13713,Trai Hume,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-04MUP,04mup,Trevoh Chalobah,CHE,D,6615,Trevoh Chalobah,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06HZE,06hze,Treymaurice Nyoni,LIV,M,12203,Treymaurice Nyoni,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-072X9,072x9,Tye Hall,TOT,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-062H7,062h7,Tyler Adams,BOU,M,7352,Tyler Adams,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06195,06195,Tyler Dibling,EVE,M,10586,Tyler Dibling,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06V0A,06v0a,Tyler Fletcher,MUN,M,14272,Tyler Fletcher,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-064OP,064op,Tyler Fredricson,MUN,D,13467,Tyler Fredricson,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05R93,05r93,Tyler Onyango,EVE,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06ZC8,06zc8,Tynan Thompson,MUN,F,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-062FT,062ft,Tyrell Malacia,MUN,D,10803,Tyrell Malacia,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05AKV,05akv,Tyrick Mitchell,CRY,"D,M",8214,Tyrick Mitchell,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06L4I,06l4i,Tyrique George,EVE,F,12573,Tyrique George,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-03REC,03rec,Tyrone Mings,AVL,D,1024,Tyrone Mings,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-072P3,072p3,Tyrone Samba,MCI,F,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-05S08,05s08,Valentino Livramento,NEW,D,9512,Valentino Livramento,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-070H9,070h9,Veljko Milosavljevic,BOU,D,14027,Veljko Milosavljevic,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-04FK8,04fk8,Victor Lindelof,AVL,D,6080,Victor Lindelöf,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-076QG,076qg,Victor Munoz,LIV,F,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-076D7,076d7,Victor Torp,COV,M,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-04TSB,04tsb,Viktor Gyokeres,ARS,F,7254,Viktor Gyokeres,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-03VLJ,03vlj,Virgil van Dijk,LIV,D,833,Virgil van Dijk,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05YBQ,05ybq,Vitalii Mykolenko,EVE,D,10291,Vitalii Mykolenko,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05TRE,05tre,Vitaly Janelt,BRF,M,9680,Vitaly Janelt,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06XZE,06xze,Walter Benitez,CRY,G,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06FSO,06fso,Wataru Endo,LIV,M,8808,Wataru Endo,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06ZRQ,06zrq,Wellity Lucky,LIV,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-05OPL,05opl,Wesley Fofana,CHE,D,7589,Wesley Fofana,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-064A0,064a0,Wilfried Gnonto,LEE,F,11155,Wilfried Gnonto,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-04F6O,04f6o,Will Hughes,CRY,M,6104,Will Hughes,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06ZRT,06zrt,Will Wright,LIV,F,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-05T6X,05t6x,William Osula,NEW,F,9556,William Osula,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-0558W,0558w,William Saliba,ARS,D,6888,William Saliba,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-04QR0,04qr0,Willy Boly,NOT,D,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-06V0T,06v0t,Wilson Isidor,SUN,F,7148,Wilson Isidor,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06FHY,06fhy,Wilson Odobert,TOT,"M,F",10822,Wilson Odobert,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-070FA,070fa,Xavi Simons,TOT,"M,F",8700,Xavi Simons,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06C6G,06c6g,Yankuba Minteh,BHA,"M,F",12759,Yankuba Minteh,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-068YC,068yc,Yasin Ayari,BHA,M,11385,Yasin Ayari,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-070F9,070f9,Yeremy Pino,CRY,"M,F",9024,Yeremi Pino,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-05UOR,05uor,Yoane Wissa,NEW,F,5786,Yoane Wissa,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-04YO7,04yo7,Youri Tielemans,MUN,M,5956,Youri Tielemans,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-076DS,076ds,Yu Hirakawa,HUL,"M,F",,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-04SFT,04sft,Yves Bissouma,TOT,M,5609,Yves Bissouma,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06442,06442,Zach Abbott,NOT,D,13306,Zach Abbott,,,,,,,,,,,,,,,True,active_mapped,2025/26,2026/27,False,
+FTX-06DO1,06do1,Zach Marsh,CRY,F,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-076KE,076ke,Zadok Yohanna,BHA,F,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-072C1,072c1,Zyan Blake,NOT,F,,,,,,,,,,,,,,,,,True,active_new_unmapped,2026/27,2026/27,True,New current Fantrax player; Understat mapping needed
+FTX-04ADP,04adp,Aaron Wan-Bissaka,WHU,,5584,Aaron Wan-Bissaka,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-03AR4,03ar4,Adam Armstrong,WOL,,4419,Adam Armstrong,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-03U2B,03u2b,Adama Traore,WHU,,900,Adama Traoré,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-05OEF,05oef,Alphonse Areola,WHU,,2310,Alphonse Areola,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-06PIC,06pic,Andre,WOL,,13022,André,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-06KYX,06kyx,Andy Irving,WHU,,12774,Andy Irving,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-04D9R,04d9r,Angel Gomes,WOL,,5598,Angel Gomes,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-05GVX,05gvx,Armando Broja,BUR,,8384,Armando Broja,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-0703H,0703h,Arnaud Kalimuendo,NOT,,8056,Arnaud Kalimuendo Muinga,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-045YY,045yy,Arthur Masuaku,SUN,,1760,Arthur Masuaku,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-03DXR,03dxr,Ashley Barnes,BUR,,4422,Ashley Barnes,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-06EW2,06ew2,Axel Disasi,WHU,,6885,Axel Disasi,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-03XRS,03xrs,Axel Tuanzebe,BUR,,934,Axel Tuanzebe,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-066SH,066sh,Bashir Humphreys,BUR,,11243,Bashir Humphreys,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-06QWH,06qwh,Ben Winterburn,BOU,,13242,Ben Winterburn,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-06P5S,06p5s,Brajan Gruda,BHA,,11310,Brajan Gruda,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-06HCM,06hcm,Callum Marshall,WHU,,12359,Callum Marshall,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-05RL4,05rl4,Crysencio Summerville,WHU,,9492,Crysencio Summerville,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-05NIP,05nip,Dane Scarlett,TOT,,9332,Dane Scarlett,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-06ZQK,06zqk,David Moller Wolfe,WOL,,13740,David Møller Wolfe,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-06UYD,06uyd,Diego Coppola,BHA,,10169,Diego Coppola,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-06ZXX,06zxx,Divine Mukasa,MCI,,14055,Divine Mukasa,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-06YMU,06ymu,El Hadji Malick Diouf,WHU,,13723,El Hadji Malick Diouf,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-06R7K,06r7k,Emmanuel Agbadou,WOL,,10856,Emmanuel Agbadou,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-065AO,065ao,Ethan Nwaneri,ARS,,11132,Ethan Nwaneri,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-06QWJ,06qwj,Ezra Mayers,WHU,,13247,Ezra Mayers,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-06V12,06v12,Fer Lopez,WOL,,13200,Fernando López,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-070HA,070ha,Florentino Ibrain Morris Luis,BUR,,8969,Florentino Luís,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-05Y5B,05y5b,Freddie Potts,WHU,,13724,Freddie Potts,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-06DMN,06dmn,George Earthy,WHU,,12474,George Earthy,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-06OAV,06oav,Guido Rodriguez,WHU,,8267,Guido Rodríguez,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-068YR,068yr,Hamed Traore,BOU,,6986,Hamed Junior Traore,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-05T6Y,05t6y,Hannibal Mejbri,BUR,,9558,Hannibal Mejbri,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-06C4H,06c4h,Hjalmar Ekdal,BUR,,11704,Hjalmar Ekdal,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-05RAA,05raa,Hugo Bueno,WOL,,10140,Hugo Bueno,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-05W91,05w91,Hwang Hee-Chan,WOL,,8845,Hee-Chan Hwang,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-04QOS,04qos,Issa Diop,FUL,,3203,Issa Diop,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-04SPQ,04spq,Jack Harrison,LEE,,8720,Jack Harrison,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-070BG,070bg,Jackson Tchatchoua,WOL,,12113,Jackson Tchatchoua,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-06DWM,06dwm,Jacob Bruun Larsen,BUR,,5355,Jacob Bruun Larsen,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-03PIG,03pig,Jamaal Lascelles,NEW,,766,Jamaal Lascelles,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-06PRV,06prv,Jamaldeen Jimoh,AVL,,13310,Jamaldeen Jimoh,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-02OQ8,02oq8,James Ward-Prowse,BUR,,843,James Ward-Prowse,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-046C5,046c5,Jarrod Bowen,WHU,,1776,Jarrod Bowen,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-06UZR,06uzr,Jaydon Banel,BUR,,14281,Jaydon Banel,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-06ONX,06onx,Jean-Clair Todibo,WHU,,6816,Jean-Clair Todibo,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-06FXV,06fxv,Jean-Ricner Bellegarde,WOL,,7762,Jean-Ricner Bellegarde,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-06V0F,06v0f,Jenson Seelt,SUN,,13714,Jenson Seelt,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-06ZCE,06zce,Jhon Arias,WOL,,13741,Jhon Arias,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-06RKX,06rkx,Joe Knight,BHA,,13399,Joe Knight,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-061XW,061xw,Joe Worrall,BUR,,10756,Joe Worrall,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-05UDG,05udg,Jose Sa,WOL,,9740,José Sá,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-03HFF,03hff,Josh Cullen,BUR,,1018,Josh Cullen,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-03DYX,03dyx,Josh Laurent,BUR,,13728,Josh Laurent,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-06NVG,06nvg,Jota Silva,NOT,,12766,Jota Silva,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-04YJX,04yjx,Ki-Jana Hoever,WOL,,8351,Ki-Jana Hoever,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-04ML6,04ml6,Konstantinos Mavropanos,WHU,,6722,Konstantinos Mavropanos,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-02LP9,02lp9,Kyle Walker,BUR,,638,Kyle Walker,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-03ZSQ,03zsq,Kyle Walker-Peters,WHU,,885,Kyle Walker-Peters,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-070F4,070f4,Ladislav Krejci,WOL,,12721,Ladislav Krejcí,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-06EO0,06eo0,Lesley Ugochukwu,BUR,,9451,Chimuanya Ugochukwu,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-06Y27,06y27,Loum Tchaouna,BUR,,9977,Loum Tchaouna,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-0647T,0647t,Lucas Paqueta,WHU,,7365,Lucas Paquetá,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-06UZN,06uzn,Lucas Pires,BUR,,11824,Lucas Pires,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-06MGP,06mgp,Luis Guilherme,WHU,,13026,Luis Guilherme,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-06C4O,06c4o,Lyle Foster,BUR,,7498,Lyle Foster,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-06MGA,06mga,Mads Hermansen,WHU,,12910,Mads Hermansen,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-044W8,044w8,Marcus Edwards,BUR,,13730,Marcus Edwards,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-06RMA,06rma,Marshall Munetsi,WOL,,7908,Marshall Munetsi,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-04MR4,04mr4,Martin Dubravka,BUR,,6532,Martin Dubravka,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-06RPM,06rpm,Mateus Mane,WOL,,13484,Mateus Mané,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-02M11,02m11,Matt Doherty,WOL,,6852,Matt Doherty,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-04YEY,04yey,Max Kilman,WHU,,7332,Max Kilman,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-06JGR,06jgr,Maxime Esteve,BUR,,9487,Maxime Estève,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-06FY5,06fy5,Mike Tresor,BUR,,12094,Mike Trésor,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-06PEZ,06pez,Mohamadou Kante,WHU,,14219,Mohamadou Kanté,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-05NUF,05nuf,Myles Peart-Harris,BRF,,10205,Myles Peart-Harris,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-0620K,0620k,Nayef Aguerd,WHU,,6935,Naif Aguerd,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-06O2T,06o2t,Niclas Fullkrug,WHU,,6098,Niclas Füllkrug,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-05W9Q,05w9q,Odsonne Edouard,CRY,,3697,Odsonne Edouard,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-043C1,043c1,Oleksandr Zinchenko,NOT,,2958,Oleksandr Zinchenko,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-06635,06635,Oliver Scarles,WHU,,12358,Oliver Scarles,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-06UZL,06uzl,Oliver Sonne,BUR,,13726,Oliver Sonne,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-072J8,072j8,Pablo Felipe Pereira de Jesus,WHU,,14290,Pablo,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-03BRM,03brm,Patrick Roberts,SUN,,925,Patrick Roberts,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-06MRZ,06mrz,Pedro Lima,WOL,,13156,Pedro Lima,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-06V6N,06v6n,Quilindschy Hartman,BUR,,13727,Quilindschy Hartman,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-06MN8,06mn8,Rodrigo Gomes,WOL,,12756,Rodrigo Gomes,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-02XTD,02xtd,Sam Johnstone,WOL,,978,Sam Johnstone,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-06FWX,06fwx,Santiago Bueno,WOL,,10945,Santiago Bueno,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-06492,06492,Sasa Kalajdzic,WOL,,8812,Sasa Kalajdzic,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-0626Q,0626q,Simon Adingra,SUN,,11710,Simon Adingra,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-070G9,070g9,Soungoutou Magassa,WHU,,10770,Soungoutou Magassa,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-06IB6,06ib6,Tawanda Chirewa,WOL,,12234,Tawanda Chirewa,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-070HD,070hd,Tolu Arokodare,WOL,,8875,Tolu Arokodare,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-06QVU,06qvu,Tom Edozie,WOL,,13220,Tom Edozie,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-06UNS,06uns,Tom Watson,BHA,,14029,Tom Watson,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-05GCP,05gcp,Tomas Soucek,WHU,,8288,Tomas Soucek,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-05YG5,05yg5,Toti,WOL,,10293,Toti,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-072JF,072jf,Valentin Castellanos,WHU,,10948,Valentín Castellanos,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-05TS6,05ts6,Yerson Mosquera,WOL,,9958,Yerson Mosquera,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,
+FTX-06UZO,06uzo,Zian Flemming,BUR,,13729,Zian Flemming,,,,,,,,,,,,,,,False,historical_inactive,2025/26,2025/26,False,

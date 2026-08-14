@@ -1,0 +1,43 @@
+import json
+import pandas as pd
+from pathlib import Path
+
+# ===== CONFIG =====
+RAW_DIR = Path(r"C:\Users\Tommy\fantrax_data\raw_data\fantrax_api\rosters")
+OUTPUT_FILE = Path(r"C:\Users\Tommy\fantrax_data\processed_data\fantrax_api\rosters_by_week.csv")
+
+# ===== PROCESS =====
+all_rows = []
+
+for file in RAW_DIR.glob("period_*.json"):
+    with open(file, "r") as f:
+        data = json.load(f)
+
+    period = data["period"]
+    rosters = data["rosters"]
+
+    for team_id, team_data in rosters.items():
+        team_name = team_data["teamName"]
+
+        for player in team_data["rosterItems"]:
+            row = {
+                "period": period,
+                "team_id": team_id,
+                "team_name": team_name,
+                "player_id": player["id"],
+                "position": player["position"],
+                "status": player["status"],
+                "starter": player["status"] == "ACTIVE"
+            }
+
+            all_rows.append(row)
+
+# ===== SAVE =====
+df = pd.DataFrame(all_rows)
+
+df = df.sort_values(["period", "team_id"])
+OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
+df.to_csv(OUTPUT_FILE, index=False)
+
+print(f"Saved: {OUTPUT_FILE}")
+print(df.head())

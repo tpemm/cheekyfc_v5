@@ -1,0 +1,14 @@
+check,passed,detail
+required_columns,True,
+row_count,True,actual=180 expected=180
+manager_count,True,actual=12 expected=12
+manager_pick_count,True,"{""Berkshire's Club"": 15, 'Count Doku': 15, 'KindComet': 15, 'Pot Splashers': 15, 'Robertske': 15, 'The Facerockers': 15, 'Up the Arse-nal': 15, 'epatel3': 15, 'nhauptma': 15, 'tpem': 15, 'wmuck1': 15, 'yudesh': 15}"
+overall_pick_unique,True,
+overall_pick_range,True,expected 1-180
+round_range,True,expected 1-15
+pick_in_round_range,True,expected 1-12
+draft_slot_range,True,expected 1-12
+manager_nonblank,True,
+player_nonblank,True,
+manager_pick_unique,True,
+snake_order,True,invalid_rows=0

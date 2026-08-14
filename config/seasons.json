@@ -1,0 +1,23 @@
+{
+  "2526": {
+    "label": "2025/26",
+    "league": "Cheeky FC",
+    "status": "finalized",
+    "enabled": true,
+    "data_ready": true
+  },
+  "2627": {
+    "label": "2026/27",
+    "league": "Cheeky FC",
+    "status": "active",
+    "enabled": true,
+    "data_ready": false
+  },
+  "all_time": {
+    "label": "All Time",
+    "league": "Cheeky FC",
+    "status": "not_built",
+    "enabled": false,
+    "data_ready": false
+  }
+}

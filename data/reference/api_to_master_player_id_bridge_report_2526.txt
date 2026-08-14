@@ -1,0 +1,48 @@
+Name-Based API → Master Player ID Bridge Report
+================================================================================
+Rostered API player IDs: 307
+Fantrax candidate players: 920
+
+Bridge rows accepted: 302
+Unresolved API players: 5
+
+Files:
+  Bridge:     C:\Users\Tommy\fantrax_data\data\reference\api_to_master_player_id_bridge_2526.csv
+  Candidates: C:\Users\Tommy\fantrax_data\data\reference\api_to_master_player_id_bridge_candidates_2526.csv
+  Unresolved: C:\Users\Tommy\fantrax_data\data\reference\api_to_master_player_id_bridge_unresolved_2526.csv
+
+Bridge sample:
+api_player_id    api_player_name api_team_code api_position fantrax_player_id fantrax_player_name fantrax_team_name understat_player_id understat_player_name  final_score  name_score  team_bonus  score_gap     match_type
+        061vp  Aaronson, Brenden           LEE            M             061vp    Brenden Aaronson               LEE               10751      Brenden Aaronson          100       100.0           3      100.0 exact_or_token
+        0410j     Abraham, Tammy           AVL            F             0410j       Tammy Abraham               AVL                 702         Tammy Abraham          100       100.0           3      100.0 exact_or_token
+        06kwp   Acheampong, Josh           CHE            D             06kwp     Josh Acheampong               CHE               12535       Josh Acheampong          100       100.0           3      100.0 exact_or_token
+        062h7       Adams, Tyler           BOU            M             062h7         Tyler Adams               BOU                7352           Tyler Adams          100       100.0           3      100.0 exact_or_token
+        03yeg  Adarabioyo, Tosin           CHE            D             03yeg    Tosin Adarabioyo               CHE                5590      Tosin Adarabioyo          100       100.0           3      100.0 exact_or_token
+        070ci        Adli, Amine           BOU            F             070ci          Amine Adli               BOU                8211            Amine Adli          100       100.0           3      100.0 exact_or_token
+        03frx          Aina, Ola           NOT            D             03frx            Ola Aina               NOT                 725              Ola Aina          100       100.0           3      100.0 exact_or_token
+        05os4   Ait-Nouri, Rayan           MCI            D             05os4     Rayan Ait-Nouri               MCI                6674       Rayan Ait Nouri          100       100.0           3      100.0 exact_or_token
+        05uel   Ajer, Kristoffer           BRF            D             05uel     Kristoffer Ajer               BRF                9677       Kristoffer Ajer          100       100.0           3      100.0 exact_or_token
+        02y6o        Ake, Nathan           MCI            D             02y6o          Nathan Ake               MCI                 579            Nathan Aké          100       100.0           3      100.0 exact_or_token
+        0687c    Alcaraz, Carlos           EVE            M             0687c      Carlos Alcaraz               EVE               11297        Carlos Alcaraz          100       100.0           3      100.0 exact_or_token
+        0700t     Alderete, Omar           SUN            D             0700t       Omar Alderete               SUN                8986         Omar Alderete          100       100.0           3      100.0 exact_or_token
+        060wh Alejandro Garnacho           CHE            F             060wh  Alejandro Garnacho               CHE               10552    Alejandro Garnacho          100       100.0           3      100.0 exact_or_token
+        04sjt            Alisson           LIV            G             04sjt             Alisson               LIV                1257               Alisson          100       100.0           3      100.0 exact_or_token
+        067x6       Alleyne, Max           MCI            D             067x6         Max Alleyne               MCI               13298           Max Alleyne          100       100.0           3      100.0 exact_or_token
+        04lav      Ampadu, Ethan           LEE            D             04lav        Ethan Ampadu               LEE                6369          Ethan Ampadu          100       100.0           3      100.0 exact_or_token
+        05os8  Andersen, Joachim           FUL            D             05os8    Joachim Andersen               FUL                6314      Joachim Andersen          100       100.0           3      100.0 exact_or_token
+        05opj   Anderson, Elliot           MCI            M             05opj     Elliot Anderson               NOT                9154       Elliot Anderson          100       100.0           0      100.0 exact_or_token
+        061vk    Anthony, Jaidon           BRF            M             061vk      Jaidon Anthony               BUR               10746        Jaidon Anthony          100       100.0           0      100.0 exact_or_token
+        068yc       Ayari, Yasin           BHA            M             068yc         Yasin Ayari               BHA               11385           Yasin Ayari          100       100.0           3      100.0 exact_or_token
+        06fwi     Baleba, Carlos           BHA            M             06fwi       Carlos Baleba               BHA               10527         Carlos Baleba          100       100.0           3      100.0 exact_or_token
+        05nns     Ballard, Danny           SUN            D             05nns       Danny Ballard               SUN               13715           Dan Ballard          100       100.0           3      100.0 exact_or_token
+        04abn     Barnes, Harvey           NEW            M             04abn       Harvey Barnes               NEW                6681         Harvey Barnes          100       100.0           3      100.0 exact_or_token
+        06ybp     Barry, Thierno           EVE            F             06ybp       Thierno Barry               EVE               12916         Thierno Barry          100       100.0           3      100.0 exact_or_token
+        0554g     Bassey, Calvin           FUL            D             0554g       Calvin Bassey               FUL               11728         Calvin Bassey          100       100.0           3      100.0 exact_or_token
+
+Unresolved sample:
+api_player_id api_player_name api_team_code api_position
+        06yxe         Estevao           CHE            F
+        06y9o      Igor Jesus           NOT            F
+        070hj           Kevin           FUL            F
+        072wq           Rayan           BOU            F
+        06yb9        Reinildo           SUN            D

@@ -1,0 +1,33 @@
+Efficiency, Ghost Points, Roster Adds, and Dynamic Awards Build Report
+==========================================================================================
+manager_player rows: 34,423
+
+manager_efficiency_weekly.csv: 456 rows
+manager_efficiency_season.csv: 12 rows
+lineup_decision_details.csv: 5,884 rows
+ghost_points_player_weekly.csv: 34,423 rows
+ghost_points_player_leaders.csv: 348 rows
+ghost_points_manager_weekly.csv: 456 rows
+ghost_points_manager_season.csv: 12 rows
+position_points_manager_weekly.csv: 1,824 rows
+position_points_manager_season.csv: 48 rows
+roster_adds_weekly.csv: 456 rows
+roster_adds_leaders.csv: 12 rows
+manager_awards_dynamic.csv: 4,236 rows
+manager_profile_summary.csv: 12 rows
+
+Scoring / rules assumptions:
+- Total starters: 11
+- Minimum active positions: {'G': 1, 'D': 3, 'M': 2, 'F': 1}
+- Maximum active positions: {'G': 1, 'D': 5, 'M': 5, 'F': 3}
+- Goal points: {'G': 12.0, 'D': 10.0, 'M': 9.0, 'F': 9.0}, with M/F 3rd+ goal worth 12
+- Assist points: {'G': 6.0, 'D': 7.0, 'M': 6.0, 'F': 6.0}
+- Clean sheet points: {'G': 6.0, 'D': 6.0, 'M': 1.0, 'F': 0.0}
+- Goals-against after first points: {'G': -2.0, 'D': -2.0, 'M': 0.0, 'F': 0.0}
+
+Important notes:
+- Efficiency uses actual exported Fantrax points and manager roster eligibility.
+- Manager ghost points are starter-only so they compare correctly to starter fantasy points.
+- Player ghost point leaders use all rostered appearances.
+- Roster adds are inferred from roster changes; transaction logs are required to separate waivers from trades.
+- xG/xA are included as context columns beside goals/assists, not as standalone awards.

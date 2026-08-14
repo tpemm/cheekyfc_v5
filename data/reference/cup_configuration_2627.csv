@@ -1,0 +1,2 @@
+season,tournament_name,enabled,teams,byes,seeding_week,opening_round_week,quarterfinal_week,semifinal_week,championship_week,reseed_after_round,score_source,tie_break_method
+2627,Cheeky FC Cup,true,12,4,20,22,26,31,38,true,manager_week_summary,fantasy_score_then_higher_seed

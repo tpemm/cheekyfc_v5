@@ -1,0 +1,381 @@
+{
+  "season_id": "2526",
+  "season_label": "2025/26",
+  "finalized_at": "2026-07-14T18:30:13",
+  "status": "finalized",
+  "season_root": "C:\\Users\\Tommy\\fantrax_data\\data\\seasons\\2526",
+  "live_api_used": false,
+  "validation_metrics": {
+    "master_rows": 34423,
+    "master_min_gw": 1,
+    "master_max_gw": 38,
+    "master_unique_gws": 38,
+    "manager_player_rows": 34423,
+    "manager_week_rows": 456,
+    "manager_week_unique_gws": 38,
+    "manager_season_rows": 12,
+    "matchup_week_rows": 456,
+    "duplicate_manager_week_rows": 0,
+    "duplicate_master_player_week_rows": 0,
+    "historical_rostered_rows": 7165,
+    "errors": [],
+    "warnings": []
+  },
+  "files": [
+    {
+      "source_path": "C:\\Users\\Tommy\\fantrax_data\\data\\processed\\master_player_weekly_2526.csv",
+      "filename": "master_player_weekly_2526.csv",
+      "size_bytes": 7884096,
+      "modified_at": "2026-07-14T18:12:46",
+      "sha256": "a68cdd040a385cb4f41910b6f3a664915a9515749c7e9e584ae1164f30d32247",
+      "frozen_path": "C:\\Users\\Tommy\\fantrax_data\\data\\seasons\\2526\\processed\\master_player_weekly_2526.csv"
+    },
+    {
+      "source_path": "C:\\Users\\Tommy\\fantrax_data\\data\\processed\\fantrax_available_weekly_all_2526.csv",
+      "filename": "fantrax_available_weekly_all_2526.csv",
+      "size_bytes": 3031110,
+      "modified_at": "2026-07-14T18:12:44",
+      "sha256": "028d4872812b09e2601f2c6992822a3777083cb6b531341daa0d79fe89fbf445",
+      "frozen_path": "C:\\Users\\Tommy\\fantrax_data\\data\\seasons\\2526\\processed\\fantrax_available_weekly_all_2526.csv"
+    },
+    {
+      "source_path": "C:\\Users\\Tommy\\fantrax_data\\data\\processed\\fantrax_rostered_weekly_all_2526.csv",
+      "filename": "fantrax_rostered_weekly_all_2526.csv",
+      "size_bytes": 1044380,
+      "modified_at": "2026-07-14T18:12:45",
+      "sha256": "42c67588822e91a576642f3a2bdaac14028b9c4d36239c5a549d223522c7ff0b",
+      "frozen_path": "C:\\Users\\Tommy\\fantrax_data\\data\\seasons\\2526\\processed\\fantrax_rostered_weekly_all_2526.csv"
+    },
+    {
+      "source_path": "C:\\Users\\Tommy\\fantrax_data\\data\\processed\\understat_weekly_by_fantrax_gw_2526.csv",
+      "filename": "understat_weekly_by_fantrax_gw_2526.csv",
+      "size_bytes": 1192777,
+      "modified_at": "2026-07-14T18:12:46",
+      "sha256": "4d46892c0e51e8a7ab8c8a3a6796919dd2b873068901e49de724ca44c602e7f0",
+      "frozen_path": "C:\\Users\\Tommy\\fantrax_data\\data\\seasons\\2526\\processed\\understat_weekly_by_fantrax_gw_2526.csv"
+    },
+    {
+      "source_path": "C:\\Users\\Tommy\\fantrax_data\\data\\processed\\understat_match_to_fantrax_gw_2526.csv",
+      "filename": "understat_match_to_fantrax_gw_2526.csv",
+      "size_bytes": 23382,
+      "modified_at": "2026-07-14T18:12:46",
+      "sha256": "ef289a6573dac2ce64825645bc9d8b5cb37534ac17a8b048c5ab28c3c62a3089",
+      "frozen_path": "C:\\Users\\Tommy\\fantrax_data\\data\\seasons\\2526\\processed\\understat_match_to_fantrax_gw_2526.csv"
+    },
+    {
+      "source_path": "C:\\Users\\Tommy\\fantrax_data\\data\\processed\\manager_player_weekly_2526.csv",
+      "filename": "manager_player_weekly_2526.csv",
+      "size_bytes": 13696903,
+      "modified_at": "2026-05-25T20:10:10",
+      "sha256": "807c84d3b24bf6333047882699f94075ebf5bc79cb68cee97e75f81487451cf2",
+      "frozen_path": "C:\\Users\\Tommy\\fantrax_data\\data\\seasons\\2526\\processed\\manager_player_weekly_2526.csv"
+    },
+    {
+      "source_path": "C:\\Users\\Tommy\\fantrax_data\\data\\processed\\manager_week_summary_2526.csv",
+      "filename": "manager_week_summary_2526.csv",
+      "size_bytes": 111685,
+      "modified_at": "2026-05-25T20:10:11",
+      "sha256": "1a88bab6274cc6453f280a92f23ee17799849d1a660f85d6aa220c91b50f2d63",
+      "frozen_path": "C:\\Users\\Tommy\\fantrax_data\\data\\seasons\\2526\\processed\\manager_week_summary_2526.csv"
+    },
+    {
+      "source_path": "C:\\Users\\Tommy\\fantrax_data\\data\\processed\\manager_season_summary_2526.csv",
+      "filename": "manager_season_summary_2526.csv",
+      "size_bytes": 2739,
+      "modified_at": "2026-05-25T20:10:11",
+      "sha256": "a3de5f7f27565dec2482b7738d88f7d7f04265d64da29a649a247e65077b2607",
+      "frozen_path": "C:\\Users\\Tommy\\fantrax_data\\data\\seasons\\2526\\processed\\manager_season_summary_2526.csv"
+    },
+    {
+      "source_path": "C:\\Users\\Tommy\\fantrax_data\\data\\processed\\lineup_quality_summary_2526.csv",
+      "filename": "lineup_quality_summary_2526.csv",
+      "size_bytes": 56905,
+      "modified_at": "2026-05-25T20:10:11",
+      "sha256": "ce2d62a35ae4fa55acdb4a08c9a6f4fee31a4d1f3086a4bbd940969304463080",
+      "frozen_path": "C:\\Users\\Tommy\\fantrax_data\\data\\seasons\\2526\\processed\\lineup_quality_summary_2526.csv"
+    },
+    {
+      "source_path": "C:\\Users\\Tommy\\fantrax_data\\data\\processed\\matchup_week_summary_2526.csv",
+      "filename": "matchup_week_summary_2526.csv",
+      "size_bytes": 132513,
+      "modified_at": "2026-05-25T20:10:11",
+      "sha256": "741884ea322774186283cc9a3427a23fe35ced192ac6e51ce350ea273d31aaee",
+      "frozen_path": "C:\\Users\\Tommy\\fantrax_data\\data\\seasons\\2526\\processed\\matchup_week_summary_2526.csv"
+    },
+    {
+      "source_path": "C:\\Users\\Tommy\\fantrax_data\\data\\processed\\api_merge_validation_report_2526.txt",
+      "filename": "api_merge_validation_report_2526.txt",
+      "size_bytes": 1055,
+      "modified_at": "2026-05-25T20:10:11",
+      "sha256": "53ea940af41f218b9a9fb853ab54917d4f37a3400bb785846f78d3a9c1c17b4a",
+      "frozen_path": "C:\\Users\\Tommy\\fantrax_data\\data\\seasons\\2526\\processed\\api_merge_validation_report_2526.txt"
+    },
+    {
+      "source_path": "C:\\Users\\Tommy\\fantrax_data\\data\\processed\\unmapped_fantrax_players_2526.csv",
+      "filename": "unmapped_fantrax_players_2526.csv",
+      "size_bytes": 884304,
+      "modified_at": "2026-07-14T18:12:46",
+      "sha256": "3e0780408c2876a7051a02b508a601eb55e4c39fdc01e4dae1a1e9433203319c",
+      "frozen_path": "C:\\Users\\Tommy\\fantrax_data\\data\\seasons\\2526\\processed\\unmapped_fantrax_players_2526.csv"
+    },
+    {
+      "source_path": "C:\\Users\\Tommy\\fantrax_data\\data\\processed\\unmapped_understat_players_2526.csv",
+      "filename": "unmapped_understat_players_2526.csv",
+      "size_bytes": 676,
+      "modified_at": "2026-07-14T18:12:46",
+      "sha256": "38f3c27c521b2e61ecf87d74e4418401b97bc233914b7bdff67124cfe4eb08f2",
+      "frozen_path": "C:\\Users\\Tommy\\fantrax_data\\data\\seasons\\2526\\processed\\unmapped_understat_players_2526.csv"
+    },
+    {
+      "source_path": "C:\\Users\\Tommy\\fantrax_data\\data\\analytics_views\\league_table.csv",
+      "filename": "league_table.csv",
+      "size_bytes": 3062,
+      "modified_at": "2026-05-25T20:10:12",
+      "sha256": "615a6bc50792459f514390dafb0a198869205f7f23acca30c616acbd5c6a9747",
+      "frozen_path": "C:\\Users\\Tommy\\fantrax_data\\data\\seasons\\2526\\analytics_views\\league_table.csv"
+    },
+    {
+      "source_path": "C:\\Users\\Tommy\\fantrax_data\\data\\analytics_views\\weekly_awards.csv",
+      "filename": "weekly_awards.csv",
+      "size_bytes": 42388,
+      "modified_at": "2026-05-25T20:10:12",
+      "sha256": "e3b1ba88672ef51d2e5b22b55c18bfaaa9a8572aa7159a0b8324962a6fb0c7bf",
+      "frozen_path": "C:\\Users\\Tommy\\fantrax_data\\data\\seasons\\2526\\analytics_views\\weekly_awards.csv"
+    },
+    {
+      "source_path": "C:\\Users\\Tommy\\fantrax_data\\data\\analytics_views\\award_leaderboards.csv",
+      "filename": "award_leaderboards.csv",
+      "size_bytes": 22957,
+      "modified_at": "2026-05-25T20:10:12",
+      "sha256": "11d5647572b5f6816ce3f5dd2391010eaddc10eaa94f78d4290805a64629c250",
+      "frozen_path": "C:\\Users\\Tommy\\fantrax_data\\data\\seasons\\2526\\analytics_views\\award_leaderboards.csv"
+    },
+    {
+      "source_path": "C:\\Users\\Tommy\\fantrax_data\\data\\analytics_views\\manager_streaks.csv",
+      "filename": "manager_streaks.csv",
+      "size_bytes": 1670,
+      "modified_at": "2026-05-25T20:10:12",
+      "sha256": "6a5cca785a976a64a0c673a5c87b0074402065462775068abf2de7012291babf",
+      "frozen_path": "C:\\Users\\Tommy\\fantrax_data\\data\\seasons\\2526\\analytics_views\\manager_streaks.csv"
+    },
+    {
+      "source_path": "C:\\Users\\Tommy\\fantrax_data\\data\\analytics_views\\lineup_changes.csv",
+      "filename": "lineup_changes.csv",
+      "size_bytes": 58091,
+      "modified_at": "2026-05-25T20:10:12",
+      "sha256": "503c47e31deb87b35616e2f87e08dececa9af2b987011a8f00400a29b0069fe5",
+      "frozen_path": "C:\\Users\\Tommy\\fantrax_data\\data\\seasons\\2526\\analytics_views\\lineup_changes.csv"
+    },
+    {
+      "source_path": "C:\\Users\\Tommy\\fantrax_data\\data\\analytics_views\\closest_games.csv",
+      "filename": "closest_games.csv",
+      "size_bytes": 18524,
+      "modified_at": "2026-05-25T20:10:12",
+      "sha256": "9b04b785510b1eb374db7ea4a06962da25ee697f114d63855e16ae6049d910fc",
+      "frozen_path": "C:\\Users\\Tommy\\fantrax_data\\data\\seasons\\2526\\analytics_views\\closest_games.csv"
+    },
+    {
+      "source_path": "C:\\Users\\Tommy\\fantrax_data\\data\\analytics_views\\biggest_blowouts.csv",
+      "filename": "biggest_blowouts.csv",
+      "size_bytes": 18524,
+      "modified_at": "2026-05-25T20:10:12",
+      "sha256": "5b619873430291720e1320a12ba3b441bcbd88bd9162896fcacf35f5a496b989",
+      "frozen_path": "C:\\Users\\Tommy\\fantrax_data\\data\\seasons\\2526\\analytics_views\\biggest_blowouts.csv"
+    },
+    {
+      "source_path": "C:\\Users\\Tommy\\fantrax_data\\data\\analytics_views\\league_hub_cards.csv",
+      "filename": "league_hub_cards.csv",
+      "size_bytes": 1110,
+      "modified_at": "2026-05-25T20:10:12",
+      "sha256": "fb2c9b3e539e486f12285b660cc33934e13e1ca7b49cc70f08a15ae9b8b3972d",
+      "frozen_path": "C:\\Users\\Tommy\\fantrax_data\\data\\seasons\\2526\\analytics_views\\league_hub_cards.csv"
+    },
+    {
+      "source_path": "C:\\Users\\Tommy\\fantrax_data\\data\\analytics_views\\manager_efficiency_weekly.csv",
+      "filename": "manager_efficiency_weekly.csv",
+      "size_bytes": 32890,
+      "modified_at": "2026-05-25T21:07:25",
+      "sha256": "e098502d3894b2788ade6ea408423f57fa3ca6fc1e702facfaa43ddde351119e",
+      "frozen_path": "C:\\Users\\Tommy\\fantrax_data\\data\\seasons\\2526\\analytics_views\\manager_efficiency_weekly.csv"
+    },
+    {
+      "source_path": "C:\\Users\\Tommy\\fantrax_data\\data\\analytics_views\\manager_efficiency_season.csv",
+      "filename": "manager_efficiency_season.csv",
+      "size_bytes": 1308,
+      "modified_at": "2026-05-25T21:07:25",
+      "sha256": "83c9deca15dadfa0166f3d1ec4f3668e0fc81830878be5e5d194817889c7d0bb",
+      "frozen_path": "C:\\Users\\Tommy\\fantrax_data\\data\\seasons\\2526\\analytics_views\\manager_efficiency_season.csv"
+    },
+    {
+      "source_path": "C:\\Users\\Tommy\\fantrax_data\\data\\analytics_views\\lineup_decision_details.csv",
+      "filename": "lineup_decision_details.csv",
+      "size_bytes": 526699,
+      "modified_at": "2026-05-25T21:07:25",
+      "sha256": "a6d83fe040cc41be62b3c86c4e8100a03f1ace4af3ce52457e8a12e1cdaa6e0f",
+      "frozen_path": "C:\\Users\\Tommy\\fantrax_data\\data\\seasons\\2526\\analytics_views\\lineup_decision_details.csv"
+    },
+    {
+      "source_path": "C:\\Users\\Tommy\\fantrax_data\\data\\analytics_views\\ghost_points_player_weekly.csv",
+      "filename": "ghost_points_player_weekly.csv",
+      "size_bytes": 3273569,
+      "modified_at": "2026-05-25T21:07:25",
+      "sha256": "3d4b5adab078908be0a081f57111969884d7800dbb43d7adf0c7de3d54865dcb",
+      "frozen_path": "C:\\Users\\Tommy\\fantrax_data\\data\\seasons\\2526\\analytics_views\\ghost_points_player_weekly.csv"
+    },
+    {
+      "source_path": "C:\\Users\\Tommy\\fantrax_data\\data\\analytics_views\\ghost_points_player_leaders.csv",
+      "filename": "ghost_points_player_leaders.csv",
+      "size_bytes": 22368,
+      "modified_at": "2026-05-25T21:07:25",
+      "sha256": "73f9e59bc0ad0e9d2b1b3c0acf8b789d362a2331e8f1642de5ea6a830ff7a447",
+      "frozen_path": "C:\\Users\\Tommy\\fantrax_data\\data\\seasons\\2526\\analytics_views\\ghost_points_player_leaders.csv"
+    },
+    {
+      "source_path": "C:\\Users\\Tommy\\fantrax_data\\data\\analytics_views\\ghost_points_manager_weekly.csv",
+      "filename": "ghost_points_manager_weekly.csv",
+      "size_bytes": 29966,
+      "modified_at": "2026-05-25T21:07:25",
+      "sha256": "26385740ba53e83933fdd803e8bfc2e6d3880377b0cb93aed0e536a5a86cbfc8",
+      "frozen_path": "C:\\Users\\Tommy\\fantrax_data\\data\\seasons\\2526\\analytics_views\\ghost_points_manager_weekly.csv"
+    },
+    {
+      "source_path": "C:\\Users\\Tommy\\fantrax_data\\data\\analytics_views\\ghost_points_manager_season.csv",
+      "filename": "ghost_points_manager_season.csv",
+      "size_bytes": 1216,
+      "modified_at": "2026-05-25T21:07:25",
+      "sha256": "6a0e4c31d5260a51fa5244c479954d38a74c98b9936e83530ba88460b27412cb",
+      "frozen_path": "C:\\Users\\Tommy\\fantrax_data\\data\\seasons\\2526\\analytics_views\\ghost_points_manager_season.csv"
+    },
+    {
+      "source_path": "C:\\Users\\Tommy\\fantrax_data\\data\\analytics_views\\position_points_manager_weekly.csv",
+      "filename": "position_points_manager_weekly.csv",
+      "size_bytes": 108651,
+      "modified_at": "2026-05-25T21:07:25",
+      "sha256": "320fa7385c084bebc4a51f2148a25b2f7e8ceb7f8e5c82a6ea1198c58f49ae3a",
+      "frozen_path": "C:\\Users\\Tommy\\fantrax_data\\data\\seasons\\2526\\analytics_views\\position_points_manager_weekly.csv"
+    },
+    {
+      "source_path": "C:\\Users\\Tommy\\fantrax_data\\data\\analytics_views\\position_points_manager_season.csv",
+      "filename": "position_points_manager_season.csv",
+      "size_bytes": 3417,
+      "modified_at": "2026-05-25T21:07:25",
+      "sha256": "68b7b451d5c7aba164cd81b078d4b5479d9f90ad4e86c348bfdff16cb338f4d5",
+      "frozen_path": "C:\\Users\\Tommy\\fantrax_data\\data\\seasons\\2526\\analytics_views\\position_points_manager_season.csv"
+    },
+    {
+      "source_path": "C:\\Users\\Tommy\\fantrax_data\\data\\analytics_views\\roster_adds_weekly.csv",
+      "filename": "roster_adds_weekly.csv",
+      "size_bytes": 35336,
+      "modified_at": "2026-05-25T21:07:25",
+      "sha256": "118d6765d9451a01ec99369a5992414c1a5c4998dfff44618e9f1776b256a1fb",
+      "frozen_path": "C:\\Users\\Tommy\\fantrax_data\\data\\seasons\\2526\\analytics_views\\roster_adds_weekly.csv"
+    },
+    {
+      "source_path": "C:\\Users\\Tommy\\fantrax_data\\data\\analytics_views\\roster_adds_leaders.csv",
+      "filename": "roster_adds_leaders.csv",
+      "size_bytes": 840,
+      "modified_at": "2026-05-25T21:07:25",
+      "sha256": "b7bb06b807fe1bed3f47c62af0d92e2df4ae6ebf505d9ecf36f1db0fdf03657f",
+      "frozen_path": "C:\\Users\\Tommy\\fantrax_data\\data\\seasons\\2526\\analytics_views\\roster_adds_leaders.csv"
+    },
+    {
+      "source_path": "C:\\Users\\Tommy\\fantrax_data\\data\\analytics_views\\manager_awards_dynamic.csv",
+      "filename": "manager_awards_dynamic.csv",
+      "size_bytes": 742765,
+      "modified_at": "2026-05-25T21:07:25",
+      "sha256": "589e56aa8a546fd4afe2083327d544c5805e228dbc173ae169c47921ef240aea",
+      "frozen_path": "C:\\Users\\Tommy\\fantrax_data\\data\\seasons\\2526\\analytics_views\\manager_awards_dynamic.csv"
+    },
+    {
+      "source_path": "C:\\Users\\Tommy\\fantrax_data\\data\\analytics_views\\manager_profile_summary.csv",
+      "filename": "manager_profile_summary.csv",
+      "size_bytes": 4974,
+      "modified_at": "2026-05-25T21:07:25",
+      "sha256": "596ccc9215d6e468ca889f5485a00d3cc9438492f6216134957793da9037a6fa",
+      "frozen_path": "C:\\Users\\Tommy\\fantrax_data\\data\\seasons\\2526\\analytics_views\\manager_profile_summary.csv"
+    },
+    {
+      "source_path": "C:\\Users\\Tommy\\fantrax_data\\data\\analytics_views\\league_awards_report.txt",
+      "filename": "league_awards_report.txt",
+      "size_bytes": 420,
+      "modified_at": "2026-05-25T20:10:12",
+      "sha256": "35256942f43131dc6c4d2e7795db7cd28fbff5a38de81c94ab84cc39ca5acd0b",
+      "frozen_path": "C:\\Users\\Tommy\\fantrax_data\\data\\seasons\\2526\\analytics_views\\league_awards_report.txt"
+    },
+    {
+      "source_path": "C:\\Users\\Tommy\\fantrax_data\\data\\analytics_views\\efficiency_ghost_awards_report.txt",
+      "filename": "efficiency_ghost_awards_report.txt",
+      "size_bytes": 1653,
+      "modified_at": "2026-05-25T21:07:25",
+      "sha256": "e6f302d956ddb900fc8dc5aa8ad47272b3fc0043002441b804c81ebb7d9838db",
+      "frozen_path": "C:\\Users\\Tommy\\fantrax_data\\data\\seasons\\2526\\analytics_views\\efficiency_ghost_awards_report.txt"
+    },
+    {
+      "source_path": "C:\\Users\\Tommy\\fantrax_data\\data\\reference\\understat_fantrax_player_id_map.csv",
+      "filename": "understat_fantrax_player_id_map.csv",
+      "size_bytes": 30977,
+      "modified_at": "2026-03-02T20:22:18",
+      "sha256": "31ec4cfa3725f4e5a1e7d6d9c808352d60de774ed80a941be0c802cafda54c26",
+      "frozen_path": "C:\\Users\\Tommy\\fantrax_data\\data\\seasons\\2526\\reference\\understat_fantrax_player_id_map.csv",
+      "authoritative": true
+    },
+    {
+      "source_path": "C:\\Users\\Tommy\\fantrax_data\\data\\reference\\api_to_master_player_id_bridge_2526.csv",
+      "filename": "api_to_master_player_id_bridge_2526.csv",
+      "size_bytes": 32356,
+      "modified_at": "2026-07-14T18:12:49",
+      "sha256": "f133c2d2da50bf3e2674b298a6c46a9a1b334ab6b26024fe0eb18ce65e300056",
+      "frozen_path": "C:\\Users\\Tommy\\fantrax_data\\data\\seasons\\2526\\reference\\api_to_master_player_id_bridge_2526.csv",
+      "authoritative": false,
+      "note": "Audit-only copy. The live offseason API refresh may have changed this file."
+    },
+    {
+      "source_path": "C:\\Users\\Tommy\\fantrax_data\\data\\reference\\api_to_master_player_id_bridge_candidates_2526.csv",
+      "filename": "api_to_master_player_id_bridge_candidates_2526.csv",
+      "size_bytes": 31154,
+      "modified_at": "2026-07-14T18:12:49",
+      "sha256": "bb54d6e2e244e6b9b82a1c3409817185afc0ca93c73b46e563b8e6f531075293",
+      "frozen_path": "C:\\Users\\Tommy\\fantrax_data\\data\\seasons\\2526\\reference\\api_to_master_player_id_bridge_candidates_2526.csv",
+      "authoritative": false,
+      "note": "Audit-only copy. The live offseason API refresh may have changed this file."
+    },
+    {
+      "source_path": "C:\\Users\\Tommy\\fantrax_data\\data\\reference\\api_to_master_player_id_bridge_unresolved_2526.csv",
+      "filename": "api_to_master_player_id_bridge_unresolved_2526.csv",
+      "size_bytes": 166,
+      "modified_at": "2026-07-14T18:12:49",
+      "sha256": "04ea17fbe3976c77e1a5c241675018c5c322a91502ce5763985500d4db7a552a",
+      "frozen_path": "C:\\Users\\Tommy\\fantrax_data\\data\\seasons\\2526\\reference\\api_to_master_player_id_bridge_unresolved_2526.csv",
+      "authoritative": false,
+      "note": "Audit-only copy. The live offseason API refresh may have changed this file."
+    },
+    {
+      "source_path": "C:\\Users\\Tommy\\fantrax_data\\data\\raw\\understat\\understat_schedule_2526_ENG-Premier_League.csv",
+      "filename": "understat_schedule_2526_ENG-Premier_League.csv",
+      "size_bytes": 77337,
+      "modified_at": "2026-07-14T18:12:43",
+      "sha256": "84ee5f8670264c28b6532a5fe456f538ed7d9e1e141fe75ad28f3301d27e8a10",
+      "frozen_path": "C:\\Users\\Tommy\\fantrax_data\\data\\seasons\\2526\\raw_index\\understat_schedule_2526_ENG-Premier_League.csv"
+    },
+    {
+      "source_path": "C:\\Users\\Tommy\\fantrax_data\\data\\raw\\understat\\understat_player_match_stats_2526_ENG-Premier_League.csv",
+      "filename": "understat_player_match_stats_2526_ENG-Premier_League.csv",
+      "size_bytes": 2998027,
+      "modified_at": "2026-07-14T18:12:43",
+      "sha256": "f02516164e4bf0a894a636b5739250c9b99f4145a05e58507878ed3df1a67aea",
+      "frozen_path": "C:\\Users\\Tommy\\fantrax_data\\data\\seasons\\2526\\raw_index\\understat_player_match_stats_2526_ENG-Premier_League.csv"
+    },
+    {
+      "source_path": "C:\\Users\\Tommy\\fantrax_data\\data\\raw\\understat\\understat_players_season_2526_ENG-Premier_League.csv",
+      "filename": "understat_players_season_2526_ENG-Premier_League.csv",
+      "size_bytes": 95464,
+      "modified_at": "2026-07-14T18:12:43",
+      "sha256": "a3ae241ca671724acfb2a65317274a83e68f654145130a24de2c5979c79deeae",
+      "frozen_path": "C:\\Users\\Tommy\\fantrax_data\\data\\seasons\\2526\\raw_index\\understat_players_season_2526_ENG-Premier_League.csv"
+    }
+  ],
+  "notes": [
+    "Historical gold tables are authoritative.",
+    "Use a separate 2627 season folder/config for the next season."
+  ]
+}

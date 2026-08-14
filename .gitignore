@@ -1,0 +1,31 @@
+.venv/
+.venv*/
+__pycache__/
+*.py[cod]
+.env
+.streamlit/secrets.toml
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local/generated data
+data/raw/
+data/processed/
+data/analytics_views/
+raw_data/
+processed_data/
+reports/
+
+# Keep finalized historical seasons; ignore active working season outputs by default
+data/seasons/2627/
+data/seasons/all_time/
+
+# Browser/auth state
+*auth_state*.json
+
+# Additional Playwright authentication protection
+playwright/.auth/
+**/storage_state.json
+.test_artifacts/
+cheekyfc_v5/

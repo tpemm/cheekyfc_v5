@@ -1,0 +1,37 @@
+{
+  "started_at_utc": "2026-07-29T13:58:04.770289+00:00",
+  "league_id": 39,
+  "tests": {
+    "status": {
+      "ok": true,
+      "response_count": 0,
+      "account": {
+        "account": {
+          "firstname": "Tommy",
+          "lastname": "Pemrick",
+          "email": "tpemrickjr22@gmail.com"
+        },
+        "subscription": {
+          "plan": "Free",
+          "end": "2027-07-29T00:00:00+00:00",
+          "active": true
+        },
+        "requests": {
+          "current": 0,
+          "limit_day": 100
+        }
+      }
+    }
+  },
+  "warnings": [],
+  "season": 2026,
+  "completed_at_utc": "2026-07-29T13:58:06.569418+00:00",
+  "requests_made_by_script": 3,
+  "last_seen_quota_headers": {
+    "daily_limit": null,
+    "daily_remaining": null,
+    "minute_limit": null,
+    "minute_remaining": null
+  },
+  "fatal_error": "API error for /teams: {\n  \"plan\": \"Free plans do not have access to this season, try from 2022 to 2024.\"\n}"
+}

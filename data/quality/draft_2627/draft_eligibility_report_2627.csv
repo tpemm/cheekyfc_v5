@@ -1,0 +1,694 @@
+﻿fantrax_player_id,player_name,fantrax_team,matched_current_team,is_draft_eligible,draft_eligibility_status,eligibility_source,squad_match_method,matched_external_player_id,matched_external_player_name,eligibility_override,diagnostic_reason
+061vq,Erling Haaland,MCI,MCI,True,Matched eligible,Player Registry,Exact Name + Club,411.0,Erling Haaland,False,Confirmed
+05gcr,Bruno Fernandes,MUN,MUN,True,Matched eligible,Player Registry,Ordered Token Expanded Name,426.0,Bruno Borges Fernandes,False,Confirmed
+04y92,Bukayo Saka,ARS,ARS,True,Matched eligible,Player Registry,Exact Name + Club,12.0,Bukayo Saka,False,Confirmed
+068y0,Antoine Semenyo,MCI,MCI,True,Matched eligible,Player Registry,Exact Name + Club,397.0,Antoine Semenyo,False,Transferred
+06cmm,Dominik Szoboszlai,LIV,LIV,True,Matched eligible,Player Registry,Exact Name + Club,368.0,Dominik Szoboszlai,False,Confirmed
+06v21,Florian Wirtz,LIV,LIV,True,Matched eligible,Player Registry,Exact Name + Club,366.0,Florian Wirtz,False,Confirmed
+04agz,Declan Rice,ARS,ARS,True,Matched eligible,Player Registry,Exact Name + Club,13.0,Declan Rice,False,Confirmed
+04qr9,Morgan Gibbs-White,NOT,NOT,True,Matched eligible,Player Registry,Exact Name + Club,480.0,Morgan Gibbs-White,False,Confirmed
+06v07,Rayan Cherki,MCI,MCI,True,Matched eligible,Player Registry,Exact Name + Club,399.0,Rayan Cherki,False,Confirmed
+06zbx,Anton Stach,LEE,LEE,True,Matched eligible,Player Registry,Exact Name + Club,335.0,Anton Stach,False,Confirmed
+067yz,Matheus Cunha,MUN,MUN,True,Matched eligible,Player Registry,Ordered Token Expanded Name,428.0,Matheus Santos Carneiro da Cunha,False,Confirmed
+05l8q,Cole Palmer,CHE,CHE,True,Matched eligible,Player Registry,Exact Name + Club,154.0,Cole Palmer,False,Confirmed
+06jgi,Daniel Munoz,CRY,CRY,True,Matched eligible,Player Registry,Ordered Token Expanded Name,201.0,Daniel Muñoz Mejía,False,Confirmed
+06fup,Jeremy Doku,MCI,MCI,True,Matched eligible,Player Registry,Exact Name + Club,400.0,Jérémy Doku,False,Confirmed
+05g2o,Joao Pedro,CHE,CHE,True,Matched eligible,Player Registry,Ordered Token Expanded Name,165.0,João Pedro Junqueira de Jesus,False,Confirmed
+0646f,Alexander Isak,LIV,LIV,True,Matched eligible,Player Registry,Exact Name + Club,379.0,Alexander Isak,False,Transferred
+072wq,Rayan,BOU,BOU,True,Matched eligible,Player Registry,Explicit Player Alias,67.0,Rayan Vitor Simplício Rocha,False,Confirmed
+05uht,Morgan Rogers,CHE,CHE,True,Matched eligible,Player Registry,Exact Name + Club,40.0,Morgan Rogers,False,Transferred
+06mn0,Igor Thiago,BRF,BRF,True,Matched eligible,Player Registry,Ordered Token Expanded Name,106.0,Igor Thiago Nascimento Rodrigues,False,Confirmed
+068ym,Enzo Fernandez,CHE,CHE,True,Matched eligible,Player Registry,Exact Name + Club,155.0,Enzo Fernández,False,Confirmed
+067yv,Cody Gakpo,LIV,LIV,True,Matched eligible,Player Registry,Exact Name + Club,367.0,Cody Gakpo,False,Confirmed
+05nzu,Gabriel Magalhaes,ARS,ARS,True,Matched eligible,Player Registry,Ordered Token Expanded Name,4.0,Gabriel dos Santos Magalhães,False,Confirmed
+05ocl,Ollie Watkins,AVL,AVL,True,Matched eligible,Player Registry,Exact Name + Club,55.0,Ollie Watkins,False,Confirmed
+05r9b,Martin Odegaard,ARS,ARS,True,Matched eligible,Player Registry,Unique Fuzzy,15.0,Martin Ødegaard,False,Confirmed
+0427d,James Tarkowski,EVE,EVE,True,Matched eligible,Player Registry,Exact Name + Club,229.0,James Tarkowski,False,Confirmed
+03vlj,Virgil van Dijk,LIV,LIV,True,Matched eligible,Player Registry,Exact Name + Club,356.0,Virgil van Dijk,False,Confirmed
+05trb,Bryan Mbeumo,MUN,MUN,True,Matched eligible,Player Registry,Exact Name + Club,427.0,Bryan Mbeumo,False,Confirmed
+05ylj,Bruno Guimaraes,NEW,NEW,True,Matched eligible,Player Registry,Ordered Token Expanded Name,452.0,Bruno Guimarães Rodriguez Moura,False,Confirmed
+06fv8,Mohammed Kudus,TOT,TOT,True,Matched eligible,Player Registry,Exact Name + Club,512.0,Mohammed Kudus,False,Confirmed
+05n07,Pedro Porro,TOT,TOT,True,Matched eligible,Player Registry,Ordered Token Expanded Name,499.0,Pedro Porro Sauceda,False,Confirmed
+04spw,James Garner,EVE,EVE,True,Matched eligible,Player Registry,Exact Name + Club,239.0,James Garner,False,Confirmed
+04fk1,Pascal Gross,BHA,BHA,True,Matched eligible,Player Registry,Exact Name + Club,124.0,Pascal Groß,False,Confirmed
+05r94,Iliman Ndiaye,EVE,EVE,True,Matched eligible,Player Registry,Exact Name + Club,237.0,Iliman Ndiaye,False,Confirmed
+05opj,Elliot Anderson,MCI,MCI,True,Matched eligible,Player Registry,Exact Name + Club,481.0,Elliot Anderson,False,Transferred
+06c6g,Yankuba Minteh,BHA,BHA,True,Matched eligible,Player Registry,Exact Name + Club,122.0,Yankuba Minteh,False,Confirmed
+0639x,Marcus Tavernier,BOU,BOU,True,Matched eligible,Player Registry,Exact Name + Club,68.0,Marcus Tavernier,False,Confirmed
+050jq,Marc Guehi,MCI,MCI,True,Matched eligible,Player Registry,Exact Name + Club,388.0,Marc Guéhi,False,Transferred
+06rlj,Patrick Dorgu,MUN,MUN,True,Matched eligible,Player Registry,Exact Name + Club,415.0,Patrick Dorgu,False,Confirmed
+056iy,Pedro Neto,CHE,CHE,True,Matched eligible,Player Registry,Ordered Token Expanded Name,156.0,Pedro Lomba Neto,False,Confirmed
+04tsb,Viktor Gyokeres,ARS,ARS,True,Matched eligible,Player Registry,Exact Name + Club,25.0,Viktor Gyökeres,False,Confirmed
+06zxy,Benjamin Sesko,MUN,MUN,True,Matched eligible,Player Registry,Exact Name + Club,439.0,Benjamin Sesko,False,Confirmed
+061vb,James Hill,BOU,BOU,True,Matched eligible,Player Registry,Exact Name + Club,60.0,James Hill,False,Confirmed
+03rxs,Harry Wilson,LEE,LEE,True,Matched eligible,Player Registry,Exact Name + Club,260.0,Harry Wilson,False,Transferred
+068lx,Dango Ouattara,BRF,BRF,True,Matched eligible,Player Registry,Exact Name + Club,95.0,Dango Ouattara,False,Transferred
+05748,Ismaila Sarr,CRY,CRY,True,Matched eligible,Player Registry,Exact Name + Club,208.0,Ismaïla Sarr,False,Confirmed
+06v0p,Enzo Le Fee,SUN,SUN,True,Matched eligible,Player Registry,Exact Name + Club,542.0,Enzo Le Fée,False,Confirmed
+05gcc,Kiernan Dewsbury-Hall,EVE,EVE,True,Matched eligible,Player Registry,Exact Name + Club,236.0,Kiernan Dewsbury-Hall,False,Confirmed
+049tq,Dominic Calvert-Lewin,LEE,LEE,True,Matched eligible,Player Registry,Exact Name + Club,346.0,Dominic Calvert-Lewin,False,Confirmed
+06xza,Eli Kroupi,BOU,BOU,True,Matched eligible,Player Registry,Explicit Player Alias,78.0,Junior Kroupi,False,Confirmed
+03fgo,Dominic Solanke,TOT,TOT,True,Matched eligible,Player Registry,Ordered Token Expanded Name,526.0,Dominic Solanke-Mitchell,False,Confirmed
+05r34,Amad Diallo,MUN,MUN,True,Matched eligible,Player Registry,Exact Name + Club,431.0,Amad Diallo,False,Confirmed
+0703c,Nordi Mukiele,SUN,SUN,True,Matched eligible,Player Registry,Exact Name + Club,533.0,Nordi Mukiele,False,Confirmed
+067x8,Nico O'Reilly,MCI,MCI,True,Matched eligible,Player Registry,Exact Name + Club,387.0,Nico O'Reilly,False,Confirmed
+04abb,Phil Foden,MCI,MCI,True,Matched eligible,Player Registry,Exact Name + Club,398.0,Phil Foden,False,Confirmed
+04yo7,Youri Tielemans,MUN,MUN,True,Matched eligible,Player Registry,Exact Name + Club,43.0,Youri Tielemans,False,Transferred
+06dmj,Jurrien Timber,ARS,ARS,True,Matched eligible,Player Registry,Exact Name + Club,5.0,Jurriën Timber,False,Confirmed
+063zi,Matheus Nunes,MCI,MCI,True,Matched eligible,Player Registry,Exact Name + Club,389.0,Matheus Nunes,False,Confirmed
+03rzp,Antonee Robinson,FUL,FUL,True,Matched eligible,Player Registry,Exact Name + Club,254.0,Antonee Robinson,False,Confirmed
+0414o,James Maddison,TOT,TOT,True,Matched eligible,Player Registry,Exact Name + Club,515.0,James Maddison,False,Confirmed
+05a6e,Neco Williams,NOT,NOT,True,Matched eligible,Player Registry,Exact Name + Club,469.0,Neco Williams,False,Confirmed
+06uyc,Adrien Truffert,BOU,BOU,True,Matched eligible,Player Registry,Exact Name + Club,61.0,Adrien Truffert,False,Confirmed
+051k7,Reece James,CHE,CHE,True,Matched eligible,Player Registry,Exact Name + Club,142.0,Reece James,False,Confirmed
+05nns,Danny Ballard,SUN,SUN,True,Matched eligible,Player Registry,Explicit Player Alias,532.0,Daniel Ballard,False,Confirmed
+06do9,Milos Kerkez,LIV,LIV,True,Matched eligible,Player Registry,Exact Name + Club,358.0,Milos Kerkez,False,Confirmed
+063q8,Mikkel Damsgaard,BRF,BRF,True,Matched eligible,Player Registry,Exact Name + Club,96.0,Mikkel Damsgaard,False,Confirmed
+038ze,Alex Iwobi,FUL,FUL,True,Matched eligible,Player Registry,Exact Name + Club,261.0,Alex Iwobi,False,Confirmed
+067zv,Kevin Schade,BRF,BRF,True,Matched eligible,Player Registry,Exact Name + Club,94.0,Kevin Schade,False,Confirmed
+05nt6,Eberechi Eze,ARS,ARS,True,Matched eligible,Player Registry,Exact Name + Club,14.0,Eberechi Eze,False,Transferred
+05o6h,Kai Havertz,ARS,ARS,True,Matched eligible,Player Registry,Exact Name + Club,26.0,Kai Havertz,False,Confirmed
+070g7,Nick Woltemade,NEW,NEW,True,Matched eligible,Player Registry,Exact Name + Club,463.0,Nick Woltemade,False,Confirmed
+076qg,Victor Munoz,LIV,LIV,True,Matched eligible,Player Registry,Exact Name + Club,377.0,Victor Munoz,False,New EPL Arrival
+02lm7,Jack Grealish,MCI,MCI,True,Matched eligible,Player Registry,Exact Name + Club,238.0,Jack Grealish,False,Transferred
+062ci,Kaoru Mitoma,BHA,BHA,True,Matched eligible,Player Registry,Explicit Player Alias,121.0,Mitoma Kaoru,False,Confirmed
+07848,Johan Manzambi,AVL,AVL,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06nu7,Riccardo Calafiori,ARS,ARS,True,Matched eligible,Player Registry,Exact Name + Club,8.0,Riccardo Calafiori,False,Confirmed
+06yxe,Estevao,CHE,CHE,True,Matched eligible,Player Registry,Explicit Player Alias,157.0,Estêvão Almeida de Oliveira Gonçalves,False,Confirmed
+05y9n,Lewis Hall,NEW,NEW,True,Matched eligible,Player Registry,Exact Name + Club,449.0,Lewis Hall,False,Confirmed
+06pia,Maxence Lacroix,CRY,CRY,True,Matched eligible,Player Registry,Exact Name + Club,200.0,Maxence Lacroix,False,Confirmed
+05r8o,Jean-Philippe Mateta,CRY,CRY,True,Matched eligible,Player Registry,Exact Name + Club,223.0,Jean-Philippe Mateta,False,Confirmed
+063e7,Marcos Senesi,TOT,TOT,True,Matched eligible,Player Registry,Ordered Token Expanded Name,498.0,Marcos Senesi Barón,False,Transferred
+06rm8,Mathys Tel,TOT,TOT,True,Matched eligible,Player Registry,Exact Name + Club,514.0,Mathys Tel,False,Confirmed
+06pe1,Mateus Fernandes,TOT,TOT,True,Matched eligible,Player Registry,Explicit Player Alias,525.0,Mateus Fernandes,False,Transferred
+05oh0,Jan-Paul van Hecke,TOT,TOT,True,Matched eligible,Player Registry,Exact Name + Club,112.0,Jan Paul van Hecke,False,Transferred
+06ex4,Josko Gvardiol,MCI,MCI,True,Matched eligible,Player Registry,Exact Name + Club,391.0,Joško Gvardiol,False,Confirmed
+06f8y,Alex Scott,BOU,BOU,True,Matched eligible,Player Registry,Exact Name + Club,69.0,Alex Scott,False,Confirmed
+0477b,Oliver McBurnie,HUL,HUL,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+0784x,Daizen Maeda,IPS,IPS,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06fxe,Ryan Gravenberch,LIV,LIV,True,Matched eligible,Player Registry,Exact Name + Club,371.0,Ryan Gravenberch,False,Confirmed
+072zs,Nilson Angulo,SUN,SUN,True,Matched eligible,Player Registry,Exact Name + Club,551.0,Nilson Angulo,False,Confirmed
+062a9,Sven Botman,NEW,NEW,True,Matched eligible,Player Registry,Exact Name + Club,447.0,Sven Botman,False,Confirmed
+070f9,Yeremy Pino,CRY,CRY,True,Matched eligible,Player Registry,Ordered Token Expanded Name,211.0,Yéremy Pino Santos,False,Confirmed
+0635j,Chris Richards,CRY,CRY,True,Matched eligible,Player Registry,Exact Name + Club,202.0,Chris Richards,False,Confirmed
+0435m,Granit Xhaka,SUN,SUN,True,Matched eligible,Player Registry,Exact Name + Club,544.0,Granit Xhaka,False,Confirmed
+0784p,Hayden Hackney,EVE,EVE,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+0700p,Malick Thiaw,NEW,NEW,True,Matched eligible,Player Registry,Exact Name + Club,445.0,Malick Thiaw,False,Confirmed
+04abn,Harvey Barnes,NEW,NEW,True,Matched eligible,Player Registry,Exact Name + Club,453.0,Harvey Barnes,False,Confirmed
+06v05,Jeremie Frimpong,LIV,LIV,True,Matched eligible,Player Registry,Exact Name + Club,357.0,Jeremie Frimpong,False,Confirmed
+070hc,Brian Brobbey,SUN,SUN,True,Matched eligible,Player Registry,Exact Name + Club,552.0,Brian Brobbey,False,Confirmed
+06mvz,Savio,MCI,MCI,True,Matched eligible,Player Registry,Explicit Player Alias,403.0,Sávio Moreira de Oliveira,False,Confirmed
+06rgg,Michael Kayode,BRF,BRF,True,Matched eligible,Player Registry,Exact Name + Club,88.0,Michael Kayode,False,Confirmed
+061vn,Rodrigo Muniz,FUL,FUL,True,Matched eligible,Player Registry,Ordered Token Expanded Name,271.0,Rodrigo Muniz Carvalho,False,Confirmed
+06fvn,Beto,EVE,EVE,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+06p6j,Evanilson,BOU,BOU,True,Matched eligible,Player Registry,Explicit Player Alias,79.0,Francisco Evanilson de Lima Barbosa,False,Confirmed
+06mpp,Mats Wieffer,BHA,BHA,True,Matched eligible,Player Registry,Exact Name + Club,130.0,Mats Wieffer,False,Confirmed
+06cms,Sandro Tonali,TOT,TOT,True,Matched eligible,Player Registry,Exact Name + Club,455.0,Sandro Tonali,False,Transferred
+051k0,John McGinn,AVL,AVL,True,Matched eligible,Player Registry,Exact Name + Club,45.0,John McGinn,False,Confirmed
+06r5b,Diego Gomez,BHA,BHA,True,Matched eligible,Player Registry,Ordered Token Expanded Name,127.0,Diego Gómez Amarilla,False,Confirmed
+06r2g,Rio Ngumoha,LIV,LIV,True,Matched eligible,Player Registry,Exact Name + Club,369.0,Rio Ngumoha,False,Confirmed
+070cj,Noah Okafor,LEE,LEE,True,Matched eligible,Player Registry,Exact Name + Club,336.0,Noah Okafor,False,Confirmed
+0700t,Omar Alderete,SUN,SUN,True,Matched eligible,Player Registry,Exact Name + Club,535.0,Omar Alderete,False,Confirmed
+03gu4,Harry Maguire,MUN,MUN,True,Matched eligible,Player Registry,Exact Name + Club,418.0,Harry Maguire,False,Confirmed
+05t6x,William Osula,NEW,NEW,True,Matched eligible,Player Registry,Exact Name + Club,465.0,William Osula,False,Confirmed
+06jgs,Adam Wharton,CRY,CRY,True,Matched eligible,Player Registry,Exact Name + Club,210.0,Adam Wharton,False,Confirmed
+061vk,Jaidon Anthony,BRF,BRF,True,Matched eligible,Player Registry,Exact Name + Club,105.0,Jaidon Anthony,False,Transferred
+05220,Sepp van den Berg,BRF,BRF,True,Matched eligible,Player Registry,Exact Name + Club,85.0,Sepp van den Berg,False,Confirmed
+06v0y,Luka Vuskovic,BHA,BHA,True,Matched eligible,Player Registry,Exact Name + Club,504.0,Luka Vušković,False,Transferred
+068n8,Noni Madueke,ARS,ARS,True,Matched eligible,Player Registry,Exact Name + Club,16.0,Noni Madueke,False,Confirmed
+06y9o,Igor Jesus,NOT,NOT,True,Matched eligible,Player Registry,Ordered Token Expanded Name,491.0,Igor Jesus Maciel da Cruz,False,Confirmed
+0524k,Rodri,MCI,MCI,True,Matched eligible,Player Registry,Explicit Player Alias,402.0,Rodrigo 'Rodri' Hernandez Cascante,False,Confirmed
+05o4b,Matty Cash,AVL,AVL,True,Matched eligible,Player Registry,Exact Name + Club,32.0,Matty Cash,False,Confirmed
+051kl,Emiliano Buendia,AVL,AVL,True,Matched eligible,Player Registry,Ordered Token Expanded Name,41.0,Emiliano Buendía Stati,False,Confirmed
+05os4,Rayan Ait-Nouri,MCI,MCI,True,Matched eligible,Player Registry,Exact Name + Club,392.0,Rayan Aït-Nouri,False,Confirmed
+05l2z,Bobby Thomas,COV,COV,True,Matched eligible,Player Registry,Exact Name + Club,173.0,Bobby Thomas,False,New EPL Arrival
+06y9m,Maxim De Cuyper,BHA,BHA,True,Matched eligible,Player Registry,Exact Name + Club,115.0,Maxim De Cuyper,False,Confirmed
+06mgd,Abdul Fatawu,IPS,IPS,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+05ylx,Dejan Kulusevski,TOT,TOT,True,Matched eligible,Player Registry,Exact Name + Club,521.0,Dejan Kulusevski,False,Confirmed
+05mzz,Pascal Struijk,BHA,BHA,True,Matched eligible,Player Registry,Exact Name + Club,328.0,Pascal Struijk,False,Transferred
+0784y,Tarik Muharemovic,LEE,LEE,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+04lav,Ethan Ampadu,LEE,LEE,True,Matched eligible,Player Registry,Exact Name + Club,338.0,Ethan Ampadu,False,Confirmed
+02lnx,Danny Welbeck,BHA,BHA,True,Matched eligible,Player Registry,Exact Name + Club,136.0,Danny Welbeck,False,Confirmed
+070hq,Piero Hincapie,ARS,ARS,True,Matched eligible,Player Registry,Exact Name + Club,9.0,Piero Hincapié,False,Confirmed
+06v0g,Trai Hume,SUN,SUN,True,Matched eligible,Player Registry,Exact Name + Club,534.0,Trai Hume,False,Confirmed
+06v51,Jaka Bijol,LEE,LEE,True,Matched eligible,Player Registry,Exact Name + Club,327.0,Jaka Bijol,False,Confirmed
+05uor,Yoane Wissa,NEW,NEW,True,Matched eligible,Player Registry,Exact Name + Club,464.0,Yoane Wissa,False,Transferred
+0522h,Alexis Mac Allister,LIV,LIV,True,Matched eligible,Player Registry,Exact Name + Club,372.0,Alexis Mac Allister,False,Confirmed
+06phe,Ferdi Kadioglu,BHA,BHA,True,Matched eligible,Player Registry,Unique Fuzzy,113.0,Ferdi Kadıoğlu,False,Confirmed
+06rf9,Omar Marmoush,MCI,MCI,True,Matched eligible,Player Registry,Exact Name + Club,401.0,Omar Marmoush,False,Confirmed
+04qfz,Diogo Dalot,MUN,MUN,True,Matched eligible,Player Registry,Ordered Token Expanded Name,417.0,Diogo Dalot Teixeira,False,Confirmed
+05ubv,Omari Hutchinson,NOT,NOT,True,Matched eligible,Player Registry,Exact Name + Club,484.0,Omari Hutchinson,False,Transferred
+05tqx,David Raya,ARS,ARS,True,Matched eligible,Player Registry,Ordered Token Expanded Name,1.0,David Raya Martín,False,Confirmed
+06znb,Robin Roefs,SUN,SUN,True,Matched eligible,Player Registry,Exact Name + Club,529.0,Robin Roefs,False,Confirmed
+05akv,Tyrick Mitchell,CRY,CRY,True,Matched eligible,Player Registry,Exact Name + Club,204.0,Tyrick Mitchell,False,Confirmed
+0666p,Kobbie Mainoo,MUN,MUN,True,Matched eligible,Player Registry,Exact Name + Club,432.0,Kobbie Mainoo,False,Confirmed
+05l27,Jarrad Branthwaite,EVE,EVE,True,Matched eligible,Player Registry,Exact Name + Club,230.0,Jarrad Branthwaite,False,Confirmed
+04io4,Richarlison,TOT,TOT,True,Matched eligible,Player Registry,Explicit Player Alias,527.0,Richarlison de Andrade,False,Confirmed
+067ys,Jack Hinshelwood,BHA,BHA,True,Matched eligible,Player Registry,Exact Name + Club,123.0,Jack Hinshelwood,False,Confirmed
+062p5,Levi Colwill,CHE,CHE,True,Matched eligible,Player Registry,Ordered Token Expanded Name,149.0,Levi Samuels Colwill,False,Confirmed
+052cb,Ian Maatsen,AVL,AVL,True,Matched eligible,Player Registry,Exact Name + Club,36.0,Ian Maatsen,False,Confirmed
+03ybi,Marcus Rashford,MUN,MUN,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+05ye7,Oscar Bobb,FUL,FUL,True,Matched eligible,Player Registry,Exact Name + Club,264.0,Oscar Bobb,False,Transferred
+05u1m,Nathan Collins,BRF,BRF,True,Matched eligible,Player Registry,Exact Name + Club,84.0,Nathan Collins,False,Confirmed
+06clt,Justin Kluivert,BOU,BOU,True,Matched eligible,Player Registry,Exact Name + Club,70.0,Justin Kluivert,False,Confirmed
+02m5b,Chris Wood,NOT,NOT,True,Matched eligible,Player Registry,Exact Name + Club,490.0,Chris Wood,False,Confirmed
+070hj,Kevin,FUL,FUL,True,Matched eligible,Player Registry,Explicit Player Alias,263.0,Kevin Santos Lopes de Macedo,False,Confirmed
+045ob,Caoimhin Kelleher,BRF,BRF,True,Matched eligible,Player Registry,Exact Name + Club,82.0,Caoimhín Kelleher,False,Confirmed
+04mi4,Callum Hudson-Odoi,NOT,NOT,True,Matched eligible,Player Registry,Exact Name + Club,482.0,Callum Hudson-Odoi,False,Confirmed
+05nil,Leif Davis,IPS,IPS,True,Matched eligible,Player Registry,Exact Name + Club,305.0,Leif Davis,False,New EPL Arrival
+05tr9,Mathias Jensen,BRF,BRF,True,Matched eligible,Player Registry,Exact Name + Club,97.0,Mathias Jensen,False,Confirmed
+06fuw,Djordje Petrovic,BOU,BOU,True,Matched eligible,Player Registry,Explicit Player Alias,57.0,Đorđe Petrović,False,Confirmed
+05rb8,Moises Caicedo,CHE,CHE,True,Matched eligible,Player Registry,Ordered Token Expanded Name,159.0,Moisés Caicedo Corozo,False,Confirmed
+05rff,Jaden Philogene,IPS,IPS,True,Matched eligible,Player Registry,Exact Name + Club,318.0,Jaden Philogene,False,New EPL Arrival
+0521z,James Justin,LEE,LEE,True,Matched eligible,Player Registry,Exact Name + Club,332.0,James Justin,False,Transferred
+032f9,Jordan Pickford,EVE,EVE,True,Matched eligible,Player Registry,Exact Name + Club,226.0,Jordan Pickford,False,Confirmed
+0784z,Jeremy Jacquet,LIV,LIV,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+068yc,Yasin Ayari,BHA,BHA,True,Matched eligible,Player Registry,Exact Name + Club,129.0,Yasin Ayari,False,Confirmed
+05ogb,Anthony Elanga,NEW,NEW,True,Matched eligible,Player Registry,Exact Name + Club,454.0,Anthony Elanga,False,Confirmed
+076dq,Mohamed Belloumi,HUL,HUL,True,Matched eligible,Player Registry,Exact Name + Club,286.0,Mohamed Belloumi,False,New EPL Arrival
+076da,Haji Wright,COV,COV,True,Matched eligible,Player Registry,Exact Name + Club,193.0,Haji Wright,False,New EPL Arrival
+0784o,Oscar Mingueza,CRY,CRY,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06zbz,Hugo Ekitike,LIV,LIV,True,Matched eligible,Player Registry,Exact Name + Club,380.0,Hugo Ekitiké,False,Confirmed
+052h5,Gabriel Martinelli,ARS,ARS,True,Matched eligible,Player Registry,Ordered Token Expanded Name,18.0,Gabriel Martinelli Silva,False,Confirmed
+03gu5,Andrew Robertson,TOT,TOT,True,Matched eligible,Player Registry,Exact Name + Club,502.0,Andrew Robertson,False,Transferred
+070hs,Gianluigi Donnarumma,MCI,MCI,True,Matched eligible,Player Registry,Exact Name + Club,384.0,Gianluigi Donnarumma,False,Confirmed
+062p3,Keane Lewis-Potter,BRF,BRF,True,Matched eligible,Player Registry,Exact Name + Club,86.0,Keane Lewis-Potter,False,Confirmed
+062ts,Djed Spence,TOT,TOT,True,Matched eligible,Player Registry,Exact Name + Club,505.0,Djed Spence,False,Confirmed
+02lz0,Emiliano Martinez,AVL,AVL,True,Matched eligible,Player Registry,Ordered Token Expanded Name,28.0,Emiliano Martínez Romero,False,Confirmed
+06mow,Jorgen Strand Larsen,CRY,CRY,True,Matched eligible,Player Registry,Unique Fuzzy,222.0,Jørgen Strand Larsen,False,Transferred
+060wh,Alejandro Garnacho,AVL,AVL,True,Matched eligible,Player Registry,Ordered Token Expanded Name,160.0,Alejandro Garnacho Ferreyra,False,Transferred
+044ei,Nick Pope,NEW,NEW,True,Matched eligible,Player Registry,Exact Name + Club,442.0,Nick Pope,False,Confirmed
+06zqq,Jorrel Hato,CHE,CHE,True,Matched eligible,Player Registry,Exact Name + Club,148.0,Jorrel Hato,False,Confirmed
+06ab3,Lewis Miley,NEW,NEW,True,Matched eligible,Player Registry,Exact Name + Club,459.0,Lewis Miley,False,Confirmed
+076d9,Ephron Mason-Clark,COV,COV,True,Matched eligible,Player Registry,Exact Name + Club,186.0,Ephron Mason-Clark,False,New EPL Arrival
+070hl,Senne Lammens,MUN,MUN,True,Matched eligible,Player Registry,Exact Name + Club,412.0,Senne Lammens,False,Confirmed
+076kf,Geovany Quenda,CHE,CHE,True,Matched eligible,Player Registry,Exact Name + Club,164.0,Geovany Quenda,False,New EPL Arrival
+062oh,Jake O'Brien,EVE,EVE,True,Matched eligible,Player Registry,Exact Name + Club,232.0,Jake O'Brien,False,Confirmed
+03frx,Ola Aina,NOT,NOT,True,Matched eligible,Player Registry,Exact Name + Club,473.0,Ola Aina,False,Confirmed
+06mw0,Nikola Milenkovic,NOT,NOT,True,Matched eligible,Player Registry,Exact Name + Club,471.0,Nikola Milenković,False,Confirmed
+05uox,Christos Tzolis,ARS,ARS,True,Matched eligible,Player Registry,Exact Name + Club,557.0,Christos Tzolis,False,New EPL Arrival
+061vp,Brenden Aaronson,LEE,LEE,True,Matched eligible,Player Registry,Exact Name + Club,337.0,Brenden Aaronson,False,Confirmed
+06v06,Tijjani Reijnders,MCI,MCI,True,Matched eligible,Player Registry,Exact Name + Club,404.0,Tijjani Reijnders,False,Confirmed
+05os8,Joachim Andersen,FUL,FUL,True,Matched eligible,Player Registry,Exact Name + Club,253.0,Joachim Andersen,False,Confirmed
+0558w,William Saliba,ARS,ARS,True,Matched eligible,Player Registry,Exact Name + Club,6.0,William Saliba,False,Confirmed
+06zna,Dan Ndoye,NOT,NOT,True,Matched eligible,Player Registry,Exact Name + Club,483.0,Dan Ndoye,False,Confirmed
+0784w,Emersonn,IPS,IPS,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+051k8,Conor Gallagher,TOT,TOT,True,Matched eligible,Player Registry,Exact Name + Club,519.0,Conor Gallagher,False,Transferred
+03yww,Dean Henderson,CRY,CRY,True,Matched eligible,Player Registry,Exact Name + Club,198.0,Dean Henderson,False,Confirmed
+06fwz,Murillo,NOT,NOT,True,Matched eligible,Player Registry,Explicit Player Alias,472.0,Murillo Costa dos Santos,False,Confirmed
+068yt,Sasa Lukic,FUL,FUL,True,Matched eligible,Player Registry,Exact Name + Club,267.0,Saša Lukić,False,Confirmed
+06zbm,Cristhian Mosquera,ARS,ARS,True,Matched eligible,Player Registry,Exact Name + Club,11.0,Cristhian Mosquera,False,Confirmed
+0785d,Bazoumana Toure,NEW,NEW,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+0784b,Marco Palestra,CHE,CHE,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+076d0,Milan van Ewijk,COV,COV,True,Matched eligible,Player Registry,Exact Name + Club,175.0,Milan van Ewijk,False,New EPL Arrival
+076d7,Victor Torp,COV,COV,True,Matched eligible,Player Registry,Exact Name + Club,188.0,Victor Torp,False,New EPL Arrival
+061va,Boubacar Kamara,AVL,AVL,True,Matched eligible,Player Registry,Exact Name + Club,47.0,Boubacar Kamara,False,Confirmed
+04f6h,Matz Sels,NOT,NOT,True,Matched eligible,Player Registry,Exact Name + Club,467.0,Matz Sels,False,Confirmed
+04sjt,Alisson Becker,LIV,LIV,True,Matched eligible,Player Registry,Explicit Player Alias,350.0,Alisson Becker,False,Confirmed
+02oq6,Luke Shaw,MUN,MUN,True,Matched eligible,Player Registry,Exact Name + Club,423.0,Luke Shaw,False,Confirmed
+06jb3,Ted Curd,CHE,CHE,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06r9w,Abdukodir Khusanov,MCI,MCI,True,Matched eligible,Player Registry,Exact Name + Club,393.0,Abdukodir Khusanov,False,Confirmed
+05ybq,Vitalii Mykolenko,EVE,EVE,True,Matched eligible,Player Registry,Exact Name + Club,233.0,Vitalii Mykolenko,False,Confirmed
+05omu,Ruben Dias,MCI,MCI,True,Matched eligible,Player Registry,Ordered Token Expanded Name,390.0,Rúben dos Santos Gato Alves Dias,False,Confirmed
+03am7,Jacob Murphy,NEW,NEW,True,Matched eligible,Player Registry,Exact Name + Club,457.0,Jacob Murphy,False,Confirmed
+05oeh,Kenny Tete,FUL,FUL,True,Matched eligible,Player Registry,Exact Name + Club,256.0,Kenny Tete,False,Confirmed
+06clz,Malo Gusto,CHE,CHE,True,Matched eligible,Player Registry,Exact Name + Club,144.0,Malo Gusto,False,Confirmed
+05oz3,James Trafford,MCI,MCI,True,Matched eligible,Player Registry,Exact Name + Club,385.0,James Trafford,False,Confirmed
+070hb,Jaydee Canvot,CRY,CRY,True,Matched eligible,Player Registry,Exact Name + Club,203.0,Jaydee Canvot,False,Confirmed
+076kg,Emmanuel Emegha,CHE,CHE,True,Matched eligible,Player Registry,Exact Name + Club,170.0,Emmanuel Emegha,False,New EPL Arrival
+05tre,Vitaly Janelt,BRF,BRF,True,Matched eligible,Player Registry,Exact Name + Club,98.0,Vitaly Janelt,False,Confirmed
+06ybp,Thierno Barry,EVE,EVE,True,Matched eligible,Player Registry,Exact Name + Club,249.0,Thierno Barry,False,Confirmed
+06cmu,Bart Verbruggen,BHA,BHA,True,Matched eligible,Player Registry,Exact Name + Club,109.0,Bart Verbruggen,False,Confirmed
+04tm0,Lucas Digne,AVL,AVL,True,Matched eligible,Player Registry,Exact Name + Club,30.0,Lucas Digne,False,Confirmed
+05uoc,Cristian Romero,TOT,TOT,True,Matched eligible,Player Registry,Exact Name + Club,500.0,Cristian Romero,False,Confirmed
+04p0d,Dwight McNeil,EVE,EVE,True,Matched eligible,Player Registry,Exact Name + Club,241.0,Dwight McNeil,False,Confirmed
+052ca,Ezri Konsa,AVL,AVL,True,Matched eligible,Player Registry,Ordered Token Expanded Name,31.0,Ezri Konsa Ngoyo,False,Confirmed
+068a0,Andrey Santos,MUN,MUN,True,Matched eligible,Player Registry,Ordered Token Expanded Name,162.0,Andrey Nascimento dos Santos,False,Transferred
+06r6s,Antonin Kinsky,TOT,TOT,True,Matched eligible,Player Registry,Exact Name + Club,496.0,Antonín Kinský,False,Confirmed
+076cz,Liam Kitching,COV,COV,True,Matched eligible,Player Registry,Exact Name + Club,174.0,Liam Kitching,False,New EPL Arrival
+076d3,Jack Rudoni,COV,COV,True,Matched eligible,Player Registry,Exact Name + Club,183.0,Jack Rudoni,False,New EPL Arrival
+06y9z,Martin Zubimendi,ARS,ARS,True,Matched eligible,Player Registry,Ordered Token Expanded Name,19.0,Martín Zubimendi Ibáñez,False,Confirmed
+0327r,Michael Keane,EVE,EVE,True,Matched eligible,Player Registry,Exact Name + Club,231.0,Michael Keane,False,Confirmed
+04qor,Bernd Leno,FUL,FUL,True,Matched eligible,Player Registry,Exact Name + Club,250.0,Bernd Leno,False,Confirmed
+0689w,Georginio Rutter,BHA,BHA,True,Matched eligible,Player Registry,Exact Name + Club,125.0,Georginio Rutter,False,Confirmed
+0645x,Divin Mubama,MCI,MCI,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06ezb,Micky van de Ven,TOT,TOT,True,Matched eligible,Player Registry,Exact Name + Club,503.0,Micky van de Ven,False,Confirmed
+04ym7,Lucas Perri,LEE,LEE,True,Matched eligible,Player Registry,Ordered Token Expanded Name,326.0,Lucas Estella Perri,False,Confirmed
+02lpf,Ross Barkley,AVL,AVL,True,Matched eligible,Player Registry,Exact Name + Club,46.0,Ross Barkley,False,Confirmed
+04qfq,Matt O'Riley,BHA,BHA,True,Matched eligible,Player Registry,Exact Name + Club,126.0,Matt O'Riley,False,Confirmed
+04qfm,Ryan Sessegnon,FUL,FUL,True,Matched eligible,Player Registry,Exact Name + Club,269.0,Ryan Sessegnon,False,Confirmed
+04gpx,Dara O'Shea,IPS,IPS,True,Matched eligible,Player Registry,Exact Name + Club,304.0,Dara O'Shea,False,New EPL Arrival
+063y7,Destiny Udogie,TOT,TOT,True,Matched eligible,Player Registry,Exact Name + Club,506.0,Destiny Udogie,False,Confirmed
+05s08,Valentino Livramento,NEW,NEW,True,Matched eligible,Player Registry,Explicit Player Alias,450.0,Tino Livramento,False,Confirmed
+051k3,Jacob Ramsey,NEW,NEW,True,Matched eligible,Player Registry,Exact Name + Club,456.0,Jacob Ramsey,False,Transferred
+07867,Trialist,MCI,MCI,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+0554i,Joelinton,NEW,NEW,True,Matched eligible,Player Registry,Explicit Player Alias,458.0,Joelinton Cássio Apolinário de Lira,False,Confirmed
+06zbp,Max Dowman,ARS,ARS,True,Matched eligible,Player Registry,Exact Name + Club,20.0,Max Dowman,False,Confirmed
+04yme,Robert Sanchez,CHE,CHE,True,Matched eligible,Player Registry,Ordered Token Expanded Name,140.0,Robert Lynch Sánchez,False,Confirmed
+068yd,Joao Gomes,AVL,AVL,True,Matched eligible,Player Registry,Exact Name + Club,54.0,Joao Gomes,False,Transferred
+0785w,Jack Wint,MCI,MCI,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06ews,Dermot Mee,MUN,MUN,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+061ya,Brennan Johnson,CRY,CRY,True,Matched eligible,Player Registry,Exact Name + Club,209.0,Brennan Johnson,False,Transferred
+05m47,George Hirst,IPS,IPS,True,Matched eligible,Player Registry,Exact Name + Club,317.0,George Hirst,False,New EPL Arrival
+062h7,Tyler Adams,BOU,BOU,True,Matched eligible,Player Registry,Exact Name + Club,73.0,Tyler Adams,False,Confirmed
+04hk9,Mikel Merino,ARS,ARS,True,Matched eligible,Player Registry,Ordered Token Expanded Name,17.0,Mikel Merino Zazón,False,Confirmed
+06xzd,Charalampos Kostoulas,BHA,BHA,True,Matched eligible,Player Registry,Exact Name + Club,138.0,Charalampos Kostoulas,False,Confirmed
+06l4i,Tyrique George,EVE,EVE,True,Matched eligible,Player Registry,Exact Name + Club,242.0,Tyrique George,False,Transferred
+03mfe,Matt Grimes,COV,COV,True,Matched eligible,Player Registry,Exact Name + Club,184.0,Matt Grimes,False,New EPL Arrival
+032aa,Jack Butland,HUL,HUL,True,Matched eligible,Player Registry,Exact Name + Club,274.0,Jack Butland,False,New EPL Arrival
+05m9r,Ellis Simms,COV,COV,True,Matched eligible,Player Registry,Exact Name + Club,195.0,Ellis Simms,False,New EPL Arrival
+04tig,Fabian Schar,NEW,NEW,True,Matched eligible,Player Registry,Exact Name + Club,446.0,Fabian Schär,False,Confirmed
+052cd,Mason Mount,MUN,MUN,True,Matched eligible,Player Registry,Exact Name + Club,430.0,Mason Mount,False,Confirmed
+06p4k,Matthijs de Ligt,MUN,MUN,True,Matched eligible,Player Registry,Exact Name + Club,416.0,Matthijs de Ligt,False,Confirmed
+02lsa,Dan Burn,NEW,NEW,True,Matched eligible,Player Registry,Exact Name + Club,448.0,Dan Burn,False,Confirmed
+070fa,Xavi Simons,TOT,TOT,True,Matched eligible,Player Registry,Exact Name + Club,513.0,Xavi Simons,False,Confirmed
+076dh,Charlie Hughes,HUL,HUL,True,Matched eligible,Player Registry,Exact Name + Club,278.0,Charlie Hughes,False,New EPL Arrival
+06cmb,Guglielmo Vicario,TOT,TOT,True,Matched eligible,Player Registry,Exact Name + Club,494.0,Guglielmo Vicario,False,Confirmed
+06msc,Jacob Greaves,IPS,IPS,True,Matched eligible,Player Registry,Exact Name + Club,306.0,Jacob Greaves,False,New EPL Arrival
+05uns,Leon Bailey,AVL,AVL,True,Matched eligible,Player Registry,Exact Name + Club,44.0,Leon Bailey,False,Confirmed
+0687c,Carlos Alcaraz,EVE,EVE,True,Matched eligible,Player Registry,Ordered Token Expanded Name,243.0,Carlos Alcaraz Durán,False,Confirmed
+066nn,Ben Doak,BOU,BOU,True,Matched eligible,Player Registry,Ordered Token Expanded Name,72.0,Ben Gannon-Doak,False,Transferred
+06jh3,Joshua King,FUL,FUL,True,Matched eligible,Player Registry,Unique Fuzzy,268.0,Josh King,False,Confirmed
+04fjz,Christian Walton,IPS,IPS,True,Matched eligible,Player Registry,Exact Name + Club,300.0,Christian Walton,False,New EPL Arrival
+03dwz,Tom Heaton,MUN,MUN,True,Matched eligible,Player Registry,Exact Name + Club,414.0,Tom Heaton,False,Confirmed
+04mup,Trevoh Chalobah,CHE,CHE,True,Matched eligible,Player Registry,Exact Name + Club,143.0,Trevoh Chalobah,False,Confirmed
+04e1e,Ben White,ARS,ARS,True,Matched eligible,Player Registry,Explicit Player Alias,10.0,Benjamin White,False,Confirmed
+04lnu,Lukas Nmecha,LEE,LEE,True,Matched eligible,Player Registry,Exact Name + Club,347.0,Lukas Nmecha,False,Confirmed
+062ct,Carl Rushworth,BHA,BHA,True,Matched eligible,Player Registry,Exact Name,110.0,Carl Rushworth,False,New EPL Arrival
+06r9h,Romain Esse,CRY,CRY,True,Matched eligible,Player Registry,Exact Name,216.0,Romain Esse,False,Confirmed
+03pif,Karl Darlow,MUN,MUN,True,Matched eligible,Player Registry,Exact Name + Club,325.0,Karl Darlow,False,Transferred
+05uhj,Conor Bradley,LIV,LIV,True,Matched eligible,Player Registry,Exact Name + Club,360.0,Conor Bradley,False,Confirmed
+072zp,Melker Ellborg,SUN,SUN,True,Matched eligible,Player Registry,Exact Name + Club,531.0,Melker Ellborg,False,Confirmed
+04sjv,Ryan Giles,HUL,HUL,True,Matched eligible,Player Registry,Exact Name + Club,282.0,Ryan Giles,False,New EPL Arrival
+03yr0,Daniel James,LEE,LEE,True,Matched eligible,Player Registry,Exact Name + Club,343.0,Daniel James,False,Confirmed
+062pl,Lisandro Martinez,MUN,MUN,True,Matched eligible,Player Registry,Exact Name + Club,419.0,Lisandro Martínez,False,Confirmed
+04ge9,Eddie Nketiah,CRY,CRY,True,Matched eligible,Player Registry,Exact Name + Club,224.0,Eddie Nketiah,False,Confirmed
+05244,Jack Clarke,IPS,IPS,True,Matched eligible,Player Registry,Exact Name + Club,313.0,Jack Clarke,False,New EPL Arrival
+05opl,Wesley Fofana,CHE,CHE,True,Matched eligible,Player Registry,Exact Name + Club,145.0,Wesley Fofana,False,Confirmed
+063c2,Gabriel Slonina,CHE,CHE,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+06p4j,Noussair Mazraoui,MUN,MUN,True,Matched eligible,Player Registry,Exact Name + Club,422.0,Noussair Mazraoui,False,Confirmed
+06ybq,Chemsdine Talbi,SUN,SUN,True,Matched eligible,Player Registry,Exact Name + Club,549.0,Chemsdine Talbi,False,Confirmed
+070hr,Jonah Kusi-Asare,FUL,FUL,True,Matched eligible,Player Registry,Exact Name + Club,272.0,Jonah Kusi-Asare,False,Confirmed
+05xtr,Teddy Sharman-Lowe,CHE,CHE,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+05oig,Liam Delap,CHE,CHE,True,Matched eligible,Player Registry,Exact Name + Club,167.0,Liam Delap,False,Confirmed
+06mnm,Marc Guiu,CHE,CHE,True,Matched eligible,Player Registry,Ordered Token Expanded Name,168.0,Marc Guiu Paz,False,Transferred
+076db,Brandon Thomas-Asante,COV,COV,True,Matched eligible,Player Registry,Exact Name + Club,194.0,Brandon Thomas-Asante,False,New EPL Arrival
+076d4,Tatsuhiro Sakamoto,COV,COV,True,Matched eligible,Player Registry,Exact Name + Club,185.0,Tatsuhiro Sakamoto,False,New EPL Arrival
+05n3u,Joe Gelhardt,LEE,LEE,True,Matched eligible,Player Registry,Exact Name,340.0,Joe Gelhardt,False,Confirmed
+05w7t,Pape Sarr,TOT,TOT,True,Matched eligible,Player Registry,Ordered Token Expanded Name,518.0,Pape Matar Sarr,False,Confirmed
+05o8o,Jayden Bogle,LEE,LEE,True,Matched eligible,Player Registry,Exact Name + Club,330.0,Jayden Bogle,False,Confirmed
+0410j,Tammy Abraham,AVL,AVL,True,Matched eligible,Player Registry,Exact Name + Club,56.0,Tammy Abraham,False,Transferred
+04f6o,Will Hughes,CRY,CRY,True,Matched eligible,Player Registry,Exact Name + Club,212.0,Will Hughes,False,Confirmed
+066sd,Myles Lewis-Skelly,ARS,ARS,True,Matched eligible,Player Registry,Exact Name + Club,7.0,Myles Lewis-Skelly,False,Confirmed
+06xzc,Stefanos Tzimas,BHA,BHA,True,Matched eligible,Player Registry,Exact Name + Club,137.0,Stefanos Tzimas,False,Confirmed
+06zwj,Evann Guessand,AVL,AVL,True,Matched eligible,Player Registry,Exact Name + Club,42.0,Evann Guessand,False,Transferred
+03yqz,Joe Rodon,LEE,LEE,True,Matched eligible,Player Registry,Exact Name + Club,329.0,Joe Rodon,False,Confirmed
+06v0m,Luke O'Nien,SUN,SUN,True,Matched eligible,Player Registry,Exact Name + Club,539.0,Luke O'Nien,False,Confirmed
+06y26,Olivier Boscagli,BHA,BHA,True,Matched eligible,Player Registry,Exact Name + Club,114.0,Olivier Boscagli,False,Confirmed
+06xzg,Giorgi Mamardashvili,LIV,LIV,True,Matched eligible,Player Registry,Exact Name + Club,351.0,Giorgi Mamardashvili,False,Confirmed
+06y29,Habib Diarra,SUN,SUN,True,Matched eligible,Player Registry,Exact Name + Club,543.0,Habib Diarra,False,Confirmed
+066r9,Ehor Yarmolyuk,BRF,BRF,True,Matched eligible,Player Registry,Explicit Player Alias,102.0,Yehor Yarmoliuk,False,Confirmed
+06v0t,Wilson Isidor,SUN,SUN,True,Matched eligible,Player Registry,Exact Name + Club,553.0,Wilson Isidor,False,Confirmed
+061ve,Ryan Christie,BOU,BOU,True,Matched eligible,Player Registry,Exact Name + Club,75.0,Ryan Christie,False,Confirmed
+04rzl,Taiwo Awoniyi,NOT,NOT,True,Matched eligible,Player Registry,Exact Name + Club,492.0,Taiwo Awoniyi,False,Confirmed
+04e1c,Lewis Dunk,BHA,BHA,True,Matched eligible,Player Registry,Exact Name + Club,116.0,Lewis Dunk,False,Confirmed
+06y59,Noah Sadiki,SUN,SUN,True,Matched eligible,Player Registry,Exact Name + Club,545.0,Noah Sadiki,False,Confirmed
+06ymt,Marco Bizot,AVL,AVL,True,Matched eligible,Player Registry,Exact Name + Club,29.0,Marco Bizot,False,Confirmed
+05ue7,Frank Onyeka,COV,COV,True,Matched eligible,Player Registry,Exact Name + Club,104.0,Frank Onyeka,False,Transferred
+06cmt,Tom King,EVE,EVE,True,Matched eligible,Player Registry,Exact Name + Club,228.0,Tom King,False,Transferred
+06uzy,Ao Tanaka,LEE,LEE,True,Matched eligible,Player Registry,Explicit Player Alias,345.0,Tanaka Ao,False,Confirmed
+02t13,David Button,IPS,IPS,True,Matched eligible,Player Registry,Exact Name + Club,302.0,David Button,False,New EPL Arrival
+06h1g,Aidan Harris,NEW,NEW,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+076dv,Marcelino Nunez,IPS,IPS,True,Matched eligible,Player Registry,Exact Name + Club,309.0,Marcelino Núñez,False,New EPL Arrival
+06crm,Pau Torres,AVL,AVL,True,Matched eligible,Player Registry,Exact Name + Club,34.0,Pau Torres,False,Confirmed
+076cw,Oliver Dovin,COV,COV,True,Matched eligible,Player Registry,Exact Name + Club,171.0,Oliver Dovin,False,New EPL Arrival
+06mn7,Lucas Bergvall,TOT,TOT,True,Matched eligible,Player Registry,Exact Name + Club,520.0,Lucas Bergvall,False,Confirmed
+070hn,Dilane Bakwa,NOT,NOT,True,Matched eligible,Player Registry,Exact Name + Club,485.0,Dilane Bakwa,False,Confirmed
+04u40,Kepa,ARS,ARS,True,Matched eligible,Player Registry,Explicit Player Alias,2.0,Kepa Arrizabalaga Revuelta,False,Confirmed
+04sat,Emile Smith Rowe,FUL,FUL,True,Matched eligible,Player Registry,Exact Name + Club,262.0,Emile Smith Rowe,False,Confirmed
+070ci,Amine Adli,BOU,BOU,True,Matched eligible,Player Registry,Exact Name + Club,77.0,Amine Adli,False,Confirmed
+0700u,Bafode Diakite,BOU,BOU,True,Matched eligible,Player Registry,Exact Name + Club,62.0,Bafodé Diakité,False,Confirmed
+05gcs,Sander Berge,FUL,FUL,True,Matched eligible,Player Registry,Exact Name + Club,265.0,Sander Berge,False,Confirmed
+06mnc,Daichi Kamada,CRY,CRY,True,Matched eligible,Player Registry,Exact Name + Club,214.0,Daichi Kamada,False,Confirmed
+0554g,Calvin Bassey,FUL,FUL,True,Matched eligible,Player Registry,Exact Name + Club,257.0,Calvin Bassey,False,Confirmed
+03fgl,Jay da Silva,COV,COV,True,Matched eligible,Player Registry,Unique Fuzzy,176.0,Jay Dasilva,False,New EPL Arrival
+06yb7,Gabriel Gudmundsson,LEE,LEE,True,Matched eligible,Player Registry,Exact Name + Club,331.0,Gabriel Gudmundsson,False,Confirmed
+052h1,Liam Millar,HUL,HUL,True,Matched eligible,Player Registry,Exact Name + Club,287.0,Liam Millar,False,New EPL Arrival
+076du,Azor Matusiwa,IPS,IPS,True,Matched eligible,Player Registry,Exact Name + Club,310.0,Azor Matusiwa,False,New EPL Arrival
+03rxa,Idrissa Gueye,EVE,EVE,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+02m5l,John Egan,HUL,HUL,True,Matched eligible,Player Registry,Exact Name + Club,277.0,John Egan,False,New EPL Arrival
+06yb9,Reinildo,SUN,SUN,True,Matched eligible,Player Registry,Explicit Player Alias,536.0,Reinildo Mandava,False,Confirmed
+06fy7,Nicolas Dominguez,NOT,NOT,True,Matched eligible,Player Registry,Exact Name + Club,487.0,Nicolás Domínguez,False,Confirmed
+076dn,Matt Crooks,HUL,HUL,True,Matched eligible,Player Registry,Exact Name + Club,289.0,Matt Crooks,False,New EPL Arrival
+076cx,Ben Wilson,COV,COV,True,Matched eligible,Player Registry,Exact Name + Club,172.0,Ben Wilson,False,New EPL Arrival
+05o2p,Regan Slater,HUL,HUL,True,Matched eligible,Player Registry,Exact Name + Club,290.0,Regan Slater,False,New EPL Arrival
+06fxu,Ibrahim Sangare,NOT,NOT,True,Matched eligible,Player Registry,Exact Name + Club,488.0,Ibrahim Sangaré,False,Confirmed
+03ksl,Semi Ajayi,HUL,HUL,True,Matched eligible,Player Registry,Exact Name + Club,279.0,Semi Ajayi,False,New EPL Arrival
+076dg,Lewie Coyle,HUL,HUL,True,Matched eligible,Player Registry,Exact Name + Club,280.0,Lewie Coyle,False,New EPL Arrival
+05t6z,Tim Iroegbunam,EVE,EVE,True,Matched eligible,Player Registry,Exact Name + Club,240.0,Tim Iroegbunam,False,Confirmed
+06mx0,Leny Yoro,MUN,MUN,True,Matched eligible,Player Registry,Exact Name + Club,420.0,Leny Yoro,False,Confirmed
+06y27,Loum Tchaouna,COV,COV,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+03mga,Darnell Furlong,IPS,IPS,True,Matched eligible,Player Registry,Exact Name + Club,308.0,Darnell Furlong,False,New EPL Arrival
+06mg2,Jack Taylor,IPS,IPS,True,Matched eligible,Player Registry,Exact Name + Club,312.0,Jack Taylor,False,New EPL Arrival
+02lp5,Adam Smith,BOU,BOU,True,Matched eligible,Player Registry,Exact Name + Club,64.0,Adam Smith,False,Confirmed
+05uds,Kjell Scherpen,IPS,IPS,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+0784a,Michael Svoboda,BHA,BHA,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+061z3,Fabio Vieira,ARS,ARS,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+05o4c,Timothy Castagne,FUL,FUL,True,Matched eligible,Player Registry,Exact Name + Club,258.0,Timothy Castagne,False,Confirmed
+07849,Alvaro Rodriguez,BOU,BOU,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+063hu,Amadou Onana,AVL,AVL,True,Matched eligible,Player Registry,Exact Name + Club,48.0,Amadou Onana,False,Confirmed
+0785j,Thomas Meunier,SUN,SUN,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+043qy,Lewis Cook,BOU,BOU,True,Matched eligible,Player Registry,Exact Name + Club,71.0,Lewis Cook,False,Confirmed
+06xzi,Tyler Bindon,NOT,NOT,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06mn1,Ibrahim Osman,BHA,BHA,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06l2r,Harry Amass,MUN,MUN,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+0784i,Aurele Amenda,COV,COV,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+04tzt,Jefferson Lerma,CRY,CRY,True,Matched eligible,Player Registry,Ordered Token Expanded Name,213.0,Jefferson Lerma Solís,False,Confirmed
+062cl,Issa Kabore,MCI,MCI,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+03rec,Tyrone Mings,AVL,AVL,True,Matched eligible,Player Registry,Exact Name + Club,33.0,Tyrone Mings,False,Confirmed
+03r93,Joseph Gomez,LIV,LIV,True,Matched eligible,Player Registry,Explicit Player Alias,359.0,Joe Gomez,False,Confirmed
+06rlf,Eiran Cashin,BHA,BHA,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+05uel,Kristoffer Ajer,BRF,BRF,True,Matched eligible,Player Registry,Exact Name + Club,87.0,Kristoffer Ajer,False,Confirmed
+070g8,Nicolo Savona,NOT,NOT,True,Matched eligible,Player Registry,Exact Name + Club,475.0,Nicolò Savona,False,Confirmed
+05o6g,Cedric Kipre,IPS,IPS,True,Matched eligible,Player Registry,Exact Name + Club,303.0,Cédric Kipré,False,New EPL Arrival
+0372y,Matt Targett,HUL,HUL,True,Matched eligible,Player Registry,Exact Name + Club,556.0,Matt Targett,False,Transferred
+062p0,Stefan Bajcetic,LIV,LIV,True,Matched eligible,Player Registry,Ordered Token Expanded Name,376.0,Stefan Bajčetić Maquieira,False,Confirmed
+057cr,Kevin Danso,TOT,TOT,True,Matched eligible,Player Registry,Exact Name + Club,501.0,Kevin Danso,False,Confirmed
+06uzt,Mike Penders,CHE,CHE,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+0656s,Radek Vitek,MUN,MUN,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+05ylw,Rodrigo Bentancur,TOT,TOT,True,Matched eligible,Player Registry,Exact Name + Club,516.0,Rodrigo Bentancur,False,Confirmed
+06v0k,Alan Browne,SUN,SUN,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+05ubt,Harry Clarke,IPS,IPS,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+04o82,Curtis Jones,LIV,LIV,True,Matched eligible,Player Registry,Exact Name + Club,373.0,Curtis Jones,False,Confirmed
+05roa,Cody Drameh,HUL,HUL,True,Matched eligible,Player Registry,Exact Name + Club,281.0,Cody Drameh,False,New EPL Arrival
+076dw,Anis Mehmeti,IPS,IPS,True,Matched eligible,Player Registry,Exact Name + Club,324.0,Anis Mehmeti,False,New EPL Arrival
+076d6,Josh Eccles,COV,COV,True,Matched eligible,Player Registry,Exact Name + Club,187.0,Josh Eccles,False,New EPL Arrival
+062ow,David Ozoh,CRY,CRY,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+05rjn,Jesurun Rak-Sakyi,CRY,CRY,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06r9x,Vitor Reis,MCI,MCI,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+062p1,Luke Chambers,LIV,LIV,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06v01,Ilia Gruev,LEE,LEE,True,Matched eligible,Player Registry,Exact Name + Club,344.0,Ilia Gruev,False,Confirmed
+06exk,Ashley Phillips,TOT,TOT,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+072zr,Luca Netz,NOT,NOT,True,Matched eligible,Player Registry,Exact Name + Club,478.0,Luca Netz,False,Confirmed
+04rh9,David Brooks,BOU,BOU,True,Matched eligible,Player Registry,Exact Name + Club,74.0,David Brooks,False,Confirmed
+06329,Manor Solomon,TOT,TOT,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+07853,Juma Bah,MCI,MCI,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06nbw,Jaden Heskey,MCI,MCI,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06fwi,Carlos Baleba,BHA,BHA,True,Matched eligible,Player Registry,Exact Name + Club,131.0,Carlos Baleba,False,Confirmed
+06v0f,Jenson Seelt,SUN,SUN,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+05s00,Daniel Jebbison,BOU,BOU,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+04mr4,Martin Dubravka,TOT,TOT,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+05vyj,Evan Ferguson,BHA,BHA,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+0703h,Arnaud Kalimuendo,NOT,NOT,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06ew2,Axel Disasi,CHE,CHE,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+0626q,Simon Adingra,SUN,SUN,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+05rey,Kaine Hayden,COV,COV,True,Matched eligible,Player Registry,Ordered Token Expanded Name,177.0,Kaine Kesler-Hayden,False,New EPL Arrival
+066j4,Mateo Joseph,LEE,LEE,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06fhy,Wilson Odobert,TOT,TOT,True,Matched eligible,Player Registry,Exact Name + Club,517.0,Wilson Odobert,False,Confirmed
+06nyw,Jorge Cuenca,FUL,FUL,True,Matched eligible,Player Registry,Ordered Token Expanded Name,255.0,Jorge Cuenca Barreno,False,Confirmed
+04ug0,Sean Longstaff,LEE,LEE,True,Matched eligible,Player Registry,Exact Name + Club,339.0,Sean Longstaff,False,Confirmed
+0784s,Abdulkadir Omur,HUL,HUL,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+03p9y,Alex Palmer,IPS,IPS,True,Matched eligible,Player Registry,Exact Name + Club,301.0,Alex Palmer,False,New EPL Arrival
+06mfy,Luke Woolfenden,COV,COV,True,Matched eligible,Player Registry,Exact Name + Club,180.0,Luke Woolfenden,False,New EPL Arrival
+06mg6,Wes Burns,IPS,IPS,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+04ge6,Joe Willock,NEW,NEW,True,Matched eligible,Player Registry,Exact Name + Club,460.0,Joe Willock,False,Confirmed
+06onv,Harrison Armstrong,EVE,EVE,True,Matched eligible,Player Registry,Exact Name + Club,244.0,Harrison Armstrong,False,Confirmed
+06zxx,Divine Mukasa,MCI,MCI,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06v0d,Anthony Patterson,SUN,SUN,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+05wwd,Joshua Wilson-Esbrand,MCI,MCI,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+070hi,Merlin Rohl,EVE,EVE,True,Matched eligible,Player Registry,Exact Name + Club,246.0,Merlin Röhl,False,Confirmed
+0785g,Xaver Schlager,NOT,NOT,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+0784t,Oscar Zambrano,HUL,HUL,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+062du,Darko Gyabi,HUL,HUL,True,Matched eligible,Player Registry,Exact Name + Club,297.0,Darko Gyabi,False,Transferred
+06mnb,Samuel Iling-Junior,AVL,AVL,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06do4,Louie Koumas,HUL,HUL,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+07859,Aladji Bamba,NEW,NEW,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+04h87,Joel Latibeaudiere,COV,COV,True,Matched eligible,Player Registry,Exact Name + Club,179.0,Joel Latibeaudiere,False,New EPL Arrival
+03jlw,Paddy McNair,HUL,HUL,True,Matched eligible,Player Registry,Exact Name + Club,285.0,Paddy McNair,False,New EPL Arrival
+05afj,Largie Ramazani,LEE,LEE,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+05tr8,Christian Norgaard,ARS,ARS,True,Matched eligible,Player Registry,Unique Fuzzy,21.0,Christian Nørgaard,False,Confirmed
+061y6,Ryan Yates,NOT,NOT,True,Matched eligible,Player Registry,Exact Name + Club,489.0,Ryan Yates,False,Confirmed
+06uzu,Mamadou Sarr,CHE,CHE,True,Matched eligible,Player Registry,Exact Name + Club,150.0,Mamadou Sarr,False,Confirmed
+06nbu,Stephen Mfuni,MCI,MCI,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+05tr1,Ethan Pinnock,BRF,BRF,True,Matched eligible,Player Registry,Exact Name + Club,91.0,Ethan Pinnock,False,Confirmed
+03yeg,Tosin Adarabioyo,CHE,CHE,True,Matched eligible,Player Registry,Exact Name + Club,147.0,Tosin Adarabioyo,False,Confirmed
+05tqz,Rico Henry,BRF,BRF,True,Matched eligible,Player Registry,Exact Name + Club,89.0,Rico Henry,False,Confirmed
+06y9n,Jamie Gittens,CHE,CHE,True,Matched eligible,Player Registry,Ordered Token Expanded Name,158.0,Jamie Bynoe-Gittens,False,Confirmed
+06pig,Morato,NOT,NOT,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+064a0,Wilfried Gnonto,LEE,LEE,True,Matched eligible,Player Registry,Exact Name + Club,341.0,Wilfried Gnonto,False,Confirmed
+060u6,Abu Kamara,HUL,HUL,True,Matched eligible,Player Registry,Exact Name + Club,293.0,Abu Kamara,False,New EPL Arrival
+06zbw,Benjamin Lecomte,FUL,FUL,True,Matched eligible,Player Registry,Exact Name + Club,251.0,Benjamin Lecomte,False,Confirmed
+062ot,Cheick Doucoure,CRY,CRY,True,Matched eligible,Player Registry,Exact Name + Club,218.0,Cheick Doucouré,False,Confirmed
+05udw,Romaine Mundle,SUN,SUN,True,Matched eligible,Player Registry,Exact Name + Club,547.0,Romaine Mundle,False,Confirmed
+02oo1,Ben Davies,TOT,TOT,True,Matched eligible,Player Registry,Exact Name + Club,508.0,Ben Davies,False,Confirmed
+03r8x,Callum Wilson,BRF,BRF,True,Matched eligible,Player Registry,Exact Name + Club,108.0,Callum Wilson,False,Transferred
+05y7c,Archie Gray,TOT,TOT,True,Matched eligible,Player Registry,Exact Name + Club,522.0,Archie Gray,False,Confirmed
+06phr,Gustavo Nunes,BRF,BRF,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+04ge8,Reiss Nelson,ARS,ARS,True,Matched eligible,Player Registry,Exact Name,24.0,Reiss Nelson,False,Transferred
+06cm4,Chiedozie Ogbene,IPS,IPS,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06mve,Joshua Zirkzee,MUN,MUN,True,Matched eligible,Player Registry,Exact Name + Club,440.0,Joshua Zirkzee,False,Confirmed
+06y28,Sebastiaan Bornauw,LEE,LEE,True,Matched eligible,Player Registry,Exact Name + Club,333.0,Sebastiaan Bornauw,False,Confirmed
+06pib,Manuel Ugarte,MUN,MUN,True,Matched eligible,Player Registry,Ordered Token Expanded Name,433.0,Manuel Ugarte Ribeiro,False,Confirmed
+06msb,Malick Yalcouye,BHA,BHA,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+04fk8,Victor Lindelof,AVL,AVL,True,Matched eligible,Player Registry,Exact Name + Club,37.0,Victor Lindelöf,False,Transferred
+03m5i,Freddie Woodman,LIV,LIV,True,Matched eligible,Player Registry,Exact Name + Club,352.0,Freddie Woodman,False,Confirmed
+06phw,Federico Chiesa,LIV,LIV,True,Matched eligible,Player Registry,Exact Name + Club,370.0,Federico Chiesa,False,Confirmed
+06195,Tyler Dibling,EVE,EVE,True,Matched eligible,Player Registry,Exact Name + Club,245.0,Tyler Dibling,False,Transferred
+045c8,Gabriel Jesus,ARS,ARS,True,Matched eligible,Player Registry,Ordered Token Expanded Name,27.0,Gabriel Fernando de Jesus,False,Confirmed
+06rm7,Nico Gonzalez,MCI,MCI,True,Matched eligible,Player Registry,Ordered Token Expanded Name,405.0,Nico González Iglesias,False,Confirmed
+06exa,Matheus Franca,CRY,CRY,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+076dr,David Akintola,HUL,HUL,True,Matched eligible,Player Registry,Exact Name + Club,296.0,David Akintola,False,New EPL Arrival
+06r5m,Aaron Anselmino,CHE,CHE,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+04qos,Issa Diop,IPS,IPS,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06v0l,Chris Rigg,SUN,SUN,True,Matched eligible,Player Registry,Exact Name + Club,548.0,Chris Rigg,False,Confirmed
+06ygm,Jair Cunha,NOT,NOT,True,Matched eligible,Player Registry,Ordered Token Expanded Name,474.0,Jair Paula da Cunha Filho,False,Confirmed
+05n3v,Konstantinos Tsimikas,LIV,LIV,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+067yu,Facundo Buonanotte,BHA,BHA,True,Matched eligible,Player Registry,Exact Name,128.0,Facundo Buonanotte,False,Transferred
+05y55,Kasey McAteer,IPS,IPS,True,Matched eligible,Player Registry,Exact Name + Club,323.0,Kasey McAteer,False,New EPL Arrival
+06yey,Borna Sosa,CRY,CRY,True,Matched eligible,Player Registry,Exact Name + Club,205.0,Borna Sosa,False,Confirmed
+06r5r,Matai Akinmboni,BOU,BOU,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+067x6,Max Alleyne,MCI,MCI,True,Matched eligible,Player Registry,Exact Name + Club,394.0,Max Alleyne,False,Confirmed
+076dx,Sindre Egeli,IPS,IPS,True,Matched eligible,Player Registry,Ordered Token Expanded Name,321.0,Sindre Walle Egeli,False,New EPL Arrival
+076di,Matty Jacob,HUL,HUL,True,Matched eligible,Player Registry,Exact Name + Club,283.0,Matty Jacob,False,New EPL Arrival
+04mcg,Ben Johnson,IPS,IPS,True,Matched eligible,Player Registry,Exact Name + Club,307.0,Ben Johnson,False,New EPL Arrival
+0328q,Tom Cairney,FUL,FUL,True,Matched eligible,Player Registry,Exact Name + Club,266.0,Tom Cairney,False,Confirmed
+04u41,Mateo Kovacic,MCI,MCI,True,Matched eligible,Player Registry,Exact Name + Club,406.0,Mateo Kovačić,False,Confirmed
+070h9,Veljko Milosavljevic,BOU,BOU,True,Matched eligible,Player Registry,Exact Name + Club,63.0,Veljko Milosavljevic,False,Confirmed
+065ao,Ethan Nwaneri,ARS,ARS,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06ya6,Kota Takai,TOT,TOT,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06r5d,Yang Min-Hyeok,COV,COV,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+067z4,David Datro Fofana,CHE,CHE,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06804,Benoit Badiashile,CHE,CHE,True,Matched eligible,Player Registry,Ordered Token Expanded Name,146.0,Benoît Badiashile Mukinayi,False,Confirmed
+064oo,Amario Cozier-Duberry,BHA,BHA,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+070gt,John Victor,NOT,NOT,True,Matched eligible,Player Registry,Exact Name + Club,468.0,John Victor Maciel Furtado,False,Confirmed
+05n03,Kalvin Phillips,MCI,MCI,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+072j3,Alysson Edward,AVL,AVL,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+02lpi,Jake Bidwell,COV,COV,True,Matched eligible,Player Registry,Exact Name + Club,178.0,Jake Bidwell,False,New EPL Arrival
+06uzv,Dario Essugo,CHE,CHE,True,Matched eligible,Player Registry,Ordered Token Expanded Name,163.0,Dário Luís Essugo,False,Confirmed
+06kx1,Justin Devenny,CRY,CRY,True,Matched eligible,Player Registry,Exact Name + Club,215.0,Justin Devenny,False,Confirmed
+05ojf,Fabio Carvalho,BRF,BRF,True,Matched eligible,Player Registry,Ordered Token Expanded Name,100.0,Fábio Freitas Gouveia Carvalho,False,Confirmed
+06ils,Yunus Konak,BRF,BRF,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+0326x,Chuba Akpom,IPS,IPS,True,Matched eligible,Player Registry,Exact Name + Club,320.0,Chuba Akpom,False,New EPL Arrival
+066t3,Jamie Donley,TOT,TOT,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+072mq,Brian Madjo,AVL,AVL,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+06v02,Joel Piroe,LEE,LEE,True,Matched eligible,Player Registry,Exact Name + Club,348.0,Joël Piroe,False,Confirmed
+04vy4,Mark Travers,EVE,EVE,True,Matched eligible,Player Registry,Exact Name + Club,227.0,Mark Travers,False,Confirmed
+072o9,Jocelin Ta Bi,SUN,SUN,True,Matched eligible,Player Registry,Ordered Token Expanded Name,550.0,Djiamgone Jocelin Ta Bi,False,Confirmed
+05unu,Romeo Lavia,CHE,CHE,True,Matched eligible,Player Registry,Exact Name + Club,161.0,Roméo Lavia,False,Confirmed
+06kqy,Ayden Heaven,MUN,MUN,True,Matched eligible,Player Registry,Exact Name + Club,421.0,Ayden Heaven,False,Confirmed
+06mgk,Jayden Meghoma,BRF,BRF,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06lox,Mikey Moore,TOT,TOT,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+05mzt,Illan Meslier,ARS,ARS,True,Matched eligible,Player Registry,Exact Name + Club,3.0,Illan Meslier,False,Transferred
+05r4h,Lamare Bogarde,AVL,AVL,True,Matched eligible,Player Registry,Exact Name + Club,35.0,Lamare Bogarde,False,Confirmed
+03m5h,Kieran Dowell,HUL,HUL,True,Matched eligible,Player Registry,Exact Name + Club,288.0,Kieran Dowell,False,New EPL Arrival
+06eka,Igor Julio,BHA,BHA,True,Matched eligible,Player Registry,Ordered Token Expanded Name,118.0,Igor Julio dos Santos de Paulo,False,Transferred
+05yct,Nathan Patterson,EVE,EVE,True,Matched eligible,Player Registry,Exact Name + Club,234.0,Nathan Patterson,False,Confirmed
+062og,Aaron Hickey,BRF,BRF,True,Matched eligible,Player Registry,Exact Name + Club,90.0,Aaron Hickey,False,Confirmed
+06crn,Toby Collyer,MUN,MUN,True,Matched eligible,Player Registry,Exact Name,436.0,Toby Collyer,False,Confirmed
+05x12,Leo Fuhr Hjelde,SUN,SUN,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+068a1,Mykhailo Mudryk,CHE,CHE,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+06rmv,Jeremy Monga,MCI,MCI,True,Matched eligible,Player Registry,Exact Name + Club,410.0,Jeremy Monga,False,New EPL Arrival
+072pc,Alex Toth,BOU,BOU,True,Matched eligible,Player Registry,Exact Name + Club,76.0,Alex Tóth,False,Confirmed
+051kg,Max Aarons,BOU,BOU,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06zef,Adam Aznou,EVE,EVE,True,Matched eligible,Player Registry,Exact Name + Club,235.0,Adam Aznou,False,Confirmed
+045yy,Arthur Masuaku,SUN,SUN,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+03sbh,Enes Unal,BOU,BOU,True,Matched eligible,Player Registry,Exact Name + Club,80.0,Enes Ünal,False,Confirmed
+06kwp,Josh Acheampong,CHE,CHE,True,Matched eligible,Player Registry,Exact Name + Club,151.0,Josh Acheampong,False,Confirmed
+0784j,Raphael Borges Rodrigues,COV,COV,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06zbt,Rio Cardines,CRY,CRY,True,Matched eligible,Player Registry,Exact Name + Club,220.0,Rio Cardines,False,Confirmed
+06nv3,Filip Jorgensen,CHE,CHE,True,Matched eligible,Player Registry,Exact Name + Club,141.0,Filip Jörgensen,False,Confirmed
+062x7,Rico Lewis,MCI,MCI,True,Matched eligible,Player Registry,Exact Name + Club,395.0,Rico Lewis,False,Confirmed
+05uhs,James Mcatee,NOT,NOT,True,Matched eligible,Player Registry,Exact Name + Club,486.0,James McAtee,False,Transferred
+06hzf,Mark O'Mahony,BHA,BHA,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+037mt,Harrison Reed,FUL,FUL,True,Matched eligible,Player Registry,Exact Name + Club,270.0,Harrison Reed,False,Confirmed
+02lkt,Ali Al-Hamadi,IPS,IPS,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+02ltw,Fraser Forster,BOU,BOU,True,Matched eligible,Player Registry,Exact Name + Club,58.0,Fraser Forster,False,Transferred
+06xzp,Luis Semedo,SUN,SUN,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06p4l,Julian Araujo,BOU,BOU,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+03ysd,Sam Byram,LEE,LEE,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+06kyw,Claudio Echeverri,MCI,MCI,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+04xjr,Harvey Elliott,LIV,LIV,True,Matched eligible,Player Registry,Exact Name,383.0,Harvey Elliott,False,Transferred
+06y4g,Antoni Milambo,BRF,BRF,True,Matched eligible,Player Registry,Exact Name + Club,99.0,Antoni Milambo,False,Confirmed
+06kyv,Kosta Nedeljkovic,AVL,AVL,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+076dc,Jahnoah Markelo,COV,COV,True,Matched eligible,Player Registry,Exact Name + Club,196.0,Jahnoah Markelo,False,New EPL Arrival
+072py,Souza,TOT,TOT,True,Matched eligible,Player Registry,Explicit Player Alias,511.0,João Victor de Souza Menezes,False,Confirmed
+06fso,Wataru Endo,LIV,LIV,True,Matched eligible,Player Registry,Explicit Player Alias,374.0,Endo Wataru,False,Confirmed
+076dl,Eliot Matazo,HUL,HUL,True,Matched eligible,Player Registry,Exact Name + Club,291.0,Eliot Matazo,False,New EPL Arrival
+0701y,Giovanni Leoni,LIV,LIV,True,Matched eligible,Player Registry,Exact Name + Club,363.0,Giovanni Leoni,False,Confirmed
+076de,Dillon Phillips,HUL,HUL,True,Matched eligible,Player Registry,Exact Name + Club,273.0,Dillon Phillips,False,New EPL Arrival
+06fx0,Altay Bayindir,MUN,MUN,True,Matched eligible,Player Registry,Explicit Player Alias,413.0,Altay Bayındır,False,Confirmed
+06mg4,Cameron Humphreys,IPS,IPS,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06xzn,Abdoullah Ba,SUN,SUN,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+076d1,Miguel Angel Brau,COV,COV,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+048xg,Josh Dasilva,BRF,BRF,True,Matched eligible,Player Registry,Exact Name + Club,103.0,Josh Dasilva,False,Confirmed
+06442,Zach Abbott,NOT,NOT,True,Matched eligible,Player Registry,Exact Name + Club,477.0,Zach Abbott,False,Confirmed
+05ogg,Ajibola Alese,SUN,SUN,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+05uhr,Finley Burns,MCI,MCI,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06mul,Jack Fletcher,MUN,MUN,True,Matched eligible,Player Registry,Exact Name + Club,434.0,Jack Fletcher,False,Confirmed
+05nip,Dane Scarlett,TOT,TOT,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06v0c,Shea Lacey,MUN,MUN,True,Matched eligible,Player Registry,Exact Name + Club,435.0,Shea Lacey,False,Confirmed
+04rha,Jason Steele,BHA,BHA,True,Matched eligible,Player Registry,Exact Name + Club,111.0,Jason Steele,False,Confirmed
+04gyd,Brandon Austin,TOT,TOT,True,Matched eligible,Player Registry,Exact Name + Club,495.0,Brandon Austin,False,Confirmed
+06xze,Walter Benitez,CRY,CRY,True,Matched eligible,Player Registry,Exact Name + Club,199.0,Walter Benítez,False,Confirmed
+033l8,Simon Moore,SUN,SUN,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+06jfe,Hakon Valdimarsson,BRF,BRF,True,Matched eligible,Player Registry,Ordered Token Expanded Name,83.0,Hákon Rafn Valdimarsson,False,Confirmed
+02lzt,Keith Andrews,COV,COV,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+061z5,Calvin Ramsay,LIV,LIV,True,Matched eligible,Player Registry,Exact Name + Club,365.0,Calvin Ramsay,False,Confirmed
+072h9,Joel Drakes-Thomas,CRY,CRY,True,Matched eligible,Player Registry,Exact Name + Club,221.0,Joél Drakes-Thomas,False,Confirmed
+066rn,Daniel Gore,MUN,MUN,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06l4c,Ethan Wheatley,MUN,MUN,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06qwh,Ben Winterburn,BOU,BOU,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+052ce,Vitezslav Jaros,LIV,LIV,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06ewy,Alex Murphy,NEW,NEW,True,Matched eligible,Player Registry,Exact Name + Club,451.0,Alex Murphy,False,Confirmed
+06v0u,Ahmed Abdullahi,SUN,SUN,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+07851,Joshua Abe,LIV,LIV,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+05ymb,Tayo Adaramola,CRY,CRY,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+0786a,Demiane Agustien,ARS,ARS,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06q2h,Damola Ajayi,TOT,TOT,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+0787y,Antonio Silva,BOU,BOU,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06v08,Daniel Armer,MUN,MUN,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06kwh,Benjamin Arthur,BRF,BRF,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+05u40,Ellery Balcombe,BRF,BRF,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+06j20,Valentin Barco,CHE,CHE,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06zod,Dean Benamar,CRY,CRY,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+0784l,Lucca Benetton,CRY,CRY,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+072zo,Luka Bentt,BRF,BRF,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+02ls8,Marcus Bettinelli,MCI,MCI,True,Matched eligible,Player Registry,Exact Name + Club,386.0,Marcus Bettinelli,False,Confirmed
+06pry,Kaden Braithwaite,MCI,MCI,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+0784h,Harvey Broad,COV,COV,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+0785p,Harry Byrne,TOT,TOT,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06uzw,Alex Cairns,LEE,LEE,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+06yxd,Rhys Chadwick,LEE,LEE,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+06v00,Sam Chambers,LEE,LEE,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+06mgh,Dylan Charlton,NEW,NEW,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+07847,Modou Cisse,AVL,AVL,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06thf,Brayden Clarke,ARS,ARS,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06zbo,Louie Copley,ARS,ARS,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+076kd,Costinha,BHA,BHA,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+07857,Luke Craggs,NEW,NEW,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+075zi,Alfie Cresswell,LEE,LEE,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+06xzf,Charlie Crew,LEE,LEE,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+06mnd,Eric da Silva Moreira,NOT,NOT,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+0784k,Aidan Dausch,COV,COV,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+05rfp,Harvey Davies,LIV,LIV,True,Matched eligible,Player Registry,Exact Name + Club,355.0,Harvey Davies,False,Confirmed
+056as,William Dennis,BOU,BOU,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+0784u,Enis Destan,HUL,HUL,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+07854,Jacob Devaney,MUN,MUN,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+0784d,Calvin Diakite,CHE,CHE,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+0785m,Charlie Dinsdale,SUN,SUN,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06shp,Landon Emenalo,CHE,CHE,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+06on4,Julian Eyestone,BRF,BRF,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+0785f,Matheos Ferreira,NEW,NEW,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+0785b,Rory Finneran,NEW,NEW,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+073ab,Floyd Samba,MCI,MCI,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+06igq,Benjamin Fredrick,BRF,BRF,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+072mp,Kaye Furo,BRF,BRF,True,Matched eligible,Player Registry,Exact Name + Club,107.0,Kaye Furo,False,Confirmed
+07856,Joseph Gabriel,MUN,MUN,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+073vo,Finn Geragusyan,SUN,SUN,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+05n09,Mark Gillespie,NEW,NEW,True,Matched eligible,Player Registry,Exact Name + Club,443.0,Mark Gillespie,False,Confirmed
+06qvv,Malachi Hardy,TOT,TOT,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+06zbq,Andre Harriman-Annous,ARS,ARS,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+0785x,Matty Henderson-Hall,MCI,MCI,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+072x7,Ife Ibrahim,ARS,ARS,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+076ki,Ewen Jaouen,NEW,NEW,True,Matched eligible,Player Registry,Exact Name + Club,444.0,Ewen Jaouen,False,New EPL Arrival
+070ep,Jaydon Jones,SUN,SUN,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+06nva,Mofe Jemide,CRY,CRY,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+070eo,Jenson Jones,SUN,SUN,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+0786b,Theo Julienne,ARS,ARS,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06pms,Ismeal Kabia,ARS,ARS,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06s7v,Jaydan Kamason,MUN,MUN,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+07855,Enzo Kana Biyik,MUN,MUN,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+072b6,Ryan Kavuma-McQueen,CHE,CHE,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+06dpv,Omari Kellyman,CHE,CHE,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06dpw,Kim Ji-Soo,BRF,BRF,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+0785i,Ben Kindon,SUN,SUN,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06ygl,George King,CRY,CRY,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+06mgn,Rio Kyerematen,TOT,TOT,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+0788c,Freddie Lane,LEE,LEE,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06yb8,Diego Leon,MUN,MUN,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+075sh,Jayden Lienou,LEE,LEE,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+0785k,Archie Lightfoot,SUN,SUN,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+0784q,Thimothee Lo-Tutala,HUL,HUL,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06yxc,Rory Mahady,LEE,LEE,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+05ubh,Remi Matthews,CRY,CRY,True,Matched eligible,Player Registry,Exact Name + Club,555.0,Remi Matthews,False,Confirmed
+0722t,Ryan McAidoo,MCI,MCI,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+06do3,James McConnell,LIV,LIV,True,Matched eligible,Player Registry,Exact Name + Club,378.0,James McConnell,False,Confirmed
+05rbn,Thomas McGill,BHA,BHA,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+06mwx,Conor McManus,BRF,BRF,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+0785q,Mason Melia,TOT,TOT,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+0785c,Mason Miley,NEW,NEW,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+0788b,Callum Mills,LEE,LEE,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+0784r,Hidemasa Morita,HUL,HUL,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06rkq,Kieran Morrison,LIV,LIV,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+06on6,Anthony Munda,NEW,NEW,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+07850,Ifeanyi Ndukwe,LIV,LIV,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+0784f,Mahdi Nicoll-Jazuli,CHE,CHE,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06hze,Treymaurice Nyoni,LIV,LIV,True,Matched eligible,Player Registry,Explicit Player Alias,375.0,Trey Nyoni,False,Confirmed
+07869,Josh Ogunnaike,ARS,ARS,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06v0w,Trey Ogunsuyi,SUN,SUN,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+0788a,Darryl Ombang,LEE,LEE,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+073ac,Ceadach O'Neill,ARS,ARS,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+06zc0,Park Seung-Soo,NEW,NEW,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+07868,Xavier Parker,MCI,MCI,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+07858,Miodrag Pivas,NEW,NEW,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+0785l,Tom Proctor,SUN,SUN,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+073y1,Khari Ranson,ARS,ARS,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+06r3w,Remy Rees-Dottin,BOU,BOU,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+062op,Omar Richards,NOT,NOT,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06zc6,Reiss-Alexander Russell-Denny,TOT,TOT,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+0785e,Vakhtang Salia,NEW,NEW,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06zbn,Marli Salmon,ARS,ARS,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+0785y,Mahamadou Sangare,MCI,MCI,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+07877,Mamadou Sangare,BRF,BRF,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06nv6,Trevan Sanusi,NEW,NEW,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+0784g,Dastan Satpaev,CHE,CHE,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06do2,Callum Scanlon,LIV,LIV,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+076kc,Jannik Schuster,BRF,BRF,True,Matched eligible,Player Registry,Exact Name + Club,93.0,Jannik Schuster,False,New EPL Arrival
+0785h,Felix Scott,SUN,SUN,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06nk0,Tommy Setford,ARS,ARS,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+06on5,Leo Shahar,NEW,NEW,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+073b0,Ollie Shield,BRF,BRF,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+06r7f,Julio Soler,BOU,BOU,True,Matched eligible,Player Registry,Ordered Token Expanded Name,66.0,Julio Soler Barreto,False,Confirmed
+07852,Joshua Sonni-Lambie,LIV,LIV,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06zqi,Joshua Stephenson,BRF,BRF,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+0785a,Sean Steur,NEW,NEW,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+0784c,Olutayo Subuloye,CHE,CHE,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+075kd,Talla Ndiaye,LIV,LIV,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+0785n,Dylan Thompson,TOT,TOT,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06v0b,Jim Thwaites,MUN,MUN,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+0785o,Tyler Tingey,TOT,TOT,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06v0x,Tymur Tutierov,SUN,SUN,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+072x9,Tye Hall,TOT,TOT,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+06v0a,Tyler Fletcher,MUN,MUN,True,Matched eligible,Player Registry,Exact Name + Club,438.0,Tyler Fletcher,False,Confirmed
+06lvm,Tyrese Hall,TOT,TOT,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+0784v,Kayne van Oevelen,IPS,IPS,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+0784m,Charlie Walker-Smith,CRY,CRY,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06rrq,Reggie Walsh,CHE,CHE,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+0784e,Reggie Watson,CHE,CHE,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+070eq,Jack Whittaker,SUN,SUN,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+062pa,Joseph Whitworth,CRY,CRY,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06muh,Ethan Williams,MUN,MUN,True,Unresolved: no current FPL identity,Player Registry,Unresolved,,,False,Unresolved
+06qq9,Luca Williams-Barnett,TOT,TOT,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+06zrt,Will Wright,LIV,LIV,False,Inactive / historical only,Player Registry,Unresolved,,,False,Historical Only
+076ke,Zadok Yohanna,BHA,BHA,True,Matched eligible,Player Registry,Exact Name + Club,135.0,Zadok Yohanna,False,New EPL Arrival
+06rnn,Sean Neave,NEW,NEW,True,Matched eligible,Player Registry,Exact Name + Club,466.0,Sean Neave,False,Confirmed

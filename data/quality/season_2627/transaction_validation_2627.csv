@@ -1,0 +1,2 @@
+dataset,rule,severity,message,row_reference
+league_transactions,source_available,warning,No proven transaction source is configured,

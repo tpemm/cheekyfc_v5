@@ -1,0 +1,1 @@
+"""Manager analytics package."""

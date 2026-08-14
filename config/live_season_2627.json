@@ -1,0 +1,16 @@
+{
+  "season_id": "2627",
+  "league_name": "Cheeky FC",
+  "league_id_env": "FANTRAX_LEAGUE_ID_2627",
+  "manager_count": 12,
+  "manager_team_identifiers": [],
+  "scoring_periods": {"minimum": 1, "maximum": 38},
+  "regular_season": "Fantrax head-to-head schedule; authoritative settings loaded from league metadata",
+  "draft_format": "15-round snake draft completed before the 2026/27 season",
+  "roster_limits": {"drafted": 15, "maximum": 16, "active": 11, "bench": 4, "ir": 1},
+  "starting_lineup": {"goalkeeper": 1, "outfield": 10, "total": 11},
+  "bench": {"drafted": 4},
+  "ir": {"maximum": 1, "draft_slot": false},
+  "scoring_configuration_reference": "Fantrax getLeagueInfo scoringSystem payload",
+  "status": "active"
+}

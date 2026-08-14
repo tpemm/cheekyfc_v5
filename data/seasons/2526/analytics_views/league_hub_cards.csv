@@ -1,0 +1,13 @@
+﻿card_id,title,subtitle,team_name,value,detail
+jester,Jester,Season leader,wmuck1,8.0,weekly Jesters | avg pts 77.5
+golden_boot,Golden Boot,Season leader,Robertske,67.0,Season Starter Goals
+golden_assist,Golden Assist,Season leader,Up the Arse-nal,72.0,Season Starter Assists
+golden_gloves,Golden Gloves,Season leader,SUNNYD,138.0,Season Starter Clean Sheets
+bench_merchant,Bench Merchant,Season leader,Berkshire’s Club,934.5,Season Bench Points | avg 24.6/GW
+xg_merchant,xG Merchant,Season leader,Robertske,73.4775267848745,Season Starter xG
+longest_win_streak,Longest Win Streak,Best season streak,Berkshire’s Club,8.0,"weeks 25,26,27,28,29,30,31,32"
+longest_losing_streak,Longest Losing Streak,Pain index,wmuck1,11.0,"weeks 11,12,13,14,15,16,17,18,19,20,21"
+most_lineup_changes,Most Lineup Changes,Tinkerman award,The Facerockers,282.0,starter changes
+least_lineup_changes,Least Lineup Changes,Set-and-forget award,Robertske,34.0,starter changes
+closest_game,Closest Game,GW 1,yudesh vs nhauptma,0.5,point margin
+biggest_blowout,Biggest Blowout,GW 12,wmuck1 vs epatel3,114.0,point margin

@@ -1,0 +1,568 @@
+﻿provider_player_id,player_name,first_name,last_name,team_name,team_code,position,active_epl,availability_status,injury_news,provider,retrieved_at,season_id
+10,Benjamin White,Benjamin,White,Arsenal,ARS,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+12,Bukayo Saka,Bukayo,Saka,Arsenal,ARS,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+21,Christian Nørgaard,Christian,Nørgaard,Arsenal,ARS,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+557,Christos Tzolis,Christos,Tzolis,Arsenal,ARS,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+11,Cristhian Mosquera,Cristhian,Mosquera,Arsenal,ARS,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+1,David Raya Martín,David,Raya Martín,Arsenal,ARS,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+13,Declan Rice,Declan,Rice,Arsenal,ARS,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+14,Eberechi Eze,Eberechi,Eze,Arsenal,ARS,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+22,Ethan Nwaneri,Ethan,Nwaneri,Arsenal,ARS,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+23,Fábio Ferreira Vieira,Fábio,Ferreira Vieira,Arsenal,ARS,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+27,Gabriel Fernando de Jesus,Gabriel,Fernando de Jesus,Arsenal,ARS,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+18,Gabriel Martinelli Silva,Gabriel,Martinelli Silva,Arsenal,ARS,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+4,Gabriel dos Santos Magalhães,Gabriel,dos Santos Magalhães,Arsenal,ARS,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+3,Illan Meslier,Illan,Meslier,Arsenal,ARS,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+5,Jurriën Timber,Jurriën,Timber,Arsenal,ARS,D,True,i,Groin injury - Expected back 21 Aug,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+26,Kai Havertz,Kai,Havertz,Arsenal,ARS,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+2,Kepa Arrizabalaga Revuelta,Kepa,Arrizabalaga Revuelta,Arsenal,ARS,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+15,Martin Ødegaard,Martin,Ødegaard,Arsenal,ARS,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+19,Martín Zubimendi Ibáñez,Martín,Zubimendi Ibáñez,Arsenal,ARS,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+20,Max Dowman,Max,Dowman,Arsenal,ARS,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+17,Mikel Merino Zazón,Mikel,Merino Zazón,Arsenal,ARS,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+7,Myles Lewis-Skelly,Myles,Lewis-Skelly,Arsenal,ARS,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+16,Noni Madueke,Noni,Madueke,Arsenal,ARS,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+9,Piero Hincapié,Piero,Hincapié,Arsenal,ARS,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+24,Reiss Nelson,Reiss,Nelson,Arsenal,ARS,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+8,Riccardo Calafiori,Riccardo,Calafiori,Arsenal,ARS,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+25,Viktor Gyökeres,Viktor,Gyökeres,Arsenal,ARS,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+6,William Saliba,William,Saliba,Arsenal,ARS,D,True,i,Back injury - Unknown return date,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+160,Alejandro Garnacho Ferreyra,Alejandro,Garnacho Ferreyra,Aston Villa,AVL,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+52,Alysson Edward Franco da Rocha dos Santos,Alysson Edward Franco,da Rocha dos Santos,Aston Villa,AVL,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+48,Amadou Onana,Amadou,Onana,Aston Villa,AVL,M,True,i,Knee injury - Unknown return date,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+38,Andrés García,Andrés,García,Aston Villa,AVL,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+47,Boubacar Kamara,Boubacar,Kamara,Aston Villa,AVL,M,True,d,Knee injury - 75% chance of playing,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+50,Bradley Burrowes,Bradley,Burrowes,Aston Villa,AVL,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+41,Emiliano Buendía Stati,Emiliano,Buendía Stati,Aston Villa,AVL,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+28,Emiliano Martínez Romero,Emiliano,Martínez Romero,Aston Villa,AVL,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+42,Evann Guessand,Evann,Guessand,Aston Villa,AVL,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+31,Ezri Konsa Ngoyo,Ezri,Konsa Ngoyo,Aston Villa,AVL,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+51,George Hemmings,George,Hemmings,Aston Villa,AVL,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+36,Ian Maatsen,Ian,Maatsen,Aston Villa,AVL,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+54,Joao Gomes,Joao,Gomes,Aston Villa,AVL,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+53,Johan Manzambi,Johan,Manzambi,Aston Villa,AVL,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+45,John McGinn,John,McGinn,Aston Villa,AVL,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+39,Kosta Nedeljkovic,Kosta,Nedeljkovic,Aston Villa,AVL,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+35,Lamare Bogarde,Lamare,Bogarde,Aston Villa,AVL,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+44,Leon Bailey,Leon,Bailey,Aston Villa,AVL,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+30,Lucas Digne,Lucas,Digne,Aston Villa,AVL,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+29,Marco Bizot,Marco,Bizot,Aston Villa,AVL,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+32,Matty Cash,Matty,Cash,Aston Villa,AVL,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+55,Ollie Watkins,Ollie,Watkins,Aston Villa,AVL,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+34,Pau Torres,Pau,Torres,Aston Villa,AVL,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+46,Ross Barkley,Ross,Barkley,Aston Villa,AVL,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+49,Samuel Iling-Junior,Samuel,Iling-Junior,Aston Villa,AVL,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+56,Tammy Abraham,Tammy,Abraham,Aston Villa,AVL,F,True,i,Shoulder injury - Expected back 23 Aug,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+33,Tyrone Mings,Tyrone,Mings,Aston Villa,AVL,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+37,Victor Lindelöf,Victor,Lindelöf,Aston Villa,AVL,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+109,Bart Verbruggen,Bart,Verbruggen,Brighton,BHA,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+110,Carl Rushworth,Carl,Rushworth,Brighton,BHA,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+131,Carlos Baleba,Carlos,Baleba,Brighton,BHA,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+138,Charalampos Kostoulas,Charalampos,Kostoulas,Brighton,BHA,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+117,Diego Coppola,Diego,Coppola,Brighton,BHA,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+127,Diego Gómez Amarilla,Diego,Gómez Amarilla,Brighton,BHA,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+139,Evan Ferguson,Evan,Ferguson,Brighton,BHA,F,True,i,Ankle injury - Expected back 10 Oct,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+128,Facundo Buonanotte,Facundo,Buonanotte,Brighton,BHA,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+113,Ferdi Kadıoğlu,Ferdi,Kadıoğlu,Brighton,BHA,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+125,Georginio Rutter,Georginio,Rutter,Brighton,BHA,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+132,Harry Howell,Harry,Howell,Brighton,BHA,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+118,Igor Julio dos Santos de Paulo,Igor Julio,dos Santos de Paulo,Brighton,BHA,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+123,Jack Hinshelwood,Jack,Hinshelwood,Brighton,BHA,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+111,Jason Steele,Jason,Steele,Brighton,BHA,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+119,João Pedro Loureiro da Costa,João Pedro,Loureiro da Costa,Brighton,BHA,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+116,Lewis Dunk,Lewis,Dunk,Brighton,BHA,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+504,Luka Vušković,Luka,Vušković,Brighton,BHA,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+130,Mats Wieffer,Mats,Wieffer,Brighton,BHA,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+126,Matt O'Riley,Matt,O'Riley,Brighton,BHA,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+115,Maxim De Cuyper,Maxim,De Cuyper,Brighton,BHA,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+120,Michael Svoboda,Michael,Svoboda,Brighton,BHA,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+121,Mitoma Kaoru,Mitoma,Kaoru,Brighton,BHA,M,True,i,Hamstring injury - Unknown return date,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+134,Nehemiah Oriola,Nehemiah,Oriola,Brighton,BHA,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+114,Olivier Boscagli,Olivier,Boscagli,Brighton,BHA,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+124,Pascal Groß,Pascal,Groß,Brighton,BHA,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+328,Pascal Struijk,Pascal,Struijk,Brighton,BHA,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+137,Stefanos Tzimas,Stefanos,Tzimas,Brighton,BHA,F,True,d,Knee injury - 75% chance of playing,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+133,Tom Watson,Tom,Watson,Brighton,BHA,M,True,u,Has joined Leicester City on loan for the rest of the season,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+122,Yankuba Minteh,Yankuba,Minteh,Brighton,BHA,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+129,Yasin Ayari,Yasin,Ayari,Brighton,BHA,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+135,Zadok Yohanna,Zadok,Yohanna,Brighton,BHA,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+64,Adam Smith,Adam,Smith,Bournemouth,BOU,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+61,Adrien Truffert,Adrien,Truffert,Bournemouth,BOU,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+69,Alex Scott,Alex,Scott,Bournemouth,BOU,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+76,Alex Tóth,Alex,Tóth,Bournemouth,BOU,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+77,Amine Adli,Amine,Adli,Bournemouth,BOU,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+566,António João Pereira de Albuquerque Tavares da Silva,António João,Pereira de Albuquerque Tavares da Silva,Bournemouth,BOU,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+62,Bafodé Diakité,Bafodé,Diakité,Bournemouth,BOU,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+72,Ben Gannon-Doak,Ben,Gannon-Doak,Bournemouth,BOU,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+74,David Brooks,David,Brooks,Bournemouth,BOU,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+80,Enes Ünal,Enes,Ünal,Bournemouth,BOU,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+79,Francisco Evanilson de Lima Barbosa,Francisco Evanilson,de Lima Barbosa,Bournemouth,BOU,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+58,Fraser Forster,Fraser,Forster,Bournemouth,BOU,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+60,James Hill,James,Hill,Bournemouth,BOU,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+66,Julio Soler Barreto,Julio,Soler Barreto,Bournemouth,BOU,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+65,Julián Araujo Zúñiga,Julián,Araujo Zúñiga,Bournemouth,BOU,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+78,Junior Kroupi,Junior,Kroupi,Bournemouth,BOU,M,True,i,Foot injury - Unknown return date,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+70,Justin Kluivert,Justin,Kluivert,Bournemouth,BOU,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+71,Lewis Cook,Lewis,Cook,Bournemouth,BOU,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+68,Marcus Tavernier,Marcus,Tavernier,Bournemouth,BOU,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+67,Rayan Vitor Simplício Rocha,Rayan Vitor,Simplício Rocha,Bournemouth,BOU,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+75,Ryan Christie,Ryan,Christie,Bournemouth,BOU,M,True,s,Suspended until 29 Aug,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+73,Tyler Adams,Tyler,Adams,Bournemouth,BOU,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+63,Veljko Milosavljevic,Veljko,Milosavljevic,Bournemouth,BOU,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+59,Will Dennis,Will,Dennis,Bournemouth,BOU,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+81,Álvaro Rodríguez,Álvaro,Rodríguez,Bournemouth,BOU,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+57,Đorđe Petrović,Đorđe,Petrović,Bournemouth,BOU,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+90,Aaron Hickey,Aaron,Hickey,Brentford,BRF,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+99,Antoni Milambo,Antoni,Milambo,Brentford,BRF,M,True,d,Knee injury - 75% chance of playing,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+108,Callum Wilson,Callum,Wilson,Brentford,BRF,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+82,Caoimhín Kelleher,Caoimhín,Kelleher,Brentford,BRF,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+95,Dango Ouattara,Dango,Ouattara,Brentford,BRF,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+91,Ethan Pinnock,Ethan,Pinnock,Brentford,BRF,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+100,Fábio Freitas Gouveia Carvalho,Fábio,Freitas Gouveia Carvalho,Brentford,BRF,M,True,i,Knee injury - Unknown return date,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+83,Hákon Rafn Valdimarsson,Hákon Rafn,Valdimarsson,Brentford,BRF,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+106,Igor Thiago Nascimento Rodrigues,Igor Thiago,Nascimento Rodrigues,Brentford,BRF,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+105,Jaidon Anthony,Jaidon,Anthony,Brentford,BRF,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+93,Jannik Schuster,Jannik,Schuster,Brentford,BRF,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+101,Jordan Henderson,Jordan,Henderson,Brentford,BRF,M,True,u,has departed the club as a free agent.,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+103,Josh Dasilva,Josh,Dasilva,Brentford,BRF,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+107,Kaye Furo,Kaye,Furo,Brentford,BRF,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+86,Keane Lewis-Potter,Keane,Lewis-Potter,Brentford,BRF,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+94,Kevin Schade,Kevin,Schade,Brentford,BRF,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+92,Kim Ji-soo,Kim,Ji-soo,Brentford,BRF,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+87,Kristoffer Ajer,Kristoffer,Ajer,Brentford,BRF,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+565,Mamadou Sangaré,Mamadou,Sangaré,Brentford,BRF,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+97,Mathias Jensen,Mathias,Jensen,Brentford,BRF,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+88,Michael Kayode,Michael,Kayode,Brentford,BRF,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+96,Mikkel Damsgaard,Mikkel,Damsgaard,Brentford,BRF,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+84,Nathan Collins,Nathan,Collins,Brentford,BRF,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+89,Rico Henry,Rico,Henry,Brentford,BRF,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+85,Sepp van den Berg,Sepp,van den Berg,Brentford,BRF,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+98,Vitaly Janelt,Vitaly,Janelt,Brentford,BRF,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+102,Yehor Yarmoliuk,Yehor,Yarmoliuk,Brentford,BRF,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+561,Aaron Anselmino,Aaron,Anselmino,Chelsea,CHE,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+153,Axel Disasi,Axel,Disasi,Chelsea,CHE,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+146,Benoît Badiashile Mukinayi,Benoît,Badiashile Mukinayi,Chelsea,CHE,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+154,Cole Palmer,Cole,Palmer,Chelsea,CHE,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+136,Danny Welbeck,Danny,Welbeck,Chelsea,CHE,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+163,Dário Luís Essugo,Dário,Luís Essugo,Chelsea,CHE,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+170,Emmanuel Emegha,Emmanuel,Emegha,Chelsea,CHE,F,True,d,Hamstring injury - 75% chance of playing,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+155,Enzo Fernández,Enzo,Fernández,Chelsea,CHE,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+157,Estêvão Almeida de Oliveira Gonçalves,Estêvão,Almeida de Oliveira Gonçalves,Chelsea,CHE,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+141,Filip Jörgensen,Filip,Jörgensen,Chelsea,CHE,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+164,Geovany Quenda,Geovany,Quenda,Chelsea,CHE,M,True,d,Unspecified injury - 75% chance of playing,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+158,Jamie Bynoe-Gittens,Jamie,Bynoe-Gittens,Chelsea,CHE,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+148,Jorrel Hato,Jorrel,Hato,Chelsea,CHE,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+151,Josh Acheampong,Josh,Acheampong,Chelsea,CHE,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+165,João Pedro Junqueira de Jesus,João Pedro,Junqueira de Jesus,Chelsea,CHE,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+149,Levi Samuels Colwill,Levi,Samuels Colwill,Chelsea,CHE,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+167,Liam Delap,Liam,Delap,Chelsea,CHE,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+144,Malo Gusto,Malo,Gusto,Chelsea,CHE,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+150,Mamadou Sarr,Mamadou,Sarr,Chelsea,CHE,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+168,Marc Guiu Paz,Marc,Guiu Paz,Chelsea,CHE,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+152,Marco Palestra,Marco,Palestra,Chelsea,CHE,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+200,Maxence Lacroix,Maxence,Lacroix,Chelsea,CHE,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+560,Mike Penders,Mike,Penders,Chelsea,CHE,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+159,Moisés Caicedo Corozo,Moisés,Caicedo Corozo,Chelsea,CHE,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+40,Morgan Rogers,Morgan,Rogers,Chelsea,CHE,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+166,Nicolas Jackson,Nicolas,Jackson,Chelsea,CHE,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+156,Pedro Lomba Neto,Pedro,Lomba Neto,Chelsea,CHE,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+142,Reece James,Reece,James,Chelsea,CHE,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+140,Robert Lynch Sánchez,Robert,Lynch Sánchez,Chelsea,CHE,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+161,Roméo Lavia,Roméo,Lavia,Chelsea,CHE,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+169,Shumaira Mheuka,Shumaira,Mheuka,Chelsea,CHE,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+147,Tosin Adarabioyo,Tosin,Adarabioyo,Chelsea,CHE,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+143,Trevoh Chalobah,Trevoh,Chalobah,Chelsea,CHE,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+145,Wesley Fofana,Wesley,Fofana,Chelsea,CHE,D,True,s,Suspended until 6 Sep,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+182,Aurèle Amenda,Aurèle,Amenda,Coventry City,COV,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+172,Ben Wilson,Ben,Wilson,Coventry City,COV,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+173,Bobby Thomas,Bobby,Thomas,Coventry City,COV,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+194,Brandon Thomas-Asante,Brandon,Thomas-Asante,Coventry City,COV,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+195,Ellis Simms,Ellis,Simms,Coventry City,COV,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+186,Ephron Mason-Clark,Ephron,Mason-Clark,Coventry City,COV,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+104,Frank Onyeka,Frank,Onyeka,Coventry City,COV,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+189,George Shepherd,George,Shepherd,Coventry City,COV,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+193,Haji Wright,Haji,Wright,Coventry City,COV,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+183,Jack Rudoni,Jack,Rudoni,Coventry City,COV,M,True,d,Shoulder injury - 75% chance of playing,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+196,Jahnoah Markelo,Jahnoah,Markelo,Coventry City,COV,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+178,Jake Bidwell,Jake,Bidwell,Coventry City,COV,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+176,Jay Dasilva,Jay,Dasilva,Coventry City,COV,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+179,Joel Latibeaudiere,Joel,Latibeaudiere,Coventry City,COV,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+187,Josh Eccles,Josh,Eccles,Coventry City,COV,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+192,Kaine Andrews,Kaine,Andrews,Coventry City,COV,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+177,Kaine Kesler-Hayden,Kaine,Kesler-Hayden,Coventry City,COV,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+174,Liam Kitching,Liam,Kitching,Coventry City,COV,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+190,Loum Tchaouna,Loum,Tchaouna,Coventry City,COV,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+180,Luke Woolfenden,Luke,Woolfenden,Coventry City,COV,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+184,Matt Grimes,Matt,Grimes,Coventry City,COV,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+181,Miguel Brau,Miguel,Brau,Coventry City,COV,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+175,Milan van Ewijk,Milan,van Ewijk,Coventry City,COV,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+197,Norman Bassette,Norman,Bassette,Coventry City,COV,F,True,u,Has joined KVC Westerlo on loan for the rest of the season,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+171,Oliver Dovin,Oliver,Dovin,Coventry City,COV,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+191,Raphael Borges Rodrigues,Raphael,Borges Rodrigues,Coventry City,COV,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+185,Tatsuhiro Sakamoto,Tatsuhiro,Sakamoto,Coventry City,COV,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+188,Victor Torp,Victor,Torp,Coventry City,COV,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+210,Adam Wharton,Adam,Wharton,Crystal Palace,CRY,M,True,d,Ankle injury - 75% chance of playing,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+205,Borna Sosa,Borna,Sosa,Crystal Palace,CRY,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+209,Brennan Johnson,Brennan,Johnson,Crystal Palace,CRY,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+206,Chadi Riad Dnanou,Chadi,Riad Dnanou,Crystal Palace,CRY,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+218,Cheick Doucouré,Cheick,Doucouré,Crystal Palace,CRY,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+202,Chris Richards,Chris,Richards,Crystal Palace,CRY,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+225,Christantus Uche,Christantus,Uche,Crystal Palace,CRY,F,True,u,has returned to Getafe CF,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+214,Daichi Kamada,Daichi,Kamada,Crystal Palace,CRY,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+201,Daniel Muñoz Mejía,Daniel,Muñoz Mejía,Crystal Palace,CRY,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+198,Dean Henderson,Dean,Henderson,Crystal Palace,CRY,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+224,Eddie Nketiah,Eddie,Nketiah,Crystal Palace,CRY,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+208,Ismaïla Sarr,Ismaïla,Sarr,Crystal Palace,CRY,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+203,Jaydee Canvot,Jaydee,Canvot,Crystal Palace,CRY,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+223,Jean-Philippe Mateta,Jean-Philippe,Mateta,Crystal Palace,CRY,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+213,Jefferson Lerma Solís,Jefferson,Lerma Solís,Crystal Palace,CRY,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+219,Jesurun Rak-Sakyi,Jesurun,Rak-Sakyi,Crystal Palace,CRY,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+221,Joél Drakes-Thomas,Joél,Drakes-Thomas,Crystal Palace,CRY,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+215,Justin Devenny,Justin,Devenny,Crystal Palace,CRY,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+222,Jørgen Strand Larsen,Jørgen,Strand Larsen,Crystal Palace,CRY,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+217,Matheus França de Oliveira,Matheus,França de Oliveira,Crystal Palace,CRY,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+207,Oscar Mingueza,Oscar,Mingueza,Crystal Palace,CRY,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+555,Remi Matthews,Remi,Matthews,Crystal Palace,CRY,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+220,Rio Cardines,Rio,Cardines,Crystal Palace,CRY,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+216,Romain Esse,Romain,Esse,Crystal Palace,CRY,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+204,Tyrick Mitchell,Tyrick,Mitchell,Crystal Palace,CRY,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+199,Walter Benítez,Walter,Benítez,Crystal Palace,CRY,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+212,Will Hughes,Will,Hughes,Crystal Palace,CRY,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+211,Yéremy Pino Santos,Yéremy,Pino Santos,Crystal Palace,CRY,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+235,Adam Aznou,Adam,Aznou,Everton,EVE,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+243,Carlos Alcaraz Durán,Carlos,Alcaraz Durán,Everton,EVE,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+241,Dwight McNeil,Dwight,McNeil,Everton,EVE,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+244,Harrison Armstrong,Harrison,Armstrong,Everton,EVE,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+247,Hayden Hackney,Hayden,Hackney,Everton,EVE,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+237,Iliman Ndiaye,Iliman,Ndiaye,Everton,EVE,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+232,Jake O'Brien,Jake,O'Brien,Everton,EVE,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+239,James Garner,James,Garner,Everton,EVE,M,True,i,Groin injury - Expected back 22 Aug,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+229,James Tarkowski,James,Tarkowski,Everton,EVE,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+230,Jarrad Branthwaite,Jarrad,Branthwaite,Everton,EVE,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+226,Jordan Pickford,Jordan,Pickford,Everton,EVE,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+236,Kiernan Dewsbury-Hall,Kiernan,Dewsbury-Hall,Everton,EVE,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+227,Mark Travers,Mark,Travers,Everton,EVE,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+246,Merlin Röhl,Merlin,Röhl,Everton,EVE,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+231,Michael Keane,Michael,Keane,Everton,EVE,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+234,Nathan Patterson,Nathan,Patterson,Everton,EVE,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+248,Norberto Bercique Gomes Betuncal,Norberto Bercique,Gomes Betuncal,Everton,EVE,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+249,Thierno Barry,Thierno,Barry,Everton,EVE,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+240,Tim Iroegbunam,Tim,Iroegbunam,Everton,EVE,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+228,Tom King,Tom,King,Everton,EVE,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+245,Tyler Dibling,Tyler,Dibling,Everton,EVE,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+242,Tyrique George,Tyrique,George,Everton,EVE,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+233,Vitalii Mykolenko,Vitalii,Mykolenko,Everton,EVE,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+261,Alex Iwobi,Alex,Iwobi,Fulham,FUL,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+252,Alfie McNally,Alfie,McNally,Fulham,FUL,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+254,Antonee Robinson,Antonee,Robinson,Fulham,FUL,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+251,Benjamin Lecomte,Benjamin,Lecomte,Fulham,FUL,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+250,Bernd Leno,Bernd,Leno,Fulham,FUL,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+257,Calvin Bassey,Calvin,Bassey,Fulham,FUL,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+262,Emile Smith Rowe,Emile,Smith Rowe,Fulham,FUL,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+270,Harrison Reed,Harrison,Reed,Fulham,FUL,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+253,Joachim Andersen,Joachim,Andersen,Fulham,FUL,D,True,s,Suspended until 29 Aug,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+272,Jonah Kusi-Asare,Jonah,Kusi-Asare,Fulham,FUL,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+255,Jorge Cuenca Barreno,Jorge,Cuenca Barreno,Fulham,FUL,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+268,Josh King,Josh,King,Fulham,FUL,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+256,Kenny Tete,Kenny,Tete,Fulham,FUL,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+263,Kevin Santos Lopes de Macedo,Kevin,Santos Lopes de Macedo,Fulham,FUL,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+264,Oscar Bobb,Oscar,Bobb,Fulham,FUL,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+271,Rodrigo Muniz Carvalho,Rodrigo,Muniz Carvalho,Fulham,FUL,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+269,Ryan Sessegnon,Ryan,Sessegnon,Fulham,FUL,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+265,Sander Berge,Sander,Berge,Fulham,FUL,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+267,Saša Lukić,Saša,Lukić,Fulham,FUL,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+258,Timothy Castagne,Timothy,Castagne,Fulham,FUL,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+266,Tom Cairney,Tom,Cairney,Fulham,FUL,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+292,Abdülkadir Ömür,Abdülkadir,Ömür,Hull City,HUL,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+293,Abu Kamara,Abu,Kamara,Hull City,HUL,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+284,Cathal McCarthy,Cathal,McCarthy,Hull City,HUL,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+278,Charlie Hughes,Charlie,Hughes,Hull City,HUL,D,True,i,Groin injury - Unknown return date,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+281,Cody Drameh,Cody,Drameh,Hull City,HUL,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+297,Darko Gyabi,Darko,Gyabi,Hull City,HUL,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+296,David Akintola,David,Akintola,Hull City,HUL,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+273,Dillon Phillips,Dillon,Phillips,Hull City,HUL,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+291,Eliot Matazo,Eliot,Matazo,Hull City,HUL,M,True,i,Knee injury - Unknown return date,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+298,Enis Destan,Enis,Destan,Hull City,HUL,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+275,Harvey Cartwright,Harvey,Cartwright,Hull City,HUL,G,True,u,Has joined Grimsby Town on loan for the rest of the season,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+563,Hidemasa Morita,Hidemasa,Morita,Hull City,HUL,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+274,Jack Butland,Jack,Butland,Hull City,HUL,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+277,John Egan,John,Egan,Hull City,HUL,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+288,Kieran Dowell,Kieran,Dowell,Hull City,HUL,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+280,Lewie Coyle,Lewie,Coyle,Hull City,HUL,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+287,Liam Millar,Liam,Millar,Hull City,HUL,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+299,Mason Burstow,Mason,Burstow,Hull City,HUL,F,True,u,Has joined Sheffield Wednesday on loan for the rest of the season,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+289,Matt Crooks,Matt,Crooks,Hull City,HUL,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+556,Matt Targett,Matt,Targett,Hull City,HUL,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+283,Matty Jacob,Matty,Jacob,Hull City,HUL,D,True,d,Hip injury - 75% chance of playing,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+286,Mohamed Belloumi,Mohamed,Belloumi,Hull City,HUL,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+295,Oli McBurnie,Oli,McBurnie,Hull City,HUL,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+285,Paddy McNair,Paddy,McNair,Hull City,HUL,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+290,Regan Slater,Regan,Slater,Hull City,HUL,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+282,Ryan Giles,Ryan,Giles,Hull City,HUL,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+279,Semi Ajayi,Semi,Ajayi,Hull City,HUL,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+276,Thimothée Lo-Tutala,Thimothée,Lo-Tutala,Hull City,HUL,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+294,Óscar Zambrano,Óscar,Zambrano,Hull City,HUL,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+315,Abdul Fatawu,Abdul,Fatawu,Ipswich Town,IPS,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+301,Alex Palmer,Alex,Palmer,Ipswich Town,IPS,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+322,Ali Al-Hamadi,Ali,Al-Hamadi,Ipswich Town,IPS,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+324,Anis Mehmeti,Anis,Mehmeti,Ipswich Town,IPS,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+310,Azor Matusiwa,Azor,Matusiwa,Ipswich Town,IPS,M,True,i,Muscular injury - Unknown return date,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+307,Ben Johnson,Ben,Johnson,Ipswich Town,IPS,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+314,Chiedozie Ogbene,Chiedozie,Ogbene,Ipswich Town,IPS,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+300,Christian Walton,Christian,Walton,Ipswich Town,IPS,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+320,Chuba Akpom,Chuba,Akpom,Ipswich Town,IPS,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+303,Cédric Kipré,Cédric,Kipré,Ipswich Town,IPS,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+562,Daizen Maeda,Daizen,Maeda,Ipswich Town,IPS,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+304,Dara O'Shea,Dara,O'Shea,Ipswich Town,IPS,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+308,Darnell Furlong,Darnell,Furlong,Ipswich Town,IPS,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+302,David Button,David,Button,Ipswich Town,IPS,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+316,Emersonn Correia da Silva,Emersonn,Correia da Silva,Ipswich Town,IPS,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+317,George Hirst,George,Hirst,Ipswich Town,IPS,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+259,Issa Diop,Issa,Diop,Ipswich Town,IPS,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+313,Jack Clarke,Jack,Clarke,Ipswich Town,IPS,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+312,Jack Taylor,Jack,Taylor,Ipswich Town,IPS,M,True,i,Knee injury - Unknown return date,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+306,Jacob Greaves,Jacob,Greaves,Ipswich Town,IPS,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+318,Jaden Philogene,Jaden,Philogene,Ipswich Town,IPS,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+323,Kasey McAteer,Kasey,McAteer,Ipswich Town,IPS,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+554,Kayne van Oevelen,Kayne,van Oevelen,Ipswich Town,IPS,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+564,Kjell Scherpen,Kjell,Scherpen,Ipswich Town,IPS,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+305,Leif Davis,Leif,Davis,Ipswich Town,IPS,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+309,Marcelino Núñez,Marcelino,Núñez,Ipswich Town,IPS,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+319,Sam Szmodics,Sam,Szmodics,Ipswich Town,IPS,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+321,Sindre Walle Egeli,Sindre,Walle Egeli,Ipswich Town,IPS,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+311,Wes Burns,Wes,Burns,Ipswich Town,IPS,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+335,Anton Stach,Anton,Stach,Leeds,LEE,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+337,Brenden Aaronson,Brenden,Aaronson,Leeds,LEE,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+343,Daniel James,Daniel,James,Leeds,LEE,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+346,Dominic Calvert-Lewin,Dominic,Calvert-Lewin,Leeds,LEE,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+338,Ethan Ampadu,Ethan,Ampadu,Leeds,LEE,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+331,Gabriel Gudmundsson,Gabriel,Gudmundsson,Leeds,LEE,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+260,Harry Wilson,Harry,Wilson,Leeds,LEE,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+344,Ilia Gruev,Ilia,Gruev,Leeds,LEE,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+342,Jack Harrison,Jack,Harrison,Leeds,LEE,M,True,u,Has joined New England Revolution permanently,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+327,Jaka Bijol,Jaka,Bijol,Leeds,LEE,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+332,James Justin,James,Justin,Leeds,LEE,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+330,Jayden Bogle,Jayden,Bogle,Leeds,LEE,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+340,Joe Gelhardt,Joe,Gelhardt,Leeds,LEE,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+329,Joe Rodon,Joe,Rodon,Leeds,LEE,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+348,Joël Piroe,Joël,Piroe,Leeds,LEE,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+326,Lucas Estella Perri,Lucas Estella,Perri,Leeds,LEE,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+347,Lukas Nmecha,Lukas,Nmecha,Leeds,LEE,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+349,Mateo Joseph Fernández-Regatillo,Mateo,Joseph Fernández-Regatillo,Leeds,LEE,F,True,i,Knee injury - Unknown return date,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+336,Noah Okafor,Noah,Okafor,Leeds,LEE,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+339,Sean Longstaff,Sean,Longstaff,Leeds,LEE,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+333,Sebastiaan Bornauw,Sebastiaan,Bornauw,Leeds,LEE,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+345,Tanaka Ao,Tanaka,Ao,Leeds,LEE,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+334,Tarik Muharemović,Tarik,Muharemović,Leeds,LEE,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+341,Wilfried Gnonto,Wilfried,Gnonto,Leeds,LEE,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+379,Alexander Isak,Alexander,Isak,Liverpool,LIV,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+372,Alexis Mac Allister,Alexis,Mac Allister,Liverpool,LIV,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+350,Alisson Becker,Alisson,Becker,Liverpool,LIV,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+353,Armin Pecsi,Armin,Pecsi,Liverpool,LIV,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+365,Calvin Ramsay,Calvin,Ramsay,Liverpool,LIV,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+367,Cody Gakpo,Cody,Gakpo,Liverpool,LIV,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+360,Conor Bradley,Conor,Bradley,Liverpool,LIV,D,True,i,Knee injury - Unknown return date,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+373,Curtis Jones,Curtis,Jones,Liverpool,LIV,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+368,Dominik Szoboszlai,Dominik,Szoboszlai,Liverpool,LIV,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+374,Endo Wataru,Endo,Wataru,Liverpool,LIV,M,True,d,Ankle injury - 75% chance of playing,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+370,Federico Chiesa,Federico,Chiesa,Liverpool,LIV,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+366,Florian Wirtz,Florian,Wirtz,Liverpool,LIV,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+352,Freddie Woodman,Freddie,Woodman,Liverpool,LIV,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+351,Giorgi Mamardashvili,Giorgi,Mamardashvili,Liverpool,LIV,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+363,Giovanni Leoni,Giovanni,Leoni,Liverpool,LIV,D,True,i,Knee injury - Unknown return date,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+355,Harvey Davies,Harvey,Davies,Liverpool,LIV,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+383,Harvey Elliott,Harvey,Elliott,Liverpool,LIV,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+380,Hugo Ekitiké,Hugo,Ekitiké,Liverpool,LIV,F,True,i,Achilles injury - Unknown return date,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+378,James McConnell,James,McConnell,Liverpool,LIV,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+382,Jayden Danns,Jayden,Danns,Liverpool,LIV,F,True,i,Unspecified injury - Unknown return date,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+357,Jeremie Frimpong,Jeremie,Frimpong,Liverpool,LIV,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+362,Jeremy Jacquet,Jeremy,Jacquet,Liverpool,LIV,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+359,Joe Gomez,Joe,Gomez,Liverpool,LIV,D,True,i,Muscular injury - Unknown return date,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+364,Kostas Tsimikas,Kostas,Tsimikas,Liverpool,LIV,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+381,Lewis Koumas,Lewis,Koumas,Liverpool,LIV,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+358,Milos Kerkez,Milos,Kerkez,Liverpool,LIV,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+369,Rio Ngumoha,Rio,Ngumoha,Liverpool,LIV,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+371,Ryan Gravenberch,Ryan,Gravenberch,Liverpool,LIV,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+376,Stefan Bajčetić Maquieira,Stefan,Bajčetić Maquieira,Liverpool,LIV,M,True,i,Hamstring injury - Expected back 23 Aug,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+375,Trey Nyoni,Trey,Nyoni,Liverpool,LIV,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+377,Victor Munoz,Victor,Munoz,Liverpool,LIV,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+356,Virgil van Dijk,Virgil,van Dijk,Liverpool,LIV,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+354,Vitezslav Jaros,Vitezslav,Jaros,Liverpool,LIV,G,True,i,Knee injury - Unknown return date,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+361,Wellity Lucky,Wellity,Lucky,Liverpool,LIV,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+393,Abdukodir Khusanov,Abdukodir,Khusanov,Man City,MCI,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+397,Antoine Semenyo,Antoine,Semenyo,Man City,MCI,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+407,Claudio Echeverri,Claudio,Echeverri,Man City,MCI,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+409,Divine Mukasa,Divine,Mukasa,Man City,MCI,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+481,Elliot Anderson,Elliot,Anderson,Man City,MCI,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+411,Erling Haaland,Erling,Haaland,Man City,MCI,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+384,Gianluigi Donnarumma,Gianluigi,Donnarumma,Man City,MCI,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+238,Jack Grealish,Jack,Grealish,Man City,MCI,M,True,d,Foot injury - 75% chance of playing,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+385,James Trafford,James,Trafford,Man City,MCI,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+410,Jeremy Monga,Jeremy,Monga,Man City,MCI,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+391,Joško Gvardiol,Joško,Gvardiol,Man City,MCI,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+400,Jérémy Doku,Jérémy,Doku,Man City,MCI,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+408,Kalvin Phillips,Kalvin,Phillips,Man City,MCI,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+388,Marc Guéhi,Marc,Guéhi,Man City,MCI,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+386,Marcus Bettinelli,Marcus,Bettinelli,Man City,MCI,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+406,Mateo Kovačić,Mateo,Kovačić,Man City,MCI,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+389,Matheus Nunes,Matheus,Nunes,Man City,MCI,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+394,Max Alleyne,Max,Alleyne,Man City,MCI,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+405,Nico González Iglesias,Nico,González Iglesias,Man City,MCI,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+387,Nico O'Reilly,Nico,O'Reilly,Man City,MCI,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+401,Omar Marmoush,Omar,Marmoush,Man City,MCI,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+398,Phil Foden,Phil,Foden,Man City,MCI,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+392,Rayan Aït-Nouri,Rayan,Aït-Nouri,Man City,MCI,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+399,Rayan Cherki,Rayan,Cherki,Man City,MCI,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+395,Rico Lewis,Rico,Lewis,Man City,MCI,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+402,Rodrigo 'Rodri' Hernandez Cascante,Rodrigo 'Rodri',Hernandez Cascante,Man City,MCI,M,True,i,Back injury - Unknown return date,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+390,Rúben dos Santos Gato Alves Dias,Rúben,dos Santos Gato Alves Dias,Man City,MCI,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+403,Sávio Moreira de Oliveira,Sávio,Moreira de Oliveira,Man City,MCI,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+404,Tijjani Reijnders,Tijjani,Reijnders,Man City,MCI,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+396,Vitor de Oliveira Nunes dos Reis,Vitor,de Oliveira Nunes dos Reis,Man City,MCI,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+413,Altay Bayındır,Altay,Bayındır,Man Utd,MUN,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+431,Amad Diallo,Amad,Diallo,Man Utd,MUN,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+162,Andrey Nascimento dos Santos,Andrey,Nascimento dos Santos,Man Utd,MUN,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+421,Ayden Heaven,Ayden,Heaven,Man Utd,MUN,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+437,Bendito Mantato,Bendito,Mantato,Man Utd,MUN,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+439,Benjamin Sesko,Benjamin,Sesko,Man Utd,MUN,F,True,d,Shin injury - 75% chance of playing,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+426,Bruno Borges Fernandes,Bruno,Borges Fernandes,Man Utd,MUN,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+427,Bryan Mbeumo,Bryan,Mbeumo,Man Utd,MUN,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+441,Chido Obi,Chido,Obi,Man Utd,MUN,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+417,Diogo Dalot Teixeira,Diogo,Dalot Teixeira,Man Utd,MUN,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+424,Harry Amass,Harry,Amass,Man Utd,MUN,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+418,Harry Maguire,Harry,Maguire,Man Utd,MUN,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+434,Jack Fletcher,Jack,Fletcher,Man Utd,MUN,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+440,Joshua Zirkzee,Joshua,Zirkzee,Man Utd,MUN,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+325,Karl Darlow,Karl,Darlow,Man Utd,MUN,G,True,d,Unspecified injury - 75% chance of playing,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+432,Kobbie Mainoo,Kobbie,Mainoo,Man Utd,MUN,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+420,Leny Yoro,Leny,Yoro,Man Utd,MUN,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+419,Lisandro Martínez,Lisandro,Martínez,Man Utd,MUN,D,True,d,Thigh injury - 75% chance of playing,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+423,Luke Shaw,Luke,Shaw,Man Utd,MUN,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+433,Manuel Ugarte Ribeiro,Manuel,Ugarte Ribeiro,Man Utd,MUN,M,True,i,Knee injury - Unknown return date,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+429,Marcus Rashford,Marcus,Rashford,Man Utd,MUN,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+430,Mason Mount,Mason,Mount,Man Utd,MUN,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+428,Matheus Santos Carneiro da Cunha,Matheus,Santos Carneiro da Cunha,Man Utd,MUN,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+416,Matthijs de Ligt,Matthijs,de Ligt,Man Utd,MUN,D,True,i,Back injury - Unknown return date,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+422,Noussair Mazraoui,Noussair,Mazraoui,Man Utd,MUN,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+415,Patrick Dorgu,Patrick,Dorgu,Man Utd,MUN,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+412,Senne Lammens,Senne,Lammens,Man Utd,MUN,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+435,Shea Lacey,Shea,Lacey,Man Utd,MUN,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+436,Toby Collyer,Toby,Collyer,Man Utd,MUN,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+414,Tom Heaton,Tom,Heaton,Man Utd,MUN,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+438,Tyler Fletcher,Tyler,Fletcher,Man Utd,MUN,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+425,Tyler Fredricson,Tyler,Fredricson,Man Utd,MUN,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+43,Youri Tielemans,Youri,Tielemans,Man Utd,MUN,M,True,d,Hamstring injury - 75% chance of playing,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+559,Aladji Bamba,Aladji,Bamba,Newcastle,NEW,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+451,Alex Murphy,Alex,Murphy,Newcastle,NEW,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+454,Anthony Elanga,Anthony,Elanga,Newcastle,NEW,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+461,Bazoumana Touré,Bazoumana,Touré,Newcastle,NEW,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+452,Bruno Guimarães Rodriguez Moura,Bruno,Guimarães Rodriguez Moura,Newcastle,NEW,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+448,Dan Burn,Dan,Burn,Newcastle,NEW,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+444,Ewen Jaouen,Ewen,Jaouen,Newcastle,NEW,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+446,Fabian Schär,Fabian,Schär,Newcastle,NEW,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+453,Harvey Barnes,Harvey,Barnes,Newcastle,NEW,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+457,Jacob Murphy,Jacob,Murphy,Newcastle,NEW,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+456,Jacob Ramsey,Jacob,Ramsey,Newcastle,NEW,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+460,Joe Willock,Joe,Willock,Newcastle,NEW,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+458,Joelinton Cássio Apolinário de Lira,Joelinton Cássio,Apolinário de Lira,Newcastle,NEW,M,True,d,Thigh injury - 75% chance of playing,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+449,Lewis Hall,Lewis,Hall,Newcastle,NEW,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+459,Lewis Miley,Lewis,Miley,Newcastle,NEW,M,True,i,Leg injury - Expected back 30 Aug,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+567,Lukás Hornícek,Lukás,Hornícek,Newcastle,NEW,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+445,Malick Thiaw,Malick,Thiaw,Newcastle,NEW,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+443,Mark Gillespie,Mark,Gillespie,Newcastle,NEW,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+442,Nick Pope,Nick,Pope,Newcastle,NEW,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+463,Nick Woltemade,Nick,Woltemade,Newcastle,NEW,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+466,Sean Neave,Sean,Neave,Newcastle,NEW,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+462,Sean Steur,Sean,Steur,Newcastle,NEW,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+447,Sven Botman,Sven,Botman,Newcastle,NEW,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+450,Tino Livramento,Tino,Livramento,Newcastle,NEW,D,True,d,Calf injury - 75% chance of playing,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+465,William Osula,William,Osula,Newcastle,NEW,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+464,Yoane Wissa,Yoane,Wissa,Newcastle,NEW,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+493,Arnaud Kalimuendo,Arnaud,Kalimuendo,Nott'm Forest,NOT,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+482,Callum Hudson-Odoi,Callum,Hudson-Odoi,Nott'm Forest,NOT,M,True,d,Thigh injury - 75% chance of playing,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+490,Chris Wood,Chris,Wood,Nott'm Forest,NOT,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+483,Dan Ndoye,Dan,Ndoye,Nott'm Forest,NOT,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+485,Dilane Bakwa,Dilane,Bakwa,Nott'm Forest,NOT,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+470,Felipe Rodrigues da Silva,Felipe,Rodrigues da Silva,Nott'm Forest,NOT,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+488,Ibrahim Sangaré,Ibrahim,Sangaré,Nott'm Forest,NOT,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+491,Igor Jesus Maciel da Cruz,Igor Jesus,Maciel da Cruz,Nott'm Forest,NOT,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+474,Jair Paula da Cunha Filho,Jair,Paula da Cunha Filho,Nott'm Forest,NOT,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+486,James McAtee,James,McAtee,Nott'm Forest,NOT,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+468,John Victor Maciel Furtado,John Victor,Maciel Furtado,Nott'm Forest,NOT,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+478,Luca Netz,Luca,Netz,Nott'm Forest,NOT,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+467,Matz Sels,Matz,Sels,Nott'm Forest,NOT,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+480,Morgan Gibbs-White,Morgan,Gibbs-White,Nott'm Forest,NOT,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+472,Murillo Costa dos Santos,Murillo,Costa dos Santos,Nott'm Forest,NOT,D,True,d,Muscle injury - 75% chance of playing,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+469,Neco Williams,Neco,Williams,Nott'm Forest,NOT,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+487,Nicolás Domínguez,Nicolás,Domínguez,Nott'm Forest,NOT,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+475,Nicolò Savona,Nicolò,Savona,Nott'm Forest,NOT,D,True,i,Knee injury - Unknown return date,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+471,Nikola Milenković,Nikola,Milenković,Nott'm Forest,NOT,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+473,Ola Aina,Ola,Aina,Nott'm Forest,NOT,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+476,Omar Richards,Omar,Richards,Nott'm Forest,NOT,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+484,Omari Hutchinson,Omari,Hutchinson,Nott'm Forest,NOT,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+489,Ryan Yates,Ryan,Yates,Nott'm Forest,NOT,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+492,Taiwo Awoniyi,Taiwo,Awoniyi,Nott'm Forest,NOT,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+479,Tyler Bindon,Tyler,Bindon,Nott'm Forest,NOT,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+558,Xaver Schlager,Xaver,Schlager,Nott'm Forest,NOT,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+477,Zach Abbott,Zach,Abbott,Nott'm Forest,NOT,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+530,Anthony Patterson,Anthony,Patterson,Sunderland,SUN,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+540,Arthur Masuaku,Arthur,Masuaku,Sunderland,SUN,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+552,Brian Brobbey,Brian,Brobbey,Sunderland,SUN,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+549,Chemsdine Talbi,Chemsdine,Talbi,Sunderland,SUN,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+548,Chris Rigg,Chris,Rigg,Sunderland,SUN,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+532,Daniel Ballard,Daniel,Ballard,Sunderland,SUN,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+550,Djiamgone Jocelin Ta Bi,Djiamgone Jocelin Ta,Bi,Sunderland,SUN,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+542,Enzo Le Fée,Enzo,Le Fée,Sunderland,SUN,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+544,Granit Xhaka,Granit,Xhaka,Sunderland,SUN,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+543,Habib Diarra,Habib,Diarra,Sunderland,SUN,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+537,Jenson Seelt,Jenson,Seelt,Sunderland,SUN,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+538,Leo Fuhr Hjelde,Leo Fuhr,Hjelde,Sunderland,SUN,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+539,Luke O'Nien,Luke,O'Nien,Sunderland,SUN,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+531,Melker Ellborg,Melker,Ellborg,Sunderland,SUN,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+551,Nilson Angulo,Nilson,Angulo,Sunderland,SUN,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+545,Noah Sadiki,Noah,Sadiki,Sunderland,SUN,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+533,Nordi Mukiele,Nordi,Mukiele,Sunderland,SUN,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+535,Omar Alderete,Omar,Alderete,Sunderland,SUN,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+536,Reinildo Mandava,Reinildo,Mandava,Sunderland,SUN,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+529,Robin Roefs,Robin,Roefs,Sunderland,SUN,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+547,Romaine Mundle,Romaine,Mundle,Sunderland,SUN,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+546,Simon Adingra,Simon,Adingra,Sunderland,SUN,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+541,Thomas Meunier,Thomas,Meunier,Sunderland,SUN,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+534,Trai Hume,Trai,Hume,Sunderland,SUN,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+553,Wilson Isidor,Wilson,Isidor,Sunderland,SUN,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+502,Andrew Robertson,Andrew,Robertson,Spurs,TOT,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+496,Antonín Kinský,Antonín,Kinský,Spurs,TOT,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+522,Archie Gray,Archie,Gray,Spurs,TOT,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+507,Ashley Phillips,Ashley,Phillips,Spurs,TOT,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+508,Ben Davies,Ben,Davies,Spurs,TOT,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+495,Brandon Austin,Brandon,Austin,Spurs,TOT,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+524,Callum Olusesi,Callum,Olusesi,Spurs,TOT,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+519,Conor Gallagher,Conor,Gallagher,Spurs,TOT,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+500,Cristian Romero,Cristian,Romero,Spurs,TOT,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+528,Dane Scarlett,Dane,Scarlett,Spurs,TOT,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+521,Dejan Kulusevski,Dejan,Kulusevski,Spurs,TOT,M,True,i,Knee injury - Unknown return date,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+506,Destiny Udogie,Destiny,Udogie,Spurs,TOT,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+505,Djed Spence,Djed,Spence,Spurs,TOT,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+526,Dominic Solanke-Mitchell,Dominic,Solanke-Mitchell,Spurs,TOT,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+494,Guglielmo Vicario,Guglielmo,Vicario,Spurs,TOT,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+515,James Maddison,James,Maddison,Spurs,TOT,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+510,James Rowswell,James,Rowswell,Spurs,TOT,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+112,Jan Paul van Hecke,Jan Paul,van Hecke,Spurs,TOT,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+511,João Victor de Souza Menezes,João Victor,de Souza Menezes,Spurs,TOT,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+509,Jun'ai Byfield,Jun'ai,Byfield,Spurs,TOT,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+501,Kevin Danso,Kevin,Danso,Spurs,TOT,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+520,Lucas Bergvall,Lucas,Bergvall,Spurs,TOT,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+498,Marcos Senesi Barón,Marcos,Senesi Barón,Spurs,TOT,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+497,Martin Dubravka,Martin,Dubravka,Spurs,TOT,G,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+525,Mateus Fernandes,Mateus,Fernandes,Spurs,TOT,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+514,Mathys Tel,Mathys,Tel,Spurs,TOT,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+503,Micky van de Ven,Micky,van de Ven,Spurs,TOT,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+523,Mikey Moore,Mikey,Moore,Spurs,TOT,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+512,Mohammed Kudus,Mohammed,Kudus,Spurs,TOT,M,True,d,Thigh injury - 75% chance of playing,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+518,Pape Matar Sarr,Pape Matar,Sarr,Spurs,TOT,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+499,Pedro Porro Sauceda,Pedro,Porro Sauceda,Spurs,TOT,D,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+527,Richarlison de Andrade,Richarlison,de Andrade,Spurs,TOT,F,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+516,Rodrigo Bentancur,Rodrigo,Bentancur,Spurs,TOT,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+455,Sandro Tonali,Sandro,Tonali,Spurs,TOT,M,True,a,,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+517,Wilson Odobert,Wilson,Odobert,Spurs,TOT,M,True,i,Knee injury - Unknown return date,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627
+513,Xavi Simons,Xavi,Simons,Spurs,TOT,M,True,i,Knee injury - Unknown return date,Official FPL API,2026-08-03T21:00:33.824814+00:00,2627

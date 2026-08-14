@@ -1,0 +1,921 @@
+﻿fantrax_player_id,fantrax_player_name,understat_player_id,understat_player_name,football_data_player_id,football_data_player_name,historical_team,current_team,team_changed_for_2627,understat_match_type,understat_match_score,football_match_type,football_match_score,identity_confidence,preseason_context_status
+*02lk5*,Jordan Henderson,605,Jordan Henderson,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*02lkp*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*02lm7*,Jack Grealish,675,Jack Grealish,39600,Jack Grealish,,Everton FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*02lnx*,Danny Welbeck,501,Danny Welbeck,39559,Danny Welbeck,,Brighton Hove Albion FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*02lo6*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*02lp5*,Adam Smith,825,Adam Smith,39572,Adam Smith,,AFC Bournemouth,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*02lp9*,Kyle Walker,638,Kyle Walker,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*02lpf*,Ross Barkley,592,Ross Barkley,35911,Ross Barkley,,Aston Villa FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*02lpl*,Seamus Coleman,585,Seamus Coleman,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*02ls8*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*02lsa*,Dan Burn,7382,Dan Burn,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*02ltw*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*02lv9*,James Milner,489,James Milner,39849,James Milner,,Brighton Hove Albion FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*02lym*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*02lz0*,Emiliano Martinez,4401,Emiliano Martinez,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*02m11*,Matt Doherty,6852,Matt Doherty,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*02m3v*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*02m5b*,Chris Wood,4456,Chris Wood,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*02oo1*,Ben Davies,660,Ben Davies,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*02oq6*,Luke Shaw,1006,Luke Shaw,39575,Luke Shaw,,Manchester United FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*02oq8*,James Ward-Prowse,843,James Ward-Prowse,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*02t1k*,Nathaniel Clyne,603,Nathaniel Clyne,39850,Nathaniel Clyne,,Crystal Palace FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*02xtd*,Sam Johnstone,978,Sam Johnstone,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*02y6o*,Nathan Ake,579,Nathan Aké,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*02yl5*,John Stones,586,John Stones,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*0327r*,Michael Keane,1653,Michael Keane,39564,Michael Keane,,Everton FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*0328q*,Tom Cairney,6835,Tom Cairney,39609,Tom Cairney,,Fulham FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*032f9*,Jordan Pickford,741,Jordan Pickford,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*033l8*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*035mq*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*035n1*,Bertrand Traore,695,Bertrand Traoré,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*0372y*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*037mt*,Harrison Reed,910,Harrison Reed,39583,Harrison Reed,,Fulham FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*038ze*,Alex Iwobi,500,Alex Iwobi,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*03am7*,Jacob Murphy,6063,Jacob Murphy,28040,Jacob Murphy,,Newcastle United FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*03aqp*,Mohamed Salah,1250,Mohamed Salah,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*03ar4*,Adam Armstrong,4419,Adam Armstrong,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*03brm*,Patrick Roberts,925,Patrick Roberts,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*03dwz*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*03dx3*,Kieran Trippier,652,Kieran Trippier,27965,Kieran Trippier,,Newcastle United FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*03dxr*,Ashley Barnes,4422,Ashley Barnes,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*03dyx*,Josh Laurent,13728,Josh Laurent,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*03ek4*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*03fgo*,Dominic Solanke,1679,Dominic Solanke,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*03frx*,Ola Aina,725,Ola Aina,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*03gu4*,Harry Maguire,1687,Harry Maguire,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*03gu5*,Andrew Robertson,1688,Andrew Robertson,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*03hff*,Josh Cullen,1018,Josh Cullen,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*03jly*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*03m5i*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*03pif*,Karl Darlow,780,Karl Darlow,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*03pig*,Jamaal Lascelles,766,Jamaal Lascelles,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*03r8x*,Callum Wilson,468,Callum Wilson,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*03r93*,Joseph Gomez,987,Joseph Gomez,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*03rec*,Tyrone Mings,1024,Tyrone Mings,35917,Tyrone Mings,,Aston Villa FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*03rxa*,Idrissa Gueye,668,Idrissa Gueye,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*03rxs*,Harry Wilson,5596,Harry Wilson,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*03rzp*,Antonee Robinson,8940,Antonee Robinson,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*03sbh*,Enes Unal,6219,Enes Ünal,39608,Enes Ünal,,AFC Bournemouth,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*03u2b*,Adama Traore,900,Adama Traoré,39581,Adama Traoré,,Fulham FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*03v6t*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*03v9d*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*03vlj*,Virgil van Dijk,833,Virgil van Dijk,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*03vll*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*03xrs*,Axel Tuanzebe,934,Axel Tuanzebe,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*03yeg*,Tosin Adarabioyo,5590,Tosin Adarabioyo,27949,Tosin Adarabioyo,,Chelsea FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*03yqz*,Joe Rodon,6377,Joe Rodon,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*03yr0*,Daniel James,5595,Daniel James,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*03ysd*,Sam Byram,902,Sam Byram,39579,Sam Byram,,Leeds United FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*03yww*,Dean Henderson,7702,Dean Henderson,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*03zsq*,Kyle Walker-Peters,885,Kyle Walker-Peters,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*0410j*,Tammy Abraham,702,Tammy Abraham,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*0414o*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*0427d*,James Tarkowski,1665,James Tarkowski,39566,James Tarkowski,,Everton FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*0435m*,Granit Xhaka,204,Granit Xhaka,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*0435t*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*043c1*,Oleksandr Zinchenko,2958,Oleksandr Zinchenko,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*043qy*,Lewis Cook,1789,Lewis Cook,39573,Lewis Cook,,AFC Bournemouth,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*044ei*,Nick Pope,5552,Nick Pope,27998,Nick Pope,,Newcastle United FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*044i7*,Angus Gunn,5544,Angus Gunn,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*044nm*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*044w8*,Marcus Edwards,13730,Marcus Edwards,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*045c8*,Gabriel Jesus,5543,Gabriel Jesus,28939,Gabriel Jesus,,Arsenal FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*045ob*,Caoimhin Kelleher,7904,Caoimhin Kelleher,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*045yy*,Arthur Masuaku,1760,Arthur Masuaku,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*046c5*,Jarrod Bowen,1776,Jarrod Bowen,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*048xg*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*049tq*,Dominic Calvert-Lewin,5555,Dominic Calvert-Lewin,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*04abb*,Phil Foden,6055,Phil Foden,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*04abn*,Harvey Barnes,6681,Harvey Barnes,27978,Harvey Barnes,,Newcastle United FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*04adp*,Aaron Wan-Bissaka,5584,Aaron Wan-Bissaka,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*04agz*,Declan Rice,5553,Declan Rice,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*04amh*,Aaron Ramsdale,5603,Aaron Ramsdale,28006,Aaron Ramsdale,,Newcastle United FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*04azm*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*04d9r*,Angel Gomes,5598,Angel Gomes,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*04e1c*,Lewis Dunk,6048,Lewis Dunk,39614,Lewis Dunk,,Brighton Hove Albion FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*04e1e*,Ben White,7298,Ben White,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*04e1k*,Solly March,6049,Solly March,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*04f67*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*04f6h*,Matz Sels,6903,Matz Sels,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*04f6o*,Will Hughes,6104,Will Hughes,39615,Will Hughes,,Crystal Palace FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*04fk1*,Pascal Gross,239,Pascal Groß,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*04fk5*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*04fk6*,Bernardo Silva,3635,Bernardo Silva,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*04fk8*,Victor Lindelof,6080,Victor Lindelöf,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*04ge6*,Joe Willock,6630,Joe Willock,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*04ge7*,Donyell Malen,9749,Donyell Malen,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*04ge8*,Reiss Nelson,6492,Reiss Nelson,39768,Reiss Nelson,,Brentford FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*04ge9*,Eddie Nketiah,6482,Eddie Nketiah,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*04gw7*,Jadon Sancho,6345,Jadon Sancho,36453,Jadon Sancho,,Aston Villa FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*04gyd*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*04hk9*,Mikel Merino,5304,Mikel Merino,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*04io4*,Richarlison,6026,Richarlison,28248,Richarlison,,Tottenham Hotspur FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*04lav*,Ethan Ampadu,6369,Ethan Ampadu,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*04lnu*,Lukas Nmecha,6544,Lukas Nmecha,39770,Lukas Nmecha,,Leeds United FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*04mdn*,Anthony Gordon,8150,Anthony Gordon,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*04mi4*,Callum Hudson-Odoi,6456,Callum Hudson-Odoi,36532,Callum Hudson-Odoi,,Nottingham Forest FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*04ml6*,Konstantinos Mavropanos,6722,Konstantinos Mavropanos,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*04mmx*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*04mqv*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*04mr4*,Martin Dubravka,6532,Martin Dubravka,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*04mup*,Trevoh Chalobah,6615,Trevoh Chalobah,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*04o82*,Curtis Jones,6665,Curtis Jones,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*04p0d*,Dwight McNeil,6756,Dwight McNeil,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*04qfm*,Ryan Sessegnon,6837,Ryan Sessegnon,39620,Ryan Sessegnon,,Fulham FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*04qfq*,Matt ORiley,13206,Matt O'Riley,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*04qfz*,Diogo Dalot,7281,Diogo Dalot,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*04qor*,Bernd Leno,181,Bernd Leno,39526,Bernd Leno,,Fulham FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*04qos*,Issa Diop,3203,Issa Diop,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*04qr0*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*04qr9*,Morgan Gibbs-White,6857,Morgan Gibbs-White,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*04qrc*,Raul Jimenez,4105,Raúl Jiménez,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*04rh9*,David Brooks,6820,David Brooks,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*04rha*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*04rzl*,Taiwo Awoniyi,7814,Taiwo Awoniyi,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*04sat*,Emile Smith Rowe,7230,Emile Smith-Rowe,39756,Emile Smith Rowe,,Fulham FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*04sft*,Yves Bissouma,5609,Yves Bissouma,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*04sjt*,Alisson,1257,Alisson,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*04spp*,Douglas Luiz,6122,Douglas Luiz,8128,Douglas Luiz,,Nottingham Forest FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*04spq*,Jack Harrison,8720,Jack Harrison,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*04spw*,James Garner,7438,James Garner,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*04tig*,Fabian Schar,76,Fabian Schär,28916,Fabian Schär,,Newcastle United FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*04tm0*,Lucas Digne,1823,Lucas Digne,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*04tsb*,Viktor Gyokeres,7254,Viktor Gyokeres,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*04tsf*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*04tzt*,Jefferson Lerma,2182,Jefferson Lerma,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*04u40*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*04u41*,Mateo Kovacic,2254,Mateo Kovacic,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*04u6i*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*04ug0*,Sean Longstaff,7078,Sean Longstaff,39525,Sean Longstaff,,Leeds United FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*04vy4*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*04xjr*,Harvey Elliott,7546,Harvey Elliott,36579,Harvey Elliott,,Liverpool FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*04y92*,Bukayo Saka,7322,Bukayo Saka,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*04yey*,Max Kilman,7332,Max Kilman,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*04yjx*,Ki-Jana Hoever,8351,Ki-Jana Hoever,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*04ylt*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*04ym3*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*04ym7*,Lucas Perri,12369,Lucas Perri,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*04yme*,Robert Sanchez,9098,Robert Sánchez,28624,Robert Sánchez,,Chelsea FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*04yo7*,Youri Tielemans,5956,Youri Tielemans,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*050jq*,Marc Guehi,7603,Marc Guehi,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*051k0*,John McGinn,7723,John McGinn,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*051k3*,Jacob Ramsey,8941,Jacob Ramsey,28599,Jacob Ramsey,,Newcastle United FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*051k7*,Reece James,8067,Reece James,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*051k8*,Conor Gallagher,9040,Conor Gallagher,28600,Conor Gallagher,,Tottenham Hotspur FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*051kl*,Emiliano Buendia,2203,Emiliano Buendía,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*0520r*,Leandro Trossard,7698,Leandro Trossard,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*0521z*,James Justin,7753,James Justin,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05220*,Sepp van den Berg,10721,Sepp van den Berg,39785,Sepp van den Berg,,Brentford FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*0522h*,Alexis Mac Allister,8379,Alexis Mac Allister,7909,Alexis Mac Allister,,Liverpool FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*0524k*,Rodri,2496,Rodri,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*052ca*,Ezri Konsa,7726,Ezri Konsa Ngoyo,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*052cb*,Ian Maatsen,11807,Ian Maatsen,36685,Ian Maatsen,,Aston Villa FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*052cd*,Mason Mount,7768,Mason Mount,39707,Mason Mount,,Manchester United FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*052h5*,Gabriel Martinelli,7752,Gabriel Martinelli,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*0554g*,Calvin Bassey,11728,Calvin Bassey,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*0554i*,Joelinton,87,Joelinton,27895,Joelinton,,Newcastle United FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*0558w*,William Saliba,6888,William Saliba,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*056as*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*056at*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*056ir*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*056iy*,Pedro Neto,6382,Pedro Neto,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05746*,Emil Krafth,1545,Emil Krafth,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05748*,Ismaila Sarr,5675,Ismaila Sarr,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*057cr*,Kevin Danso,5261,Kevin Danso,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05a6d*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*05a6e*,Neco Williams,8204,Neco Williams,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05afj*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*05akv*,Tyrick Mitchell,8214,Tyrick Mitchell,39899,Tyrick Mitchell,,Crystal Palace FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*05g2o*,Joao Pedro,8272,João Pedro,28860,João Pedro,,Chelsea FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*05g4d*,Dennis Cirkin,8537,Dennis Cirkin,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05gcc*,Kiernan Dewsbury-Hall,9739,Kiernan Dewsbury-Hall,39763,Kiernan Dewsbury-Hall,,Everton FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*05gcp*,Tomas Soucek,8288,Tomas Soucek,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05gcr*,Bruno Fernandes,1228,Bruno Fernandes,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05gcs*,Sander Berge,8285,Sander Berge,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05gcx*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*05gvx*,Armando Broja,8384,Armando Broja,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05l27*,Jarrad Branthwaite,8476,Jarrad Branthwaite,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05l8q*,Cole Palmer,8497,Cole Palmer,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05mxa*,Joel Veltman,8780,Joël Veltman,39537,Joël Veltman,,Brighton Hove Albion FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*05mzt*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*05mzz*,Pascal Struijk,8717,Pascal Struijk,39650,Pascal Struijk,,Leeds United FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*05n03*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*05n07*,Pedro Porro,6912,Pedro Porro,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05n09*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*05n0a*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*05n3u*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*05n3v*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*05nio*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*05nip*,Dane Scarlett,9332,Dane Scarlett,29333,Dane Scarlett,,Tottenham Hotspur FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*05nns*,Danny Ballard,13715,Dan Ballard,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05nsf*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*05nt6*,Eberechi Eze,8706,Eberechi Eze,8882,Eberechi Eze,,Crystal Palace FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*05nuf*,Myles Peart-Harris,10205,Myles Peart-Harris,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05nzu*,Gabriel Magalhaes,5613,Gabriel,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05o4b*,Matty Cash,8864,Matthew Cash,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05o4c*,Timothy Castagne,6157,Timothy Castagne,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05o6h*,Kai Havertz,5220,Kai Havertz,39527,Kai Havertz,,Arsenal FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*05o8k*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*05o8o*,Jayden Bogle,9205,Jayden Bogle,39746,Jayden Bogle,,Leeds United FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*05ocl*,Ollie Watkins,8865,Ollie Watkins,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05oef*,Alphonse Areola,2310,Alphonse Areola,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05oeh*,Kenny Tete,5973,Kenny Tete,19,Kenny Tete,,Fulham FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*05ogb*,Anthony Elanga,9524,Anthony Elanga,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05ogg*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*05ogh*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*05oh0*,Jan-Paul van Hecke,10807,Jan Paul van Hecke,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05oig*,Liam Delap,8868,Liam Delap,29182,Liam Delap,,Chelsea FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*05ojf*,Fabio Carvalho,9501,Fabio Carvalho,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05ojg*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*05oji*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*05omu*,Ruben Dias,8961,Rúben Dias,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05opj*,Elliot Anderson,9154,Elliot Anderson,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05opl*,Wesley Fofana,7589,Wesley Fofana,789,Wesley Fofana,,Chelsea FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*05os4*,Rayan Ait-Nouri,6674,Rayan Ait Nouri,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05os8*,Joachim Andersen,6314,Joachim Andersen,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05oz3*,James Trafford,9077,James Trafford,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05oz4*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*05r2t*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*05r34*,Amad Diallo,8127,Amad Diallo Traore,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05r4h*,Lamare Bogarde,10025,Lamare Bogarde,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05r4r*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*05r8o*,Jean-Philippe Mateta,5735,Jean-Philippe Mateta,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05r93*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*05r94*,Iliman Ndiaye,9307,Iliman Ndiaye,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05r9b*,Martin Odegaard,2517,Martin Odegaard,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05raa*,Hugo Bueno,10140,Hugo Bueno,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05rb8*,Moises Caicedo,9453,Moisés Caicedo,8132,Moisés Caicedo,,Chelsea FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*05rbn*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*05rc7*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*05re5*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*05rfp*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*05rjn*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*05rka*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*05rl4*,Crysencio Summerville,9492,Crysencio Summerville,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05s08*,Valentino Livramento,9512,Valentino Livramento,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05t6x*,William Osula,9556,William Osula,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05t6y*,Hannibal Mejbri,9558,Hannibal Mejbri,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05t6z*,Tim Iroegbunam,9554,Tim Iroegbunam,39948,Tim Iroegbunam,,Everton FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*05tqx*,David Raya,9676,David Raya,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05tqz*,Rico Henry,9679,Rico Henry,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05tr1*,Ethan Pinnock,9678,Ethan Pinnock,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05tr5*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*05tr8*,Christian Norgaard,7083,Christian Nørgaard,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05tr9*,Mathias Jensen,7166,Mathias Jensen,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05trb*,Bryan Mbeumo,6552,Bryan Mbeumo,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05tre*,Vitaly Janelt,9680,Vitaly Janelt,39676,Vitaly Janelt,,Brentford FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*05ts6*,Yerson Mosquera,9958,Yerson Mosquera,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05tz8*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*05u1m*,Nathan Collins,9733,Nathan Collins,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05u40*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*05u7f*,Ibrahima Konate,6326,Ibrahima Konaté,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05ubh*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*05ubv*,Omari Hutchinson,10348,Omari Hutchinson,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05udg*,Jose Sa,9740,José Sá,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05udw*,Romaine Mundle,11461,Romaine Mundle,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05ue3*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*05ue7*,Frank Onyeka,9681,Frank Onyeka,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05uel*,Kristoffer Ajer,9677,Kristoffer Ajer,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05uh0*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*05uh9*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*05uhj*,Conor Bradley,10120,Conor Bradley,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05uhk*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*05uhl*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*05uhs*,James Mcatee,10126,James McAtee,36908,James Mcatee,,Nottingham Forest FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*05uht*,Morgan Rogers,12412,Morgan Rogers,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05uns*,Leon Bailey,5221,Leon Bailey,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05unu*,Romeo Lavia,10004,Romeo Lavia,29202,Roméo Lavia,,Chelsea FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*05uoc*,Cristian Romero,7218,Cristian Romero,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05uog*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*05uor*,Yoane Wissa,5786,Yoane Wissa,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05ux0*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*05vyc*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*05vyh*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*05w7t*,Pape Sarr,9021,Pape Sarr,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05w91*,Hwang Hee-Chan,8845,Hee-Chan Hwang,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05w9i*,Marc Cucurella,7134,Marc Cucurella,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05w9q*,Odsonne Edouard,3697,Odsonne Edouard,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05wqy*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*05wwd*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*05x12*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*05x9k*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*05xtq*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*05xtr*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*05y5b*,Freddie Potts,13724,Freddie Potts,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05y6a*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*05y7c*,Archie Gray,10184,Archie Gray,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05y9n*,Lewis Hall,10216,Lewis Hall,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05ybq*,Vitalii Mykolenko,10291,Vitalii Mykolenko,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05yct*,Nathan Patterson,10292,Nathan Patterson,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05ye7*,Oscar Bobb,11903,Oscar Bobb,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05yf8*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*05yg5*,Toti,10293,Toti,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05yld*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*05ylj*,Bruno Guimaraes,8327,Bruno Guimarães,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*05ylw*,Rodrigo Bentancur,6108,Rodrigo Bentancur,8126,Rodrigo Bentancur,,Tottenham Hotspur FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*05ylx*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*05ymb*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*060wh*,Alejandro Garnacho,10552,Alejandro Garnacho,8167,Alejandro Garnacho,,Chelsea FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*06195*,Tyler Dibling,10586,Tyler Dibling,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*061va*,Boubacar Kamara,5789,Boubacar Kamara,248,Boubacar Kamara,,Aston Villa FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*061vb*,James Hill,10747,James Hill,39887,James Hill,,AFC Bournemouth,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*061ve*,Ryan Christie,10744,Ryan Christie,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*061vk*,Jaidon Anthony,10746,Jaidon Anthony,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*061vn*,Rodrigo Muniz,10717,Rodrigo Muniz,39937,Rodrigo Muniz,,Fulham FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*061vp*,Brenden Aaronson,10751,Brenden Aaronson,8061,Brenden Aaronson,,Leeds United FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*061vq*,Erling Haaland,8260,Erling Haaland,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*061x2*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*061xs*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*061xw*,Joe Worrall,10756,Joe Worrall,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*061y6*,Ryan Yates,11003,Ryan Yates,35976,Ryan Yates,,Nottingham Forest FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*061ya*,Brennan Johnson,10760,Brennan Johnson,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*061z3*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*061z5*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*0620k*,Nayef Aguerd,6935,Naif Aguerd,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*0626q*,Simon Adingra,11710,Simon Adingra,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*062a9*,Sven Botman,8635,Sven Botman,28805,Sven Botman,,Newcastle United FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*062ci*,Kaoru Mitoma,10806,Kaoru Mitoma,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*062cj*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*062ck*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*062cl*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*062cw*,Stefan Ortega,8786,Stefan Ortega Moreno,39675,Stefan Ortega,,Manchester City FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*062ds*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*062dt*,Joao Palhinha,10715,João Palhinha,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*062du*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*062ft*,Tyrell Malacia,10803,Tyrell Malacia,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*062h7*,Tyler Adams,7352,Tyler Adams,7818,Tyler Adams,,AFC Bournemouth,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*062h9*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*062og*,Aaron Hickey,8942,Aaron Hickey,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*062oh*,Jake OBrien,12014,Jake O'Brien,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*062oi*,Kaden Rodney,11033,Kaden Rodney,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*062op*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*062ot*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*062ow*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*062p0*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*062p3*,Keane Lewis-Potter,10809,Keane Lewis-Potter,39833,Keane Lewis-Potter,,Brentford FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*062p5*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*062pa*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*062pb*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*062pl*,Lisandro Martinez,10802,Lisandro Martínez,7903,Lisandro Martínez,,Manchester United FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*062ts*,Djed Spence,10764,Djed Spence,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*062x7*,Rico Lewis,10847,Rico Lewis,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06329*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*0635j*,Chris Richards,8430,Chris Richards,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*0639x*,Marcus Tavernier,10741,Marcus Tavernier,39738,Marcus Tavernier,,AFC Bournemouth,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*063c2*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*063dz*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*063e3*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*063e7*,Marcos Senesi,10864,Marcos Senesi,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*063e8*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*063hu*,Amadou Onana,9667,Amadou Onana,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*063q8*,Mikkel Damsgaard,8859,Mikkel Damsgaard,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*063y7*,Destiny Udogie,8831,Iyenoma Destiny Udogie,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*063zi*,Matheus Nunes,11000,Matheus Nunes,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*0642l*,Casemiro,2248,Casemiro,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*0643r*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*0643v*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*0643w*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06441*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06442*,Zach Abbott,13306,Zach Abbott,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*0645w*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*0646f*,Alexander Isak,5232,Alexander Isak,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*0647t*,Lucas Paqueta,7365,Lucas Paquetá,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06492*,Sasa Kalajdzic,8812,Sasa Kalajdzic,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*0649i*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*0649j*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*064a0*,Wilfried Gnonto,11155,Wilfried Gnonto,39911,Wilfried Gnonto,,Leeds United FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*064op*,Tyler Fredricson,13467,Tyler Fredricson,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*065ao*,Ethan Nwaneri,11132,Ethan Nwaneri,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06617*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06635*,Oliver Scarles,12358,Oliver Scarles,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*0666p*,Kobbie Mainoo,11174,Kobbie Mainoo,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*066iy*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*066iz*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*066j4*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*066nn*,Ben Doak,11231,Ben Doak,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*066r9*,Ehor Yarmolyuk,11772,Yehor Yarmolyuk,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*066sd*,Myles Lewis-Skelly,12272,Myles Lewis-Skelly,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*066se*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*066sh*,Bashir Humphreys,11243,Bashir Humphreys,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*066si*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*066t2*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*066t3*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*066tb*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*067x6*,Max Alleyne,13298,Max Alleyne,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*067x8*,Nico OReilly,11592,Nico O'Reilly,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*067y2*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*067ys*,Jack Hinshelwood,11269,Jack Hinshelwood,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*067yu*,Facundo Buonanotte,11362,Facundo Buonanotte,29421,Facundo Buonanotte,,Chelsea FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*067yv*,Cody Gakpo,11296,Cody Gakpo,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*067yz*,Matheus Cunha,7080,Matheus Cunha,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*067z4*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*067zv*,Kevin Schade,9156,Kevin Schade,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06804*,Benoit Badiashile,7240,Benoit Badiashile Mukinayi,799,Benoît Badiashile,,Chelsea FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*06873*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*0687b*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*0687c*,Carlos Alcaraz,11297,Carlos Alcaraz,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*0689t*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*0689w*,Georginio Rutter,6937,Georginio Rutter,39816,Georginio Rutter,,Brighton Hove Albion FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*068a0*,Andrey Santos,11808,Andrey Santos,29402,Andrey Santos,,Chelsea FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*068a1*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*068lx*,Dango Ouattara,9662,Dango Ouattara,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*068n8*,Noni Madueke,11357,Noni Madueke,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*068sd*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*068y0*,Antoine Semenyo,11363,Antoine Semenyo,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*068yc*,Yasin Ayari,11385,Yasin Ayari,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*068yd*,Joao Gomes,11384,João Gomes,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*068yi*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*068ym*,Enzo Fernandez,11356,Enzo Fernández,8088,Enzo Fernández,,Chelsea FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*068yr*,Hamed Traore,6986,Hamed Junior Traore,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*068ys*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*068yt*,Sasa Lukic,1537,Sasa Lukic,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06ab3*,Lewis Miley,11386,Lewis Miley,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06avm*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06awp*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06awq*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06c4h*,Hjalmar Ekdal,11704,Hjalmar Ekdal,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06c4o*,Lyle Foster,7498,Lyle Foster,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06c4p*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06c4r*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06c6g*,Yankuba Minteh,12759,Yankuba Minteh,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06clt*,Justin Kluivert,6963,Justin Kluivert,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06clx*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06cly*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06clz*,Malo Gusto,9017,Malo Gusto,10038,Malo Gusto,,Chelsea FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*06cm0*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06cm7*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06cmb*,Guglielmo Vicario,8858,Guglielmo Vicario,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06cmm*,Dominik Szoboszlai,9788,Dominik Szoboszlai,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06cms*,Sandro Tonali,7958,Sandro Tonali,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06cmt*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06cmu*,Bart Verbruggen,11711,Bart Verbruggen,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06crm*,Pau Torres,6221,Pau Torres,36233,Pau Torres,,Aston Villa FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*06crn*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06dmj*,Jurrien Timber,11707,Jurriën Timber,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06dmn*,George Earthy,12474,George Earthy,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06dn2*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06do1*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06do3*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06do9*,Milos Kerkez,11709,Milos Kerkez,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06dps*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06dpv*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06dqv*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06dwm*,Jacob Bruun Larsen,5355,Jacob Bruun Larsen,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06eka*,Igor Julio,7943,Igor Julio,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06eo0*,Lesley Ugochukwu,9451,Chimuanya Ugochukwu,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06ew2*,Axel Disasi,6885,Axel Disasi,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06ewp*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06ews*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06ewy*,Alex Murphy,12199,Alex Murphy,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06ex2*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06ex4*,Josko Gvardiol,9790,Josko Gvardiol,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06exa*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06exb*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06exj*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06ezb*,Micky van de Ven,10050,Micky van de Ven,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06f81*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06f8y*,Alex Scott,12149,Alex Scott,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06few*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06fhy*,Wilson Odobert,10822,Wilson Odobert,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06fso*,Wataru Endo,8808,Wataru Endo,2377,Wataru Endo,,Liverpool FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*06fuh*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06fup*,Jeremy Doku,8981,Jéremy Doku,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06fuw*,Djordje Petrovic,12032,Djordje Petrovic,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06fv8*,Mohammed Kudus,12027,Mohammed Kudus,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06fvn*,Beto,9983,Beto,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06fwi*,Carlos Baleba,10527,Carlos Baleba,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06fwj*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06fwn*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06fwo*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06fwx*,Santiago Bueno,10945,Santiago Bueno,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06fwz*,Murillo,12123,Murillo,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06fx0*,Altay Bayindir,12054,Altay Bayindir,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06fxe*,Ryan Gravenberch,10697,Ryan Gravenberch,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06fxg*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06fxu*,Ibrahim Sangare,5722,Ibrahim Sangare,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06fxv*,Jean-Ricner Bellegarde,7762,Jean-Ricner Bellegarde,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06fy5*,Mike Tresor,12094,Mike Trésor,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06fy7*,Nicolas Dominguez,8252,Nicolás Domínguez,36187,Nicolás Domínguez,,Nottingham Forest FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*06h1g*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06hcm*,Callum Marshall,12359,Callum Marshall,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06hze*,Treymaurice Nyoni,12203,Treymaurice Nyoni,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06ib6*,Tawanda Chirewa,12234,Tawanda Chirewa,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06ids*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06idv*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06ie2*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06ils*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06ime*,Radu Dragusin,9105,Radu Dragusin,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06jb3*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06jfe*,Hakon Valdimarsson,12595,Hákon Valdimarsson,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06jfh*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06jfq*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06jgi*,Daniel Munoz,12408,Daniel Muñoz,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06jgk*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06jgr*,Maxime Esteve,9487,Maxime Estève,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06jgs*,Adam Wharton,12409,Adam Wharton,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06jgt*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06jgu*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06jh3*,Joshua King,12410,Joshua King,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06kji*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06kk4*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06klv*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06kqy*,Ayden Heaven,13080,Ayden Heaven,40035,Ayden Heaven,,Manchester United FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*06kud*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06kwh*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06kwp*,Josh Acheampong,12535,Josh Acheampong,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06kx0*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06kx1*,Justin Devenny,13038,Justin Devenny,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06kyw*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06kyx*,Andy Irving,12774,Andy Irving,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06l2r*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06l4c*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06l4i*,Tyrique George,12573,Tyrique George,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06l53*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06lox*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06lvm*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06mex*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06mfw*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06mga*,Mads Hermansen,12910,Mads Hermansen,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06mgk*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06mgn*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06mgp*,Luis Guilherme,13026,Luis Guilherme,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06mmk*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06mn0*,Igor Thiago,13222,Thiago,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06mn7*,Lucas Bergvall,12912,Lucas Bergvall,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06mn8*,Rodrigo Gomes,12756,Rodrigo Gomes,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06mnb*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06mnc*,Daichi Kamada,6145,Daichi Kamada,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06mnd*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06mnm*,Marc Guiu,11633,Marc Guiu,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06mnn*,Chadi Riad,11167,Chadi Riad,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06mow*,Jorgen Strand Larsen,11070,Jørgen Strand Larsen,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06mpp*,Mats Wieffer,12758,Mats Wieffer,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06mrz*,Pedro Lima,13156,Pedro Lima,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06msb*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06muh*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06mul*,Jack Fletcher,13150,Jack Fletcher,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06mve*,Joshua Zirkzee,8044,Joshua Zirkzee,39794,Joshua Zirkzee,,Manchester United FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*06mvz*,Savio,11735,Sávio,8159,Sávio,,Manchester City FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*06mw0*,Nikola Milenkovic,6174,Nikola Milenkovic,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06mwu*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06mwx*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06mx0*,Leny Yoro,10564,Leny Yoro,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06mx2*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06nbq*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06nbu*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06nbw*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06nk0*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06nk2*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06nk3*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06nkh*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06nl8*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06nlc*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06nu7*,Riccardo Calafiori,8129,Riccardo Calafiori,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06nv3*,Filip Jorgensen,9272,Filip Jorgensen,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06nv5*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06nva*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06nvb*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06nvc*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06nve*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06nvg*,Jota Silva,12766,Jota Silva,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06nyw*,Jorge Cuenca,8489,Jorge Cuenca,39638,Jorge Cuenca,,Fulham FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*06nyx*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06nyy*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06o2t*,Niclas Fullkrug,6098,Niclas Füllkrug,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06oav*,Guido Rodriguez,8267,Guido Rodríguez,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06on4*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06on5*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06on6*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06onv*,Harrison Armstrong,12757,Harrison Armstrong,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06onx*,Jean-Clair Todibo,6816,Jean-Clair Todibo,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06p4j*,Noussair Mazraoui,10696,Noussair Mazraoui,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06p4k*,Matthijs de Ligt,7902,Matthijs de Ligt,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06p4l*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06p5s*,Brajan Gruda,11310,Brajan Gruda,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06p6j*,Evanilson,12963,Evanilson,8069,Evanilson,,AFC Bournemouth,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*06pe1*,Mateus Goncalo Espanha Fernandes,12948,Mateus Fernandes,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06pez*,Mohamadou Kante,14219,Mohamadou Kanté,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06phe*,Ferdi Kadioglu,13066,Ferdi Kadioglu,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06phr*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06phw*,Federico Chiesa,1433,Federico Chiesa,28169,Federico Chiesa,,Liverpool FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*06pia*,Maxence Lacroix,8853,Maxence Lacroix,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06pib*,Manuel Ugarte,11766,Manuel Ugarte,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06pic*,Andre,13022,André,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06pig*,Morato,13068,Morato,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06pms*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06po8*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06ppi*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06prt*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06pru*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06prv*,Jamaldeen Jimoh,13310,Jamaldeen Jimoh,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06prw*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06pry*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06q2g*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06qgn*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06qq8*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06qq9*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06qqm*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06qvu*,Tom Edozie,13220,Tom Edozie,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06qvv*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06qwh*,Ben Winterburn,13242,Ben Winterburn,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06qwj*,Ezra Mayers,13247,Ezra Mayers,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06qx6*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06r2g*,Rio Ngumoha,13692,Rio Ngumoha,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06r3w*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06r5b*,Diego Gomez,13364,Diego Gómez,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06r5d*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06r5m*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06r5r*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06r6s*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06r7f*,Julio Soler,13474,Julio Soler,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06r7k*,Emmanuel Agbadou,10856,Emmanuel Agbadou,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06r7l*,Bradley Burrowes,13870,Bradley Burrowes,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06r9h*,Romain Esse,13387,Romain Esse,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06r9v*,Andres Garcia,13392,Andrés García,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06r9w*,Abdukodir Khusanov,11763,Abduqodir Khusanov,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06r9x*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06rf9*,Omar Marmoush,8393,Omar Marmoush,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06rgg*,Michael Kayode,11281,Michael Kayode,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06rkq*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06rkr*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06rkx*,Joe Knight,13399,Joe Knight,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06rlj*,Patrick Dorgu,11944,Patrick Dorgu,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06rm7*,Nico Gonzalez,9802,Nico González,28899,Nico González,,Manchester City FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*06rm8*,Mathys Tel,9780,Mathys Tel,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06rma*,Marshall Munetsi,7908,Marshall Munetsi,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06rnm*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06rnn*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06roh*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06roi*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06roj*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06rpm*,Mateus Mane,13484,Mateus Mané,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06rqa*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06rrq*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06rrr*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06rwp*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06s7r*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06s7s*,Harry Howell,13584,Harry Howell,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06shp*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06tf6*,Bendito Mantato,14266,Bendito Mantato,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06unr*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06uns*,Tom Watson,14029,Tom Watson,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06uyc*,Adrien Truffert,8640,Adrien Truffert,39912,Adrien Truffert,,AFC Bournemouth,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*06uyd*,Diego Coppola,10169,Diego Coppola,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06uzk*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06uzl*,Oliver Sonne,13726,Oliver Sonne,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06uzm*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06uzn*,Lucas Pires,11824,Lucas Pires,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06uzo*,Zian Flemming,13729,Zian Flemming,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06uzr*,Jaydon Banel,14281,Jaydon Banel,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06uzs*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06uzt*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06uzu*,Mamadou Sarr,11253,Mamadou Sarr,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06uzv*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06uzw*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06uzx*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06uzy*,Ao Tanaka,13834,Ao Tanaka,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06v00*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06v01*,Ilia Gruev,8000,Ilia Gruev,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06v02*,Joel Piroe,13835,Joël Piroe,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06v03*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06v04*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06v05*,Jeremie Frimpong,9328,Jeremie Frimpong,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06v06*,Tijjani Reijnders,11965,Tijjani Reijnders,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06v07*,Rayan Cherki,8094,Mathis Cherki,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06v09*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06v0a*,Tyler Fletcher,14272,Tyler Fletcher,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06v0b*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06v0c*,Shea Lacey,14198,Shea Lacey,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06v0d*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06v0e*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06v0f*,Jenson Seelt,13714,Jenson Seelt,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06v0g*,Trai Hume,13713,Trai Hume,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06v0j*,Dan Neil,13720,Dan Neil,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06v0k*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06v0l*,Chris Rigg,13719,Chris Rigg,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06v0m*,Luke ONien,14099,Luke O'Nien,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06v0p*,Enzo Le Fee,8651,Enzo Le Fée,765,Enzo Le Fée,,Sunderland AFC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*06v0q*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06v0r*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06v0s*,Eliezer Mayenda,13718,Eliezer Mayenda,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06v0t*,Wilson Isidor,7148,Wilson Isidor,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06v0u*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06v0v*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06v0w*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06v0x*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06v0y*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06v12*,Fer Lopez,13200,Fernando López,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06v21*,Florian Wirtz,8397,Florian Wirtz,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06v51*,Jaka Bijol,6807,Jaka Bijol,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06v6m*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06v6n*,Quilindschy Hartman,13727,Quilindschy Hartman,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06xza*,Eli Kroupi,11504,Eli Junior Kroupi,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06xzb*,Romelle Donovan,14217,Romelle Donovan,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06xzc*,Stefanos Tzimas,14028,Stefanos Tzimas,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06xzd*,Charalampos Kostoulas,14118,Charalampos Kostoulas,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06xze*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06xzf*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06xzg*,Giorgi Mamardashvili,9693,Giorgi Mamardashvili,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06xzh*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06xzj*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06xzk*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06xzl*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06xzm*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06xzn*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06xzo*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06xzp*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06xzq*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06y26*,Olivier Boscagli,3645,Olivier Boscagli,39656,Olivier Boscagli,,Brighton Hove Albion FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*06y27*,Loum Tchaouna,9977,Loum Tchaouna,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06y28*,Sebastiaan Bornauw,7791,Sebastiaan Bornauw,39803,Sebastiaan Bornauw,,Leeds United FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*06y29*,Habib Diarra,9767,Habib Diarra,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06y4g*,Antoni Milambo,13780,Antoni Milambo,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06y59*,Noah Sadiki,13716,Noah Sadiki,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06y9m*,Maxim De Cuyper,13711,Maxim De Cuyper,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06y9n*,Jamie Gittens,10542,Jamie Bynoe-Gittens,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06y9o*,Igor Jesus Maciel da Cruz,13778,Igor Jesus,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06y9z*,Martin Zubimendi,7526,Martín Zubimendi,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06ya6*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06yb6*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06yb7*,Gabriel Gudmundsson,9944,Gabriel Gudmundsson,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06yb8*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06yb9*,Reinildo Isnard Mandava,7432,Reinildo,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06ybp*,Thierno Barry,12916,Thierno Barry,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06ybq*,Chemsdine Talbi,13717,Chemsdine Talbi,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06yey*,Borna Sosa,7075,Borna Sosa,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06ygl*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06ygm*,Jair Paula da Cunha Filho,13779,Jair,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06yjz*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06ymt*,Marco Bizot,9614,Marco Bizot,36045,Marco Bizot,,Aston Villa FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*06ymu*,El Hadji Malick Diouf,13723,El Hadji Malick Diouf,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06ys4*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06yxc*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06yxd*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06yxe*,Estevao Willian Almeida de Oliveira Goncalves,13775,Estêvão,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06zbm*,Cristhian Mosquera,10024,Cristhian Mosquera,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06zbn*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06zbo*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06zbp*,Max Dowman,13872,Max Dowman,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06zbq*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06zbr*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06zbs*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06zbt*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06zbu*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06zbv*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06zbw*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06zbx*,Anton Stach,9910,Anton Stach,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06zby*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06zbz*,Hugo Ekitike,8995,Hugo Ekitike,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06zc0*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06zc1*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06zc2*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06zc3*,Junai Byfield,14134,Jun'ai Byfield,29764,Junai Byfield,,Tottenham Hotspur FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*06zc4*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06zc5*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06zc6*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06zc7*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06zc8*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06zc9*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06zca*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06zcb*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06zcc*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06zcd*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06zce*,Jhon Arias,13741,Jhon Arias,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06zef*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06zeg*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06zna*,Dan Ndoye,8662,Dan Ndoye,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06znb*,Robin Roefs,13712,Robin Roefs,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06zod*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06zoe*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06zqi*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06zqj*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06zqk*,David Moller Wolfe,13740,David Møller Wolfe,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06zqq*,Jorrel Hato,13776,Jorrel Hato,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06zrq*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06zrr*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06zrs*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06zrt*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*06zvn*,George Hemmings,14193,George Hemmings,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06zwj*,Evann Guessand,8006,Evann Guessand,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06zxx*,Divine Mukasa,14055,Divine Mukasa,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06zxy*,Benjamin Sesko,11974,Benjamin Sesko,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*06zxz*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*0700p*,Malick Thiaw,8378,Malick Thiaw,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*0700q*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*0700r*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*0700s*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*0700t*,Omar Alderete,8986,Omar Alderete,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*0700u*,Bafode Diakite,7268,Bafode Diakite,39830,Bafodé Diakité,,AFC Bournemouth,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*0701y*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*0703c*,Nordi Mukiele,5659,Nordi Mukiele,39662,Nordi Mukiele,,Sunderland AFC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*0703h*,Arnaud Kalimuendo,8056,Arnaud Kalimuendo Muinga,931,Arnaud Kalimuendo,,Nottingham Forest FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*070bg*,Jackson Tchatchoua,12113,Jackson Tchatchoua,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*070ci*,Amine Adli,8211,Amine Adli,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*070cj*,Noah Okafor,11966,Noah Okafor,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*070em*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*070en*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*070eo*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*070ep*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*070eq*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*070f4*,Ladislav Krejci,12721,Ladislav Krejcí,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*070f9*,Yeremy Pino,9024,Yeremi Pino,10177,Yeremy Pino,,Crystal Palace FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*070fa*,Xavi Simons,8700,Xavi Simons,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*070g7*,Nick Woltemade,8117,Nick Woltemade,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*070g8*,Nicolo Savona,12905,Nicolò Savona,36975,Nicolò Savona,,Nottingham Forest FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*070g9*,Soungoutou Magassa,10770,Soungoutou Magassa,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*070gt*,John Victor Maciel Furtado,14017,John Victor,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*070gu*,Alex Jimenez,12168,Alejandro Jiménez,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*070h9*,Veljko Milosavljevic,14027,Veljko Milosavljevic,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*070ha*,Florentino Ibrain Morris Luis,8969,Florentino Luís,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*070hb*,Jaydee Canvot,13091,Jaydee Canvot,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*070hc*,Brian Brobbey,9789,Brian Brobbey,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*070hd*,Tolu Arokodare,8875,Tolu Arokodare,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*070hh*,Christantus Uche,12726,Christantus Uche,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*070hi*,Merlin Rohl,11331,Merlin Röhl,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*070hj*,Kevin Santos Lopes de Macedo,14030,Kevin,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*070hk*,Samuel Chukwueze,7208,Samuel Chukwueze,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*070hl*,Senne Lammens,14056,Senne Lammens,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*070hm*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*070hn*,Dilane Bakwa,8920,Dilane Bakwa,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*070ho*,Lutsharel Geertruida,13064,Lutsharel Geertruida,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*070hp*,Randal Kolo Muani,5743,Randal Kolo Muani,28163,Randal Kolo Muani,,Tottenham Hotspur FC,False,existing_crosswalk,100.0,exact_name,90.0,95.0,ready
+*070hq*,Piero Hincapie,9911,Piero Hincapié,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*070hr*,Jonah Kusi-Asare,13262,Jonah Kusi-Asare,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*070hs*,Gianluigi Donnarumma,1116,Gianluigi Donnarumma,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*071xc*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*071xd*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*071xe*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*071xf*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*0722r*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*0722t*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*07233*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*072at*,Nehemiah Oriola,14127,Nehemiah Oriola,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*072b6*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*072c1*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*072cb*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*072cd*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*072ce*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*072cf*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*072dy*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*072dz*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*072g3*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*072ga*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*072gz*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*072h8*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*072h9*,Joel Drakes-Thomas,14263,Joél Drakes-Thomas,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*072ht*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*072hx*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*072i1*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*072iu*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*072iv*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*072j3*,Alysson Edward Franco da Rocha dos Santos,14446,Alysson Edward,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*072j7*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*072j8*,Pablo Felipe Pereira de Jesus,14290,Pablo,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*072jc*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*072jf*,Valentin Castellanos,10948,Valentín Castellanos,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*072lp*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*072mp*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*072mq*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*072o9*,Djiamgone Jocelin Ta Bi,14460,Djiamgone Jocelin Ta Bi,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*072ox*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*072p2*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*072p3*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*072p7*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*072pc*,Alex Toth,14374,Alex Tóth,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*072pu*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*072py*,Joao Victor de Souza Menezes,14410,Souza,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*072r2*,Lorenzo Lucca,11936,Lorenzo Lucca,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*072wq*,Rayan Vitor Simplicio Rocha,14395,Rayan,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*072x6*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*072x7*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*072x8*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*072x9*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*072z1*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*072zo*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*072zp*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*072zr*,Luca Netz,8401,Luca Netz,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*072zs*,Nilson Angulo,14424,Nilson Angulo,,,,,False,existing_crosswalk,100.0,,,100.0,not_in_current_pool
+*0730i*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*0738b*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*07394*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*073aa*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*073ab*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*073ac*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*073b0*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*073k1*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*073q9*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*073ue*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*073vo*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*073y1*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*0746j*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*0746k*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*074vj*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*074vk*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*075jv*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*075kd*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*075qp*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*075sh*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*075zi*,,,,,,,,False,,,,,0.0,not_in_current_pool
+*07659*,,,,,,,,False,,,,,0.0,not_in_current_pool

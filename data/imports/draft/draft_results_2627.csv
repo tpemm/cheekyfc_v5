@@ -1,0 +1,181 @@
+﻿Overall Pick,Round,Pick in Round,Draft Slot,Manager,Player,Position,Club,Draft Label
+1,1,1,1,Pot Splashers,Bruno Fernandes,"M,F",MUN,1-1
+2,1,2,2,tpem,E. Haaland,F,MCI,1-2
+3,1,3,3,Robertske,B. Saka,"M,F",ARS,1-3
+4,1,4,4,Count Doku,A. Semenyo,"M,F",MCI,1-4
+5,1,5,5,KindComet,D. Szoboszlai,"D,M",LIV,1-5
+6,1,6,6,Berkshire's Club,M. Gibbs-White,M,NOT,1-6
+7,1,7,7,yudesh,C. Palmer,M,CHE,1-7
+8,1,8,8,nhauptma,A. Stach,M,LEE,1-8
+9,1,9,9,The Facerockers,D. Rice,M,ARS,1-9
+10,1,10,10,epatel3,Joao Pedro,"M,F",CHE,1-10
+11,1,11,11,wmuck1,V. van Dijk,D,LIV,1-11
+12,1,12,12,Up the Arse-nal,Matheus Cunha,"M,F",MUN,1-12
+13,2,1,12,Up the Arse-nal,F. Wirtz,M,LIV,2-1
+14,2,2,11,wmuck1,D. Munoz,"D,M",CRY,2-2
+15,2,3,10,epatel3,Igor Thiago,F,BRF,2-3
+16,2,4,9,The Facerockers,A. Isak,F,LIV,2-4
+17,2,5,8,nhauptma,B. Thomas,D,COV,2-5
+18,2,6,7,yudesh,J. Doku,"M,F",MCI,2-6
+19,2,7,6,Berkshire's Club,J. Tarkowski,D,EVE,2-7
+20,2,8,5,KindComet,Gabriel Magalhaes,D,ARS,2-8
+21,2,9,4,Count Doku,M. Rogers,"M,F",CHE,2-9
+22,2,10,3,Robertske,R. Cherki,M,MCI,2-10
+23,2,11,2,tpem,B. Mbeumo,"M,F",MUN,2-11
+24,2,12,1,Pot Splashers,Rayan,"M,F",BOU,2-12
+25,3,1,1,Pot Splashers,V. Gyökeres,F,ARS,3-1
+26,3,2,2,tpem,P. Porro,D,TOT,3-2
+27,3,3,3,Robertske,R. James,"D,M",CHE,3-3
+28,3,4,4,Count Doku,M. Guehi,D,MCI,3-4
+29,3,5,5,KindComet,M. Kudus,"M,F",TOT,3-5
+30,3,6,6,Berkshire's Club,O. Watkins,F,AVL,3-6
+31,3,7,7,yudesh,E. Anderson,M,MCI,3-7
+32,3,8,8,nhauptma,Antonee Robinson,D,FUL,3-8
+33,3,9,9,The Facerockers,Pedro Neto,"M,F",CHE,3-9
+34,3,10,10,epatel3,P. Dorgu,"D,M",MUN,3-10
+35,3,11,11,wmuck1,E. Le Fee,"M,F",SUN,3-11
+36,3,12,12,Up the Arse-nal,J. Hill,F,BOU,3-12
+37,4,1,12,Up the Arse-nal,J. Garner,"D,M",EVE,4-1
+38,4,2,11,wmuck1,Iliman Ndiaye,"M,F",EVE,4-2
+39,4,3,10,epatel3,M. Lacroix,D,CHE,4-3
+40,4,4,9,The Facerockers,N. Mukiele,D,SUN,4-4
+41,4,5,8,nhauptma,S. Botman,D,NEW,4-5
+42,4,6,7,yudesh,Bruno Guimaraes,M,NEW,4-6
+43,4,7,6,Berkshire's Club,D. Ouattara,"M,F",BRF,4-7
+44,4,8,5,KindComet,M. Tavernier,M,BOU,4-8
+45,4,9,4,Count Doku,J. van Hecke,D,TOT,4-9
+46,4,10,3,Robertske,D. Ballard,D,SUN,4-10
+47,4,11,2,tpem,P. Gross,M,BHA,4-11
+48,4,12,1,Pot Splashers,Mateus Fernandes,M,TOT,4-12
+49,5,1,1,Pot Splashers,J. Gvardiol,D,MCI,5-1
+50,5,2,2,tpem,A. Diallo,"M,F",MUN,5-2
+51,5,3,3,Robertske,L. Hall,D,NEW,5-3
+52,5,4,4,Count Doku,Y. Minteh,"M,F",BHA,5-4
+53,5,5,5,KindComet,N. O'Reilly,"D,M",MCI,5-5
+54,5,6,6,Berkshire's Club,Matheus Nunes,"D,M",MCI,5-6
+55,5,7,7,yudesh,E. Fernandez,M,CHE,5-7
+56,5,8,8,nhauptma,A. Truffert,D,BOU,5-8
+57,5,9,9,The Facerockers,M. Kerkez,D,LIV,5-9
+58,5,10,10,epatel3,Igor Jesus,F,NOT,5-10
+59,5,11,11,wmuck1,M. Senesi,D,TOT,5-11
+60,5,12,12,Up the Arse-nal,M. Odegaard,M,ARS,5-12
+61,6,1,12,Up the Arse-nal,C. Gakpo,"M,F",LIV,6-1
+62,6,2,11,wmuck1,H. Wilson,"M,F",LEE,6-2
+63,6,3,10,epatel3,K. Dewsbury-Hall,M,EVE,6-3
+64,6,4,9,The Facerockers,D. Calvert-Lewin,F,LEE,6-4
+65,6,5,8,nhauptma,M. Thiaw,D,NEW,6-5
+66,6,6,7,yudesh,C. Richards,D,CRY,6-6
+67,6,7,6,Berkshire's Club,Y. Tielemans,M,MUN,6-7
+68,6,8,5,KindComet,J. Maddison,M,TOT,6-8
+69,6,9,4,Count Doku,N. Williams,D,NOT,6-9
+70,6,10,3,Robertske,T. Muharemovic,D,LEE,6-10
+71,6,11,2,tpem,P. Foden,M,MCI,6-11
+72,6,12,1,Pot Splashers,E. Eze,"M,F",ARS,6-12
+73,7,1,1,Pot Splashers,B. Sesko,F,MUN,7-1
+74,7,2,2,tpem,J. Frimpong,"D,M",LIV,7-2
+75,7,3,3,Robertske,M. Damsgaard,M,BRF,7-3
+76,7,4,4,Count Doku,K. Havertz,F,ARS,7-4
+77,7,5,5,KindComet,L. Vuskovic,D,BHA,7-5
+78,7,6,6,Berkshire's Club,A. Iwobi,"M,F",FUL,7-6
+79,7,7,7,yudesh,Estevao,"M,F",CHE,7-7
+80,7,8,8,nhauptma,N. Angulo,"M,F",SUN,7-8
+81,7,9,9,The Facerockers,R. Schade,"M,F",BRF,7-9
+82,7,10,10,epatel3,R. Calafiori,D,ARS,7-10
+83,7,11,11,wmuck1,J. Kluivert,"M,F",BOU,7-11
+84,7,12,12,Up the Arse-nal,Ismaila Sarr,"M,F",CRY,7-12
+85,8,1,12,Up the Arse-nal,D. Raya,G,ARS,8-1
+86,8,2,11,wmuck1,N. Woltemade,"M,F",NEW,8-2
+87,8,3,10,epatel3,J. Andersen,D,FUL,8-3
+88,8,4,9,The Facerockers,R. Gravenberch,M,LIV,8-4
+89,8,5,8,nhauptma,T. Hume,"D,M",SUN,8-5
+90,8,6,7,yudesh,H. Barnes,"M,F",NEW,8-6
+91,8,7,6,Berkshire's Club,D. Solanke,F,TOT,8-7
+92,8,8,5,KindComet,H. Hackney,M,EVE,8-8
+93,8,9,4,Count Doku,M. Tel,"M,F",TOT,8-9
+94,8,10,3,Robertske,O. Mingueza,D,CRY,8-10
+95,8,11,2,tpem,M. Palestra,D,CHE,8-11
+96,8,12,1,Pot Splashers,D. Spence,"D,M",TOT,8-12
+97,9,1,1,Pot Splashers,T. Reijnders,M,MCI,9-1
+98,9,2,2,tpem,M. Kayode,D,BRF,9-2
+99,9,3,3,Robertske,N. Pope,G,NEW,9-3
+100,9,4,4,Count Doku,H. Maguire,D,MUN,9-4
+101,9,5,5,KindComet,A. Scott,M,BOU,9-5
+102,9,6,6,Berkshire's Club,Wieffer,"D,M",BHA,9-6
+103,9,7,7,yudesh,V. Livramento,D,NEW,9-7
+104,9,8,8,nhauptma,T. Mitchell,"D,M",CRY,9-8
+105,9,9,9,The Facerockers,Jurrien Timber,D,ARS,9-9
+106,9,10,10,epatel3,G. Donnarumma,G,MCI,9-10
+107,9,11,11,wmuck1,J. Justin,"D,M",LEE,9-11
+108,9,12,12,Up the Arse-nal,J. Branthwaite,D,EVE,9-12
+109,10,1,12,Up the Arse-nal,J. O'Brien,D,EVE,10-1
+110,10,2,11,wmuck1,R. Roefs,G,SUN,10-2
+111,10,3,10,epatel3,Diogo Dalot,"D,M",MUN,10-3
+112,10,4,9,The Facerockers,G. Xhaka,M,SUN,10-4
+113,10,5,8,nhauptma,Y. Pino,"M,F",CRY,10-5
+114,10,6,7,yudesh,A. Wharton,M,CRY,10-6
+115,10,7,6,Berkshire's Club,J. Manzambi,M,AVL,10-7
+116,10,8,5,KindComet,H. Wright,F,COV,10-8
+117,10,9,4,Count Doku,A. Kinsky,G,TOT,10-9
+118,10,10,3,Robertske,J. Rudoni,M,COV,10-10
+119,10,11,2,tpem,B. Brobbey,F,SUN,10-11
+120,10,12,1,Pot Splashers,M. van de Ven,D,TOT,10-12
+121,11,1,1,Pot Splashers,W. Saliba,D,ARS,11-1
+122,11,2,2,tpem,S. Tonali,M,TOT,11-2
+123,11,3,3,Robertske,M. Grimes,M,COV,11-3
+124,11,4,4,Count Doku,D. Maeda,F,IPS,11-4
+125,11,5,5,KindComet,D. Petrovic,G,BOU,11-5
+126,11,6,6,Berkshire's Club,Emiliano Martinez,G,AVL,11-6
+127,11,7,7,yudesh,J. McGinn,M,AVL,11-7
+128,11,8,8,nhauptma,Dean Henderson,G,CRY,11-8
+129,11,9,9,The Facerockers,J. Pickford,G,EVE,11-9
+130,11,10,10,epatel3,M. Cash,D,AVL,11-10
+131,11,11,11,wmuck1,E. Kroupi,"M,F",BOU,11-11
+132,11,12,12,Up the Arse-nal,J. Mateta,F,CRY,11-12
+133,12,1,12,Up the Arse-nal,O. McBurnie,F,HUL,12-1
+134,12,2,11,wmuck1,N. Collins,D,BRF,12-2
+135,12,3,10,epatel3,F. Kadioglu,"D,M",BHA,12-3
+136,12,4,9,The Facerockers,O. Alderete,D,SUN,12-4
+137,12,5,8,nhauptma,L. Kitching,D,COV,12-5
+138,12,6,7,yudesh,L. Miley,"D,M",NEW,12-6
+139,12,7,6,Berkshire's Club,L. Davis,D,IPS,12-7
+140,12,8,5,KindComet,O. Aina,D,NOT,12-8
+141,12,9,4,Count Doku,R. Ait-Nouri,D,MCI,12-9
+142,12,10,3,Robertske,K. Tete,D,FUL,12-10
+143,12,11,2,tpem,Y. Ayari,M,BHA,12-11
+144,12,12,1,Pot Splashers,M. Rashford,"M,F",MUN,12-12
+145,13,1,1,Pot Splashers,P. Hincapié,D,ARS,13-1
+146,13,2,2,tpem,R. Ngumoha,"M,F",LIV,13-2
+147,13,3,3,Robertske,D. Jacquet,D,LIV,13-3
+148,13,4,4,Count Doku,J. Anthony,"M,F",BRF,13-4
+149,13,5,5,KindComet,E. Ampadu,"D,M",LEE,13-5
+150,13,6,6,Berkshire's Club,Abdul Fatawu,F,IPS,13-6
+151,13,7,7,yudesh,A. Khusanov,D,MCI,13-7
+152,13,8,8,nhauptma,K. Mitoma,"M,F",BHA,13-8
+153,13,9,9,The Facerockers,K. Lewis-Potter,"D,M,F",BRF,13-9
+154,13,10,10,epatel3,V. Munoz,F,LIV,13-10
+155,13,11,11,wmuck1,Diego Gomez,"M,F",BHA,13-11
+156,13,12,12,Up the Arse-nal,I. Maatsen,D,AVL,13-12
+157,14,1,12,Up the Arse-nal,Evanilson,F,BOU,14-1
+158,14,2,11,wmuck1,L. Colwill,D,CHE,14-2
+159,14,3,10,epatel3,M. Zubimendi,M,ARS,14-3
+160,14,4,9,The Facerockers,A. Mac Allister,M,LIV,14-4
+161,14,5,8,nhauptma,G. Rutter,"M,F",BHA,14-5
+162,14,6,7,yudesh,W. Osula,F,NEW,14-6
+163,14,7,6,Berkshire's Club,R. Sessegnon,"D,M",FUL,14-7
+164,14,8,5,KindComet,T. George,F,EVE,14-8
+165,14,9,4,Count Doku,Omar Marmoush,F,MCI,14-9
+166,14,10,3,Robertske,M. van Ewijk,D,COV,14-10
+167,14,11,2,tpem,C. Kelleher,G,BRF,14-11
+168,14,12,1,Pot Splashers,Alisson Becker,G,LIV,14-12
+169,15,1,1,Pot Splashers,O. Bobb,M,FUL,15-1
+170,15,2,2,tpem,Alejandro Garnacho,"M,F",AVL,15-2
+171,15,3,3,Robertske,M. Belloumi,"M,F",HUL,15-3
+172,15,4,4,Count Doku,D. Burn,D,NEW,15-4
+173,15,5,5,KindComet,P. Struijk,D,BHA,15-5
+174,15,6,6,Berkshire's Club,E. Mason-Clark,"M,F",COV,15-6
+175,15,7,7,yudesh,J. Butland,G,HUL,15-7
+176,15,8,8,nhauptma,Rodrigo Muniz,F,FUL,15-8
+177,15,9,9,The Facerockers,N. Madueke,"M,F",ARS,15-9
+178,15,10,10,epatel3,D. Welbeck,F,CHE,15-10
+179,15,11,11,wmuck1,Savio,"M,F",MCI,15-11
+180,15,12,12,Up the Arse-nal,Gabriel Martinelli,"M,F",ARS,15-12

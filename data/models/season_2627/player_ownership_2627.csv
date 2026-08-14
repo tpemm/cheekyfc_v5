@@ -1,0 +1,703 @@
+season_id,fantrax_player_id,registry_player_id,canonical_name,player_name,current_manager_id,current_manager_name,current_manager,current_fantasy_team,current_team,ownership_status,roster_status,lineup_status,available,last_change_event,last_change_at,last_transaction_type,last_transaction_at,last_transaction_date,source_retrieved_at,drafted_manager,drafted_manager_id,drafted_round,drafted_overall_pick,still_with_drafting_manager,changed_teams_since_draft,currently_free_agent,ownership_change_count,source,last_refreshed
+2627,05akv,pr_d1e57b4a1b01e197,Tyrick Mitchell,Tyrick Mitchell,2dxfjlk0mrp1z5vo,nhauptma,nhauptma,nhauptma,nhauptma,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,nhauptma,2dxfjlk0mrp1z5vo,9,104,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,05l2z,pr_cd2d216755538e53,Bobby Thomas,Bobby Thomas,2dxfjlk0mrp1z5vo,nhauptma,nhauptma,nhauptma,nhauptma,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,nhauptma,2dxfjlk0mrp1z5vo,2,17,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,062ci,pr_862600788a85261c,Mitoma Kaoru,Mitoma Kaoru,2dxfjlk0mrp1z5vo,nhauptma,nhauptma,nhauptma,nhauptma,Rostered,RESERVE,RESERVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,nhauptma,2dxfjlk0mrp1z5vo,13,152,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,03rzp,pr_bcba710d6cc43263,Antonee Robinson,Antonee Robinson,2dxfjlk0mrp1z5vo,nhauptma,nhauptma,nhauptma,nhauptma,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,nhauptma,2dxfjlk0mrp1z5vo,3,32,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,0689w,pr_fc59d9697d9a94cf,Georginio Rutter,Georginio Rutter,2dxfjlk0mrp1z5vo,nhauptma,nhauptma,nhauptma,nhauptma,Rostered,RESERVE,RESERVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,nhauptma,2dxfjlk0mrp1z5vo,14,161,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,076cz,pr_1aaf8cb8e386ec3b,Liam Kitching,Liam Kitching,2dxfjlk0mrp1z5vo,nhauptma,nhauptma,nhauptma,nhauptma,Rostered,RESERVE,RESERVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,nhauptma,2dxfjlk0mrp1z5vo,12,137,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,072zs,pr_57dcdf49fa6ad0c0,Nilson Angulo,Nilson Angulo,2dxfjlk0mrp1z5vo,nhauptma,nhauptma,nhauptma,nhauptma,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,nhauptma,2dxfjlk0mrp1z5vo,7,80,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,06zbx,pr_4f015cdefe445308,Anton Stach,Anton Stach,2dxfjlk0mrp1z5vo,nhauptma,nhauptma,nhauptma,nhauptma,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,nhauptma,2dxfjlk0mrp1z5vo,1,8,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,06uyc,pr_7fc5fe0598e32d38,Adrien Truffert,Adrien Truffert,2dxfjlk0mrp1z5vo,nhauptma,nhauptma,nhauptma,nhauptma,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,nhauptma,2dxfjlk0mrp1z5vo,5,56,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,06v0g,pr_523827882c94cabf,Trai Hume,Trai Hume,2dxfjlk0mrp1z5vo,nhauptma,nhauptma,nhauptma,nhauptma,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,nhauptma,2dxfjlk0mrp1z5vo,8,89,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,061vn,pr_abacd3985c485659,Rodrigo Muniz Carvalho,Rodrigo Muniz Carvalho,2dxfjlk0mrp1z5vo,nhauptma,nhauptma,nhauptma,nhauptma,Rostered,RESERVE,RESERVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,nhauptma,2dxfjlk0mrp1z5vo,15,176,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,062a9,pr_6e16f6a4b7ac5665,Sven Botman,Sven Botman,2dxfjlk0mrp1z5vo,nhauptma,nhauptma,nhauptma,nhauptma,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,nhauptma,2dxfjlk0mrp1z5vo,4,41,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,03yww,pr_5987c098c6f749a3,Dean Henderson,Dean Henderson,2dxfjlk0mrp1z5vo,nhauptma,nhauptma,nhauptma,nhauptma,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,nhauptma,2dxfjlk0mrp1z5vo,11,128,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,070f9,pr_a8e4a64c8e7e0880,Yéremy Pino Santos,Yéremy Pino Santos,2dxfjlk0mrp1z5vo,nhauptma,nhauptma,nhauptma,nhauptma,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,nhauptma,2dxfjlk0mrp1z5vo,10,113,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,0700p,pr_76368ffff4df9a38,Malick Thiaw,Malick Thiaw,2dxfjlk0mrp1z5vo,nhauptma,nhauptma,nhauptma,nhauptma,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,nhauptma,2dxfjlk0mrp1z5vo,6,65,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,070g7,pr_2c7017dec4583e0b,Nick Woltemade,Nick Woltemade,61fz0pmkmrp1z5vo,wmuck1,wmuck1,wmuck1,wmuck1,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,wmuck1,61fz0pmkmrp1z5vo,8,86,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,068yd,pr_cde3bbb99f12757b,Joao Gomes,Joao Gomes,61fz0pmkmrp1z5vo,wmuck1,wmuck1,wmuck1,wmuck1,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,,,,,False,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,062p5,pr_00d39bc2f5988f3a,Levi Samuels Colwill,Levi Samuels Colwill,61fz0pmkmrp1z5vo,wmuck1,wmuck1,wmuck1,wmuck1,Rostered,RESERVE,RESERVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,wmuck1,61fz0pmkmrp1z5vo,14,158,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,063e7,pr_e53c96fffe89621d,Marcos Senesi Barón,Marcos Senesi Barón,61fz0pmkmrp1z5vo,wmuck1,wmuck1,wmuck1,wmuck1,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,wmuck1,61fz0pmkmrp1z5vo,5,59,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,06r5b,pr_329559eeac9e3565,Diego Gómez Amarilla,Diego Gómez Amarilla,61fz0pmkmrp1z5vo,wmuck1,wmuck1,wmuck1,wmuck1,Rostered,RESERVE,RESERVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,wmuck1,61fz0pmkmrp1z5vo,13,155,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,05u1m,pr_fa6a10c8eb34ae39,Nathan Collins,Nathan Collins,61fz0pmkmrp1z5vo,wmuck1,wmuck1,wmuck1,wmuck1,Rostered,RESERVE,RESERVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,wmuck1,61fz0pmkmrp1z5vo,12,134,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,0521z,pr_ff824cbc8613648d,James Justin,James Justin,61fz0pmkmrp1z5vo,wmuck1,wmuck1,wmuck1,wmuck1,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,wmuck1,61fz0pmkmrp1z5vo,9,107,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,06znb,pr_53de7c40b6b43722,Robin Roefs,Robin Roefs,61fz0pmkmrp1z5vo,wmuck1,wmuck1,wmuck1,wmuck1,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,wmuck1,61fz0pmkmrp1z5vo,10,110,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,03rxs,pr_9c2e53f366f2cf26,Harry Wilson,Harry Wilson,61fz0pmkmrp1z5vo,wmuck1,wmuck1,wmuck1,wmuck1,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,wmuck1,61fz0pmkmrp1z5vo,6,62,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,03vlj,pr_d22ad43e3232f497,Virgil van Dijk,Virgil van Dijk,61fz0pmkmrp1z5vo,wmuck1,wmuck1,wmuck1,wmuck1,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,wmuck1,61fz0pmkmrp1z5vo,1,11,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,06mvz,pr_19b0f43a1db7e807,Sávio Moreira de Oliveira,Sávio Moreira de Oliveira,61fz0pmkmrp1z5vo,wmuck1,wmuck1,wmuck1,wmuck1,Rostered,RESERVE,RESERVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,wmuck1,61fz0pmkmrp1z5vo,15,179,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,06xza,pr_d2e3bb4c285697a7,Junior Kroupi,Junior Kroupi,61fz0pmkmrp1z5vo,wmuck1,wmuck1,wmuck1,wmuck1,Rostered,INJURED_RESERVE,INJURED_RESERVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,wmuck1,61fz0pmkmrp1z5vo,11,131,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,05r94,pr_47680bd841752bac,Iliman Ndiaye,Iliman Ndiaye,61fz0pmkmrp1z5vo,wmuck1,wmuck1,wmuck1,wmuck1,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,wmuck1,61fz0pmkmrp1z5vo,4,38,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,06jgi,pr_d97faf00cf6a46e9,Daniel Muñoz Mejía,Daniel Muñoz Mejía,61fz0pmkmrp1z5vo,wmuck1,wmuck1,wmuck1,wmuck1,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,wmuck1,61fz0pmkmrp1z5vo,2,14,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,06v0p,pr_b8e7051f339683f0,Enzo Le Fée,Enzo Le Fée,61fz0pmkmrp1z5vo,wmuck1,wmuck1,wmuck1,wmuck1,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,wmuck1,61fz0pmkmrp1z5vo,3,35,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,06clt,pr_2cfd54c576f1853d,Justin Kluivert,Justin Kluivert,61fz0pmkmrp1z5vo,wmuck1,wmuck1,wmuck1,wmuck1,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,wmuck1,61fz0pmkmrp1z5vo,7,83,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,06fup,pr_bcbc5aa7856f9649,Jérémy Doku,Jérémy Doku,acjx0vg4mrp1z5vo,yudesh,yudesh,yudesh,yudesh,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,yudesh,acjx0vg4mrp1z5vo,2,18,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,06r9w,pr_3c47bf23d6df03cb,Abdukodir Khusanov,Abdukodir Khusanov,acjx0vg4mrp1z5vo,yudesh,yudesh,yudesh,yudesh,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,yudesh,acjx0vg4mrp1z5vo,13,151,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,078j4,,,,acjx0vg4mrp1z5vo,yudesh,yudesh,yudesh,yudesh,Unresolved,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,,,,,False,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,05s08,pr_9b6355573f72b76b,Tino Livramento,Tino Livramento,acjx0vg4mrp1z5vo,yudesh,yudesh,yudesh,yudesh,Rostered,INJURED_RESERVE,INJURED_RESERVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,yudesh,acjx0vg4mrp1z5vo,9,103,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,05opj,pr_55592e1b99371400,Elliot Anderson,Elliot Anderson,acjx0vg4mrp1z5vo,yudesh,yudesh,yudesh,yudesh,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,yudesh,acjx0vg4mrp1z5vo,3,31,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,06jgs,pr_9012ceb6fec27970,Adam Wharton,Adam Wharton,acjx0vg4mrp1z5vo,yudesh,yudesh,yudesh,yudesh,Rostered,RESERVE,RESERVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,yudesh,acjx0vg4mrp1z5vo,10,114,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,05t6x,pr_3027067dcd49893e,William Osula,William Osula,acjx0vg4mrp1z5vo,yudesh,yudesh,yudesh,yudesh,Rostered,RESERVE,RESERVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,yudesh,acjx0vg4mrp1z5vo,14,162,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,051k0,pr_d6bde77cc34cf0fb,John McGinn,John McGinn,acjx0vg4mrp1z5vo,yudesh,yudesh,yudesh,yudesh,Rostered,RESERVE,RESERVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,yudesh,acjx0vg4mrp1z5vo,11,127,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,0635j,pr_b1a257b2771e2715,Chris Richards,Chris Richards,acjx0vg4mrp1z5vo,yudesh,yudesh,yudesh,yudesh,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,yudesh,acjx0vg4mrp1z5vo,6,66,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,05l8q,pr_2713ca67fce06b42,Cole Palmer,Cole Palmer,acjx0vg4mrp1z5vo,yudesh,yudesh,yudesh,yudesh,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,yudesh,acjx0vg4mrp1z5vo,1,7,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,070hl,pr_e682a76c8f952a69,Senne Lammens,Senne Lammens,acjx0vg4mrp1z5vo,yudesh,yudesh,yudesh,yudesh,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,,,,,False,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,068ym,pr_832cdd6809a3b44d,Enzo Fernández,Enzo Fernández,acjx0vg4mrp1z5vo,yudesh,yudesh,yudesh,yudesh,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,yudesh,acjx0vg4mrp1z5vo,5,55,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,05ylj,pr_ed3f6fe23a1573ef,Bruno Guimarães Rodriguez Moura,Bruno Guimarães Rodriguez Moura,acjx0vg4mrp1z5vo,yudesh,yudesh,yudesh,yudesh,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,yudesh,acjx0vg4mrp1z5vo,4,42,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,04abn,pr_a219dfa1209fc4a7,Harvey Barnes,Harvey Barnes,acjx0vg4mrp1z5vo,yudesh,yudesh,yudesh,yudesh,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,yudesh,acjx0vg4mrp1z5vo,8,90,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,06yxe,pr_c56dfb7c82cbcc0b,Estêvão Almeida de Oliveira Gonçalves,Estêvão Almeida de Oliveira Gonçalves,acjx0vg4mrp1z5vo,yudesh,yudesh,yudesh,yudesh,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,yudesh,acjx0vg4mrp1z5vo,7,79,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,032f9,pr_ee05e4712e802da3,Jordan Pickford,Jordan Pickford,aup99ojzmrp1z5vp,The Facerockers,The Facerockers,The Facerockers,The Facerockers,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,The Facerockers,aup99ojzmrp1z5vp,11,129,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,06cmu,pr_95a5f1d8265b3eb6,Bart Verbruggen,Bart Verbruggen,aup99ojzmrp1z5vp,The Facerockers,The Facerockers,The Facerockers,The Facerockers,Rostered,RESERVE,RESERVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,,,,,False,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,0700t,pr_7950f314407f0ed7,Omar Alderete,Omar Alderete,aup99ojzmrp1z5vp,The Facerockers,The Facerockers,The Facerockers,The Facerockers,Rostered,RESERVE,RESERVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,The Facerockers,aup99ojzmrp1z5vp,12,136,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,0522h,pr_9dffcfe274072c9c,Alexis Mac Allister,Alexis Mac Allister,aup99ojzmrp1z5vp,The Facerockers,The Facerockers,The Facerockers,The Facerockers,Rostered,RESERVE,RESERVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,The Facerockers,aup99ojzmrp1z5vp,14,160,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,049tq,pr_750d10429982dc3b,Dominic Calvert-Lewin,Dominic Calvert-Lewin,aup99ojzmrp1z5vp,The Facerockers,The Facerockers,The Facerockers,The Facerockers,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,The Facerockers,aup99ojzmrp1z5vp,6,64,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,0435m,pr_96f69665edfaf67f,Granit Xhaka,Granit Xhaka,aup99ojzmrp1z5vp,The Facerockers,The Facerockers,The Facerockers,The Facerockers,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,The Facerockers,aup99ojzmrp1z5vp,10,112,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,0646f,pr_9648b8844d3d1944,Alexander Isak,Alexander Isak,aup99ojzmrp1z5vp,The Facerockers,The Facerockers,The Facerockers,The Facerockers,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,The Facerockers,aup99ojzmrp1z5vp,2,16,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,067zv,pr_1c86486bec2ca92c,Kevin Schade,Kevin Schade,aup99ojzmrp1z5vp,The Facerockers,The Facerockers,The Facerockers,The Facerockers,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,The Facerockers,aup99ojzmrp1z5vp,7,81,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,0703c,pr_ce87cfe19ab26a49,Nordi Mukiele,Nordi Mukiele,aup99ojzmrp1z5vp,The Facerockers,The Facerockers,The Facerockers,The Facerockers,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,The Facerockers,aup99ojzmrp1z5vp,4,40,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,062p3,pr_afc982e21b7a6055,Keane Lewis-Potter,Keane Lewis-Potter,aup99ojzmrp1z5vp,The Facerockers,The Facerockers,The Facerockers,The Facerockers,Rostered,RESERVE,RESERVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,The Facerockers,aup99ojzmrp1z5vp,13,153,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,06do9,pr_36eceed8b3fb4486,Milos Kerkez,Milos Kerkez,aup99ojzmrp1z5vp,The Facerockers,The Facerockers,The Facerockers,The Facerockers,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,The Facerockers,aup99ojzmrp1z5vp,5,57,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,078i7,,,,aup99ojzmrp1z5vp,The Facerockers,The Facerockers,The Facerockers,The Facerockers,Unresolved,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,,,,,False,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,06fxe,pr_bc6d6a1ced64947e,Ryan Gravenberch,Ryan Gravenberch,aup99ojzmrp1z5vp,The Facerockers,The Facerockers,The Facerockers,The Facerockers,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,The Facerockers,aup99ojzmrp1z5vp,8,88,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,04agz,pr_45805a2b75c1e96f,Declan Rice,Declan Rice,aup99ojzmrp1z5vp,The Facerockers,The Facerockers,The Facerockers,The Facerockers,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,The Facerockers,aup99ojzmrp1z5vp,1,9,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,06dmj,pr_9259512d36ac24db,Jurriën Timber,Jurriën Timber,aup99ojzmrp1z5vp,The Facerockers,The Facerockers,The Facerockers,The Facerockers,Rostered,INJURED_RESERVE,INJURED_RESERVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,The Facerockers,aup99ojzmrp1z5vp,9,105,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,056iy,pr_2fd3c5759a893d42,Pedro Lomba Neto,Pedro Lomba Neto,aup99ojzmrp1z5vp,The Facerockers,The Facerockers,The Facerockers,The Facerockers,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,The Facerockers,aup99ojzmrp1z5vp,3,33,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,05r9b,pr_41ec866daf042593,Martin Ødegaard,Martin Ødegaard,ayk8m85amrp1z5vo,Up the Arse-nal,Up the Arse-nal,Up the Arse-nal,Up the Arse-nal,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Up the Arse-nal,ayk8m85amrp1z5vo,5,60,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,061vb,pr_5806465caac71606,James Hill,James Hill,ayk8m85amrp1z5vo,Up the Arse-nal,Up the Arse-nal,Up the Arse-nal,Up the Arse-nal,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Up the Arse-nal,ayk8m85amrp1z5vo,3,36,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,05rff,pr_c040463bc62a3621,Jaden Philogene,Jaden Philogene,ayk8m85amrp1z5vo,Up the Arse-nal,Up the Arse-nal,Up the Arse-nal,Up the Arse-nal,Rostered,RESERVE,RESERVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,,,,,False,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,052cb,pr_8248fe15613eed8e,Ian Maatsen,Ian Maatsen,ayk8m85amrp1z5vo,Up the Arse-nal,Up the Arse-nal,Up the Arse-nal,Up the Arse-nal,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Up the Arse-nal,ayk8m85amrp1z5vo,13,156,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,05748,pr_66c262bd266b1535,Ismaïla Sarr,Ismaïla Sarr,ayk8m85amrp1z5vo,Up the Arse-nal,Up the Arse-nal,Up the Arse-nal,Up the Arse-nal,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Up the Arse-nal,ayk8m85amrp1z5vo,7,84,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,05r8o,pr_c5a6107808050916,Jean-Philippe Mateta,Jean-Philippe Mateta,ayk8m85amrp1z5vo,Up the Arse-nal,Up the Arse-nal,Up the Arse-nal,Up the Arse-nal,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Up the Arse-nal,ayk8m85amrp1z5vo,11,132,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,0477b,pr_7f943b8d8ebf5823,Oliver McBurnie,Oliver McBurnie,ayk8m85amrp1z5vo,Up the Arse-nal,Up the Arse-nal,Up the Arse-nal,Up the Arse-nal,Rostered,RESERVE,RESERVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Up the Arse-nal,ayk8m85amrp1z5vo,12,133,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,0666p,pr_cb23ae0ce4519441,Kobbie Mainoo,Kobbie Mainoo,ayk8m85amrp1z5vo,Up the Arse-nal,Up the Arse-nal,Up the Arse-nal,Up the Arse-nal,Rostered,INJURED_RESERVE,INJURED_RESERVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,,,,,False,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,06v21,pr_2d7f985dd7974e87,Florian Wirtz,Florian Wirtz,ayk8m85amrp1z5vo,Up the Arse-nal,Up the Arse-nal,Up the Arse-nal,Up the Arse-nal,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Up the Arse-nal,ayk8m85amrp1z5vo,2,13,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,06p6j,pr_76f14d795dac1626,Francisco Evanilson de Lima Barbosa,Francisco Evanilson de Lima Barbosa,ayk8m85amrp1z5vo,Up the Arse-nal,Up the Arse-nal,Up the Arse-nal,Up the Arse-nal,Rostered,RESERVE,RESERVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Up the Arse-nal,ayk8m85amrp1z5vo,14,157,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,05l27,pr_095fc765499cd3c7,Jarrad Branthwaite,Jarrad Branthwaite,ayk8m85amrp1z5vo,Up the Arse-nal,Up the Arse-nal,Up the Arse-nal,Up the Arse-nal,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Up the Arse-nal,ayk8m85amrp1z5vo,9,108,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,06mw0,pr_acaab790210f98b9,Nikola Milenković,Nikola Milenković,ayk8m85amrp1z5vo,Up the Arse-nal,Up the Arse-nal,Up the Arse-nal,Up the Arse-nal,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,,,,,False,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,04spw,pr_dfe2e59ea9df2439,James Garner,James Garner,ayk8m85amrp1z5vo,Up the Arse-nal,Up the Arse-nal,Up the Arse-nal,Up the Arse-nal,Rostered,RESERVE,RESERVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Up the Arse-nal,ayk8m85amrp1z5vo,4,37,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,05tqx,pr_3b1295b024803db9,David Raya Martín,David Raya Martín,ayk8m85amrp1z5vo,Up the Arse-nal,Up the Arse-nal,Up the Arse-nal,Up the Arse-nal,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Up the Arse-nal,ayk8m85amrp1z5vo,8,85,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,067yz,pr_9b970c3006765d1d,Matheus Santos Carneiro da Cunha,Matheus Santos Carneiro da Cunha,ayk8m85amrp1z5vo,Up the Arse-nal,Up the Arse-nal,Up the Arse-nal,Up the Arse-nal,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Up the Arse-nal,ayk8m85amrp1z5vo,1,12,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,067yv,pr_fa8b9f746047b676,Cody Gakpo,Cody Gakpo,ayk8m85amrp1z5vo,Up the Arse-nal,Up the Arse-nal,Up the Arse-nal,Up the Arse-nal,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Up the Arse-nal,ayk8m85amrp1z5vo,6,61,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,06v07,pr_7b6fd7a0b2028e59,Rayan Cherki,Rayan Cherki,cjn4stydmrp1z5vp,Robertske,Robertske,Robertske,Robertske,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Robertske,cjn4stydmrp1z5vp,2,22,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,05oeh,pr_fdad4dd485095d9d,Kenny Tete,Kenny Tete,cjn4stydmrp1z5vp,Robertske,Robertske,Robertske,Robertske,Rostered,RESERVE,RESERVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Robertske,cjn4stydmrp1z5vp,12,142,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,0784y,,,,cjn4stydmrp1z5vp,Robertske,Robertske,Robertske,Robertske,Unresolved,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Robertske,cjn4stydmrp1z5vp,6,70,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,03mfe,pr_250a525c8fb0b806,Matt Grimes,Matt Grimes,cjn4stydmrp1z5vp,Robertske,Robertske,Robertske,Robertske,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Robertske,cjn4stydmrp1z5vp,11,123,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,063q8,pr_851c3d1908eb110a,Mikkel Damsgaard,Mikkel Damsgaard,cjn4stydmrp1z5vp,Robertske,Robertske,Robertske,Robertske,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Robertske,cjn4stydmrp1z5vp,7,75,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,0784o,,,,cjn4stydmrp1z5vp,Robertske,Robertske,Robertske,Robertske,Unresolved,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Robertske,cjn4stydmrp1z5vp,8,94,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,051k7,pr_329aa4ed110ef47e,Reece James,Reece James,cjn4stydmrp1z5vp,Robertske,Robertske,Robertske,Robertske,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Robertske,cjn4stydmrp1z5vp,3,27,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,044ei,pr_92087132e2564427,Nick Pope,Nick Pope,cjn4stydmrp1z5vp,Robertske,Robertske,Robertske,Robertske,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Robertske,cjn4stydmrp1z5vp,9,99,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,076d3,pr_8423ecb420e3995f,Jack Rudoni,Jack Rudoni,cjn4stydmrp1z5vp,Robertske,Robertske,Robertske,Robertske,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Robertske,cjn4stydmrp1z5vp,10,118,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,076dq,pr_6a7c2ebacd58663d,Mohamed Belloumi,Mohamed Belloumi,cjn4stydmrp1z5vp,Robertske,Robertske,Robertske,Robertske,Rostered,RESERVE,RESERVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Robertske,cjn4stydmrp1z5vp,15,171,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,05nns,pr_16e9fdda80585024,Daniel Ballard,Daniel Ballard,cjn4stydmrp1z5vp,Robertske,Robertske,Robertske,Robertske,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Robertske,cjn4stydmrp1z5vp,4,46,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,05y9n,pr_3155624400344969,Lewis Hall,Lewis Hall,cjn4stydmrp1z5vp,Robertske,Robertske,Robertske,Robertske,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Robertske,cjn4stydmrp1z5vp,5,51,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,076d0,pr_324f38903221c32b,Milan van Ewijk,Milan van Ewijk,cjn4stydmrp1z5vp,Robertske,Robertske,Robertske,Robertske,Rostered,RESERVE,RESERVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Robertske,cjn4stydmrp1z5vp,14,166,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,04y92,pr_349e8b56152838e2,Bukayo Saka,Bukayo Saka,cjn4stydmrp1z5vp,Robertske,Robertske,Robertske,Robertske,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Robertske,cjn4stydmrp1z5vp,1,3,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,0784z,,,,cjn4stydmrp1z5vp,Robertske,Robertske,Robertske,Robertske,Unresolved,RESERVE,RESERVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Robertske,cjn4stydmrp1z5vp,13,147,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,062ts,pr_2412df35ca732f0c,Djed Spence,Djed Spence,h1vdt8ynmrp1z5vp,Pot Splashers,Pot Splashers,Pot Splashers,Pot Splashers,Rostered,RESERVE,RESERVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Pot Splashers,h1vdt8ynmrp1z5vp,8,96,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,072wq,pr_1148d763174dd2d5,Rayan Vitor Simplício Rocha,Rayan Vitor Simplício Rocha,h1vdt8ynmrp1z5vp,Pot Splashers,Pot Splashers,Pot Splashers,Pot Splashers,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Pot Splashers,h1vdt8ynmrp1z5vp,2,24,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,0558w,pr_57ea6d12eca7fc8a,William Saliba,William Saliba,h1vdt8ynmrp1z5vp,Pot Splashers,Pot Splashers,Pot Splashers,Pot Splashers,Rostered,INJURED_RESERVE,INJURED_RESERVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Pot Splashers,h1vdt8ynmrp1z5vp,11,121,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,06ex4,pr_16794967f48eec62,Joško Gvardiol,Joško Gvardiol,h1vdt8ynmrp1z5vp,Pot Splashers,Pot Splashers,Pot Splashers,Pot Splashers,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Pot Splashers,h1vdt8ynmrp1z5vp,5,49,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,02lm7,pr_9b41dca09396d8c0,Jack Grealish,Jack Grealish,h1vdt8ynmrp1z5vp,Pot Splashers,Pot Splashers,Pot Splashers,Pot Splashers,Rostered,RESERVE,RESERVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,,,,,False,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,05ye7,pr_a0da41ebcb83456b,Oscar Bobb,Oscar Bobb,h1vdt8ynmrp1z5vp,Pot Splashers,Pot Splashers,Pot Splashers,Pot Splashers,Rostered,RESERVE,RESERVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Pot Splashers,h1vdt8ynmrp1z5vp,15,169,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,04sjt,pr_883ca333cedd9e1d,Alisson Becker,Alisson Becker,h1vdt8ynmrp1z5vp,Pot Splashers,Pot Splashers,Pot Splashers,Pot Splashers,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Pot Splashers,h1vdt8ynmrp1z5vp,14,168,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,06zxy,pr_df2652bcd562672c,Benjamin Sesko,Benjamin Sesko,h1vdt8ynmrp1z5vp,Pot Splashers,Pot Splashers,Pot Splashers,Pot Splashers,Rostered,RESERVE,RESERVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Pot Splashers,h1vdt8ynmrp1z5vp,7,73,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,05gcr,pr_f442ad7acde27aaf,Bruno Borges Fernandes,Bruno Borges Fernandes,h1vdt8ynmrp1z5vp,Pot Splashers,Pot Splashers,Pot Splashers,Pot Splashers,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Pot Splashers,h1vdt8ynmrp1z5vp,1,1,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,04tsb,pr_9d461d0dfbe7f315,Viktor Gyökeres,Viktor Gyökeres,h1vdt8ynmrp1z5vp,Pot Splashers,Pot Splashers,Pot Splashers,Pot Splashers,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Pot Splashers,h1vdt8ynmrp1z5vp,3,25,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,06ezb,pr_ce7b7886879b0739,Micky van de Ven,Micky van de Ven,h1vdt8ynmrp1z5vp,Pot Splashers,Pot Splashers,Pot Splashers,Pot Splashers,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Pot Splashers,h1vdt8ynmrp1z5vp,10,120,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,06pe1,pr_de41a73cc01c496b,Mateus Fernandes,Mateus Fernandes,h1vdt8ynmrp1z5vp,Pot Splashers,Pot Splashers,Pot Splashers,Pot Splashers,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Pot Splashers,h1vdt8ynmrp1z5vp,4,48,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,070hq,pr_445c0f8f063b30ec,Piero Hincapié,Piero Hincapié,h1vdt8ynmrp1z5vp,Pot Splashers,Pot Splashers,Pot Splashers,Pot Splashers,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Pot Splashers,h1vdt8ynmrp1z5vp,13,145,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,06v06,pr_40da70cfbf586371,Tijjani Reijnders,Tijjani Reijnders,h1vdt8ynmrp1z5vp,Pot Splashers,Pot Splashers,Pot Splashers,Pot Splashers,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Pot Splashers,h1vdt8ynmrp1z5vp,9,97,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,05nt6,pr_cfdf3245ca15b1b5,Eberechi Eze,Eberechi Eze,h1vdt8ynmrp1z5vp,Pot Splashers,Pot Splashers,Pot Splashers,Pot Splashers,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Pot Splashers,h1vdt8ynmrp1z5vp,6,72,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,03ybi,,,,h1vdt8ynmrp1z5vp,Pot Splashers,Pot Splashers,Pot Splashers,Pot Splashers,Unresolved,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Pot Splashers,h1vdt8ynmrp1z5vp,12,144,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,07848,,,,h2e8dn5dmrp1z5vp,Berkshire’s Club,Berkshire’s Club,Berkshire’s Club,Berkshire’s Club,Unresolved,INJURED_RESERVE,INJURED_RESERVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Berkshire's Club,h2e8dn5dmrp1z5vp,10,115,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,07877,,,,h2e8dn5dmrp1z5vp,Berkshire’s Club,Berkshire’s Club,Berkshire’s Club,Berkshire’s Club,Unresolved,RESERVE,RESERVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,,,,,False,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,05ocl,pr_bcbfe365b27c37f9,Ollie Watkins,Ollie Watkins,h2e8dn5dmrp1z5vp,Berkshire’s Club,Berkshire’s Club,Berkshire’s Club,Berkshire’s Club,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Berkshire's Club,h2e8dn5dmrp1z5vp,3,30,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,06fwz,pr_2f7c27f2b2c014e9,Murillo Costa dos Santos,Murillo Costa dos Santos,h2e8dn5dmrp1z5vp,Berkshire’s Club,Berkshire’s Club,Berkshire’s Club,Berkshire’s Club,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,,,,,False,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,07898,,,,h2e8dn5dmrp1z5vp,Berkshire’s Club,Berkshire’s Club,Berkshire’s Club,Berkshire’s Club,Unresolved,RESERVE,RESERVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,,,,,False,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,05nil,pr_dbcdba8fad114b8d,Leif Davis,Leif Davis,h2e8dn5dmrp1z5vp,Berkshire’s Club,Berkshire’s Club,Berkshire’s Club,Berkshire’s Club,Rostered,RESERVE,RESERVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Berkshire's Club,h2e8dn5dmrp1z5vp,12,139,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,04yo7,pr_749464ce11d88f9b,Youri Tielemans,Youri Tielemans,h2e8dn5dmrp1z5vp,Berkshire’s Club,Berkshire’s Club,Berkshire’s Club,Berkshire’s Club,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Berkshire's Club,h2e8dn5dmrp1z5vp,6,67,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,06mpp,pr_87c7f1ee97a99a55,Mats Wieffer,Mats Wieffer,h2e8dn5dmrp1z5vp,Berkshire’s Club,Berkshire’s Club,Berkshire’s Club,Berkshire’s Club,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Berkshire's Club,h2e8dn5dmrp1z5vp,9,102,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,063zi,pr_42d45040ec2b1b52,Matheus Nunes,Matheus Nunes,h2e8dn5dmrp1z5vp,Berkshire’s Club,Berkshire’s Club,Berkshire’s Club,Berkshire’s Club,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Berkshire's Club,h2e8dn5dmrp1z5vp,5,54,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,0787y,,,,h2e8dn5dmrp1z5vp,Berkshire’s Club,Berkshire’s Club,Berkshire’s Club,Berkshire’s Club,Unresolved,RESERVE,RESERVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,,,,,False,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,068lx,pr_bbe3dd6e230317d6,Dango Ouattara,Dango Ouattara,h2e8dn5dmrp1z5vp,Berkshire’s Club,Berkshire’s Club,Berkshire’s Club,Berkshire’s Club,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Berkshire's Club,h2e8dn5dmrp1z5vp,4,43,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,0427d,pr_42d1605ae412cfed,James Tarkowski,James Tarkowski,h2e8dn5dmrp1z5vp,Berkshire’s Club,Berkshire’s Club,Berkshire’s Club,Berkshire’s Club,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Berkshire's Club,h2e8dn5dmrp1z5vp,2,19,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,05uor,pr_c4956b95bac62985,Yoane Wissa,Yoane Wissa,h2e8dn5dmrp1z5vp,Berkshire’s Club,Berkshire’s Club,Berkshire’s Club,Berkshire’s Club,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,,,,,False,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,070hj,pr_14a035f217071a3f,Kevin Santos Lopes de Macedo,Kevin Santos Lopes de Macedo,h2e8dn5dmrp1z5vp,Berkshire’s Club,Berkshire’s Club,Berkshire’s Club,Berkshire’s Club,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,,,,,False,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,02lz0,pr_3e753e4ba583e8d5,Emiliano Martínez Romero,Emiliano Martínez Romero,h2e8dn5dmrp1z5vp,Berkshire’s Club,Berkshire’s Club,Berkshire’s Club,Berkshire’s Club,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Berkshire's Club,h2e8dn5dmrp1z5vp,11,126,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,04qr9,pr_883d69414747a1f0,Morgan Gibbs-White,Morgan Gibbs-White,h2e8dn5dmrp1z5vp,Berkshire’s Club,Berkshire’s Club,Berkshire’s Club,Berkshire’s Club,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Berkshire's Club,h2e8dn5dmrp1z5vp,1,6,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,02lsa,pr_e498483dbe5f9df9,Dan Burn,Dan Burn,hpsurdtbmrp1z5vo,Count Doku,Count Doku,Count Doku,Count Doku,Rostered,RESERVE,RESERVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Count Doku,hpsurdtbmrp1z5vo,15,172,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,068y0,pr_3983246d44ca60b7,Antoine Semenyo,Antoine Semenyo,hpsurdtbmrp1z5vo,Count Doku,Count Doku,Count Doku,Count Doku,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Count Doku,hpsurdtbmrp1z5vo,1,4,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,0784x,,,,hpsurdtbmrp1z5vo,Count Doku,Count Doku,Count Doku,Count Doku,Unresolved,RESERVE,RESERVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Count Doku,hpsurdtbmrp1z5vo,11,124,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,05oh0,pr_e57c0d25a5f267f6,Jan Paul van Hecke,Jan Paul van Hecke,hpsurdtbmrp1z5vo,Count Doku,Count Doku,Count Doku,Count Doku,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Count Doku,hpsurdtbmrp1z5vo,4,45,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,06r6s,pr_338677b0fe674e21,Antonín Kinský,Antonín Kinský,hpsurdtbmrp1z5vo,Count Doku,Count Doku,Count Doku,Count Doku,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Count Doku,hpsurdtbmrp1z5vo,10,117,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,06rf9,pr_7fdb04b7b709b28d,Omar Marmoush,Omar Marmoush,hpsurdtbmrp1z5vo,Count Doku,Count Doku,Count Doku,Count Doku,Rostered,RESERVE,RESERVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Count Doku,hpsurdtbmrp1z5vo,14,165,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,05os4,pr_639909e4130562ea,Rayan Aït-Nouri,Rayan Aït-Nouri,hpsurdtbmrp1z5vo,Count Doku,Count Doku,Count Doku,Count Doku,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Count Doku,hpsurdtbmrp1z5vo,12,141,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,05o6h,pr_24779ba9ae4ae614,Kai Havertz,Kai Havertz,hpsurdtbmrp1z5vo,Count Doku,Count Doku,Count Doku,Count Doku,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Count Doku,hpsurdtbmrp1z5vo,7,76,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,06rm8,pr_f6e29d19a4729fe2,Mathys Tel,Mathys Tel,hpsurdtbmrp1z5vo,Count Doku,Count Doku,Count Doku,Count Doku,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Count Doku,hpsurdtbmrp1z5vo,8,93,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,050jq,pr_92ce298de8737367,Marc Guéhi,Marc Guéhi,hpsurdtbmrp1z5vo,Count Doku,Count Doku,Count Doku,Count Doku,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Count Doku,hpsurdtbmrp1z5vo,3,28,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,05a6e,pr_7f5a0cea401fb374,Neco Williams,Neco Williams,hpsurdtbmrp1z5vo,Count Doku,Count Doku,Count Doku,Count Doku,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Count Doku,hpsurdtbmrp1z5vo,6,69,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,061vk,pr_4464c74a695b104f,Jaidon Anthony,Jaidon Anthony,hpsurdtbmrp1z5vo,Count Doku,Count Doku,Count Doku,Count Doku,Rostered,RESERVE,RESERVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Count Doku,hpsurdtbmrp1z5vo,13,148,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,05uht,pr_529ab49d43c3e6a7,Morgan Rogers,Morgan Rogers,hpsurdtbmrp1z5vo,Count Doku,Count Doku,Count Doku,Count Doku,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Count Doku,hpsurdtbmrp1z5vo,2,21,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,06c6g,pr_10d36a74d20364a2,Yankuba Minteh,Yankuba Minteh,hpsurdtbmrp1z5vo,Count Doku,Count Doku,Count Doku,Count Doku,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Count Doku,hpsurdtbmrp1z5vo,5,52,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,03gu4,pr_33a323c4c90c95ab,Harry Maguire,Harry Maguire,hpsurdtbmrp1z5vo,Count Doku,Count Doku,Count Doku,Count Doku,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Count Doku,hpsurdtbmrp1z5vo,9,100,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,06nu7,pr_32c23aa00c15ac35,Riccardo Calafiori,Riccardo Calafiori,qwkltl98mrp1z5vp,epatel3,epatel3,epatel3,epatel3,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,epatel3,qwkltl98mrp1z5vp,7,82,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,06rlj,pr_a36ef466ba952a14,Patrick Dorgu,Patrick Dorgu,qwkltl98mrp1z5vp,epatel3,epatel3,epatel3,epatel3,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,epatel3,qwkltl98mrp1z5vp,3,34,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,05g2o,pr_cfe4cc43db7d7a00,João Pedro Junqueira de Jesus,João Pedro Junqueira de Jesus,qwkltl98mrp1z5vp,epatel3,epatel3,epatel3,epatel3,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,epatel3,qwkltl98mrp1z5vp,1,10,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,06phe,pr_4dc99d3d6580cf12,Ferdi Kadıoğlu,Ferdi Kadıoğlu,qwkltl98mrp1z5vp,epatel3,epatel3,epatel3,epatel3,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,epatel3,qwkltl98mrp1z5vp,12,135,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,038ze,pr_52921f64927bcbe4,Alex Iwobi,Alex Iwobi,qwkltl98mrp1z5vp,epatel3,epatel3,epatel3,epatel3,Rostered,RESERVE,RESERVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Berkshire's Club,h2e8dn5dmrp1z5vp,7,78,False,True,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,05o4b,pr_2c91b2e08c6b2552,Matty Cash,Matty Cash,qwkltl98mrp1z5vp,epatel3,epatel3,epatel3,epatel3,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,epatel3,qwkltl98mrp1z5vp,11,130,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,070hs,pr_b31960aff73505b2,Gianluigi Donnarumma,Gianluigi Donnarumma,qwkltl98mrp1z5vp,epatel3,epatel3,epatel3,epatel3,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,epatel3,qwkltl98mrp1z5vp,9,106,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,06mn0,pr_b1371608f0db5c93,Igor Thiago Nascimento Rodrigues,Igor Thiago Nascimento Rodrigues,qwkltl98mrp1z5vp,epatel3,epatel3,epatel3,epatel3,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,epatel3,qwkltl98mrp1z5vp,2,15,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,04qfz,pr_e7b617b33cb1864c,Diogo Dalot Teixeira,Diogo Dalot Teixeira,qwkltl98mrp1z5vp,epatel3,epatel3,epatel3,epatel3,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,epatel3,qwkltl98mrp1z5vp,10,111,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,076qg,pr_2dc8909ca052885f,Victor Munoz,Victor Munoz,qwkltl98mrp1z5vp,epatel3,epatel3,epatel3,epatel3,Rostered,RESERVE,RESERVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,epatel3,qwkltl98mrp1z5vp,13,154,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,05gcc,pr_d8513955615ea805,Kiernan Dewsbury-Hall,Kiernan Dewsbury-Hall,qwkltl98mrp1z5vp,epatel3,epatel3,epatel3,epatel3,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,epatel3,qwkltl98mrp1z5vp,6,63,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,06mgd,,,,qwkltl98mrp1z5vp,epatel3,epatel3,epatel3,epatel3,Unresolved,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,Berkshire's Club,h2e8dn5dmrp1z5vp,13,150,False,True,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,070cj,pr_73449eaf1ab68772,Noah Okafor,Noah Okafor,qwkltl98mrp1z5vp,epatel3,epatel3,epatel3,epatel3,Rostered,RESERVE,RESERVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,,,,,False,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,06y9o,pr_ecfdf1e807e2fe63,Igor Jesus Maciel da Cruz,Igor Jesus Maciel da Cruz,qwkltl98mrp1z5vp,epatel3,epatel3,epatel3,epatel3,Rostered,RESERVE,RESERVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,epatel3,qwkltl98mrp1z5vp,5,58,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,06pia,pr_13aa175b61be9d3d,Maxence Lacroix,Maxence Lacroix,qwkltl98mrp1z5vp,epatel3,epatel3,epatel3,epatel3,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,epatel3,qwkltl98mrp1z5vp,4,39,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,06fv8,pr_b7431a8bbb8646d9,Mohammed Kudus,Mohammed Kudus,rx9bjhp3mrp1z5vo,KindComet,KindComet,KindComet,KindComet,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,KindComet,rx9bjhp3mrp1z5vo,3,29,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,05nzu,pr_244b54d86191f031,Gabriel dos Santos Magalhães,Gabriel dos Santos Magalhães,rx9bjhp3mrp1z5vo,KindComet,KindComet,KindComet,KindComet,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,KindComet,rx9bjhp3mrp1z5vo,2,20,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,0639x,pr_fcf2af15118d7978,Marcus Tavernier,Marcus Tavernier,rx9bjhp3mrp1z5vo,KindComet,KindComet,KindComet,KindComet,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,KindComet,rx9bjhp3mrp1z5vo,4,44,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,05uox,pr_975edca78e5e06f1,Christos Tzolis,Christos Tzolis,rx9bjhp3mrp1z5vo,KindComet,KindComet,KindComet,KindComet,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,,,,,False,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,04lav,pr_45275615e21639d9,Ethan Ampadu,Ethan Ampadu,rx9bjhp3mrp1z5vo,KindComet,KindComet,KindComet,KindComet,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,KindComet,rx9bjhp3mrp1z5vo,13,149,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,06v0y,pr_5b05eed522d404e7,Luka Vušković,Luka Vušković,rx9bjhp3mrp1z5vo,KindComet,KindComet,KindComet,KindComet,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,KindComet,rx9bjhp3mrp1z5vo,7,77,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,05mzz,pr_eb0b754e571da0e8,Pascal Struijk,Pascal Struijk,rx9bjhp3mrp1z5vo,KindComet,KindComet,KindComet,KindComet,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,KindComet,rx9bjhp3mrp1z5vo,15,173,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,06zbz,pr_9cf94938fc8ac995,Hugo Ekitiké,Hugo Ekitiké,rx9bjhp3mrp1z5vo,KindComet,KindComet,KindComet,KindComet,Rostered,INJURED_RESERVE,INJURED_RESERVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,,,,,False,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,03frx,pr_356e3da30e713a37,Ola Aina,Ola Aina,rx9bjhp3mrp1z5vo,KindComet,KindComet,KindComet,KindComet,Rostered,RESERVE,RESERVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,KindComet,rx9bjhp3mrp1z5vo,12,140,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,076da,pr_88865773f91e577c,Haji Wright,Haji Wright,rx9bjhp3mrp1z5vo,KindComet,KindComet,KindComet,KindComet,Rostered,RESERVE,RESERVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,KindComet,rx9bjhp3mrp1z5vo,10,116,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,06f8y,pr_adf9492293f2d2b3,Alex Scott,Alex Scott,rx9bjhp3mrp1z5vo,KindComet,KindComet,KindComet,KindComet,Rostered,RESERVE,RESERVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,KindComet,rx9bjhp3mrp1z5vo,9,101,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,067x8,pr_9c2114f0defd99b8,Nico O'Reilly,Nico O'Reilly,rx9bjhp3mrp1z5vo,KindComet,KindComet,KindComet,KindComet,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,KindComet,rx9bjhp3mrp1z5vo,5,53,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,0784p,,,,rx9bjhp3mrp1z5vo,KindComet,KindComet,KindComet,KindComet,Unresolved,RESERVE,RESERVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,KindComet,rx9bjhp3mrp1z5vo,8,92,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,0414o,pr_cde7e93c60d59836,James Maddison,James Maddison,rx9bjhp3mrp1z5vo,KindComet,KindComet,KindComet,KindComet,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,KindComet,rx9bjhp3mrp1z5vo,6,68,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,06fuw,pr_b03c7ea777cad526,Đorđe Petrović,Đorđe Petrović,rx9bjhp3mrp1z5vo,KindComet,KindComet,KindComet,KindComet,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,KindComet,rx9bjhp3mrp1z5vo,11,125,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,06cmm,pr_fab432a2d50fcc13,Dominik Szoboszlai,Dominik Szoboszlai,rx9bjhp3mrp1z5vo,KindComet,KindComet,KindComet,KindComet,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,KindComet,rx9bjhp3mrp1z5vo,1,5,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,06cms,pr_285914ad61e3c1cc,Sandro Tonali,Sandro Tonali,w2mnqywumrp1z5vp,tpem,tpem,tpem,tpem,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,tpem,w2mnqywumrp1z5vp,11,122,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,05oz3,pr_7d1542772dab63c1,James Trafford,James Trafford,w2mnqywumrp1z5vp,tpem,tpem,tpem,tpem,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,,,,,False,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,045ob,pr_6758ee2f9c6c5ea3,Caoimhín Kelleher,Caoimhín Kelleher,w2mnqywumrp1z5vp,tpem,tpem,tpem,tpem,Rostered,RESERVE,RESERVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,tpem,w2mnqywumrp1z5vp,14,167,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,06rgg,pr_b927ef5c035c5997,Michael Kayode,Michael Kayode,w2mnqywumrp1z5vp,tpem,tpem,tpem,tpem,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,tpem,w2mnqywumrp1z5vp,9,98,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,06r2g,pr_98558274a438f7b0,Rio Ngumoha,Rio Ngumoha,w2mnqywumrp1z5vp,tpem,tpem,tpem,tpem,Rostered,RESERVE,RESERVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,tpem,w2mnqywumrp1z5vp,13,146,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,0784b,,,,w2mnqywumrp1z5vp,tpem,tpem,tpem,tpem,Unresolved,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,tpem,w2mnqywumrp1z5vp,8,95,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,061vq,pr_64e2084ca1afac52,Erling Haaland,Erling Haaland,w2mnqywumrp1z5vp,tpem,tpem,tpem,tpem,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,tpem,w2mnqywumrp1z5vp,1,2,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,06v05,pr_d5c0984bfd9b4550,Jeremie Frimpong,Jeremie Frimpong,w2mnqywumrp1z5vp,tpem,tpem,tpem,tpem,Rostered,INJURED_RESERVE,INJURED_RESERVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,tpem,w2mnqywumrp1z5vp,7,74,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,070hc,pr_3d7f59e97baad57a,Brian Brobbey,Brian Brobbey,w2mnqywumrp1z5vp,tpem,tpem,tpem,tpem,Rostered,RESERVE,RESERVE,False,MOVED_TO_RESERVE,2026-08-14T19:02:29.346905+00:00,,,,2026-08-14T18:59:31.501308+00:00,tpem,w2mnqywumrp1z5vp,10,119,True,False,False,1,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,04fk1,pr_9bde7d9c1f7c1b22,Pascal Groß,Pascal Groß,w2mnqywumrp1z5vp,tpem,tpem,tpem,tpem,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,tpem,w2mnqywumrp1z5vp,4,47,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,068yc,pr_b4e644ab2a84ced7,Yasin Ayari,Yasin Ayari,w2mnqywumrp1z5vp,tpem,tpem,tpem,tpem,Rostered,RESERVE,RESERVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,tpem,w2mnqywumrp1z5vp,12,143,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,04e1e,pr_d021188524f00bf9,Benjamin White,Benjamin White,w2mnqywumrp1z5vp,tpem,tpem,tpem,tpem,Rostered,ACTIVE,ACTIVE,False,MOVED_TO_ACTIVE,2026-08-14T19:02:29.346905+00:00,,,,2026-08-14T18:59:31.501308+00:00,,,,,False,False,False,1,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,05r34,pr_9a13c659886b570d,Amad Diallo,Amad Diallo,w2mnqywumrp1z5vp,tpem,tpem,tpem,tpem,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,tpem,w2mnqywumrp1z5vp,5,50,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,05n07,pr_592b6b0e9ba95955,Pedro Porro Sauceda,Pedro Porro Sauceda,w2mnqywumrp1z5vp,tpem,tpem,tpem,tpem,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,tpem,w2mnqywumrp1z5vp,3,26,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,04abb,pr_2c235dc85cd697f4,Phil Foden,Phil Foden,w2mnqywumrp1z5vp,tpem,tpem,tpem,tpem,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,tpem,w2mnqywumrp1z5vp,6,71,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,05trb,pr_13d2678f20f4b4d8,Bryan Mbeumo,Bryan Mbeumo,w2mnqywumrp1z5vp,tpem,tpem,tpem,tpem,Rostered,ACTIVE,ACTIVE,False,,,,,,2026-08-14T18:59:31.501308+00:00,tpem,w2mnqywumrp1z5vp,2,23,True,False,False,0,Fantrax roster tracking,2026-08-14T20:59:07.543388+00:00
+2627,06ex2,,,Aaron Bott,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,062og,,,Aaron Hickey,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,04amh,,,Aaron Ramsdale,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06xzn,,,Abdoullah Ba,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,060u6,,,Abu Kamara,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06zef,,,Adam Aznou,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06ids,,,Adam Harrison,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,02lp5,,,Adam Smith,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,056ir,,,Adam Webster,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06v0u,,,Ahmed Abdullahi,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06h1g,,,Aidan Harris,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,059tu,,,Akin Famewo,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,060wh,,,Alejandro Garnacho,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06uzw,,,Alex Cairns,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,070gu,,,Alex Jimenez,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06ewy,,,Alex Murphy,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,03p9y,,,Alex Palmer,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,072pc,,,Alex Toth,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06nk2,,,Alexei Rojas Fedorushchenko,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,075zi,,,Alfie Cresswell,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,072jc,,,Alfie McNally,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06fx0,,,Altay Bayindir,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,072j3,,,Alysson,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,063hu,,,Amadou Onana,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06kud,,,Amara Nallo,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,070ci,,,Amine Adli,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,076dm,,,Amir Hadziahmetovic,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06zbq,,,Andre Harriman-Annous,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06r9v,,,Andres Garcia,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,03gu5,,,Andrew Robertson,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,068a0,,,Andrey Santos,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,044i7,,,Angus Gunn,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,076dw,,,Anis Mehmeti,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05ogb,,,Anthony Elanga,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,04mdn,,,Anthony Gordon,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06y4g,,,Antoni Milambo,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06uzy,,,Ao Tanaka,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05y7c,,,Archie Gray,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,076df,,,Archie Howard,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,0700q,,,Archie Whitehall,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,04gw6,,,Arijanet Muric,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06v04,,,Armin Pecsi,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,02lny,,,Ashley Young,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06kqy,,,Ayden Heaven,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,076du,,,Azor Matusiwa,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,0700u,,,Bafode Diakite,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,072h8,,,Ben Casey,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,02oo1,,,Ben Davies,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,066nn,,,Ben Doak,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,04mcg,,,Ben Johnson,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,076cx,,,Ben Wilson,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06tf6,,,Bendito Mantato,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06zbw,,,Benjamin Lecomte,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06804,,,Benoit Badiashile,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,04fk6,,,Bernardo Silva,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,04qor,,,Bernd Leno,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,035n1,,,Bertrand Traore,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06fvn,,,Beto,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06yey,,,Borna Sosa,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,061va,,,Boubacar Kamara,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06r7l,,,Bradley Burrowes,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,04t3n,,,Bradley Collins,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,072iu,,,Braiden Graham,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,072x8,,,Brando Bailey-Joseph,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,04gyd,,,Brandon Austin,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,076db,,,Brandon Thomas-Asante,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,061vp,,,Brenden Aaronson,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,061ya,,,Brennan Johnson,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,072mq,,,Brian Madjo,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06nvb,,,Caleb Kporha,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06qqm,,,Callum Bates,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,04mi4,,,Callum Hudson-Odoi,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06qq8,,,Callum Olusesi,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,03r8x,,,Callum Wilson,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,0554g,,,Calvin Bassey,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,061z5,,,Calvin Ramsay,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,062ct,,,Carl Rushworth,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,0687c,,,Carlos Alcaraz,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06fwi,,,Carlos Baleba,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,0642l,,,Casemiro,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,076dk,,,Cathal McCarthy,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,073ac,,,Ceadach O'Neill,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05o6g,,,Cedric Kipre,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06mnn,,,Chadi Riad,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06xzd,,,Charalampos Kostoulas,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06xzf,,,Charlie Crew,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,072ht,,,Charlie Gray,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,0730i,,,Charlie Holland,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,076dh,,,Charlie Hughes,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,072p7,,,Charlie Stevens,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06rwp,,,Charlie Tasker,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,062ot,,,Cheick Doucoure,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06ybq,,,Chemsdine Talbi,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06roj,,,Chido Obi-Martin,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06v0l,,,Chris Rigg,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,02m5b,,,Chris Wood,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,070hh,,,Christantus Uche,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05tr8,,,Christian Norgaard,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,04fjz,,,Christian Walton,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,072x6,,,Christos Mandas,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,0326x,,,Chuba Akpom,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05roa,,,Cody Drameh,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05uhj,,,Conor Bradley,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06mg7,,,Conor Chaplin,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,051k8,,,Conor Gallagher,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06mwx,,,Conor McManus,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,03297,,,Conor Townsend,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,076kd,,,Costinha,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06zbm,,,Cristhian Mosquera,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05uoc,,,Cristian Romero,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,04o82,,,Curtis Jones,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06mnc,,,Daichi Kamada,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06zna,,,Dan Ndoye,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06v0j,,,Dan Neil,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,03yr0,,,Daniel James,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,02lnx,,,Danny Welbeck,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,04gpx,,,Dara O'Shea,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06uzv,,,Dario Essugo,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,062du,,,Darko Gyabi,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,03mga,,,Darnell Furlong,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,076dr,,,David Akintola,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,04rh9,,,David Brooks,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,02t13,,,David Button,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06zod,,,Dean Benamar,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05ylx,,,Dejan Kulusevski,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05g4d,,,Dennis Cirkin,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,063y7,,,Destiny Udogie,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06yb8,,,Diego Leon,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,070hn,,,Dilane Bakwa,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,076de,,,Dillon Phillips,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,03fgo,,,Dominic Solanke,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,04ge7,,,Donyell Malen,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,04spp,,,Douglas Luiz,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,04p0d,,,Dwight McNeil,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,04ge9,,,Eddie Nketiah,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,066r9,,,Ehor Yarmolyuk,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06v0s,,,Eliezer Mayenda,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,076dl,,,Eliot Matazo,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06mn3,,,Elkan Baggott,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05u40,,,Ellery Balcombe,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05m9r,,,Ellis Simms,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05746,,,Emil Krafth,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,04sat,,,Emile Smith Rowe,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,051kl,,,Emiliano Buendia,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,076kg,,,Emmanuel Emegha,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,03sbh,,,Enes Unal,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,076d9,,,Ephron Mason-Clark,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06mnd,,,Eric da Silva Moreira,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06dpx,,,Ethan Brierley,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05tr1,,,Ethan Pinnock,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06zwj,,,Evann Guessand,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,076ki,,,Ewen Jaouen,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,052ca,,,Ezri Konsa,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,04tig,,,Fabian Schar,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05ojf,,,Fabio Carvalho,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,067yu,,,Facundo Buonanotte,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06phw,,,Federico Chiesa,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06nv3,,,Filip Jorgensen,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,073vo,,,Finn Geragusyan,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,073ab,,,Floyd Samba,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05ue7,,,Frank Onyeka,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,02ltw,,,Fraser Forster,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06s7r,,,Freddie Simmonds,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,03m5i,,,Freddie Woodman,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06yb7,,,Gabriel Gudmundsson,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,045c8,,,Gabriel Jesus,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,052h5,,,Gabriel Martinelli,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,063c2,,,Gabriel Slonina,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06zvn,,,George Hemmings,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05m47,,,George Hirst,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06ygl,,,George King,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,076qy,,,George Munday,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,076d8,,,George Shepherd,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,076kf,,,Geovany Quenda,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06xzg,,,Giorgi Mamardashvili,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,0701y,,,Giovanni Leoni,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06qx6,,,Godwill Kukonki,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06cmb,,,Guglielmo Vicario,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06y29,,,Habib Diarra,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06jfe,,,Hakon Valdimarsson,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06onv,,,Harrison Armstrong,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,074vj,,,Harrison Dudziak,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06v0q,,,Harrison Jones,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,037mt,,,Harrison Reed,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06s7s,,,Harry Howell,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,076kh,,,Harry Vaughan,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05rfp,,,Harvey Davies,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,04xjr,,,Harvey Elliott,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06fxu,,,Ibrahim Sangare,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05u7f,,,Ibrahima Konate,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,03rxa,,,Idrissa Gueye,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,072x7,,,Ife Ibrahim,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06eka,,,Igor Julio,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06v01,,,Ilia Gruev,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05mzt,,,Illan Meslier,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,076dy,,,Ivan Azon,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,076dd,,,Ivor Pandur,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,032aa,,,Jack Butland,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05244,,,Jack Clarke,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06mul,,,Jack Fletcher,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,067ys,,,Jack Hinshelwood,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06roi,,,Jack Moorhouse,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06ppi,,,Jack Porter,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06mg2,,,Jack Taylor,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,072dy,,,Jack Thompson,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,070eq,,,Jack Whittaker,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,0746j,,,Jackson Izquierdo,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06msc,,,Jacob Greaves,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,03am7,,,Jacob Murphy,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,051k3,,,Jacob Ramsey,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,073ue,,,Jaden Dixon,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,04gw7,,,Jadon Sancho,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,076dc,,,Jahnoah Markelo,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06ygm,,,Jair Cunha,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06v51,,,Jaka Bijol,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,02lpi,,,Jake Bidwell,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,062oh,,,Jake O'Brien,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,066nj,,,James Debayo,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05vyf,,,James Furlong,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06do3,,,James McConnell,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05uhs,,,James Mcatee,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,02lv9,,,James Milner,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06zc5,,,James Rowswell,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,073k1,,,James Wilson,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06avm,,,James Wright,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,076d5,,,Jamie Allen,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06y9n,,,Jamie Gittens,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,076kc,,,Jannik Schuster,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,04rha,,,Jason Steele,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,03fgl,,,Jay da Silva,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,070hb,,,Jaydee Canvot,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05o8o,,,Jayden Bogle,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06klv,,,Jayden Danns,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,070ep,,,Jayden Jones,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,075sh,,,Jayden Lienou,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,04tzt,,,Jefferson Lerma,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06pdl,,,Jens Cajuste,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,070eo,,,Jenson Jones,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06rmv,,,Jeremy Monga,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,0738b,,,Jesse Derry,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06v0b,,,Jim Thwaites,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,0700r,,,Jimmy Sinclair,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05os8,,,Joachim Andersen,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,062dt,,,Joao Palhinha,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,072o9,,,Jocelin Ta Bi,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05n3u,,,Joe Gelhardt,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,03yqz,,,Joe Rodon,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,04ge6,,,Joe Willock,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,072h9,,,Joel Drakes-Thomas,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,04h87,,,Joel Latibeaudiere,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06nby,,,Joel Ndala,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06v02,,,Joel Piroe,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05mxa,,,Joel Veltman,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,0554i,,,Joelinton,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,02m5l,,,John Egan,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,0327p,,,John Lundstram,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,02m3v,,,John Ruddy,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,02yl5,,,John Stones,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,070gt,,,John Victor Maciel Furtado,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,070hr,,,Jonah Kusi-Asare,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,02lk5,,,Jordan Henderson,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06nyw,,,Jorge Cuenca,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06mow,,,Jorgen Strand Larsen,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06zqq,,,Jorrel Hato,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,03r93,,,Joseph Gomez,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06kwp,,,Josh Acheampong,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,048xg,,,Josh Dasilva,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,076d6,,,Josh Eccles,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06nk3,,,Josh Nichols,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06jh3,,,Joshua King,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06zqi,,,Joshua Stephenson,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06mve,,,Joshua Zirkzee,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06on4,,,Julian Eyestone,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06r7f,,,Julio Soler,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06zc3,,,Jun'ai Byfield,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06kx1,,,Justin Devenny,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06pry,,,Kaden Braithwaite,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,062oi,,,Kaden Rodney,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05uhl,,,Kaide Gordon,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05rey,,,Kaine Hayden,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,03pif,,,Karl Darlow,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05oz4,,,Karl Hein,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05y55,,,Kasey McAteer,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,072mp,,,Kaye Furo,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06617,,,Keehan Willows,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,04u40,,,Kepa,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,057cr,,,Kevin Danso,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,072cf,,,Keyrol Figueroa,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,073y1,,,Khari Ranson,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,072p2,,,Kian Noble,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,03m5h,,,Kieran Dowell,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06rkq,,,Kieran Morrison,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,03dx3,,,Kieran Trippier,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06zby,,,Kornel Misciur,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05uel,,,Kristoffer Ajer,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,076dt,,,Kyle Joseph,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05r4h,,,Lamare Bogarde,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,07659,,,Lamin Sillah,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06shp,,,Landon Emenalo,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,0520r,,,Leandro Trossard,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06mx0,,,Leny Yoro,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06on5,,,Leo Shahar,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06mg5,,,Leon Ayinde,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05uns,,,Leon Bailey,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,072i1,,,Leon Routh,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,076dg,,,Lewie Coyle,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,043qy,,,Lewis Cook,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,04e1c,,,Lewis Dunk,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06ab3,,,Lewis Miley,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05oig,,,Liam Delap,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,052h1,,,Liam Millar,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,062pl,,,Lisandro Martinez,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,072r2,,,Lorenzo Lucca,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06do4,,,Louie Koumas,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06exj,,,Luca Gunter,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,072zr,,,Luca Netz,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06qq9,,,Luca Williams-Barnett,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06mn7,,,Lucas Bergvall,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,04tm0,,,Lucas Digne,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,04ym7,,,Lucas Perri,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,062h9,,,Luis Sinisterra,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,072zo,,,Luka Bentt,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,04lnu,,,Lukas Nmecha,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06v0m,,,Luke O'Nien,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,02oq6,,,Luke Shaw,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06mfy,,,Luke Woolfenden,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,070ho,,,Lutsharel Geertruida,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06qvv,,,Malachi Hardy,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,072ga,,,Malcom DaCosta,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,072lp,,,Malik Olayiwola,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06clz,,,Malo Gusto,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06uzu,,,Mamadou Sarr,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06pib,,,Manuel Ugarte,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05w9i,,,Marc Cucurella,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06mnm,,,Marc Guiu,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,076dv,,,Marcelino Nunez,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06ymt,,,Marco Bizot,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,02ls8,,,Marcus Bettinelli,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05n09,,,Mark Gillespie,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,04vy4,,,Mark Travers,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06zbn,,,Marli Salmon,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06y9z,,,Martin Zubimendi,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,052cd,,,Mason Mount,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06r5r,,,Matai Akinmboni,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,04u41,,,Mateo Kovacic,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05tr9,,,Mathias Jensen,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,075qp,,,Mathis Eboue,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,076dn,,,Matt Crooks,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,04qfq,,,Matt O'Riley,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,0372y,,,Matt Targett,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06p4k,,,Matthijs de Ligt,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,076di,,,Matty Jacob,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,04f6h,,,Matz Sels,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,067x6,,,Max Alleyne,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06zbp,,,Max Dowman,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06jfh,,,Max Merrick,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06zeg,,,Max Thompson,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06y9m,,,Maxim De Cuyper,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,072zp,,,Melker Ellborg,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,070hi,,,Merlin Rohl,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,0327r,,,Michael Keane,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06zrs,,,Michael Laffey,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,076d1,,,Miguel Angel Brau,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,04hk9,,,Mikel Merino,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06v0v,,,Milan Aleksic,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06r5d,,,Min-Hyeok Yang,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,073aa,,,Mohamed Kone,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,03aqp,,,Mohamed Salah,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05rb8,,,Moises Caicedo,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06pig,,,Morato,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,068a1,,,Mykhailo Mudryk,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,066sd,,,Myles Lewis-Skelly,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,02y6o,,,Nathan Ake,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05yct,,,Nathan Patterson,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,076dp,,,Nathan Tinsdale,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,02t1k,,,Nathaniel Clyne,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,072at,,,Nehemiah Oriola,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05r2t,,,Niall Huggins,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06rm7,,,Nico Gonzalez,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06fy7,,,Nicolas Dominguez,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,070g8,,,Nicolo Savona,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,072cd,,,Nils Ramming,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06y59,,,Noah Sadiki,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,068n8,,,Noni Madueke,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06p4j,,,Noussair Mazraoui,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,076cw,,,Oliver Dovin,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06y26,,,Olivier Boscagli,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06kji,,,Ollie Harrison,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,073b0,,,Ollie Shield,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05ubv,,,Omari Hutchinson,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,076cy,,,Oscar Varney,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,0643r,,,Owen Bevan,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,03jlw,,,Paddy McNair,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05w7t,,,Pape Sarr,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06crm,,,Pau Torres,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,076do,,,Pharrell Brown,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06ime,,,Radu Dragusin,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,070hp,,,Randal Kolo Muani,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06exb,,,Rasmus Hojlund,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,04qrc,,,Raul Jimenez,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05rka,,,Reece Welch,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05o2p,,,Regan Slater,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06rrq,,,Reggie Walsh,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06nlc,,,Reigan Heskey,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06yb9,,,Reinildo,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,04ge8,,,Reiss Nelson,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05ubh,,,Remi Matthews,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06r3w,,,Remy Rees-Dottin,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06yxd,,,Rhys Chadwick,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,0722r,,,Rhys Oakley,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05oji,,,Rhys Williams,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,04io4,,,Richarlison,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05tqz,,,Rico Henry,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,062x7,,,Rico Lewis,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06mwu,,,Riley Owen,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06zbt,,,Rio Cardines,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06mgn,,,Rio Kyerematen,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,04yme,,,Robert Sanchez,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,0524k,,,Rodri,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05ylw,,,Rodrigo Bentancur,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06r9h,,,Romain Esse,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05udw,,,Romaine Mundle,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06xzb,,,Romelle Donovan,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05unu,,,Romeo Lavia,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,072gz,,,Ronnie Hollingshead,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,02lpf,,,Ross Barkley,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05omu,,,Ruben Dias,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,061ve,,,Ryan Christie,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,04sjv,,,Ryan Giles,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,072b6,,,Ryan Kavuma-McQueen,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,0722t,,,Ryan McAidoo,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,04qfm,,,Ryan Sessegnon,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,0643w,,,Ryan Trevitt,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,061y6,,,Ryan Yates,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,072g3,,,Sam Alabi,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,03ysd,,,Sam Byram,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06v00,,,Sam Chambers,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06ie2,,,Sam Proctor,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06ewp,,,Samuel Amissah,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,070hk,,,Samuel Chukwueze,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05gcs,,,Sander Berge,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,068yt,,,Sasa Lukic,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,02lpl,,,Seamus Coleman,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,04ug0,,,Sean Longstaff,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06rnn,,,Sean Neave,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06y28,,,Sebastiaan Bornauw,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,03ksl,,,Semi Ajayi,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05220,,,Sepp van den Berg,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,072cb,,,Seth Ridgeon,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06zc0,,,Seung-Soo Park,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06v0c,,,Shea Lacey,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06qgn,,,Shumaira Mheuka,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,033l8,,,Simon Moore,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,076dx,,,Sindre Egeli,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,04e1k,,,Solly March,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06sj8,,,Somto Boniface,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,072py,,,Souza,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,076dj,,,Stanley Ashbee,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,062p0,,,Stefan Bajcetic,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,062cw,,,Stefan Ortega,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06xzc,,,Stefanos Tzimas,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06fwn,,,Steven Benda,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06ys4,,,Sverre Nypan,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,072j7,,,TJ Carroll,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,04rzl,,,Taiwo Awoniyi,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,075kd,,,Talla Ndiaye,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,0410j,,,Tammy Abraham,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,076d4,,,Tatsuhiro Sakamoto,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05xtr,,,Teddy Sharman-Lowe,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06ybp,,,Thierno Barry,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05rbn,,,Thomas McGill,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05t6z,,,Tim Iroegbunam,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05o4c,,,Timothy Castagne,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06crn,,,Toby Collyer,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,0328q,,,Tom Cairney,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,03dwz,,,Tom Heaton,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06cmt,,,Tom King,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06yjz,,,Tommy Pilling,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06nk0,,,Tommy Setford,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,03yeg,,,Tosin Adarabioyo,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,04mup,,,Trevoh Chalobah,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06hze,,,Treymaurice Nyoni,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,072x9,,,Tye Hall,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,062h7,,,Tyler Adams,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06195,,,Tyler Dibling,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06v0a,,,Tyler Fletcher,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,064op,,,Tyler Fredricson,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05r93,,,Tyler Onyango,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06zc8,,,Tynan Thompson,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,062ft,,,Tyrell Malacia,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06l4i,,,Tyrique George,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,03rec,,,Tyrone Mings,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,072p3,,,Tyrone Samba,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,070h9,,,Veljko Milosavljevic,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,04fk8,,,Victor Lindelof,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,076d7,,,Victor Torp,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05ybq,,,Vitalii Mykolenko,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05tre,,,Vitaly Janelt,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06xze,,,Walter Benitez,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06fso,,,Wataru Endo,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06zrq,,,Wellity Lucky,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,05opl,,,Wesley Fofana,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,064a0,,,Wilfried Gnonto,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,04f6o,,,Will Hughes,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06zrt,,,Will Wright,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,04qr0,,,Willy Boly,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06v0t,,,Wilson Isidor,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06fhy,,,Wilson Odobert,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,070fa,,,Xavi Simons,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,076ds,,,Yu Hirakawa,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,04sft,,,Yves Bissouma,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06442,,,Zach Abbott,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,06do1,,,Zach Marsh,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,076ke,,,Zadok Yohanna,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00
+2627,072c1,,,Zyan Blake,,,,,,Free Agent,,,True,,,,,,,,,,,,,True,0,Fantrax player pool reconciliation,2026-08-14T20:59:07.543388+00:00

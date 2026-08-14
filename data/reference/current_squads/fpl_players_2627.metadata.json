@@ -1,0 +1,9 @@
+{
+  "provider": "Official FPL API",
+  "retrieved_at": "2026-08-03T21:00:33.824814+00:00",
+  "season": "2627",
+  "player_count": 567,
+  "team_count": 20,
+  "api_version": "bootstrap-static",
+  "snapshot_file": "fpl_players_2627.csv"
+}

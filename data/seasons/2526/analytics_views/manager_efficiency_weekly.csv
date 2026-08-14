@@ -1,0 +1,457 @@
+﻿fantrax_gw,api_team_id,api_team_name,actual_starter_points,optimal_lineup_points,missed_points,efficiency_pct,actual_starter_count,optimization_pool_players,optimal_selected_count,legal_solution_found,bench_players_should_have_started,starters_who_should_have_sat
+1,fm7cv4p0me3j48nk,The Facerockers,122.0,124.5,2.5,97.99,11,15,11,True,1,1
+1,0t8m7z91mdhjhvye,SUNNYD,116.5,122.0,5.5,95.49,11,15,11,True,1,1
+1,xnt9wpm9me0us0r4,yudesh,81.5,86.5,5.0,94.22,11,15,11,True,1,1
+1,qocqs3wjme34472y,KindComet,102.5,109.5,7.0,93.61,11,15,11,True,2,2
+1,ne94j2bxme0vsmkq,Pot Splashers,140.0,152.0,12.0,92.11,11,15,11,True,1,1
+1,avv7b4d5me2tlsrt,wmuck1,81.5,92.5,11.0,88.11,11,15,11,True,3,3
+1,ss2dromsme3cbmga,Berkshire’s Club,89.5,105.0,15.5,85.24,11,15,11,True,3,3
+1,eaz9h4hfme2wdh8p,epatel3,84.0,101.5,17.5,82.76,11,15,11,True,3,3
+1,116s0o6ume0s7s58,Up the Arse-nal,67.5,82.5,15.0,81.82,11,15,11,True,3,3
+1,ih2b4z8ome1job2n,nhauptma,82.0,102.0,20.0,80.39,11,15,11,True,2,2
+1,zxivny5tme3hojrx,Count Doku,111.5,142.0,30.5,78.52,11,15,11,True,2,2
+1,zf53q9hdme32qmoe,Robertske,96.0,129.5,33.5,74.13,11,15,11,True,3,3
+2,ih2b4z8ome1job2n,nhauptma,117.5,117.5,0.0,100.0,11,15,11,True,2,2
+2,116s0o6ume0s7s58,Up the Arse-nal,155.5,156.0,0.5,99.68,11,15,11,True,1,1
+2,xnt9wpm9me0us0r4,yudesh,100.5,101.5,1.0,99.01,11,15,11,True,1,1
+2,avv7b4d5me2tlsrt,wmuck1,60.0,62.0,2.0,96.77,11,15,11,True,1,1
+2,qocqs3wjme34472y,KindComet,95.5,101.0,5.5,94.55,11,15,11,True,2,2
+2,eaz9h4hfme2wdh8p,epatel3,110.0,121.0,11.0,90.91,11,15,11,True,2,2
+2,0t8m7z91mdhjhvye,SUNNYD,102.5,123.0,20.5,83.33,11,15,11,True,2,2
+2,fm7cv4p0me3j48nk,The Facerockers,71.0,85.5,14.5,83.04,11,14,11,True,2,2
+2,ss2dromsme3cbmga,Berkshire’s Club,106.5,128.5,22.0,82.88,11,15,11,True,2,2
+2,zf53q9hdme32qmoe,Robertske,45.5,61.0,15.5,74.59,11,15,11,True,3,3
+2,ne94j2bxme0vsmkq,Pot Splashers,93.0,127.0,34.0,73.23,11,15,11,True,2,2
+2,zxivny5tme3hojrx,Count Doku,55.5,76.5,21.0,72.55,11,15,11,True,3,3
+3,xnt9wpm9me0us0r4,yudesh,114.5,117.0,2.5,97.86,11,15,11,True,2,2
+3,eaz9h4hfme2wdh8p,epatel3,107.5,114.5,7.0,93.89,11,15,11,True,2,2
+3,qocqs3wjme34472y,KindComet,76.5,83.0,6.5,92.17,11,15,11,True,3,3
+3,116s0o6ume0s7s58,Up the Arse-nal,97.0,112.0,15.0,86.61,11,15,11,True,2,2
+3,ne94j2bxme0vsmkq,Pot Splashers,87.0,103.0,16.0,84.47,11,15,11,True,1,1
+3,ih2b4z8ome1job2n,nhauptma,119.0,141.0,22.0,84.4,11,15,11,True,2,2
+3,ss2dromsme3cbmga,Berkshire’s Club,123.5,153.0,29.5,80.72,11,15,11,True,2,2
+3,zf53q9hdme32qmoe,Robertske,69.0,87.0,18.0,79.31,11,15,11,True,2,2
+3,avv7b4d5me2tlsrt,wmuck1,60.0,76.5,16.5,78.43,11,15,11,True,3,3
+3,zxivny5tme3hojrx,Count Doku,49.0,64.0,15.0,76.56,11,15,11,True,2,2
+3,0t8m7z91mdhjhvye,SUNNYD,45.5,61.0,15.5,74.59,11,15,11,True,4,4
+3,fm7cv4p0me3j48nk,The Facerockers,68.0,96.5,28.5,70.47,11,15,11,True,3,3
+4,fm7cv4p0me3j48nk,The Facerockers,134.5,135.0,0.5,99.63,11,14,11,True,1,1
+4,xnt9wpm9me0us0r4,yudesh,85.5,86.0,0.5,99.42,11,15,11,True,1,1
+4,116s0o6ume0s7s58,Up the Arse-nal,79.5,83.0,3.5,95.78,11,14,11,True,1,1
+4,eaz9h4hfme2wdh8p,epatel3,98.5,104.5,6.0,94.26,11,15,11,True,2,2
+4,zxivny5tme3hojrx,Count Doku,73.0,77.5,4.5,94.19,11,15,11,True,2,2
+4,0t8m7z91mdhjhvye,SUNNYD,121.0,128.5,7.5,94.16,11,15,11,True,2,2
+4,qocqs3wjme34472y,KindComet,117.5,126.0,8.5,93.25,11,15,11,True,1,1
+4,avv7b4d5me2tlsrt,wmuck1,67.0,75.0,8.0,89.33,11,15,11,True,4,4
+4,ne94j2bxme0vsmkq,Pot Splashers,111.5,126.0,14.5,88.49,11,15,11,True,2,2
+4,zf53q9hdme32qmoe,Robertske,132.5,150.0,17.5,88.33,11,15,11,True,2,2
+4,ih2b4z8ome1job2n,nhauptma,95.0,108.0,13.0,87.96,11,15,11,True,1,1
+4,ss2dromsme3cbmga,Berkshire’s Club,103.0,130.0,27.0,79.23,11,15,11,True,2,2
+5,116s0o6ume0s7s58,Up the Arse-nal,85.5,85.5,0.0,100.0,11,14,11,True,1,1
+5,qocqs3wjme34472y,KindComet,87.5,90.0,2.5,97.22,11,15,11,True,1,1
+5,eaz9h4hfme2wdh8p,epatel3,90.0,94.5,4.5,95.24,11,15,11,True,1,1
+5,ne94j2bxme0vsmkq,Pot Splashers,61.5,67.0,5.5,91.79,11,15,11,True,2,2
+5,xnt9wpm9me0us0r4,yudesh,75.0,82.0,7.0,91.46,11,15,11,True,2,2
+5,zxivny5tme3hojrx,Count Doku,145.5,163.5,18.0,88.99,11,15,11,True,1,1
+5,ih2b4z8ome1job2n,nhauptma,92.0,104.5,12.5,88.04,11,15,11,True,2,2
+5,zf53q9hdme32qmoe,Robertske,68.0,81.0,13.0,83.95,11,15,11,True,1,1
+5,0t8m7z91mdhjhvye,SUNNYD,83.5,100.5,17.0,83.08,11,15,11,True,3,3
+5,fm7cv4p0me3j48nk,The Facerockers,83.5,107.5,24.0,77.67,11,15,11,True,2,2
+5,avv7b4d5me2tlsrt,wmuck1,50.0,64.5,14.5,77.52,11,15,11,True,4,4
+5,ss2dromsme3cbmga,Berkshire’s Club,100.5,135.5,35.0,74.17,11,15,11,True,2,2
+6,zxivny5tme3hojrx,Count Doku,108.0,108.5,0.5,99.54,11,15,11,True,1,1
+6,116s0o6ume0s7s58,Up the Arse-nal,137.5,139.0,1.5,98.92,11,14,11,True,1,1
+6,fm7cv4p0me3j48nk,The Facerockers,133.5,137.0,3.5,97.45,11,14,11,True,1,1
+6,xnt9wpm9me0us0r4,yudesh,64.5,67.5,3.0,95.56,11,15,11,True,2,2
+6,0t8m7z91mdhjhvye,SUNNYD,86.0,92.0,6.0,93.48,11,15,11,True,2,2
+6,zf53q9hdme32qmoe,Robertske,120.0,131.5,11.5,91.25,11,15,11,True,2,2
+6,ih2b4z8ome1job2n,nhauptma,82.5,93.5,11.0,88.24,11,15,11,True,3,3
+6,eaz9h4hfme2wdh8p,epatel3,105.0,119.5,14.5,87.87,11,15,11,True,2,2
+6,avv7b4d5me2tlsrt,wmuck1,67.5,80.0,12.5,84.38,11,15,11,True,2,2
+6,ss2dromsme3cbmga,Berkshire’s Club,101.0,120.5,19.5,83.82,11,15,11,True,3,3
+6,ne94j2bxme0vsmkq,Pot Splashers,78.5,94.5,16.0,83.07,11,15,11,True,2,2
+6,qocqs3wjme34472y,KindComet,100.5,126.5,26.0,79.45,11,15,11,True,2,2
+7,qocqs3wjme34472y,KindComet,125.5,126.0,0.5,99.6,11,15,11,True,1,1
+7,0t8m7z91mdhjhvye,SUNNYD,102.5,107.0,4.5,95.79,11,15,11,True,2,2
+7,xnt9wpm9me0us0r4,yudesh,108.5,113.5,5.0,95.59,11,15,11,True,2,2
+7,ne94j2bxme0vsmkq,Pot Splashers,97.5,104.0,6.5,93.75,11,15,11,True,2,2
+7,116s0o6ume0s7s58,Up the Arse-nal,139.0,149.5,10.5,92.98,11,15,11,True,2,2
+7,eaz9h4hfme2wdh8p,epatel3,71.5,77.0,5.5,92.86,11,15,11,True,2,2
+7,ss2dromsme3cbmga,Berkshire’s Club,97.0,105.5,8.5,91.94,11,15,11,True,2,2
+7,zxivny5tme3hojrx,Count Doku,82.0,92.5,10.5,88.65,11,15,11,True,1,1
+7,avv7b4d5me2tlsrt,wmuck1,120.5,137.0,16.5,87.96,11,14,11,True,2,2
+7,fm7cv4p0me3j48nk,The Facerockers,78.0,91.0,13.0,85.71,11,15,11,True,3,3
+7,ih2b4z8ome1job2n,nhauptma,113.5,135.5,22.0,83.76,11,15,11,True,2,2
+7,zf53q9hdme32qmoe,Robertske,72.5,113.5,41.0,63.88,11,15,11,True,2,2
+8,qocqs3wjme34472y,KindComet,111.5,113.5,2.0,98.24,11,15,11,True,1,1
+8,fm7cv4p0me3j48nk,The Facerockers,98.0,104.0,6.0,94.23,11,15,11,True,1,1
+8,eaz9h4hfme2wdh8p,epatel3,97.5,104.5,7.0,93.3,11,15,11,True,1,1
+8,zf53q9hdme32qmoe,Robertske,127.5,140.0,12.5,91.07,11,15,11,True,2,2
+8,xnt9wpm9me0us0r4,yudesh,102.5,113.0,10.5,90.71,11,15,11,True,1,1
+8,0t8m7z91mdhjhvye,SUNNYD,136.5,151.5,15.0,90.1,11,15,11,True,1,1
+8,ne94j2bxme0vsmkq,Pot Splashers,68.5,76.5,8.0,89.54,11,15,11,True,3,3
+8,ih2b4z8ome1job2n,nhauptma,141.5,165.5,24.0,85.5,11,15,11,True,1,1
+8,zxivny5tme3hojrx,Count Doku,78.5,96.0,17.5,81.77,10,14,11,True,2,1
+8,ss2dromsme3cbmga,Berkshire’s Club,85.0,106.0,21.0,80.19,11,15,11,True,3,3
+8,116s0o6ume0s7s58,Up the Arse-nal,157.0,196.0,39.0,80.1,11,15,11,True,3,3
+8,avv7b4d5me2tlsrt,wmuck1,63.0,82.0,19.0,76.83,11,15,11,True,3,3
+9,eaz9h4hfme2wdh8p,epatel3,113.0,113.0,0.0,100.0,11,15,11,True,1,1
+9,zxivny5tme3hojrx,Count Doku,84.0,84.0,0.0,100.0,11,14,11,True,1,1
+9,zf53q9hdme32qmoe,Robertske,87.5,90.0,2.5,97.22,11,15,11,True,2,2
+9,fm7cv4p0me3j48nk,The Facerockers,109.0,113.5,4.5,96.04,11,15,11,True,1,1
+9,avv7b4d5me2tlsrt,wmuck1,94.0,99.0,5.0,94.95,11,15,11,True,2,2
+9,0t8m7z91mdhjhvye,SUNNYD,107.0,118.0,11.0,90.68,11,15,11,True,3,3
+9,116s0o6ume0s7s58,Up the Arse-nal,117.0,132.5,15.5,88.3,11,15,11,True,2,2
+9,ss2dromsme3cbmga,Berkshire’s Club,122.0,145.0,23.0,84.14,11,15,11,True,3,3
+9,qocqs3wjme34472y,KindComet,110.0,131.0,21.0,83.97,11,15,11,True,3,3
+9,ih2b4z8ome1job2n,nhauptma,123.0,147.5,24.5,83.39,11,15,11,True,3,3
+9,xnt9wpm9me0us0r4,yudesh,73.5,97.0,23.5,75.77,11,15,11,True,2,2
+9,ne94j2bxme0vsmkq,Pot Splashers,61.5,87.0,25.5,70.69,11,15,11,True,3,3
+10,fm7cv4p0me3j48nk,The Facerockers,108.0,108.0,0.0,100.0,11,15,11,True,0,0
+10,eaz9h4hfme2wdh8p,epatel3,129.0,130.0,1.0,99.23,11,15,11,True,1,1
+10,avv7b4d5me2tlsrt,wmuck1,80.0,82.0,2.0,97.56,11,15,11,True,2,2
+10,xnt9wpm9me0us0r4,yudesh,98.5,101.5,3.0,97.04,11,15,11,True,3,3
+10,zxivny5tme3hojrx,Count Doku,46.0,48.0,2.0,95.83,11,15,11,True,1,1
+10,zf53q9hdme32qmoe,Robertske,131.5,137.5,6.0,95.64,11,15,11,True,2,2
+10,ss2dromsme3cbmga,Berkshire’s Club,113.0,118.5,5.5,95.36,11,15,11,True,2,2
+10,ne94j2bxme0vsmkq,Pot Splashers,98.0,111.0,13.0,88.29,11,15,11,True,2,2
+10,116s0o6ume0s7s58,Up the Arse-nal,127.0,146.0,19.0,86.99,11,15,11,True,2,2
+10,0t8m7z91mdhjhvye,SUNNYD,45.5,52.5,7.0,86.67,11,15,11,True,4,4
+10,qocqs3wjme34472y,KindComet,75.0,87.0,12.0,86.21,11,15,11,True,3,3
+10,ih2b4z8ome1job2n,nhauptma,129.5,162.5,33.0,79.69,11,15,11,True,3,3
+11,zf53q9hdme32qmoe,Robertske,111.5,120.5,9.0,92.53,11,14,11,True,1,1
+11,116s0o6ume0s7s58,Up the Arse-nal,92.5,102.5,10.0,90.24,11,15,11,True,1,1
+11,ne94j2bxme0vsmkq,Pot Splashers,113.0,128.5,15.5,87.94,11,15,11,True,2,2
+11,0t8m7z91mdhjhvye,SUNNYD,115.5,138.0,22.5,83.7,11,15,11,True,2,2
+11,ih2b4z8ome1job2n,nhauptma,120.5,145.0,24.5,83.1,11,15,11,True,3,3
+11,zxivny5tme3hojrx,Count Doku,91.5,114.5,23.0,79.91,11,15,11,True,3,3
+11,qocqs3wjme34472y,KindComet,81.0,102.5,21.5,79.02,11,15,11,True,2,2
+11,xnt9wpm9me0us0r4,yudesh,96.5,130.0,33.5,74.23,11,15,11,True,2,2
+11,fm7cv4p0me3j48nk,The Facerockers,30.5,42.0,11.5,72.62,11,15,11,True,3,3
+11,eaz9h4hfme2wdh8p,epatel3,81.0,114.0,33.0,71.05,11,15,11,True,2,2
+11,ss2dromsme3cbmga,Berkshire’s Club,71.5,114.0,42.5,62.72,11,15,11,True,3,3
+11,avv7b4d5me2tlsrt,wmuck1,40.0,69.0,29.0,57.97,11,15,11,True,3,3
+12,eaz9h4hfme2wdh8p,epatel3,170.5,172.0,1.5,99.13,11,15,11,True,1,1
+12,ne94j2bxme0vsmkq,Pot Splashers,77.0,78.0,1.0,98.72,11,15,11,True,1,1
+12,ss2dromsme3cbmga,Berkshire’s Club,113.0,115.0,2.0,98.26,11,15,11,True,1,1
+12,0t8m7z91mdhjhvye,SUNNYD,96.5,101.0,4.5,95.54,11,15,11,True,1,1
+12,xnt9wpm9me0us0r4,yudesh,117.0,125.0,8.0,93.6,11,15,11,True,2,2
+12,zf53q9hdme32qmoe,Robertske,83.5,91.0,7.5,91.76,11,13,11,True,2,2
+12,fm7cv4p0me3j48nk,The Facerockers,60.5,66.5,6.0,90.98,11,15,11,True,1,1
+12,ih2b4z8ome1job2n,nhauptma,126.0,139.5,13.5,90.32,11,15,11,True,3,3
+12,avv7b4d5me2tlsrt,wmuck1,56.5,63.5,7.0,88.98,11,15,11,True,3,3
+12,zxivny5tme3hojrx,Count Doku,80.0,101.0,21.0,79.21,11,15,11,True,3,3
+12,qocqs3wjme34472y,KindComet,118.5,155.0,36.5,76.45,11,15,11,True,2,2
+12,116s0o6ume0s7s58,Up the Arse-nal,79.0,103.5,24.5,76.33,11,15,11,True,3,3
+13,ne94j2bxme0vsmkq,Pot Splashers,95.5,96.0,0.5,99.48,11,15,11,True,1,1
+13,0t8m7z91mdhjhvye,SUNNYD,96.0,99.0,3.0,96.97,11,15,11,True,1,1
+13,fm7cv4p0me3j48nk,The Facerockers,93.5,97.0,3.5,96.39,11,15,11,True,2,2
+13,zxivny5tme3hojrx,Count Doku,113.5,118.0,4.5,96.19,11,15,11,True,2,2
+13,eaz9h4hfme2wdh8p,epatel3,66.0,69.0,3.0,95.65,11,15,11,True,2,2
+13,116s0o6ume0s7s58,Up the Arse-nal,147.5,157.0,9.5,93.95,11,15,11,True,1,1
+13,xnt9wpm9me0us0r4,yudesh,152.5,167.0,14.5,91.32,11,15,11,True,2,2
+13,ih2b4z8ome1job2n,nhauptma,87.5,97.5,10.0,89.74,11,15,11,True,2,2
+13,qocqs3wjme34472y,KindComet,83.0,104.5,21.5,79.43,11,15,11,True,3,3
+13,zf53q9hdme32qmoe,Robertske,72.0,94.5,22.5,76.19,11,13,11,True,2,2
+13,ss2dromsme3cbmga,Berkshire’s Club,71.5,101.0,29.5,70.79,11,15,11,True,3,3
+13,avv7b4d5me2tlsrt,wmuck1,68.0,102.0,34.0,66.67,11,15,11,True,4,4
+14,ih2b4z8ome1job2n,nhauptma,135.0,138.5,3.5,97.47,11,15,11,True,1,1
+14,116s0o6ume0s7s58,Up the Arse-nal,68.5,71.0,2.5,96.48,11,15,11,True,1,1
+14,zxivny5tme3hojrx,Count Doku,116.0,121.5,5.5,95.47,11,15,11,True,2,2
+14,qocqs3wjme34472y,KindComet,107.5,115.5,8.0,93.07,11,15,11,True,2,2
+14,eaz9h4hfme2wdh8p,epatel3,96.0,112.0,16.0,85.71,11,15,11,True,2,2
+14,fm7cv4p0me3j48nk,The Facerockers,119.5,140.0,20.5,85.36,11,15,11,True,2,2
+14,avv7b4d5me2tlsrt,wmuck1,56.5,67.5,11.0,83.7,11,15,11,True,3,3
+14,0t8m7z91mdhjhvye,SUNNYD,96.0,115.0,19.0,83.48,11,15,11,True,2,2
+14,ss2dromsme3cbmga,Berkshire’s Club,113.5,141.0,27.5,80.5,11,15,11,True,3,3
+14,xnt9wpm9me0us0r4,yudesh,89.5,118.5,29.0,75.53,11,15,11,True,4,4
+14,zf53q9hdme32qmoe,Robertske,77.5,104.5,27.0,74.16,11,13,11,True,2,2
+14,ne94j2bxme0vsmkq,Pot Splashers,37.0,92.5,55.5,40.0,11,15,11,True,3,3
+15,ih2b4z8ome1job2n,nhauptma,123.5,123.5,0.0,100.0,11,15,11,True,1,1
+15,zxivny5tme3hojrx,Count Doku,123.5,123.5,0.0,100.0,11,15,11,True,1,1
+15,fm7cv4p0me3j48nk,The Facerockers,113.5,121.0,7.5,93.8,11,15,11,True,1,1
+15,qocqs3wjme34472y,KindComet,79.0,84.5,5.5,93.49,11,15,11,True,1,1
+15,0t8m7z91mdhjhvye,SUNNYD,101.5,110.0,8.5,92.27,11,15,11,True,1,1
+15,ss2dromsme3cbmga,Berkshire’s Club,158.0,172.0,14.0,91.86,11,15,11,True,2,2
+15,xnt9wpm9me0us0r4,yudesh,123.5,134.5,11.0,91.82,11,15,11,True,2,2
+15,116s0o6ume0s7s58,Up the Arse-nal,117.0,133.5,16.5,87.64,11,15,11,True,3,3
+15,eaz9h4hfme2wdh8p,epatel3,92.0,112.0,20.0,82.14,11,15,11,True,2,2
+15,ne94j2bxme0vsmkq,Pot Splashers,106.0,136.5,30.5,77.66,11,15,11,True,2,2
+15,zf53q9hdme32qmoe,Robertske,120.5,163.5,43.0,73.7,11,13,11,True,2,2
+15,avv7b4d5me2tlsrt,wmuck1,85.5,121.5,36.0,70.37,11,15,11,True,3,3
+16,zxivny5tme3hojrx,Count Doku,77.0,77.0,0.0,100.0,11,14,11,True,1,1
+16,fm7cv4p0me3j48nk,The Facerockers,129.5,130.5,1.0,99.23,11,15,11,True,1,1
+16,qocqs3wjme34472y,KindComet,155.0,160.5,5.5,96.57,11,15,11,True,2,2
+16,ne94j2bxme0vsmkq,Pot Splashers,78.0,81.0,3.0,96.3,11,15,11,True,1,1
+16,116s0o6ume0s7s58,Up the Arse-nal,128.5,134.0,5.5,95.9,11,15,11,True,1,1
+16,0t8m7z91mdhjhvye,SUNNYD,171.5,184.0,12.5,93.21,11,15,11,True,2,2
+16,ih2b4z8ome1job2n,nhauptma,62.0,70.0,8.0,88.57,11,15,11,True,1,1
+16,avv7b4d5me2tlsrt,wmuck1,75.5,88.5,13.0,85.31,11,15,11,True,2,2
+16,xnt9wpm9me0us0r4,yudesh,60.0,77.0,17.0,77.92,11,15,11,True,3,3
+16,ss2dromsme3cbmga,Berkshire’s Club,116.0,149.0,33.0,77.85,11,15,11,True,3,3
+16,zf53q9hdme32qmoe,Robertske,108.5,143.5,35.0,75.61,10,13,11,True,3,2
+16,eaz9h4hfme2wdh8p,epatel3,37.0,50.0,13.0,74.0,11,15,11,True,2,2
+17,eaz9h4hfme2wdh8p,epatel3,69.0,69.0,0.0,100.0,11,15,11,True,1,1
+17,xnt9wpm9me0us0r4,yudesh,133.0,133.0,0.0,100.0,11,15,11,True,1,1
+17,ne94j2bxme0vsmkq,Pot Splashers,91.0,93.0,2.0,97.85,11,15,11,True,2,2
+17,zxivny5tme3hojrx,Count Doku,67.5,70.5,3.0,95.74,10,14,11,True,2,1
+17,116s0o6ume0s7s58,Up the Arse-nal,131.5,140.5,9.0,93.59,11,15,11,True,2,2
+17,fm7cv4p0me3j48nk,The Facerockers,122.5,132.5,10.0,92.45,11,15,11,True,3,3
+17,0t8m7z91mdhjhvye,SUNNYD,135.0,147.0,12.0,91.84,11,15,11,True,2,2
+17,qocqs3wjme34472y,KindComet,109.5,121.5,12.0,90.12,11,15,11,True,3,3
+17,zf53q9hdme32qmoe,Robertske,99.5,116.0,16.5,85.78,11,13,11,True,2,2
+17,ss2dromsme3cbmga,Berkshire’s Club,123.5,149.0,25.5,82.89,11,15,11,True,3,3
+17,ih2b4z8ome1job2n,nhauptma,71.5,96.0,24.5,74.48,11,15,11,True,2,2
+17,avv7b4d5me2tlsrt,wmuck1,46.5,75.0,28.5,62.0,11,15,11,True,4,4
+18,eaz9h4hfme2wdh8p,epatel3,90.0,90.5,0.5,99.45,11,15,11,True,2,2
+18,qocqs3wjme34472y,KindComet,88.5,91.0,2.5,97.25,11,15,11,True,1,1
+18,avv7b4d5me2tlsrt,wmuck1,73.5,76.5,3.0,96.08,11,15,11,True,2,2
+18,0t8m7z91mdhjhvye,SUNNYD,151.0,157.5,6.5,95.87,11,15,11,True,1,1
+18,zxivny5tme3hojrx,Count Doku,122.5,128.0,5.5,95.7,11,15,11,True,1,1
+18,ih2b4z8ome1job2n,nhauptma,68.5,73.0,4.5,93.84,11,15,11,True,2,2
+18,ss2dromsme3cbmga,Berkshire’s Club,129.0,138.5,9.5,93.14,11,15,11,True,1,1
+18,xnt9wpm9me0us0r4,yudesh,160.0,178.5,18.5,89.64,11,15,11,True,2,2
+18,116s0o6ume0s7s58,Up the Arse-nal,109.0,123.5,14.5,88.26,11,15,11,True,2,2
+18,fm7cv4p0me3j48nk,The Facerockers,119.5,137.0,17.5,87.23,11,15,11,True,3,3
+18,ne94j2bxme0vsmkq,Pot Splashers,67.0,82.5,15.5,81.21,11,15,11,True,2,2
+18,zf53q9hdme32qmoe,Robertske,88.0,130.5,42.5,67.43,11,13,11,True,2,2
+19,ih2b4z8ome1job2n,nhauptma,109.5,109.5,0.0,100.0,11,15,11,True,0,0
+19,xnt9wpm9me0us0r4,yudesh,95.5,95.5,0.0,100.0,11,15,11,True,0,0
+19,avv7b4d5me2tlsrt,wmuck1,80.0,85.0,5.0,94.12,11,15,11,True,3,3
+19,0t8m7z91mdhjhvye,SUNNYD,111.0,118.0,7.0,94.07,11,15,11,True,2,2
+19,ss2dromsme3cbmga,Berkshire’s Club,157.5,167.5,10.0,94.03,11,15,11,True,1,1
+19,eaz9h4hfme2wdh8p,epatel3,125.0,134.0,9.0,93.28,11,15,11,True,1,1
+19,fm7cv4p0me3j48nk,The Facerockers,91.0,100.0,9.0,91.0,11,15,11,True,2,2
+19,116s0o6ume0s7s58,Up the Arse-nal,116.5,129.5,13.0,89.96,11,15,11,True,3,3
+19,ne94j2bxme0vsmkq,Pot Splashers,94.0,106.5,12.5,88.26,11,15,11,True,2,2
+19,zf53q9hdme32qmoe,Robertske,96.0,109.0,13.0,88.07,10,13,11,True,2,1
+19,zxivny5tme3hojrx,Count Doku,112.5,128.0,15.5,87.89,11,15,11,True,2,2
+19,qocqs3wjme34472y,KindComet,99.0,118.5,19.5,83.54,11,15,11,True,2,2
+20,xnt9wpm9me0us0r4,yudesh,102.5,102.5,0.0,100.0,11,15,11,True,0,0
+20,ih2b4z8ome1job2n,nhauptma,111.5,116.5,5.0,95.71,11,15,11,True,1,1
+20,ss2dromsme3cbmga,Berkshire’s Club,92.0,98.0,6.0,93.88,11,15,11,True,1,1
+20,zxivny5tme3hojrx,Count Doku,76.5,83.5,7.0,91.62,11,15,11,True,2,2
+20,qocqs3wjme34472y,KindComet,165.0,184.5,19.5,89.43,11,15,11,True,2,2
+20,0t8m7z91mdhjhvye,SUNNYD,120.5,136.5,16.0,88.28,11,15,11,True,3,3
+20,avv7b4d5me2tlsrt,wmuck1,36.5,43.0,6.5,84.88,11,15,11,True,4,4
+20,eaz9h4hfme2wdh8p,epatel3,73.0,86.0,13.0,84.88,11,15,11,True,2,2
+20,zf53q9hdme32qmoe,Robertske,55.0,70.5,15.5,78.01,10,13,11,True,2,1
+20,fm7cv4p0me3j48nk,The Facerockers,63.5,83.0,19.5,76.51,10,13,11,True,3,2
+20,ne94j2bxme0vsmkq,Pot Splashers,86.5,116.0,29.5,74.57,11,15,11,True,2,2
+20,116s0o6ume0s7s58,Up the Arse-nal,77.0,108.5,31.5,70.97,11,15,11,True,2,2
+21,ih2b4z8ome1job2n,nhauptma,104.5,104.5,0.0,100.0,11,15,11,True,0,0
+21,xnt9wpm9me0us0r4,yudesh,165.0,165.0,0.0,100.0,11,15,11,True,0,0
+21,zxivny5tme3hojrx,Count Doku,116.5,119.0,2.5,97.9,11,15,11,True,1,1
+21,zf53q9hdme32qmoe,Robertske,80.5,84.0,3.5,95.83,11,14,11,True,1,1
+21,116s0o6ume0s7s58,Up the Arse-nal,163.0,172.0,9.0,94.77,11,15,11,True,1,1
+21,eaz9h4hfme2wdh8p,epatel3,93.0,103.5,10.5,89.86,11,15,11,True,3,3
+21,0t8m7z91mdhjhvye,SUNNYD,61.0,69.5,8.5,87.77,11,15,11,True,3,3
+21,fm7cv4p0me3j48nk,The Facerockers,109.0,125.0,16.0,87.2,11,15,11,True,3,3
+21,qocqs3wjme34472y,KindComet,107.5,128.5,21.0,83.66,11,15,11,True,2,2
+21,ss2dromsme3cbmga,Berkshire’s Club,99.0,127.0,28.0,77.95,11,15,11,True,2,2
+21,avv7b4d5me2tlsrt,wmuck1,60.5,84.5,24.0,71.6,11,15,11,True,4,4
+21,ne94j2bxme0vsmkq,Pot Splashers,84.5,118.5,34.0,71.31,11,15,11,True,1,1
+22,ih2b4z8ome1job2n,nhauptma,126.0,126.0,0.0,100.0,11,15,11,True,0,0
+22,ne94j2bxme0vsmkq,Pot Splashers,129.0,129.0,0.0,100.0,11,15,11,True,0,0
+22,eaz9h4hfme2wdh8p,epatel3,114.0,115.0,1.0,99.13,11,15,11,True,1,1
+22,qocqs3wjme34472y,KindComet,116.5,120.5,4.0,96.68,11,15,11,True,1,1
+22,zf53q9hdme32qmoe,Robertske,38.0,40.5,2.5,93.83,11,14,11,True,3,3
+22,xnt9wpm9me0us0r4,yudesh,133.0,150.0,17.0,88.67,11,15,11,True,3,3
+22,zxivny5tme3hojrx,Count Doku,77.0,87.0,10.0,88.51,11,15,11,True,2,2
+22,avv7b4d5me2tlsrt,wmuck1,76.0,89.0,13.0,85.39,11,15,11,True,3,3
+22,ss2dromsme3cbmga,Berkshire’s Club,66.5,78.0,11.5,85.26,11,15,11,True,1,1
+22,0t8m7z91mdhjhvye,SUNNYD,127.0,149.5,22.5,84.95,11,15,11,True,1,1
+22,116s0o6ume0s7s58,Up the Arse-nal,87.5,113.5,26.0,77.09,11,15,11,True,2,2
+22,fm7cv4p0me3j48nk,The Facerockers,80.0,113.0,33.0,70.8,11,15,11,True,3,3
+23,eaz9h4hfme2wdh8p,epatel3,118.5,131.0,12.5,90.46,11,15,11,True,1,1
+23,ne94j2bxme0vsmkq,Pot Splashers,72.5,82.0,9.5,88.41,11,15,11,True,2,2
+23,xnt9wpm9me0us0r4,yudesh,118.5,134.5,16.0,88.1,11,15,11,True,2,2
+23,avv7b4d5me2tlsrt,wmuck1,95.5,109.5,14.0,87.21,11,15,11,True,2,2
+23,fm7cv4p0me3j48nk,The Facerockers,113.5,131.5,18.0,86.31,11,15,11,True,2,2
+23,ih2b4z8ome1job2n,nhauptma,97.0,115.5,18.5,83.98,11,15,11,True,1,1
+23,qocqs3wjme34472y,KindComet,64.5,77.0,12.5,83.77,11,15,11,True,3,3
+23,zf53q9hdme32qmoe,Robertske,70.0,85.0,15.0,82.35,11,14,11,True,1,1
+23,0t8m7z91mdhjhvye,SUNNYD,98.0,122.0,24.0,80.33,11,15,11,True,3,3
+23,ss2dromsme3cbmga,Berkshire’s Club,152.0,193.5,41.5,78.55,11,15,11,True,3,3
+23,116s0o6ume0s7s58,Up the Arse-nal,44.5,61.5,17.0,72.36,11,15,11,True,3,3
+23,zxivny5tme3hojrx,Count Doku,59.0,109.0,50.0,54.13,11,15,11,True,3,3
+24,zf53q9hdme32qmoe,Robertske,103.5,106.0,2.5,97.64,11,13,11,True,1,1
+24,ih2b4z8ome1job2n,nhauptma,110.0,113.0,3.0,97.35,11,15,11,True,1,1
+24,eaz9h4hfme2wdh8p,epatel3,135.5,140.0,4.5,96.79,11,15,11,True,2,2
+24,zxivny5tme3hojrx,Count Doku,106.0,115.5,9.5,91.77,11,15,11,True,2,2
+24,ss2dromsme3cbmga,Berkshire’s Club,118.0,130.0,12.0,90.77,11,15,11,True,1,1
+24,116s0o6ume0s7s58,Up the Arse-nal,102.5,113.0,10.5,90.71,11,15,11,True,2,2
+24,fm7cv4p0me3j48nk,The Facerockers,99.0,112.0,13.0,88.39,11,15,11,True,2,2
+24,qocqs3wjme34472y,KindComet,80.0,93.0,13.0,86.02,11,15,11,True,2,2
+24,xnt9wpm9me0us0r4,yudesh,104.0,121.0,17.0,85.95,11,15,11,True,2,2
+24,avv7b4d5me2tlsrt,wmuck1,114.0,135.0,21.0,84.44,11,15,11,True,1,1
+24,ne94j2bxme0vsmkq,Pot Splashers,91.5,114.0,22.5,80.26,11,15,11,True,3,3
+24,0t8m7z91mdhjhvye,SUNNYD,104.5,131.0,26.5,79.77,11,14,11,True,2,2
+25,qocqs3wjme34472y,KindComet,133.5,133.5,0.0,100.0,11,15,11,True,0,0
+25,zxivny5tme3hojrx,Count Doku,43.0,43.0,0.0,100.0,11,15,11,True,0,0
+25,zf53q9hdme32qmoe,Robertske,98.5,99.0,0.5,99.49,11,13,11,True,2,2
+25,ne94j2bxme0vsmkq,Pot Splashers,128.5,132.0,3.5,97.35,11,15,11,True,1,1
+25,ss2dromsme3cbmga,Berkshire’s Club,137.0,142.0,5.0,96.48,11,15,11,True,1,1
+25,116s0o6ume0s7s58,Up the Arse-nal,93.5,97.0,3.5,96.39,11,15,11,True,1,1
+25,ih2b4z8ome1job2n,nhauptma,100.5,104.5,4.0,96.17,11,15,11,True,1,1
+25,0t8m7z91mdhjhvye,SUNNYD,71.5,75.0,3.5,95.33,11,15,11,True,2,2
+25,eaz9h4hfme2wdh8p,epatel3,143.0,152.0,9.0,94.08,11,15,11,True,2,2
+25,avv7b4d5me2tlsrt,wmuck1,100.0,113.5,13.5,88.11,11,15,11,True,2,2
+25,fm7cv4p0me3j48nk,The Facerockers,66.5,90.0,23.5,73.89,11,14,11,True,2,2
+25,xnt9wpm9me0us0r4,yudesh,95.5,147.0,51.5,64.97,11,15,11,True,3,3
+26,zf53q9hdme32qmoe,Robertske,73.5,73.5,0.0,100.0,11,13,11,True,0,0
+26,ss2dromsme3cbmga,Berkshire’s Club,154.5,160.5,6.0,96.26,11,15,11,True,1,1
+26,116s0o6ume0s7s58,Up the Arse-nal,74.0,77.5,3.5,95.48,11,15,11,True,1,1
+26,ne94j2bxme0vsmkq,Pot Splashers,113.0,121.5,8.5,93.0,11,15,11,True,1,1
+26,avv7b4d5me2tlsrt,wmuck1,65.5,71.0,5.5,92.25,11,15,11,True,2,2
+26,eaz9h4hfme2wdh8p,epatel3,110.5,124.0,13.5,89.11,11,15,11,True,3,3
+26,qocqs3wjme34472y,KindComet,92.0,105.0,13.0,87.62,11,15,11,True,3,3
+26,zxivny5tme3hojrx,Count Doku,107.0,123.0,16.0,86.99,11,15,11,True,1,1
+26,fm7cv4p0me3j48nk,The Facerockers,104.5,120.5,16.0,86.72,11,15,11,True,2,2
+26,0t8m7z91mdhjhvye,SUNNYD,111.5,141.0,29.5,79.08,11,15,11,True,3,3
+26,ih2b4z8ome1job2n,nhauptma,76.0,107.0,31.0,71.03,11,15,11,True,1,1
+26,xnt9wpm9me0us0r4,yudesh,63.5,92.0,28.5,69.02,11,15,11,True,2,2
+27,eaz9h4hfme2wdh8p,epatel3,116.0,117.5,1.5,98.72,11,15,11,True,1,1
+27,0t8m7z91mdhjhvye,SUNNYD,100.5,102.0,1.5,98.53,11,15,11,True,1,1
+27,ih2b4z8ome1job2n,nhauptma,156.5,160.0,3.5,97.81,11,15,11,True,1,1
+27,zf53q9hdme32qmoe,Robertske,102.5,105.0,2.5,97.62,11,13,11,True,1,1
+27,fm7cv4p0me3j48nk,The Facerockers,139.0,146.0,7.0,95.21,11,15,11,True,2,2
+27,ne94j2bxme0vsmkq,Pot Splashers,96.5,105.5,9.0,91.47,11,15,11,True,1,1
+27,zxivny5tme3hojrx,Count Doku,90.5,110.5,20.0,81.9,11,15,11,True,3,3
+27,xnt9wpm9me0us0r4,yudesh,90.0,111.0,21.0,81.08,11,15,11,True,2,2
+27,116s0o6ume0s7s58,Up the Arse-nal,87.5,108.5,21.0,80.65,11,15,11,True,2,2
+27,ss2dromsme3cbmga,Berkshire’s Club,111.0,140.0,29.0,79.29,11,15,11,True,2,2
+27,avv7b4d5me2tlsrt,wmuck1,90.0,121.0,31.0,74.38,11,15,11,True,3,3
+27,qocqs3wjme34472y,KindComet,72.5,108.5,36.0,66.82,11,15,11,True,3,3
+28,ih2b4z8ome1job2n,nhauptma,147.0,147.0,0.0,100.0,11,15,11,True,1,1
+28,ne94j2bxme0vsmkq,Pot Splashers,111.5,114.5,3.0,97.38,11,15,11,True,1,1
+28,0t8m7z91mdhjhvye,SUNNYD,121.0,126.0,5.0,96.03,11,15,11,True,1,1
+28,116s0o6ume0s7s58,Up the Arse-nal,157.5,169.0,11.5,93.2,11,15,11,True,2,2
+28,eaz9h4hfme2wdh8p,epatel3,122.5,131.5,9.0,93.16,11,15,11,True,1,1
+28,ss2dromsme3cbmga,Berkshire’s Club,133.0,143.5,10.5,92.68,11,15,11,True,2,2
+28,xnt9wpm9me0us0r4,yudesh,81.5,90.5,9.0,90.06,11,15,11,True,1,1
+28,avv7b4d5me2tlsrt,wmuck1,103.5,120.0,16.5,86.25,11,15,11,True,2,2
+28,zf53q9hdme32qmoe,Robertske,30.0,35.0,5.0,85.71,11,13,11,True,2,2
+28,qocqs3wjme34472y,KindComet,91.0,111.5,20.5,81.61,11,15,11,True,3,3
+28,fm7cv4p0me3j48nk,The Facerockers,85.5,109.5,24.0,78.08,11,15,11,True,3,3
+28,zxivny5tme3hojrx,Count Doku,45.5,71.0,25.5,64.08,11,15,11,True,4,4
+29,0t8m7z91mdhjhvye,SUNNYD,124.5,124.5,0.0,100.0,11,15,11,True,0,0
+29,eaz9h4hfme2wdh8p,epatel3,128.0,128.5,0.5,99.61,11,15,11,True,1,1
+29,xnt9wpm9me0us0r4,yudesh,105.5,107.0,1.5,98.6,11,15,11,True,1,1
+29,116s0o6ume0s7s58,Up the Arse-nal,134.0,139.5,5.5,96.06,11,15,11,True,1,1
+29,ih2b4z8ome1job2n,nhauptma,105.5,112.5,7.0,93.78,11,15,11,True,1,1
+29,zxivny5tme3hojrx,Count Doku,120.5,129.0,8.5,93.41,11,15,11,True,1,1
+29,zf53q9hdme32qmoe,Robertske,50.5,57.5,7.0,87.83,11,13,11,True,2,2
+29,qocqs3wjme34472y,KindComet,72.0,82.0,10.0,87.8,11,15,11,True,3,3
+29,ss2dromsme3cbmga,Berkshire’s Club,142.5,162.5,20.0,87.69,11,15,11,True,3,3
+29,ne94j2bxme0vsmkq,Pot Splashers,85.5,112.0,26.5,76.34,11,15,11,True,2,2
+29,fm7cv4p0me3j48nk,The Facerockers,78.0,107.0,29.0,72.9,11,15,11,True,2,2
+29,avv7b4d5me2tlsrt,wmuck1,58.5,90.0,31.5,65.0,11,15,11,True,4,4
+30,qocqs3wjme34472y,KindComet,116.5,116.5,0.0,100.0,11,15,11,True,1,1
+30,eaz9h4hfme2wdh8p,epatel3,140.5,146.0,5.5,96.23,11,15,11,True,2,2
+30,xnt9wpm9me0us0r4,yudesh,142.0,149.5,7.5,94.98,11,15,11,True,2,2
+30,0t8m7z91mdhjhvye,SUNNYD,103.0,109.0,6.0,94.5,11,15,11,True,2,2
+30,fm7cv4p0me3j48nk,The Facerockers,118.0,127.0,9.0,92.91,11,15,11,True,2,2
+30,avv7b4d5me2tlsrt,wmuck1,100.5,111.0,10.5,90.54,11,15,11,True,2,2
+30,zf53q9hdme32qmoe,Robertske,61.0,71.0,10.0,85.92,11,13,11,True,2,2
+30,116s0o6ume0s7s58,Up the Arse-nal,69.0,83.5,14.5,82.63,11,15,11,True,3,3
+30,ne94j2bxme0vsmkq,Pot Splashers,105.5,128.5,23.0,82.1,11,15,11,True,3,3
+30,zxivny5tme3hojrx,Count Doku,104.5,132.0,27.5,79.17,11,15,11,True,2,2
+30,ss2dromsme3cbmga,Berkshire’s Club,89.5,115.0,25.5,77.83,11,15,11,True,2,2
+30,ih2b4z8ome1job2n,nhauptma,72.0,109.5,37.5,65.75,11,15,11,True,3,3
+31,0t8m7z91mdhjhvye,SUNNYD,50.0,50.0,0.0,100.0,11,15,11,True,1,1
+31,116s0o6ume0s7s58,Up the Arse-nal,126.5,126.5,0.0,100.0,11,15,11,True,0,0
+31,eaz9h4hfme2wdh8p,epatel3,74.5,74.5,0.0,100.0,11,15,11,True,2,2
+31,ss2dromsme3cbmga,Berkshire’s Club,99.5,99.5,0.0,100.0,11,15,11,True,0,0
+31,xnt9wpm9me0us0r4,yudesh,96.0,98.0,2.0,97.96,11,15,11,True,1,1
+31,zxivny5tme3hojrx,Count Doku,134.0,140.0,6.0,95.71,11,15,11,True,3,3
+31,avv7b4d5me2tlsrt,wmuck1,111.0,121.5,10.5,91.36,11,15,11,True,2,2
+31,qocqs3wjme34472y,KindComet,101.0,111.0,10.0,90.99,11,15,11,True,2,2
+31,ne94j2bxme0vsmkq,Pot Splashers,94.5,107.5,13.0,87.91,11,15,11,True,1,1
+31,ih2b4z8ome1job2n,nhauptma,59.5,68.0,8.5,87.5,11,15,11,True,2,2
+31,fm7cv4p0me3j48nk,The Facerockers,90.5,103.5,13.0,87.44,11,15,11,True,1,1
+31,zf53q9hdme32qmoe,Robertske,10.5,18.5,8.0,56.76,11,13,11,True,2,2
+32,ne94j2bxme0vsmkq,Pot Splashers,99.5,99.5,0.0,100.0,11,15,11,True,0,0
+32,ss2dromsme3cbmga,Berkshire’s Club,141.5,144.5,3.0,97.92,11,14,11,True,1,1
+32,fm7cv4p0me3j48nk,The Facerockers,113.5,118.0,4.5,96.19,11,15,11,True,2,2
+32,xnt9wpm9me0us0r4,yudesh,95.0,99.0,4.0,95.96,11,15,11,True,1,1
+32,eaz9h4hfme2wdh8p,epatel3,142.5,149.0,6.5,95.64,11,15,11,True,1,1
+32,qocqs3wjme34472y,KindComet,148.5,155.5,7.0,95.5,11,15,11,True,1,1
+32,zf53q9hdme32qmoe,Robertske,79.5,85.5,6.0,92.98,11,13,11,True,1,1
+32,zxivny5tme3hojrx,Count Doku,117.0,127.0,10.0,92.13,11,15,11,True,2,2
+32,0t8m7z91mdhjhvye,SUNNYD,134.0,153.0,19.0,87.58,11,15,11,True,1,1
+32,avv7b4d5me2tlsrt,wmuck1,73.5,88.0,14.5,83.52,11,15,11,True,2,2
+32,116s0o6ume0s7s58,Up the Arse-nal,91.0,117.5,26.5,77.45,11,15,11,True,2,2
+32,ih2b4z8ome1job2n,nhauptma,57.5,100.5,43.0,57.21,11,15,11,True,3,3
+33,fm7cv4p0me3j48nk,The Facerockers,184.5,184.5,0.0,100.0,11,15,11,True,0,0
+33,ss2dromsme3cbmga,Berkshire’s Club,115.0,119.5,4.5,96.23,11,15,11,True,1,1
+33,xnt9wpm9me0us0r4,yudesh,130.0,136.0,6.0,95.59,11,15,11,True,2,2
+33,ih2b4z8ome1job2n,nhauptma,171.5,180.0,8.5,95.28,11,15,11,True,1,1
+33,ne94j2bxme0vsmkq,Pot Splashers,134.5,148.5,14.0,90.57,11,15,11,True,2,2
+33,116s0o6ume0s7s58,Up the Arse-nal,112.0,124.0,12.0,90.32,11,15,11,True,1,1
+33,avv7b4d5me2tlsrt,wmuck1,156.5,175.0,18.5,89.43,11,15,11,True,2,2
+33,zf53q9hdme32qmoe,Robertske,144.0,162.0,18.0,88.89,11,13,11,True,2,2
+33,zxivny5tme3hojrx,Count Doku,129.5,150.0,20.5,86.33,11,15,11,True,2,2
+33,0t8m7z91mdhjhvye,SUNNYD,150.5,175.0,24.5,86.0,11,15,11,True,2,2
+33,qocqs3wjme34472y,KindComet,184.0,216.5,32.5,84.99,11,15,11,True,2,2
+33,eaz9h4hfme2wdh8p,epatel3,103.0,136.0,33.0,75.74,11,15,11,True,3,3
+34,116s0o6ume0s7s58,Up the Arse-nal,107.0,107.0,0.0,100.0,11,15,11,True,0,0
+34,fm7cv4p0me3j48nk,The Facerockers,93.5,93.5,0.0,100.0,10,14,11,True,1,0
+34,ne94j2bxme0vsmkq,Pot Splashers,94.5,94.5,0.0,100.0,11,15,11,True,0,0
+34,ss2dromsme3cbmga,Berkshire’s Club,100.5,100.5,0.0,100.0,11,15,11,True,0,0
+34,xnt9wpm9me0us0r4,yudesh,80.0,80.5,0.5,99.38,11,15,11,True,1,1
+34,0t8m7z91mdhjhvye,SUNNYD,65.0,65.5,0.5,99.24,11,15,11,True,3,3
+34,eaz9h4hfme2wdh8p,epatel3,121.5,133.5,12.0,91.01,11,15,11,True,1,1
+34,zxivny5tme3hojrx,Count Doku,121.5,134.5,13.0,90.33,11,15,11,True,2,2
+34,avv7b4d5me2tlsrt,wmuck1,44.5,54.0,9.5,82.41,11,15,11,True,3,3
+34,ih2b4z8ome1job2n,nhauptma,59.5,72.5,13.0,82.07,11,15,11,True,3,3
+34,qocqs3wjme34472y,KindComet,24.0,31.0,7.0,77.42,11,15,11,True,3,3
+34,zf53q9hdme32qmoe,Robertske,20.0,26.5,6.5,75.47,11,13,11,True,2,2
+35,zf53q9hdme32qmoe,Robertske,86.0,87.0,1.0,98.85,11,13,11,True,2,2
+35,0t8m7z91mdhjhvye,SUNNYD,127.0,130.5,3.5,97.32,11,15,11,True,2,2
+35,116s0o6ume0s7s58,Up the Arse-nal,114.0,121.0,7.0,94.21,11,15,11,True,2,2
+35,fm7cv4p0me3j48nk,The Facerockers,78.5,86.5,8.0,90.75,11,15,11,True,2,2
+35,ss2dromsme3cbmga,Berkshire’s Club,143.0,159.0,16.0,89.94,11,15,11,True,2,2
+35,eaz9h4hfme2wdh8p,epatel3,107.5,120.5,13.0,89.21,11,15,11,True,2,2
+35,xnt9wpm9me0us0r4,yudesh,73.5,87.0,13.5,84.48,11,15,11,True,2,2
+35,zxivny5tme3hojrx,Count Doku,115.5,138.0,22.5,83.7,11,15,11,True,2,2
+35,ne94j2bxme0vsmkq,Pot Splashers,77.0,97.5,20.5,78.97,11,15,11,True,3,3
+35,avv7b4d5me2tlsrt,wmuck1,80.0,103.0,23.0,77.67,11,15,11,True,4,4
+35,qocqs3wjme34472y,KindComet,78.0,106.5,28.5,73.24,11,15,11,True,4,4
+35,ih2b4z8ome1job2n,nhauptma,87.5,131.5,44.0,66.54,11,15,11,True,4,4
+36,avv7b4d5me2tlsrt,wmuck1,109.5,109.5,0.0,100.0,11,15,11,True,1,1
+36,zf53q9hdme32qmoe,Robertske,167.5,174.0,6.5,96.26,11,13,11,True,1,1
+36,ne94j2bxme0vsmkq,Pot Splashers,73.5,76.5,3.0,96.08,11,15,11,True,3,3
+36,ss2dromsme3cbmga,Berkshire’s Club,148.0,157.5,9.5,93.97,11,15,11,True,1,1
+36,xnt9wpm9me0us0r4,yudesh,102.5,111.0,8.5,92.34,11,15,11,True,1,1
+36,eaz9h4hfme2wdh8p,epatel3,112.0,121.5,9.5,92.18,11,15,11,True,2,2
+36,qocqs3wjme34472y,KindComet,132.0,144.5,12.5,91.35,11,15,11,True,2,2
+36,ih2b4z8ome1job2n,nhauptma,104.5,115.0,10.5,90.87,11,15,11,True,3,3
+36,116s0o6ume0s7s58,Up the Arse-nal,98.0,108.0,10.0,90.74,11,15,11,True,3,3
+36,zxivny5tme3hojrx,Count Doku,107.5,123.5,16.0,87.04,11,15,11,True,4,4
+36,0t8m7z91mdhjhvye,SUNNYD,114.0,140.0,26.0,81.43,11,15,11,True,2,2
+36,fm7cv4p0me3j48nk,The Facerockers,93.0,123.0,30.0,75.61,11,15,11,True,2,2
+37,qocqs3wjme34472y,KindComet,144.0,144.0,0.0,100.0,11,15,11,True,0,0
+37,zf53q9hdme32qmoe,Robertske,90.5,90.5,0.0,100.0,11,13,11,True,0,0
+37,ne94j2bxme0vsmkq,Pot Splashers,66.5,67.5,1.0,98.52,11,15,11,True,1,1
+37,ss2dromsme3cbmga,Berkshire’s Club,98.0,102.5,4.5,95.61,11,15,11,True,1,1
+37,zxivny5tme3hojrx,Count Doku,107.0,116.0,9.0,92.24,11,15,11,True,3,3
+37,eaz9h4hfme2wdh8p,epatel3,63.0,69.0,6.0,91.3,11,15,11,True,2,2
+37,avv7b4d5me2tlsrt,wmuck1,84.0,93.0,9.0,90.32,11,15,11,True,2,2
+37,0t8m7z91mdhjhvye,SUNNYD,84.0,96.5,12.5,87.05,11,15,11,True,2,2
+37,116s0o6ume0s7s58,Up the Arse-nal,103.5,126.5,23.0,81.82,11,15,11,True,3,3
+37,fm7cv4p0me3j48nk,The Facerockers,93.0,133.5,40.5,69.66,11,15,11,True,2,2
+37,xnt9wpm9me0us0r4,yudesh,116.5,169.5,53.0,68.73,11,15,11,True,3,3
+37,ih2b4z8ome1job2n,nhauptma,63.0,93.0,30.0,67.74,11,15,11,True,2,2
+38,zf53q9hdme32qmoe,Robertske,51.0,57.0,6.0,89.47,11,13,11,True,2,2
+38,ne94j2bxme0vsmkq,Pot Splashers,77.5,87.0,9.5,89.08,11,15,11,True,1,1
+38,ss2dromsme3cbmga,Berkshire’s Club,117.5,136.0,18.5,86.4,11,15,11,True,3,3
+38,avv7b4d5me2tlsrt,wmuck1,61.0,73.5,12.5,82.99,11,15,11,True,4,4
+38,eaz9h4hfme2wdh8p,epatel3,77.0,97.0,20.0,79.38,11,15,11,True,2,2
+38,0t8m7z91mdhjhvye,SUNNYD,98.0,124.5,26.5,78.71,11,15,11,True,2,2
+38,qocqs3wjme34472y,KindComet,82.5,107.0,24.5,77.1,11,15,11,True,1,1
+38,116s0o6ume0s7s58,Up the Arse-nal,91.5,122.0,30.5,75.0,11,15,11,True,4,4
+38,ih2b4z8ome1job2n,nhauptma,57.0,78.5,21.5,72.61,11,15,11,True,3,3
+38,zxivny5tme3hojrx,Count Doku,77.0,116.0,39.0,66.38,11,15,11,True,3,3
+38,fm7cv4p0me3j48nk,The Facerockers,71.0,107.5,36.5,66.05,11,15,11,True,4,4
+38,xnt9wpm9me0us0r4,yudesh,52.0,105.0,53.0,49.52,11,15,11,True,4,4

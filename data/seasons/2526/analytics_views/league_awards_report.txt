@@ -1,0 +1,15 @@
+League Awards Views Build Report
+================================================================================
+manager_week rows: 456
+manager_season rows: 12
+matchup_week rows: 456
+manager_player rows: 34,423
+
+league_table rows: 12
+weekly_awards rows: 402
+award_leaderboards rows: 96
+manager_streaks rows: 12
+lineup_changes rows: 468
+closest_games rows: 210
+biggest_blowouts rows: 210
+hub_cards rows: 12

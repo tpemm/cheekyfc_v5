@@ -1,0 +1,341 @@
+match_id,match_date,game_week,game_week_is_estimated,team_id,team_name,opponent_id,opponent,venue,team_win_probability,draw_probability,opponent_win_probability,status,opponent_attack_rating,opponent_defense_rating,opponent_overall_rating,attacker_fixture_ease,defender_fixture_ease,overall_fixture_ease,fixture_difficulty,fixture_band,fixture_confidence
+740533372,2026-08-21 19:00:00,1.0,True,57,Arsenal,209,Coventry City,Home,60.4,11.2,28.4,incomplete,50.0,50.0,50.0,55.7,55.7,55.2,44.8,Favorable,probability-only
+740533372,2026-08-21 19:00:00,1.0,True,209,Coventry City,57,Arsenal,Away,28.4,11.2,60.4,incomplete,86.2,100.0,90.6,15.6,21.8,18.9,81.1,Very difficult,team-strength-adjusted
+740533374,2026-08-22 11:30:00,1.0,True,134,Hull City,133,Manchester United,Home,36.34,15.52,48.15,incomplete,90.6,59.4,72.4,38.3,24.2,32.0,68.0,Very difficult,team-strength-adjusted
+740533374,2026-08-22 11:30:00,1.0,True,133,Manchester United,134,Hull City,Away,48.15,15.52,36.34,incomplete,50.0,50.0,50.0,49.0,49.0,49.1,50.9,Neutral,probability-only
+740745789,2026-08-22 14:00:00,1.0,True,127,Crystal Palace,128,Everton,Away,32.1,22.0,45.9,incomplete,18.7,43.5,29.0,43.1,54.2,51.6,48.4,Neutral,team-strength-adjusted
+740745789,2026-08-22 14:00:00,1.0,True,128,Everton,127,Crystal Palace,Home,45.9,22.0,32.1,incomplete,18.2,57.9,33.9,44.2,62.1,56.0,44.0,Favorable,team-strength-adjusted
+780100664,2026-08-22 14:00:00,1.0,True,191,Ipswich Town,140,Sunderland,Home,44.7,16.4,38.9,incomplete,7.9,49.1,27.1,47.5,66.0,58.8,41.2,Favorable,team-strength-adjusted
+780100644,2026-08-22 14:00:00,1.0,True,193,Leeds United,182,Nottingham Forest,Away,36.8,18.5,44.7,incomplete,39.9,34.4,37.8,49.8,47.3,49.5,50.5,Neutral,team-strength-adjusted
+780100644,2026-08-22 14:00:00,1.0,True,182,Nottingham Forest,193,Leeds United,Home,44.7,18.5,36.8,incomplete,38.1,24.1,31.1,58.7,52.4,56.8,43.2,Favorable,team-strength-adjusted
+780100664,2026-08-22 14:00:00,1.0,True,140,Sunderland,191,Ipswich Town,Away,38.9,16.4,44.7,incomplete,50.0,50.0,50.0,43.9,43.9,44.4,55.6,Difficult,probability-only
+780100643,2026-08-22 16:30:00,1.0,True,189,Brentford,86,Tottenham Hotspur,Home,36.56,20.68,42.76,incomplete,30.7,33.2,33.3,50.2,51.3,51.6,48.4,Neutral,team-strength-adjusted
+780100643,2026-08-22 16:30:00,1.0,True,86,Tottenham Hotspur,189,Brentford,Away,42.76,20.68,36.56,incomplete,29.4,35.6,32.6,52.5,55.3,55.1,44.9,Favorable,team-strength-adjusted
+720160207,2026-08-23 13:00:00,1.0,True,132,AFC Bournemouth,87,Manchester City,Away,29.77,12.49,57.74,incomplete,98.2,94.1,96.1,19.0,17.2,16.8,83.2,Very difficult,team-strength-adjusted
+780100615,2026-08-23 13:00:00,1.0,True,142,Aston Villa,180,Brighton & Hove Albion,Away,43.06,19.88,37.06,incomplete,62.5,74.1,66.1,35.3,40.6,38.5,61.5,Difficult,team-strength-adjusted
+780100615,2026-08-23 13:00:00,1.0,True,180,Brighton & Hove Albion,142,Aston Villa,Home,37.06,19.88,43.06,incomplete,57.9,54.1,59.0,41.0,39.3,39.0,61.0,Difficult,team-strength-adjusted
+720160207,2026-08-23 13:00:00,1.0,True,87,Manchester City,132,AFC Bournemouth,Home,57.74,12.49,29.77,incomplete,73.4,43.8,58.6,57.0,43.7,49.6,50.4,Neutral,team-strength-adjusted
+780100625,2026-08-23 15:30:00,1.0,True,135,Liverpool,141,Newcastle United,Away,45.7,16.4,37.9,incomplete,62.2,27.4,49.3,57.8,42.1,48.2,51.8,Neutral,team-strength-adjusted
+780100625,2026-08-23 15:30:00,1.0,True,141,Newcastle United,135,Liverpool,Home,37.9,16.4,45.7,incomplete,83.8,61.5,74.8,38.2,28.1,31.6,68.4,Very difficult,team-strength-adjusted
+780100628,2026-08-24 19:00:00,1.0,True,136,Chelsea,146,Fulham,Away,44.3,18.6,37.1,incomplete,33.8,50.9,42.5,46.5,54.2,50.9,49.1,Neutral,team-strength-adjusted
+780100628,2026-08-24 19:00:00,1.0,True,146,Fulham,136,Chelsea,Home,37.1,18.6,44.3,incomplete,68.4,56.8,65.6,39.8,34.6,35.8,64.2,Difficult,team-strength-adjusted
+780100621,2026-08-29 14:00:00,2.0,True,132,AFC Bournemouth,128,Everton,Home,48.6,13.5,37.9,incomplete,18.7,43.5,29.0,52.2,63.3,59.8,40.2,Favorable,team-strength-adjusted
+740745813,2026-08-29 14:00:00,2.0,True,57,Arsenal,142,Aston Villa,Away,43.94,15.02,41.04,incomplete,57.9,54.1,59.0,44.8,43.1,42.5,57.5,Difficult,team-strength-adjusted
+740745813,2026-08-29 14:00:00,2.0,True,142,Aston Villa,57,Arsenal,Home,41.04,15.02,43.94,incomplete,86.2,100.0,90.6,22.6,28.8,25.2,74.8,Very difficult,team-strength-adjusted
+780100616,2026-08-29 14:00:00,2.0,True,189,Brentford,193,Leeds United,Away,36.3,24.3,39.4,incomplete,38.1,24.1,31.1,54.1,47.8,52.6,47.4,Neutral,team-strength-adjusted
+740533382,2026-08-29 14:00:00,2.0,True,180,Brighton & Hove Albion,136,Chelsea,Away,36.0,16.2,47.8,incomplete,68.4,56.8,65.6,39.2,34.0,35.2,64.8,Difficult,team-strength-adjusted
+740533382,2026-08-29 14:00:00,2.0,True,136,Chelsea,180,Brighton & Hove Albion,Home,47.8,16.2,36.0,incomplete,62.5,74.1,66.1,37.9,43.2,40.8,59.2,Difficult,team-strength-adjusted
+780100655,2026-08-29 14:00:00,2.0,True,209,Coventry City,134,Hull City,Home,39.7,22.4,37.9,incomplete,50.0,50.0,50.0,44.3,44.3,44.8,55.2,Difficult,probability-only
+740533370,2026-08-29 14:00:00,2.0,True,127,Crystal Palace,87,Manchester City,Home,37.64,15.52,46.85,incomplete,98.2,94.1,96.1,23.4,21.5,20.8,79.2,Very difficult,team-strength-adjusted
+780100621,2026-08-29 14:00:00,2.0,True,128,Everton,132,AFC Bournemouth,Away,37.9,13.5,48.6,incomplete,73.4,43.8,58.6,46.1,32.8,39.6,60.4,Difficult,team-strength-adjusted
+780100670,2026-08-29 14:00:00,2.0,True,146,Fulham,140,Sunderland,Away,37.9,20.8,41.3,incomplete,7.9,49.1,27.1,43.8,62.3,55.4,44.6,Favorable,team-strength-adjusted
+780100655,2026-08-29 14:00:00,2.0,True,134,Hull City,209,Coventry City,Away,37.9,22.4,39.7,incomplete,50.0,50.0,50.0,43.3,43.3,44.0,56.0,Difficult,probability-only
+780100667,2026-08-29 14:00:00,2.0,True,191,Ipswich Town,133,Manchester United,Away,28.4,19.9,51.7,incomplete,90.6,59.4,72.4,33.9,19.9,28.0,72.0,Very difficult,team-strength-adjusted
+780100616,2026-08-29 14:00:00,2.0,True,193,Leeds United,189,Brentford,Home,39.4,24.3,36.3,incomplete,29.4,35.6,32.6,50.7,53.4,53.4,46.6,Neutral,team-strength-adjusted
+740533385,2026-08-29 14:00:00,2.0,True,135,Liverpool,182,Nottingham Forest,Home,48.8,14.1,37.1,incomplete,39.9,34.4,37.8,56.4,53.9,55.5,44.5,Favorable,team-strength-adjusted
+740533370,2026-08-29 14:00:00,2.0,True,87,Manchester City,127,Crystal Palace,Away,46.85,15.52,37.64,incomplete,18.2,57.9,33.9,44.7,62.6,56.5,43.5,Favorable,team-strength-adjusted
+780100667,2026-08-29 14:00:00,2.0,True,133,Manchester United,191,Ipswich Town,Home,51.7,19.9,28.4,incomplete,50.0,50.0,50.0,50.9,50.9,50.8,49.2,Neutral,probability-only
+780100674,2026-08-29 14:00:00,2.0,True,141,Newcastle United,86,Tottenham Hotspur,Away,40.3,15.3,44.4,incomplete,30.7,33.2,33.3,52.2,53.4,53.5,46.5,Neutral,team-strength-adjusted
+740533385,2026-08-29 14:00:00,2.0,True,182,Nottingham Forest,135,Liverpool,Away,37.1,14.1,48.8,incomplete,83.8,61.5,74.8,37.7,27.7,31.2,68.8,Very difficult,team-strength-adjusted
+780100670,2026-08-29 14:00:00,2.0,True,140,Sunderland,146,Fulham,Home,41.3,20.8,37.9,incomplete,33.8,50.9,42.5,44.8,52.5,49.4,50.6,Neutral,team-strength-adjusted
+780100674,2026-08-29 14:00:00,2.0,True,86,Tottenham Hotspur,141,Newcastle United,Home,44.4,15.3,40.3,incomplete,62.2,27.4,49.3,57.1,41.4,47.6,52.4,Neutral,team-strength-adjusted
+780100645,2026-09-05 14:00:00,3.0,True,132,AFC Bournemouth,141,Newcastle United,Away,35.7,22.8,41.5,incomplete,62.2,27.4,49.3,52.3,36.6,43.2,56.8,Difficult,team-strength-adjusted
+780100623,2026-09-05 14:00:00,3.0,True,57,Arsenal,136,Chelsea,Home,44.86,17.58,37.56,incomplete,68.4,56.8,65.6,44.1,38.9,39.6,60.4,Difficult,team-strength-adjusted
+740745816,2026-09-05 14:00:00,3.0,True,142,Aston Villa,134,Hull City,Away,43.7,20.0,36.3,incomplete,50.0,50.0,50.0,46.5,46.5,46.8,53.2,Neutral,probability-only
+780100665,2026-09-05 14:00:00,3.0,True,189,Brentford,140,Sunderland,Home,47.3,17.7,35.0,incomplete,7.9,49.1,27.1,48.9,67.5,60.1,39.9,Favorable,team-strength-adjusted
+780100622,2026-09-05 14:00:00,3.0,True,180,Brighton & Hove Albion,193,Leeds United,Home,48.6,18.3,33.1,incomplete,38.1,24.1,31.1,60.9,54.6,58.8,41.2,Favorable,team-strength-adjusted
+780100623,2026-09-05 14:00:00,3.0,True,136,Chelsea,57,Arsenal,Away,37.56,17.58,44.86,incomplete,86.2,100.0,90.6,20.7,26.9,23.5,76.5,Very difficult,team-strength-adjusted
+740533381,2026-09-05 14:00:00,3.0,True,209,Coventry City,87,Manchester City,Away,37.1,20.1,42.8,incomplete,98.2,94.1,96.1,23.1,21.2,20.5,79.5,Very difficult,team-strength-adjusted
+780100612,2026-09-05 14:00:00,3.0,True,127,Crystal Palace,146,Fulham,Away,38.94,21.62,39.44,incomplete,33.8,50.9,42.5,43.5,51.2,48.2,51.8,Neutral,team-strength-adjusted
+740533387,2026-09-05 14:00:00,3.0,True,128,Everton,133,Manchester United,Home,39.2,18.0,42.8,incomplete,90.6,59.4,72.4,39.8,25.8,33.4,66.6,Very difficult,team-strength-adjusted
+780100612,2026-09-05 14:00:00,3.0,True,146,Fulham,127,Crystal Palace,Home,39.44,21.62,38.94,incomplete,18.2,57.9,33.9,40.6,58.5,52.8,47.2,Neutral,team-strength-adjusted
+740745816,2026-09-05 14:00:00,3.0,True,134,Hull City,142,Aston Villa,Home,36.3,20.0,43.7,incomplete,57.9,54.1,59.0,40.6,38.9,38.6,61.4,Difficult,team-strength-adjusted
+780100614,2026-09-05 14:00:00,3.0,True,191,Ipswich Town,135,Liverpool,Home,34.2,11.2,54.6,incomplete,83.8,61.5,74.8,36.1,26.1,29.7,70.3,Very difficult,team-strength-adjusted
+780100622,2026-09-05 14:00:00,3.0,True,193,Leeds United,180,Brighton & Hove Albion,Away,33.1,18.3,48.6,incomplete,62.5,74.1,66.1,29.9,35.1,33.5,66.5,Very difficult,team-strength-adjusted
+780100614,2026-09-05 14:00:00,3.0,True,135,Liverpool,191,Ipswich Town,Away,54.6,11.2,34.2,incomplete,50.0,50.0,50.0,52.5,52.5,52.3,47.7,Neutral,probability-only
+740533381,2026-09-05 14:00:00,3.0,True,87,Manchester City,209,Coventry City,Home,42.8,20.1,37.1,incomplete,50.0,50.0,50.0,46.0,46.0,46.4,53.6,Neutral,probability-only
+740533387,2026-09-05 14:00:00,3.0,True,133,Manchester United,128,Everton,Away,42.8,18.0,39.2,incomplete,18.7,43.5,29.0,49.0,60.1,56.9,43.1,Favorable,team-strength-adjusted
+780100645,2026-09-05 14:00:00,3.0,True,141,Newcastle United,132,AFC Bournemouth,Home,41.5,22.8,35.7,incomplete,73.4,43.8,58.6,48.1,34.8,41.4,58.6,Difficult,team-strength-adjusted
+780100613,2026-09-05 14:00:00,3.0,True,182,Nottingham Forest,86,Tottenham Hotspur,Home,47.3,11.2,41.5,incomplete,30.7,33.2,33.3,56.1,57.2,57.0,43.0,Favorable,team-strength-adjusted
+780100665,2026-09-05 14:00:00,3.0,True,140,Sunderland,189,Brentford,Away,35.0,17.7,47.3,incomplete,29.4,35.6,32.6,48.2,51.0,51.2,48.8,Neutral,team-strength-adjusted
+780100613,2026-09-05 14:00:00,3.0,True,86,Tottenham Hotspur,182,Nottingham Forest,Away,41.5,11.2,47.3,incomplete,39.9,34.4,37.8,52.3,49.9,51.8,48.2,Neutral,team-strength-adjusted
+855832893,2026-09-12 14:00:00,4.0,True,132,AFC Bournemouth,189,Brentford,Home,39.16,19.88,40.96,incomplete,29.4,35.6,32.6,50.5,53.3,53.3,46.7,Neutral,team-strength-adjusted
+856046574,2026-09-12 14:00:00,4.0,True,57,Arsenal,140,Sunderland,Away,44.2,19.5,36.3,incomplete,7.9,49.1,27.1,47.2,65.8,58.6,41.4,Favorable,team-strength-adjusted
+740533373,2026-09-12 14:00:00,4.0,True,142,Aston Villa,182,Nottingham Forest,Home,47.3,17.7,35.0,incomplete,39.9,34.4,37.8,55.5,53.1,54.8,45.2,Neutral,team-strength-adjusted
+855832893,2026-09-12 14:00:00,4.0,True,189,Brentford,132,AFC Bournemouth,Away,40.96,19.88,39.16,incomplete,73.4,43.8,58.6,47.8,34.5,41.2,58.8,Difficult,team-strength-adjusted
+855619211,2026-09-12 14:00:00,4.0,True,180,Brighton & Hove Albion,209,Coventry City,Away,46.0,11.2,42.8,incomplete,50.0,50.0,50.0,47.8,47.8,48.0,52.0,Neutral,probability-only
+740745802,2026-09-12 14:00:00,4.0,True,136,Chelsea,134,Hull City,Home,56.4,15.2,28.4,incomplete,50.0,50.0,50.0,53.5,53.5,53.2,46.8,Neutral,probability-only
+855619211,2026-09-12 14:00:00,4.0,True,209,Coventry City,180,Brighton & Hove Albion,Home,42.8,11.2,46.0,incomplete,62.5,74.1,66.1,35.2,40.4,38.4,61.6,Difficult,team-strength-adjusted
+855619181,2026-09-12 14:00:00,4.0,True,127,Crystal Palace,191,Ipswich Town,Home,49.1,14.9,36.0,incomplete,50.0,50.0,50.0,49.5,49.5,49.6,50.4,Neutral,probability-only
+855619198,2026-09-12 14:00:00,4.0,True,128,Everton,86,Tottenham Hotspur,Away,33.1,21.2,45.7,incomplete,30.7,33.2,33.3,48.3,49.4,49.9,50.1,Neutral,team-strength-adjusted
+855832829,2026-09-12 14:00:00,4.0,True,146,Fulham,135,Liverpool,Away,33.2,17.7,49.1,incomplete,83.8,61.5,74.8,35.6,25.6,29.2,70.8,Very difficult,team-strength-adjusted
+740745802,2026-09-12 14:00:00,4.0,True,134,Hull City,136,Chelsea,Away,28.4,15.2,56.4,incomplete,68.4,56.8,65.6,35.1,29.8,31.4,68.6,Very difficult,team-strength-adjusted
+855619181,2026-09-12 14:00:00,4.0,True,191,Ipswich Town,127,Crystal Palace,Away,36.0,14.9,49.1,incomplete,18.2,57.9,33.9,38.7,56.6,51.0,49.0,Neutral,team-strength-adjusted
+855619195,2026-09-12 14:00:00,4.0,True,193,Leeds United,141,Newcastle United,Home,38.94,23.12,37.94,incomplete,62.2,27.4,49.3,54.1,38.4,44.8,55.2,Difficult,team-strength-adjusted
+855832829,2026-09-12 14:00:00,4.0,True,135,Liverpool,146,Fulham,Home,49.1,17.7,33.2,incomplete,33.8,50.9,42.5,49.1,56.8,53.3,46.7,Neutral,team-strength-adjusted
+740745811,2026-09-12 14:00:00,4.0,True,87,Manchester City,133,Manchester United,Away,40.26,14.29,45.45,incomplete,90.6,59.4,72.4,40.4,26.4,33.9,66.1,Very difficult,team-strength-adjusted
+740745811,2026-09-12 14:00:00,4.0,True,133,Manchester United,87,Manchester City,Home,45.45,14.29,40.26,incomplete,98.2,94.1,96.1,27.7,25.8,24.7,75.3,Very difficult,team-strength-adjusted
+855619195,2026-09-12 14:00:00,4.0,True,141,Newcastle United,193,Leeds United,Away,37.94,23.12,38.94,incomplete,38.1,24.1,31.1,55.0,48.7,53.4,46.6,Neutral,team-strength-adjusted
+740533373,2026-09-12 14:00:00,4.0,True,182,Nottingham Forest,142,Aston Villa,Away,35.0,17.7,47.3,incomplete,57.9,54.1,59.0,39.9,38.2,38.0,62.0,Difficult,team-strength-adjusted
+856046574,2026-09-12 14:00:00,4.0,True,140,Sunderland,57,Arsenal,Home,36.3,19.5,44.2,incomplete,86.2,100.0,90.6,20.0,26.2,22.8,77.2,Very difficult,team-strength-adjusted
+855619198,2026-09-12 14:00:00,4.0,True,86,Tottenham Hotspur,128,Everton,Home,45.7,21.2,33.1,incomplete,18.7,43.5,29.0,50.6,61.7,58.4,41.6,Favorable,team-strength-adjusted
+905082936,2026-09-19 14:00:00,5.0,True,132,AFC Bournemouth,135,Liverpool,Home,37.86,12.39,49.75,incomplete,83.8,61.5,74.8,38.1,28.1,31.5,68.5,Very difficult,team-strength-adjusted
+740745780,2026-09-19 14:00:00,5.0,True,57,Arsenal,180,Brighton & Hove Albion,Away,41.6,17.1,41.3,incomplete,62.5,74.1,66.1,34.5,39.8,37.8,62.2,Difficult,team-strength-adjusted
+892219738,2026-09-19 14:00:00,5.0,True,142,Aston Villa,86,Tottenham Hotspur,Away,36.56,14.09,49.35,incomplete,30.7,33.2,33.3,50.2,51.3,51.6,48.4,Neutral,team-strength-adjusted
+905082981,2026-09-19 14:00:00,5.0,True,189,Brentford,136,Chelsea,Home,39.74,20.52,39.74,incomplete,68.4,56.8,65.6,41.3,36.1,37.1,62.9,Difficult,team-strength-adjusted
+740745780,2026-09-19 14:00:00,5.0,True,180,Brighton & Hove Albion,57,Arsenal,Home,41.3,17.1,41.6,incomplete,86.2,100.0,90.6,22.7,28.9,25.4,74.6,Very difficult,team-strength-adjusted
+905082981,2026-09-19 14:00:00,5.0,True,136,Chelsea,189,Brentford,Away,39.74,20.52,39.74,incomplete,29.4,35.6,32.6,50.8,53.6,53.6,46.4,Neutral,team-strength-adjusted
+905082944,2026-09-19 14:00:00,5.0,True,209,Coventry City,182,Nottingham Forest,Away,36.5,13.2,50.3,incomplete,39.9,34.4,37.8,49.6,47.1,49.4,50.6,Neutral,team-strength-adjusted
+905082997,2026-09-19 14:00:00,5.0,True,127,Crystal Palace,193,Leeds United,Away,35.5,19.9,44.6,incomplete,38.1,24.1,31.1,53.7,47.4,52.2,47.8,Neutral,team-strength-adjusted
+905082949,2026-09-19 14:00:00,5.0,True,128,Everton,191,Ipswich Town,Home,47.3,24.3,28.4,incomplete,50.0,50.0,50.0,48.5,48.5,48.6,51.4,Neutral,probability-only
+905082946,2026-09-19 14:00:00,5.0,True,146,Fulham,133,Manchester United,Home,36.84,15.72,47.45,incomplete,90.6,59.4,72.4,38.5,24.5,32.2,67.8,Very difficult,team-strength-adjusted
+905082965,2026-09-19 14:00:00,5.0,True,134,Hull City,141,Newcastle United,Away,35.0,20.9,44.1,incomplete,62.2,27.4,49.3,51.9,36.3,42.8,57.2,Difficult,team-strength-adjusted
+905082949,2026-09-19 14:00:00,5.0,True,191,Ipswich Town,128,Everton,Away,28.4,24.3,47.3,incomplete,18.7,43.5,29.0,41.0,52.2,49.7,50.3,Neutral,team-strength-adjusted
+905082997,2026-09-19 14:00:00,5.0,True,193,Leeds United,127,Crystal Palace,Home,44.6,19.9,35.5,incomplete,18.2,57.9,33.9,43.5,61.3,55.4,44.7,Favorable,team-strength-adjusted
+905082936,2026-09-19 14:00:00,5.0,True,135,Liverpool,132,AFC Bournemouth,Away,49.75,12.39,37.86,incomplete,73.4,43.8,58.6,52.7,39.3,45.6,54.4,Neutral,team-strength-adjusted
+740745822,2026-09-19 14:00:00,5.0,True,87,Manchester City,140,Sunderland,Home,51.6,15.5,32.9,incomplete,7.9,49.1,27.1,51.3,69.8,62.2,37.8,Favorable,team-strength-adjusted
+905082946,2026-09-19 14:00:00,5.0,True,133,Manchester United,146,Fulham,Away,47.45,15.72,36.84,incomplete,33.8,50.9,42.5,48.2,55.9,52.5,47.5,Neutral,team-strength-adjusted
+905082965,2026-09-19 14:00:00,5.0,True,141,Newcastle United,134,Hull City,Home,44.1,20.9,35.0,incomplete,50.0,50.0,50.0,46.8,46.8,47.0,53.0,Neutral,probability-only
+905082944,2026-09-19 14:00:00,5.0,True,182,Nottingham Forest,209,Coventry City,Home,50.3,13.2,36.5,incomplete,50.0,50.0,50.0,50.2,50.2,50.2,49.8,Neutral,probability-only
+740745822,2026-09-19 14:00:00,5.0,True,140,Sunderland,87,Manchester City,Away,32.9,15.5,51.6,incomplete,98.2,94.1,96.1,20.8,18.9,18.4,81.6,Very difficult,team-strength-adjusted
+892219738,2026-09-19 14:00:00,5.0,True,86,Tottenham Hotspur,142,Aston Villa,Home,49.35,14.09,36.56,incomplete,57.9,54.1,59.0,47.8,46.1,45.2,54.8,Neutral,team-strength-adjusted
+740745782,2026-10-10 14:00:00,6.0,True,132,AFC Bournemouth,136,Chelsea,Away,33.7,17.7,48.6,incomplete,68.4,56.8,65.6,38.0,32.8,34.1,65.9,Very difficult,team-strength-adjusted
+740533371,2026-10-10 14:00:00,6.0,True,57,Arsenal,193,Leeds United,Home,56.4,15.2,28.4,incomplete,38.1,24.1,31.1,65.2,58.9,62.6,37.3,Favorable,team-strength-adjusted
+740533366,2026-10-10 14:00:00,6.0,True,142,Aston Villa,189,Brentford,Home,40.0,22.9,37.1,incomplete,29.4,35.6,32.6,51.0,53.8,53.7,46.3,Neutral,team-strength-adjusted
+740533366,2026-10-10 14:00:00,6.0,True,189,Brentford,142,Aston Villa,Away,37.1,22.9,40.0,incomplete,57.9,54.1,59.0,41.1,39.4,39.0,61.0,Difficult,team-strength-adjusted
+915172067,2026-10-10 14:00:00,6.0,True,180,Brighton & Hove Albion,140,Sunderland,Away,45.9,19.9,34.2,incomplete,7.9,49.1,27.1,48.2,66.7,59.4,40.6,Favorable,team-strength-adjusted
+740745782,2026-10-10 14:00:00,6.0,True,136,Chelsea,132,AFC Bournemouth,Home,48.6,17.7,33.7,incomplete,73.4,43.8,58.6,52.0,38.7,45.0,55.0,Difficult,team-strength-adjusted
+936013205,2026-10-10 14:00:00,6.0,True,209,Coventry City,141,Newcastle United,Home,34.2,11.2,54.6,incomplete,62.2,27.4,49.3,51.5,35.8,42.4,57.6,Difficult,team-strength-adjusted
+740533369,2026-10-10 14:00:00,6.0,True,127,Crystal Palace,182,Nottingham Forest,Home,37.06,24.28,38.66,incomplete,39.9,34.4,37.8,49.9,47.4,49.6,50.4,Neutral,team-strength-adjusted
+936013238,2026-10-10 14:00:00,6.0,True,128,Everton,134,Hull City,Away,43.6,17.7,38.7,incomplete,50.0,50.0,50.0,46.5,46.5,46.8,53.2,Neutral,probability-only
+936013159,2026-10-10 14:00:00,6.0,True,146,Fulham,191,Ipswich Town,Away,41.54,17.72,40.74,incomplete,50.0,50.0,50.0,45.3,45.3,45.8,54.2,Neutral,probability-only
+936013238,2026-10-10 14:00:00,6.0,True,134,Hull City,128,Everton,Home,38.7,17.7,43.6,incomplete,18.7,43.5,29.0,46.7,57.9,54.8,45.2,Neutral,team-strength-adjusted
+936013159,2026-10-10 14:00:00,6.0,True,191,Ipswich Town,146,Fulham,Home,40.74,17.72,41.54,incomplete,33.8,50.9,42.5,44.5,52.2,49.1,50.9,Neutral,team-strength-adjusted
+740533371,2026-10-10 14:00:00,6.0,True,193,Leeds United,57,Arsenal,Away,28.4,15.2,56.4,incomplete,86.2,100.0,90.6,15.6,21.8,18.9,81.1,Very difficult,team-strength-adjusted
+740745804,2026-10-10 14:00:00,6.0,True,135,Liverpool,87,Manchester City,Home,44.3,20.2,35.5,incomplete,98.2,94.1,96.1,27.0,25.2,24.1,75.9,Very difficult,team-strength-adjusted
+740745804,2026-10-10 14:00:00,6.0,True,87,Manchester City,135,Liverpool,Away,35.5,20.2,44.3,incomplete,83.8,61.5,74.8,36.8,26.8,30.4,69.6,Very difficult,team-strength-adjusted
+936013155,2026-10-10 14:00:00,6.0,True,133,Manchester United,86,Tottenham Hotspur,Home,47.0,17.2,35.8,incomplete,30.7,33.2,33.3,55.9,57.0,56.8,43.2,Favorable,team-strength-adjusted
+936013205,2026-10-10 14:00:00,6.0,True,141,Newcastle United,209,Coventry City,Away,54.6,11.2,34.2,incomplete,50.0,50.0,50.0,52.5,52.5,52.3,47.7,Neutral,probability-only
+740533369,2026-10-10 14:00:00,6.0,True,182,Nottingham Forest,127,Crystal Palace,Away,38.66,24.28,37.06,incomplete,18.2,57.9,33.9,40.2,58.1,52.4,47.6,Neutral,team-strength-adjusted
+915172067,2026-10-10 14:00:00,6.0,True,140,Sunderland,180,Brighton & Hove Albion,Home,34.2,19.9,45.9,incomplete,62.5,74.1,66.1,30.5,35.7,34.1,65.9,Very difficult,team-strength-adjusted
+936013155,2026-10-10 14:00:00,6.0,True,86,Tottenham Hotspur,133,Manchester United,Away,35.8,17.2,47.0,incomplete,90.6,59.4,72.4,38.0,23.9,31.7,68.3,Very difficult,team-strength-adjusted
+967011693,2026-10-17 14:00:00,7.0,False,132,AFC Bournemouth,140,Sunderland,Home,42.9,20.0,37.1,incomplete,7.9,49.1,27.1,46.5,65.0,57.9,42.1,Favorable,team-strength-adjusted
+967011710,2026-10-17 14:00:00,7.0,False,57,Arsenal,182,Nottingham Forest,Away,43.7,15.5,40.8,incomplete,39.9,34.4,37.8,53.6,51.1,53.0,47.0,Neutral,team-strength-adjusted
+967011707,2026-10-17 14:00:00,7.0,False,142,Aston Villa,141,Newcastle United,Away,34.77,19.98,45.25,incomplete,62.2,27.4,49.3,51.8,36.1,42.7,57.3,Difficult,team-strength-adjusted
+967011656,2026-10-17 14:00:00,7.0,False,189,Brentford,135,Liverpool,Home,39.4,16.4,44.2,incomplete,83.8,61.5,74.8,39.0,29.0,32.3,67.7,Very difficult,team-strength-adjusted
+967011738,2026-10-17 14:00:00,7.0,False,180,Brighton & Hove Albion,127,Crystal Palace,Home,40.8,22.1,37.1,incomplete,18.2,57.9,33.9,41.4,59.2,53.4,46.6,Neutral,team-strength-adjusted
+967011650,2026-10-17 14:00:00,7.0,False,136,Chelsea,128,Everton,Away,39.4,19.1,41.5,incomplete,18.7,43.5,29.0,47.1,58.3,55.2,44.8,Favorable,team-strength-adjusted
+967011736,2026-10-17 14:00:00,7.0,False,209,Coventry City,86,Tottenham Hotspur,Away,28.4,11.2,60.4,incomplete,30.7,33.2,33.3,45.7,46.8,47.6,52.4,Neutral,team-strength-adjusted
+967011738,2026-10-17 14:00:00,7.0,False,127,Crystal Palace,180,Brighton & Hove Albion,Away,37.1,22.1,40.8,incomplete,62.5,74.1,66.1,32.1,37.3,35.5,64.5,Difficult,team-strength-adjusted
+967011650,2026-10-17 14:00:00,7.0,False,128,Everton,136,Chelsea,Home,41.5,19.1,39.4,incomplete,68.4,56.8,65.6,42.3,37.0,38.0,62.0,Difficult,team-strength-adjusted
+967011721,2026-10-17 14:00:00,7.0,False,146,Fulham,134,Hull City,Home,45.7,14.4,39.9,incomplete,50.0,50.0,50.0,47.6,47.6,47.8,52.2,Neutral,probability-only
+967011721,2026-10-17 14:00:00,7.0,False,134,Hull City,146,Fulham,Away,39.9,14.4,45.7,incomplete,33.8,50.9,42.5,44.0,51.7,48.7,51.3,Neutral,team-strength-adjusted
+967011687,2026-10-17 14:00:00,7.0,False,191,Ipswich Town,87,Manchester City,Away,28.4,11.2,60.4,incomplete,98.2,94.1,96.1,18.3,16.4,16.2,83.8,Very difficult,team-strength-adjusted
+967011635,2026-10-17 14:00:00,7.0,False,193,Leeds United,133,Manchester United,Home,36.56,20.68,42.76,incomplete,90.6,59.4,72.4,38.4,24.3,32.1,67.9,Very difficult,team-strength-adjusted
+967011656,2026-10-17 14:00:00,7.0,False,135,Liverpool,189,Brentford,Away,44.2,16.4,39.4,incomplete,29.4,35.6,32.6,53.3,56.1,55.8,44.2,Favorable,team-strength-adjusted
+967011687,2026-10-17 14:00:00,7.0,False,87,Manchester City,191,Ipswich Town,Home,60.4,11.2,28.4,incomplete,50.0,50.0,50.0,55.7,55.7,55.2,44.8,Favorable,probability-only
+967011635,2026-10-17 14:00:00,7.0,False,133,Manchester United,193,Leeds United,Away,42.76,20.68,36.56,incomplete,38.1,24.1,31.1,57.7,51.4,55.8,44.2,Favorable,team-strength-adjusted
+967011707,2026-10-17 14:00:00,7.0,False,141,Newcastle United,142,Aston Villa,Home,45.25,19.98,34.77,incomplete,57.9,54.1,59.0,45.5,43.8,43.1,56.9,Difficult,team-strength-adjusted
+967011710,2026-10-17 14:00:00,7.0,False,182,Nottingham Forest,57,Arsenal,Home,40.8,15.5,43.7,incomplete,86.2,100.0,90.6,22.4,28.6,25.1,74.9,Very difficult,team-strength-adjusted
+967011693,2026-10-17 14:00:00,7.0,False,140,Sunderland,132,AFC Bournemouth,Away,37.1,20.0,42.9,incomplete,73.4,43.8,58.6,45.7,32.4,39.2,60.8,Difficult,team-strength-adjusted
+967011736,2026-10-17 14:00:00,7.0,False,86,Tottenham Hotspur,209,Coventry City,Home,60.4,11.2,28.4,incomplete,50.0,50.0,50.0,55.7,55.7,55.2,44.8,Favorable,probability-only
+998077599,2026-10-24 14:00:00,8.0,False,132,AFC Bournemouth,133,Manchester United,Away,33.93,18.02,48.05,incomplete,90.6,59.4,72.4,36.9,22.9,30.8,69.2,Very difficult,team-strength-adjusted
+740745795,2026-10-24 14:00:00,8.0,True,57,Arsenal,128,Everton,Home,49.85,17.02,33.13,incomplete,18.7,43.5,29.0,52.8,64.0,60.4,39.6,Favorable,team-strength-adjusted
+740745818,2026-10-24 14:00:00,8.0,True,142,Aston Villa,87,Manchester City,Home,39.96,14.09,45.95,incomplete,98.2,94.1,96.1,24.6,22.8,21.9,78.1,Very difficult,team-strength-adjusted
+740745808,2026-10-24 14:00:00,8.0,True,189,Brentford,134,Hull City,Away,37.2,17.0,45.8,incomplete,50.0,50.0,50.0,43.0,43.0,43.6,56.4,Difficult,probability-only
+740745792,2026-10-24 14:00:00,8.0,True,180,Brighton & Hove Albion,135,Liverpool,Away,34.2,15.7,50.1,incomplete,83.8,61.5,74.8,36.1,26.1,29.7,70.3,Very difficult,team-strength-adjusted
+740745796,2026-10-24 14:00:00,8.0,True,136,Chelsea,86,Tottenham Hotspur,Home,49.1,18.0,32.9,incomplete,30.7,33.2,33.3,57.1,58.2,57.9,42.1,Favorable,team-strength-adjusted
+998077651,2026-10-24 14:00:00,8.0,False,209,Coventry City,146,Fulham,Home,60.4,11.2,28.4,incomplete,33.8,50.9,42.5,55.3,63.0,59.0,41.0,Favorable,team-strength-adjusted
+998077559,2026-10-24 14:00:00,8.0,False,127,Crystal Palace,141,Newcastle United,Home,40.24,19.22,40.54,incomplete,62.2,27.4,49.3,54.8,39.1,45.5,54.5,Neutral,team-strength-adjusted
+740745795,2026-10-24 14:00:00,8.0,True,128,Everton,57,Arsenal,Away,33.13,17.02,49.85,incomplete,86.2,100.0,90.6,18.2,24.4,21.3,78.7,Very difficult,team-strength-adjusted
+998077651,2026-10-24 14:00:00,8.0,False,146,Fulham,209,Coventry City,Away,28.4,11.2,60.4,incomplete,50.0,50.0,50.0,38.1,38.1,39.2,60.8,Difficult,probability-only
+740745808,2026-10-24 14:00:00,8.0,True,134,Hull City,189,Brentford,Home,45.8,17.0,37.2,incomplete,29.4,35.6,32.6,54.2,57.0,56.6,43.4,Favorable,team-strength-adjusted
+998077671,2026-10-24 14:00:00,8.0,False,191,Ipswich Town,182,Nottingham Forest,Home,39.44,19.52,41.04,incomplete,39.9,34.4,37.8,51.2,48.7,50.8,49.2,Neutral,team-strength-adjusted
+998077565,2026-10-24 14:00:00,8.0,False,193,Leeds United,140,Sunderland,Away,35.0,20.9,44.1,incomplete,7.9,49.1,27.1,42.2,60.7,54.0,46.0,Neutral,team-strength-adjusted
+740745792,2026-10-24 14:00:00,8.0,True,135,Liverpool,180,Brighton & Hove Albion,Home,50.1,15.7,34.2,incomplete,62.5,74.1,66.1,39.2,44.4,42.0,58.0,Difficult,team-strength-adjusted
+740745818,2026-10-24 14:00:00,8.0,True,87,Manchester City,142,Aston Villa,Away,45.95,14.09,39.96,incomplete,57.9,54.1,59.0,45.9,44.2,43.5,56.5,Difficult,team-strength-adjusted
+998077599,2026-10-24 14:00:00,8.0,False,133,Manchester United,132,AFC Bournemouth,Home,48.05,18.02,33.93,incomplete,73.4,43.8,58.6,51.7,38.4,44.7,55.3,Difficult,team-strength-adjusted
+998077559,2026-10-24 14:00:00,8.0,False,141,Newcastle United,127,Crystal Palace,Away,40.54,19.22,40.24,incomplete,18.2,57.9,33.9,41.2,59.1,53.3,46.7,Neutral,team-strength-adjusted
+998077671,2026-10-24 14:00:00,8.0,False,182,Nottingham Forest,191,Ipswich Town,Away,41.04,19.52,39.44,incomplete,50.0,50.0,50.0,45.1,45.1,45.5,54.5,Neutral,probability-only
+998077565,2026-10-24 14:00:00,8.0,False,140,Sunderland,193,Leeds United,Home,44.1,20.9,35.0,incomplete,38.1,24.1,31.1,58.4,52.1,56.5,43.5,Favorable,team-strength-adjusted
+740745796,2026-10-24 14:00:00,8.0,True,86,Tottenham Hotspur,136,Chelsea,Away,32.9,18.0,49.1,incomplete,68.4,56.8,65.6,37.5,32.3,33.7,66.4,Very difficult,team-strength-adjusted
+998077570,2026-10-31 15:00:00,9.0,False,132,AFC Bournemouth,193,Leeds United,Home,40.74,17.72,41.54,incomplete,38.1,24.1,31.1,56.6,50.3,54.8,45.2,Neutral,team-strength-adjusted
+740533368,2026-10-31 15:00:00,9.0,True,57,Arsenal,135,Liverpool,Away,34.5,22.9,42.6,incomplete,83.8,61.5,74.8,36.3,26.3,29.8,70.2,Very difficult,team-strength-adjusted
+998077567,2026-10-31 15:00:00,9.0,False,142,Aston Villa,146,Fulham,Home,46.4,15.5,38.1,incomplete,33.8,50.9,42.5,47.6,55.3,52.0,48.0,Neutral,team-strength-adjusted
+998077558,2026-10-31 15:00:00,9.0,False,189,Brentford,182,Nottingham Forest,Home,47.3,15.9,36.8,incomplete,39.9,34.4,37.8,55.5,53.1,54.8,45.2,Neutral,team-strength-adjusted
+987289304,2026-10-31 15:00:00,9.0,False,180,Brighton & Hove Albion,87,Manchester City,Away,32.9,14.1,53.0,incomplete,98.2,94.1,96.1,20.8,18.9,18.4,81.6,Very difficult,team-strength-adjusted
+740745803,2026-10-31 15:00:00,9.0,True,136,Chelsea,133,Manchester United,Home,42.6,19.5,37.9,incomplete,90.6,59.4,72.4,41.7,27.7,35.1,64.9,Difficult,team-strength-adjusted
+998077566,2026-10-31 15:00:00,9.0,False,209,Coventry City,140,Sunderland,Home,45.2,24.3,30.5,incomplete,7.9,49.1,27.1,47.8,66.3,59.0,40.9,Favorable,team-strength-adjusted
+740533378,2026-10-31 15:00:00,9.0,True,127,Crystal Palace,86,Tottenham Hotspur,Away,35.0,14.0,51.0,incomplete,30.7,33.2,33.3,49.3,50.4,50.8,49.2,Neutral,team-strength-adjusted
+987721141,2026-10-31 15:00:00,9.0,False,128,Everton,141,Newcastle United,Away,40.8,16.6,42.6,incomplete,62.2,27.4,49.3,55.1,39.4,45.8,54.2,Neutral,team-strength-adjusted
+998077567,2026-10-31 15:00:00,9.0,False,146,Fulham,142,Aston Villa,Away,38.1,15.5,46.4,incomplete,57.9,54.1,59.0,41.6,39.9,39.6,60.4,Difficult,team-strength-adjusted
+998077665,2026-10-31 15:00:00,9.0,False,134,Hull City,191,Ipswich Town,Home,49.4,16.7,33.9,incomplete,50.0,50.0,50.0,49.7,49.7,49.7,50.3,Neutral,probability-only
+998077665,2026-10-31 15:00:00,9.0,False,191,Ipswich Town,134,Hull City,Away,33.9,16.7,49.4,incomplete,50.0,50.0,50.0,41.1,41.1,42.0,58.0,Difficult,probability-only
+998077570,2026-10-31 15:00:00,9.0,False,193,Leeds United,132,AFC Bournemouth,Away,41.54,17.72,40.74,incomplete,73.4,43.8,58.6,48.1,34.8,41.5,58.5,Difficult,team-strength-adjusted
+740533368,2026-10-31 15:00:00,9.0,True,135,Liverpool,57,Arsenal,Home,42.6,22.9,34.5,incomplete,86.2,100.0,90.6,23.4,29.6,26.0,74.0,Very difficult,team-strength-adjusted
+987289304,2026-10-31 15:00:00,9.0,False,87,Manchester City,180,Brighton & Hove Albion,Home,53.0,14.1,32.9,incomplete,62.5,74.1,66.1,40.8,46.0,43.4,56.6,Difficult,team-strength-adjusted
+740745803,2026-10-31 15:00:00,9.0,True,133,Manchester United,136,Chelsea,Away,37.9,19.5,42.6,incomplete,68.4,56.8,65.6,40.3,35.1,36.2,63.8,Difficult,team-strength-adjusted
+987721141,2026-10-31 15:00:00,9.0,False,141,Newcastle United,128,Everton,Home,42.6,16.6,40.8,incomplete,18.7,43.5,29.0,48.9,60.0,56.8,43.2,Favorable,team-strength-adjusted
+998077558,2026-10-31 15:00:00,9.0,False,182,Nottingham Forest,189,Brentford,Away,36.8,15.9,47.3,incomplete,29.4,35.6,32.6,49.2,52.0,52.1,47.9,Neutral,team-strength-adjusted
+998077566,2026-10-31 15:00:00,9.0,False,140,Sunderland,209,Coventry City,Away,30.5,24.3,45.2,incomplete,50.0,50.0,50.0,39.3,39.3,40.2,59.8,Difficult,probability-only
+740533378,2026-10-31 15:00:00,9.0,True,86,Tottenham Hotspur,127,Crystal Palace,Home,51.0,14.0,35.0,incomplete,18.2,57.9,33.9,47.0,64.9,58.6,41.4,Favorable,team-strength-adjusted
+1024220133,2026-11-07 15:00:00,10.0,False,132,AFC Bournemouth,191,Ipswich Town,Away,32.9,28.5,38.6,incomplete,50.0,50.0,50.0,40.6,40.6,41.4,58.6,Difficult,probability-only
+740745805,2026-11-07 15:00:00,10.0,True,57,Arsenal,134,Hull City,Home,54.8,14.9,30.3,incomplete,50.0,50.0,50.0,52.6,52.6,52.4,47.6,Neutral,probability-only
+1023355287,2026-11-07 15:00:00,10.0,False,142,Aston Villa,133,Manchester United,Away,31.3,17.0,51.7,incomplete,90.6,59.4,72.4,35.5,21.4,29.4,70.6,Very difficult,team-strength-adjusted
+1011480730,2026-11-07 15:00:00,10.0,False,189,Brentford,180,Brighton & Hove Albion,Away,35.2,18.0,46.8,incomplete,62.5,74.1,66.1,31.0,36.2,34.6,65.4,Very difficult,team-strength-adjusted
+1011480730,2026-11-07 15:00:00,10.0,False,180,Brighton & Hove Albion,189,Brentford,Home,46.8,18.0,35.2,incomplete,29.4,35.6,32.6,54.7,57.5,57.1,42.9,Favorable,team-strength-adjusted
+769029453,2026-11-07 15:00:00,10.0,True,136,Chelsea,140,Sunderland,Away,46.7,12.3,41.0,incomplete,7.9,49.1,27.1,48.6,67.1,59.8,40.2,Favorable,team-strength-adjusted
+740533384,2026-11-07 15:00:00,10.0,True,209,Coventry City,128,Everton,Away,54.6,11.2,34.2,incomplete,18.7,43.5,29.0,55.5,66.6,62.8,37.2,Favorable,team-strength-adjusted
+740745812,2026-11-07 15:00:00,10.0,True,127,Crystal Palace,135,Liverpool,Home,40.24,15.52,44.24,incomplete,83.8,61.5,74.8,39.5,29.4,32.7,67.3,Very difficult,team-strength-adjusted
+740533384,2026-11-07 15:00:00,10.0,True,128,Everton,209,Coventry City,Home,34.2,11.2,54.6,incomplete,50.0,50.0,50.0,41.3,41.3,42.1,57.9,Difficult,probability-only
+1000455196,2026-11-07 15:00:00,10.0,False,146,Fulham,141,Newcastle United,Home,44.4,14.0,41.6,incomplete,62.2,27.4,49.3,57.1,41.4,47.6,52.4,Neutral,team-strength-adjusted
+740745805,2026-11-07 15:00:00,10.0,True,134,Hull City,57,Arsenal,Away,30.3,14.9,54.8,incomplete,86.2,100.0,90.6,16.7,22.9,19.8,80.2,Very difficult,team-strength-adjusted
+1024220133,2026-11-07 15:00:00,10.0,False,191,Ipswich Town,132,AFC Bournemouth,Home,38.6,28.5,32.9,incomplete,73.4,43.8,58.6,46.5,33.2,40.0,60.0,Difficult,team-strength-adjusted
+1000023055,2026-11-07 15:00:00,10.0,False,193,Leeds United,86,Tottenham Hotspur,Home,39.96,14.09,45.95,incomplete,30.7,33.2,33.3,52.0,53.2,53.3,46.7,Neutral,team-strength-adjusted
+740745812,2026-11-07 15:00:00,10.0,True,135,Liverpool,127,Crystal Palace,Away,44.24,15.52,40.24,incomplete,18.2,57.9,33.9,43.3,61.1,55.2,44.8,Favorable,team-strength-adjusted
+1005642741,2026-11-07 15:00:00,10.0,False,87,Manchester City,182,Nottingham Forest,Away,45.9,17.0,37.1,incomplete,39.9,34.4,37.8,54.8,52.3,54.0,46.0,Neutral,team-strength-adjusted
+1023355287,2026-11-07 15:00:00,10.0,False,133,Manchester United,142,Aston Villa,Home,51.7,17.0,31.3,incomplete,57.9,54.1,59.0,49.1,47.4,46.4,53.6,Neutral,team-strength-adjusted
+1000455196,2026-11-07 15:00:00,10.0,False,141,Newcastle United,146,Fulham,Away,41.6,14.0,44.4,incomplete,33.8,50.9,42.5,45.0,52.7,49.6,50.4,Neutral,team-strength-adjusted
+1005642741,2026-11-07 15:00:00,10.0,False,182,Nottingham Forest,87,Manchester City,Home,37.1,17.0,45.9,incomplete,98.2,94.1,96.1,23.1,21.2,20.5,79.5,Very difficult,team-strength-adjusted
+769029453,2026-11-07 15:00:00,10.0,True,140,Sunderland,136,Chelsea,Home,41.0,12.3,46.7,incomplete,68.4,56.8,65.6,42.0,36.8,37.7,62.3,Difficult,team-strength-adjusted
+1000023055,2026-11-07 15:00:00,10.0,False,86,Tottenham Hotspur,193,Leeds United,Away,45.95,14.09,39.96,incomplete,38.1,24.1,31.1,59.4,53.1,57.4,42.6,Favorable,team-strength-adjusted
+1005426555,2026-11-21 15:00:00,11.0,False,132,AFC Bournemouth,182,Nottingham Forest,Home,47.25,20.92,31.83,incomplete,39.9,34.4,37.8,55.5,53.0,54.7,45.3,Neutral,team-strength-adjusted
+1005642731,2026-11-21 15:00:00,11.0,False,57,Arsenal,141,Newcastle United,Away,47.25,13.81,38.94,incomplete,62.2,27.4,49.3,58.7,43.0,49.0,51.0,Neutral,team-strength-adjusted
+740533379,2026-11-21 15:00:00,1.0,True,142,Aston Villa,140,Sunderland,Home,45.6,21.5,32.9,incomplete,7.9,49.1,27.1,48.0,66.5,59.2,40.8,Favorable,team-strength-adjusted
+1005426588,2026-11-21 15:00:00,11.0,False,189,Brentford,128,Everton,Home,40.8,22.1,37.1,incomplete,18.7,43.5,29.0,47.9,59.0,55.9,44.1,Favorable,team-strength-adjusted
+740533380,2026-11-21 15:00:00,1.0,True,180,Brighton & Hove Albion,134,Hull City,Away,34.2,22.9,42.9,incomplete,50.0,50.0,50.0,41.3,41.3,42.1,57.9,Difficult,probability-only
+740745801,2026-11-21 15:00:00,1.0,True,136,Chelsea,193,Leeds United,Home,50.95,15.92,33.13,incomplete,38.1,24.1,31.1,62.2,55.9,59.9,40.1,Favorable,team-strength-adjusted
+1001968432,2026-11-21 15:00:00,11.0,False,209,Coventry City,127,Crystal Palace,Home,42.9,20.0,37.1,incomplete,18.2,57.9,33.9,42.5,60.4,54.5,45.5,Neutral,team-strength-adjusted
+1001968432,2026-11-21 15:00:00,11.0,False,127,Crystal Palace,209,Coventry City,Away,37.1,20.0,42.9,incomplete,50.0,50.0,50.0,42.9,42.9,43.6,56.4,Difficult,probability-only
+1005426588,2026-11-21 15:00:00,11.0,False,128,Everton,189,Brentford,Away,37.1,22.1,40.8,incomplete,29.4,35.6,32.6,49.4,52.2,52.2,47.8,Neutral,team-strength-adjusted
+1004778873,2026-11-21 15:00:00,11.0,False,146,Fulham,87,Manchester City,Away,30.3,15.5,54.2,incomplete,98.2,94.1,96.1,19.3,17.5,17.1,82.9,Very difficult,team-strength-adjusted
+740533380,2026-11-21 15:00:00,1.0,True,134,Hull City,180,Brighton & Hove Albion,Home,42.9,22.9,34.2,incomplete,62.5,74.1,66.1,35.3,40.5,38.4,61.6,Difficult,team-strength-adjusted
+1009534482,2026-11-21 15:00:00,11.0,False,191,Ipswich Town,86,Tottenham Hotspur,Away,41.5,11.2,47.3,incomplete,30.7,33.2,33.3,52.9,54.0,54.1,45.9,Neutral,team-strength-adjusted
+740745801,2026-11-21 15:00:00,1.0,True,193,Leeds United,136,Chelsea,Away,33.13,15.92,50.95,incomplete,68.4,56.8,65.6,37.7,32.4,33.8,66.2,Very difficult,team-strength-adjusted
+740745827,2026-11-21 15:00:00,1.0,True,135,Liverpool,133,Manchester United,Home,43.4,17.2,39.4,incomplete,90.6,59.4,72.4,42.1,28.1,35.5,64.5,Difficult,team-strength-adjusted
+1004778873,2026-11-21 15:00:00,11.0,False,87,Manchester City,146,Fulham,Home,54.2,15.5,30.3,incomplete,33.8,50.9,42.5,51.9,59.6,55.8,44.2,Favorable,team-strength-adjusted
+740745827,2026-11-21 15:00:00,1.0,True,133,Manchester United,135,Liverpool,Away,39.4,17.2,43.4,incomplete,83.8,61.5,74.8,39.0,29.0,32.3,67.7,Very difficult,team-strength-adjusted
+1005642731,2026-11-21 15:00:00,11.0,False,141,Newcastle United,57,Arsenal,Home,38.94,13.81,47.25,incomplete,86.2,100.0,90.6,21.4,27.6,24.2,75.8,Very difficult,team-strength-adjusted
+1005426555,2026-11-21 15:00:00,11.0,False,182,Nottingham Forest,132,AFC Bournemouth,Away,31.83,20.92,47.25,incomplete,73.4,43.8,58.6,42.8,29.5,36.6,63.4,Difficult,team-strength-adjusted
+740533379,2026-11-21 15:00:00,1.0,True,140,Sunderland,142,Aston Villa,Away,32.9,21.5,45.6,incomplete,57.9,54.1,59.0,38.8,37.0,37.0,63.0,Difficult,team-strength-adjusted
+1009534482,2026-11-21 15:00:00,11.0,False,86,Tottenham Hotspur,191,Ipswich Town,Home,47.3,11.2,41.5,incomplete,50.0,50.0,50.0,48.5,48.5,48.6,51.4,Neutral,probability-only
+1005642728,2026-11-28 15:00:00,12.0,False,132,AFC Bournemouth,146,Fulham,Away,43.4,18.7,37.9,incomplete,33.8,50.9,42.5,46.0,53.7,50.4,49.6,Neutral,team-strength-adjusted
+740745798,2026-11-28 15:00:00,2.0,True,57,Arsenal,87,Manchester City,Home,40.76,17.18,42.06,incomplete,98.2,94.1,96.1,25.1,23.2,22.3,77.7,Very difficult,team-strength-adjusted
+992036602,2026-11-28 15:00:00,12.0,False,142,Aston Villa,191,Ipswich Town,Away,40.0,22.9,37.1,incomplete,50.0,50.0,50.0,44.5,44.5,45.0,55.0,Difficult,probability-only
+740745799,2026-11-28 15:00:00,2.0,True,189,Brentford,133,Manchester United,Away,36.3,13.8,49.9,incomplete,90.6,59.4,72.4,38.2,24.2,31.9,68.1,Very difficult,team-strength-adjusted
+993330236,2026-11-28 15:00:00,12.0,False,180,Brighton & Hove Albion,141,Newcastle United,Home,45.15,19.88,34.97,incomplete,62.2,27.4,49.3,57.5,41.8,47.9,52.1,Neutral,team-strength-adjusted
+990310628,2026-11-28 15:00:00,12.0,False,136,Chelsea,182,Nottingham Forest,Away,42.8,18.3,38.9,incomplete,39.9,34.4,37.8,53.1,50.6,52.5,47.5,Neutral,team-strength-adjusted
+994840701,2026-11-28 15:00:00,12.0,False,209,Coventry City,193,Leeds United,Away,35.0,17.7,47.3,incomplete,38.1,24.1,31.1,53.4,47.1,52.0,48.0,Neutral,team-strength-adjusted
+740745829,2026-11-28 15:00:00,2.0,True,127,Crystal Palace,134,Hull City,Home,45.1,22.0,32.9,incomplete,50.0,50.0,50.0,47.3,47.3,47.6,52.4,Neutral,probability-only
+740533377,2026-11-28 15:00:00,2.0,True,128,Everton,135,Liverpool,Home,36.0,20.8,43.2,incomplete,83.8,61.5,74.8,37.1,27.1,30.6,69.4,Very difficult,team-strength-adjusted
+1005642728,2026-11-28 15:00:00,12.0,False,146,Fulham,132,AFC Bournemouth,Home,37.9,18.7,43.4,incomplete,73.4,43.8,58.6,46.1,32.8,39.6,60.4,Difficult,team-strength-adjusted
+740745829,2026-11-28 15:00:00,2.0,True,134,Hull City,127,Crystal Palace,Away,32.9,22.0,45.1,incomplete,18.2,57.9,33.9,37.0,54.9,49.5,50.5,Neutral,team-strength-adjusted
+992036602,2026-11-28 15:00:00,12.0,False,191,Ipswich Town,142,Aston Villa,Home,37.1,22.9,40.0,incomplete,57.9,54.1,59.0,41.1,39.4,39.0,61.0,Difficult,team-strength-adjusted
+994840701,2026-11-28 15:00:00,12.0,False,193,Leeds United,209,Coventry City,Home,47.3,17.7,35.0,incomplete,50.0,50.0,50.0,48.5,48.5,48.6,51.4,Neutral,probability-only
+740533377,2026-11-28 15:00:00,2.0,True,135,Liverpool,128,Everton,Away,43.2,20.8,36.0,incomplete,18.7,43.5,29.0,49.2,60.3,57.1,42.9,Favorable,team-strength-adjusted
+740745798,2026-11-28 15:00:00,2.0,True,87,Manchester City,57,Arsenal,Away,42.06,17.18,40.76,incomplete,86.2,100.0,90.6,23.1,29.3,25.7,74.3,Very difficult,team-strength-adjusted
+740745799,2026-11-28 15:00:00,2.0,True,133,Manchester United,189,Brentford,Home,49.9,13.8,36.3,incomplete,29.4,35.6,32.6,56.4,59.2,58.6,41.3,Favorable,team-strength-adjusted
+993330236,2026-11-28 15:00:00,12.0,False,141,Newcastle United,180,Brighton & Hove Albion,Away,34.97,19.88,45.15,incomplete,62.5,74.1,66.1,30.9,36.1,34.4,65.6,Very difficult,team-strength-adjusted
+990310628,2026-11-28 15:00:00,12.0,False,182,Nottingham Forest,136,Chelsea,Home,38.9,18.3,42.8,incomplete,68.4,56.8,65.6,40.8,35.6,36.7,63.4,Difficult,team-strength-adjusted
+1012345066,2026-11-28 15:00:00,12.0,False,140,Sunderland,86,Tottenham Hotspur,Home,38.9,18.3,42.8,incomplete,30.7,33.2,33.3,51.5,52.6,52.8,47.2,Neutral,team-strength-adjusted
+1012345066,2026-11-28 15:00:00,12.0,False,86,Tottenham Hotspur,140,Sunderland,Away,42.8,18.3,38.9,incomplete,7.9,49.1,27.1,46.4,65.0,57.8,42.2,Favorable,team-strength-adjusted
+1005426516,2026-12-02 20:00:00,13.0,False,132,AFC Bournemouth,180,Brighton & Hove Albion,Home,46.05,17.12,36.84,incomplete,62.5,74.1,66.1,37.0,42.2,40.0,60.0,Difficult,team-strength-adjusted
+1009534439,2026-12-02 20:00:00,13.0,False,57,Arsenal,189,Brentford,Away,46.0,17.7,36.3,incomplete,29.4,35.6,32.6,54.3,57.1,56.7,43.3,Favorable,team-strength-adjusted
+1009534519,2026-12-02 20:00:00,13.0,False,142,Aston Villa,128,Everton,Home,44.46,20.78,34.77,incomplete,18.7,43.5,29.0,49.9,61.0,57.7,42.3,Favorable,team-strength-adjusted
+1009534439,2026-12-02 20:00:00,13.0,False,189,Brentford,57,Arsenal,Home,36.3,17.7,46.0,incomplete,86.2,100.0,90.6,20.0,26.2,22.8,77.2,Very difficult,team-strength-adjusted
+1005426516,2026-12-02 20:00:00,13.0,False,180,Brighton & Hove Albion,132,AFC Bournemouth,Away,36.84,17.12,46.05,incomplete,73.4,43.8,58.6,45.6,32.2,39.1,60.9,Difficult,team-strength-adjusted
+740533389,2026-12-02 20:00:00,3.0,True,136,Chelsea,127,Crystal Palace,Home,53.55,14.09,32.37,incomplete,18.2,57.9,33.9,48.4,66.3,59.8,40.2,Favorable,team-strength-adjusted
+1016215598,2026-12-02 20:00:00,13.0,False,209,Coventry City,191,Ipswich Town,Home,40.5,17.3,42.2,incomplete,50.0,50.0,50.0,44.8,44.8,45.2,54.8,Neutral,probability-only
+740533389,2026-12-02 20:00:00,3.0,True,127,Crystal Palace,136,Chelsea,Away,32.37,14.09,53.55,incomplete,68.4,56.8,65.6,37.2,32.0,33.4,66.6,Very difficult,team-strength-adjusted
+1009534519,2026-12-02 20:00:00,13.0,False,128,Everton,142,Aston Villa,Away,34.77,20.78,44.46,incomplete,57.9,54.1,59.0,39.8,38.1,37.9,62.1,Difficult,team-strength-adjusted
+1024220124,2026-12-02 20:00:00,13.0,False,146,Fulham,86,Tottenham Hotspur,Away,34.73,16.62,48.65,incomplete,30.7,33.2,33.3,49.2,50.3,50.7,49.3,Neutral,team-strength-adjusted
+740745814,2026-12-02 20:00:00,3.0,True,134,Hull City,182,Nottingham Forest,Home,46.6,15.8,37.6,incomplete,39.9,34.4,37.8,55.2,52.7,54.4,45.6,Neutral,team-strength-adjusted
+1016215598,2026-12-02 20:00:00,13.0,False,191,Ipswich Town,209,Coventry City,Away,42.2,17.3,40.5,incomplete,50.0,50.0,50.0,45.7,45.7,46.1,53.9,Neutral,probability-only
+1007804585,2026-12-02 20:00:00,13.0,False,193,Leeds United,87,Manchester City,Away,31.3,14.1,54.6,incomplete,98.2,94.1,96.1,19.9,18.0,17.6,82.4,Very difficult,team-strength-adjusted
+740533383,2026-12-02 20:00:00,3.0,True,135,Liverpool,140,Sunderland,Home,49.7,19.5,30.8,incomplete,7.9,49.1,27.1,50.2,68.8,61.3,38.7,Favorable,team-strength-adjusted
+1007804585,2026-12-02 20:00:00,13.0,False,87,Manchester City,193,Leeds United,Home,54.6,14.1,31.3,incomplete,38.1,24.1,31.1,64.2,57.9,61.8,38.2,Favorable,team-strength-adjusted
+740533375,2026-12-02 20:00:00,3.0,True,133,Manchester United,141,Newcastle United,Away,42.6,16.1,41.3,incomplete,62.2,27.4,49.3,56.1,40.4,46.7,53.4,Neutral,team-strength-adjusted
+740533375,2026-12-02 20:00:00,3.0,True,141,Newcastle United,133,Manchester United,Home,41.3,16.1,42.6,incomplete,90.6,59.4,72.4,41.0,26.9,34.4,65.6,Very difficult,team-strength-adjusted
+740745814,2026-12-02 20:00:00,3.0,True,182,Nottingham Forest,134,Hull City,Away,37.6,15.8,46.6,incomplete,50.0,50.0,50.0,43.2,43.2,43.8,56.2,Difficult,probability-only
+740533383,2026-12-02 20:00:00,3.0,True,140,Sunderland,135,Liverpool,Away,30.8,19.5,49.7,incomplete,83.8,61.5,74.8,34.3,24.2,28.0,72.0,Very difficult,team-strength-adjusted
+1024220124,2026-12-02 20:00:00,13.0,False,86,Tottenham Hotspur,146,Fulham,Home,48.65,16.62,34.73,incomplete,33.8,50.9,42.5,48.9,56.5,53.1,46.9,Neutral,team-strength-adjusted
+740745794,2026-12-05 15:00:00,4.0,True,132,AFC Bournemouth,134,Hull City,Home,40.74,17.72,41.54,incomplete,50.0,50.0,50.0,44.9,44.9,45.4,54.6,Neutral,probability-only
+1091825605,2026-12-05 15:00:00,14.0,False,57,Arsenal,86,Tottenham Hotspur,Away,40.9,17.4,41.7,incomplete,30.7,33.2,33.3,52.6,53.7,53.8,46.2,Neutral,team-strength-adjusted
+740533367,2026-12-05 15:00:00,4.0,True,142,Aston Villa,127,Crystal Palace,Home,42.6,15.9,41.5,incomplete,18.2,57.9,33.9,42.4,60.2,54.4,45.7,Neutral,team-strength-adjusted
+987721078,2026-12-05 15:00:00,14.0,False,189,Brentford,87,Manchester City,Home,38.94,13.51,47.55,incomplete,98.2,94.1,96.1,24.1,22.2,21.4,78.6,Very difficult,team-strength-adjusted
+1011697033,2026-12-05 15:00:00,14.0,False,180,Brighton & Hove Albion,182,Nottingham Forest,Away,40.24,20.32,39.44,incomplete,39.9,34.4,37.8,51.7,49.2,51.2,48.8,Neutral,team-strength-adjusted
+740533388,2026-12-05 15:00:00,4.0,True,136,Chelsea,135,Liverpool,Home,41.74,21.22,37.04,incomplete,83.8,61.5,74.8,40.3,30.2,33.5,66.5,Very difficult,team-strength-adjusted
+740533376,2026-12-05 15:00:00,4.0,True,209,Coventry City,133,Manchester United,Away,28.43,37.34,34.23,incomplete,90.6,59.4,72.4,33.9,19.9,28.0,72.0,Very difficult,team-strength-adjusted
+740533367,2026-12-05 15:00:00,4.0,True,127,Crystal Palace,142,Aston Villa,Away,41.5,15.9,42.6,incomplete,57.9,54.1,59.0,43.5,41.8,41.2,58.8,Difficult,team-strength-adjusted
+1012345029,2026-12-05 15:00:00,14.0,False,128,Everton,146,Fulham,Home,48.65,16.62,34.73,incomplete,33.8,50.9,42.5,48.9,56.5,53.1,46.9,Neutral,team-strength-adjusted
+1012345029,2026-12-05 15:00:00,14.0,False,146,Fulham,128,Everton,Away,34.73,16.62,48.65,incomplete,18.7,43.5,29.0,44.5,55.7,52.9,47.1,Neutral,team-strength-adjusted
+740745794,2026-12-05 15:00:00,4.0,True,134,Hull City,132,AFC Bournemouth,Away,41.54,17.72,40.74,incomplete,73.4,43.8,58.6,48.1,34.8,41.5,58.5,Difficult,team-strength-adjusted
+992036517,2026-12-05 15:00:00,14.0,False,191,Ipswich Town,193,Leeds United,Away,38.9,15.1,46.0,incomplete,38.1,24.1,31.1,55.6,49.2,53.9,46.1,Neutral,team-strength-adjusted
+992036517,2026-12-05 15:00:00,14.0,False,193,Leeds United,191,Ipswich Town,Home,46.0,15.1,38.9,incomplete,50.0,50.0,50.0,47.8,47.8,48.0,52.0,Neutral,probability-only
+740533388,2026-12-05 15:00:00,4.0,True,135,Liverpool,136,Chelsea,Away,37.04,21.22,41.74,incomplete,68.4,56.8,65.6,39.8,34.6,35.7,64.3,Difficult,team-strength-adjusted
+987721078,2026-12-05 15:00:00,14.0,False,87,Manchester City,189,Brentford,Away,47.55,13.51,38.94,incomplete,29.4,35.6,32.6,55.1,57.9,57.5,42.5,Favorable,team-strength-adjusted
+740533376,2026-12-05 15:00:00,4.0,True,133,Manchester United,209,Coventry City,Home,34.23,37.34,28.43,incomplete,50.0,50.0,50.0,41.3,41.3,42.1,57.9,Difficult,probability-only
+1032017343,2026-12-05 15:00:00,14.0,False,141,Newcastle United,140,Sunderland,Home,39.7,19.5,40.8,incomplete,7.9,49.1,27.1,44.7,63.3,56.3,43.7,Favorable,team-strength-adjusted
+1011697033,2026-12-05 15:00:00,14.0,False,182,Nottingham Forest,180,Brighton & Hove Albion,Home,39.44,20.32,40.24,incomplete,62.5,74.1,66.1,33.3,38.6,36.7,63.3,Difficult,team-strength-adjusted
+1032017343,2026-12-05 15:00:00,14.0,False,140,Sunderland,141,Newcastle United,Away,40.8,19.5,39.7,incomplete,62.2,27.4,49.3,55.1,39.4,45.8,54.2,Neutral,team-strength-adjusted
+1091825605,2026-12-05 15:00:00,14.0,False,86,Tottenham Hotspur,57,Arsenal,Home,41.7,17.4,40.9,incomplete,86.2,100.0,90.6,22.9,29.1,25.6,74.4,Very difficult,team-strength-adjusted
+740533365,2026-12-12 15:00:00,5.0,True,132,AFC Bournemouth,57,Arsenal,Away,33.7,15.1,51.2,incomplete,86.2,100.0,90.6,18.5,24.7,21.6,78.4,Very difficult,team-strength-adjusted
+740533365,2026-12-12 15:00:00,5.0,True,57,Arsenal,132,AFC Bournemouth,Home,51.2,15.1,33.7,incomplete,73.4,43.8,58.6,53.4,40.1,46.3,53.7,Neutral,team-strength-adjusted
+1009318248,2026-12-12 15:00:00,15.0,False,142,Aston Villa,209,Coventry City,Away,37.1,20.1,42.8,incomplete,50.0,50.0,50.0,42.9,42.9,43.6,56.4,Difficult,probability-only
+992036526,2026-12-12 15:00:00,15.0,False,189,Brentford,146,Fulham,Away,39.2,17.1,43.7,incomplete,33.8,50.9,42.5,43.7,51.4,48.4,51.6,Neutral,team-strength-adjusted
+1007804678,2026-12-12 15:00:00,15.0,False,180,Brighton & Hove Albion,128,Everton,Home,41.56,18.48,39.96,incomplete,18.7,43.5,29.0,48.3,59.4,56.3,43.7,Favorable,team-strength-adjusted
+1043078138,2026-12-12 15:00:00,15.0,False,136,Chelsea,87,Manchester City,Away,36.6,14.8,48.6,incomplete,98.2,94.1,96.1,22.8,20.9,20.3,79.8,Very difficult,team-strength-adjusted
+1009318248,2026-12-12 15:00:00,15.0,False,209,Coventry City,142,Aston Villa,Home,42.8,20.1,37.1,incomplete,57.9,54.1,59.0,44.2,42.5,41.9,58.1,Difficult,team-strength-adjusted
+740745778,2026-12-12 15:00:00,5.0,True,127,Crystal Palace,133,Manchester United,Home,40.24,15.52,44.24,incomplete,90.6,59.4,72.4,40.4,26.4,33.9,66.1,Very difficult,team-strength-adjusted
+1007804678,2026-12-12 15:00:00,15.0,False,128,Everton,180,Brighton & Hove Albion,Away,39.96,18.48,41.56,incomplete,62.5,74.1,66.1,33.6,38.9,36.9,63.1,Difficult,team-strength-adjusted
+992036526,2026-12-12 15:00:00,15.0,False,146,Fulham,189,Brentford,Home,43.7,17.1,39.2,incomplete,29.4,35.6,32.6,53.0,55.8,55.6,44.4,Favorable,team-strength-adjusted
+1002184556,2026-12-12 15:00:00,15.0,False,134,Hull City,86,Tottenham Hotspur,Home,36.56,18.28,45.15,incomplete,30.7,33.2,33.3,50.2,51.3,51.6,48.4,Neutral,team-strength-adjusted
+998509979,2026-12-12 15:00:00,15.0,False,191,Ipswich Town,141,Newcastle United,Home,38.6,15.5,45.9,incomplete,62.2,27.4,49.3,53.9,38.2,44.7,55.4,Difficult,team-strength-adjusted
+740745773,2026-12-12 15:00:00,5.0,True,193,Leeds United,135,Liverpool,Away,31.1,19.0,49.9,incomplete,83.8,61.5,74.8,34.4,24.4,28.2,71.8,Very difficult,team-strength-adjusted
+740745773,2026-12-12 15:00:00,5.0,True,135,Liverpool,193,Leeds United,Home,49.9,19.0,31.1,incomplete,38.1,24.1,31.1,61.6,55.3,59.4,40.6,Favorable,team-strength-adjusted
+1043078138,2026-12-12 15:00:00,15.0,False,87,Manchester City,136,Chelsea,Home,48.6,14.8,36.6,incomplete,68.4,56.8,65.6,46.2,41.0,41.5,58.5,Difficult,team-strength-adjusted
+740745778,2026-12-12 15:00:00,5.0,True,133,Manchester United,127,Crystal Palace,Away,44.24,15.52,40.24,incomplete,18.2,57.9,33.9,43.3,61.1,55.2,44.8,Favorable,team-strength-adjusted
+998509979,2026-12-12 15:00:00,15.0,False,141,Newcastle United,191,Ipswich Town,Away,45.9,15.5,38.6,incomplete,50.0,50.0,50.0,47.7,47.7,48.0,52.0,Neutral,probability-only
+1009534427,2026-12-12 15:00:00,15.0,False,182,Nottingham Forest,140,Sunderland,Away,38.9,16.4,44.7,incomplete,7.9,49.1,27.1,44.3,62.8,55.9,44.1,Favorable,team-strength-adjusted
+1009534427,2026-12-12 15:00:00,15.0,False,140,Sunderland,182,Nottingham Forest,Home,44.7,16.4,38.9,incomplete,39.9,34.4,37.8,54.1,51.6,53.4,46.6,Neutral,team-strength-adjusted
+1002184556,2026-12-12 15:00:00,15.0,False,86,Tottenham Hotspur,134,Hull City,Away,45.15,18.28,36.56,incomplete,50.0,50.0,50.0,47.3,47.3,47.6,52.4,Neutral,probability-only
+987721070,2026-12-19 15:00:00,16.0,False,132,AFC Bournemouth,209,Coventry City,Home,47.35,15.52,37.14,incomplete,50.0,50.0,50.0,48.5,48.5,48.7,51.3,Neutral,probability-only
+740745793,2026-12-19 15:00:00,6.0,True,57,Arsenal,133,Manchester United,Home,43.1,17.7,39.2,incomplete,90.6,59.4,72.4,42.0,27.9,35.3,64.6,Difficult,team-strength-adjusted
+1007804571,2026-12-19 15:00:00,16.0,False,142,Aston Villa,136,Chelsea,Away,35.74,16.22,48.05,incomplete,68.4,56.8,65.6,39.1,33.9,35.1,64.9,Difficult,team-strength-adjusted
+992036524,2026-12-19 15:00:00,16.0,False,189,Brentford,141,Newcastle United,Home,41.8,13.0,45.2,incomplete,62.2,27.4,49.3,55.7,40.0,46.2,53.8,Neutral,team-strength-adjusted
+1012345005,2026-12-19 15:00:00,16.0,False,180,Brighton & Hove Albion,191,Ipswich Town,Home,43.6,18.6,37.8,incomplete,50.0,50.0,50.0,46.5,46.5,46.8,53.2,Neutral,probability-only
+1007804571,2026-12-19 15:00:00,16.0,False,136,Chelsea,142,Aston Villa,Home,48.05,16.22,35.74,incomplete,57.9,54.1,59.0,47.1,45.4,44.5,55.5,Difficult,team-strength-adjusted
+987721070,2026-12-19 15:00:00,16.0,False,209,Coventry City,132,AFC Bournemouth,Away,37.14,15.52,47.35,incomplete,73.4,43.8,58.6,45.7,32.4,39.3,60.7,Difficult,team-strength-adjusted
+1002184551,2026-12-19 15:00:00,16.0,False,127,Crystal Palace,140,Sunderland,Away,36.3,19.0,44.7,incomplete,7.9,49.1,27.1,42.9,61.4,54.6,45.4,Neutral,team-strength-adjusted
+1008020911,2026-12-19 15:00:00,16.0,False,128,Everton,182,Nottingham Forest,Away,44.76,17.68,37.56,incomplete,39.9,34.4,37.8,54.1,51.7,53.5,46.5,Neutral,team-strength-adjusted
+1000455189,2026-12-19 15:00:00,16.0,False,146,Fulham,193,Leeds United,Away,38.6,19.9,41.5,incomplete,38.1,24.1,31.1,55.4,49.1,53.8,46.2,Neutral,team-strength-adjusted
+740745777,2026-12-19 15:00:00,6.0,True,134,Hull City,87,Manchester City,Away,30.8,18.3,50.9,incomplete,98.2,94.1,96.1,19.6,17.8,17.4,82.6,Very difficult,team-strength-adjusted
+1012345005,2026-12-19 15:00:00,16.0,False,191,Ipswich Town,180,Brighton & Hove Albion,Away,37.8,18.6,43.6,incomplete,62.5,74.1,66.1,32.4,37.7,35.8,64.2,Difficult,team-strength-adjusted
+1000455189,2026-12-19 15:00:00,16.0,False,193,Leeds United,146,Fulham,Home,41.5,19.9,38.6,incomplete,33.8,50.9,42.5,44.9,52.6,49.5,50.5,Neutral,team-strength-adjusted
+1009534422,2026-12-19 15:00:00,16.0,False,135,Liverpool,86,Tottenham Hotspur,Home,48.9,16.9,34.2,incomplete,30.7,33.2,33.3,57.0,58.1,57.8,42.2,Favorable,team-strength-adjusted
+740745777,2026-12-19 15:00:00,6.0,True,87,Manchester City,134,Hull City,Home,50.9,18.3,30.8,incomplete,50.0,50.0,50.0,50.5,50.5,50.4,49.6,Neutral,probability-only
+740745793,2026-12-19 15:00:00,6.0,True,133,Manchester United,57,Arsenal,Away,39.2,17.7,43.1,incomplete,86.2,100.0,90.6,21.6,27.8,24.3,75.7,Very difficult,team-strength-adjusted
+992036524,2026-12-19 15:00:00,16.0,False,141,Newcastle United,189,Brentford,Away,45.2,13.0,41.8,incomplete,29.4,35.6,32.6,53.8,56.6,56.3,43.7,Favorable,team-strength-adjusted
+1008020911,2026-12-19 15:00:00,16.0,False,182,Nottingham Forest,128,Everton,Home,37.56,17.68,44.76,incomplete,18.7,43.5,29.0,46.1,57.2,54.3,45.7,Neutral,team-strength-adjusted
+1002184551,2026-12-19 15:00:00,16.0,False,140,Sunderland,127,Crystal Palace,Home,44.7,19.0,36.3,incomplete,18.2,57.9,33.9,43.5,61.4,55.4,44.6,Favorable,team-strength-adjusted
+1009534422,2026-12-19 15:00:00,16.0,False,86,Tottenham Hotspur,135,Liverpool,Away,34.2,16.9,48.9,incomplete,83.8,61.5,74.8,36.1,26.1,29.7,70.3,Very difficult,team-strength-adjusted
+996566934,2026-12-26 15:00:00,17.0,False,132,AFC Bournemouth,86,Tottenham Hotspur,Away,35.7,15.5,48.8,incomplete,30.7,33.2,33.3,49.7,50.8,51.2,48.8,Neutral,team-strength-adjusted
+730772414,2026-12-26 15:00:00,7.0,True,57,Arsenal,127,Crystal Palace,Away,44.3,18.6,37.1,incomplete,18.2,57.9,33.9,43.3,61.2,55.2,44.8,Favorable,team-strength-adjusted
+740745820,2026-12-26 15:00:00,7.0,True,142,Aston Villa,193,Leeds United,Home,43.6,22.4,34.0,incomplete,38.1,24.1,31.1,58.1,51.8,56.2,43.8,Favorable,team-strength-adjusted
+1003265495,2026-12-26 15:00:00,17.0,False,189,Brentford,191,Ipswich Town,Away,40.3,20.8,38.9,incomplete,50.0,50.0,50.0,44.7,44.7,45.2,54.8,Neutral,probability-only
+987721109,2026-12-26 15:00:00,17.0,False,180,Brighton & Hove Albion,146,Fulham,Away,37.7,18.9,43.4,incomplete,33.8,50.9,42.5,42.8,50.5,47.6,52.4,Neutral,team-strength-adjusted
+1011480734,2026-12-26 15:00:00,17.0,False,136,Chelsea,209,Coventry City,Away,37.1,20.1,42.8,incomplete,50.0,50.0,50.0,42.9,42.9,43.6,56.4,Difficult,probability-only
+1011480734,2026-12-26 15:00:00,17.0,False,209,Coventry City,136,Chelsea,Home,42.8,20.1,37.1,incomplete,68.4,56.8,65.6,43.0,37.8,38.6,61.4,Difficult,team-strength-adjusted
+730772414,2026-12-26 15:00:00,7.0,True,127,Crystal Palace,57,Arsenal,Home,37.1,18.6,44.3,incomplete,86.2,100.0,90.6,20.4,26.6,23.3,76.8,Very difficult,team-strength-adjusted
+740745775,2026-12-26 15:00:00,7.0,True,128,Everton,140,Sunderland,Home,48.4,18.2,33.4,incomplete,7.9,49.1,27.1,49.5,68.1,60.6,39.3,Favorable,team-strength-adjusted
+987721109,2026-12-26 15:00:00,17.0,False,146,Fulham,180,Brighton & Hove Albion,Home,43.4,18.9,37.7,incomplete,62.5,74.1,66.1,35.5,40.7,38.7,61.4,Difficult,team-strength-adjusted
+1016215527,2026-12-26 15:00:00,17.0,False,134,Hull City,135,Liverpool,Home,42.1,19.0,38.9,incomplete,83.8,61.5,74.8,40.5,30.4,33.7,66.4,Very difficult,team-strength-adjusted
+1003265495,2026-12-26 15:00:00,17.0,False,191,Ipswich Town,189,Brentford,Home,38.9,20.8,40.3,incomplete,29.4,35.6,32.6,50.4,53.2,53.2,46.8,Neutral,team-strength-adjusted
+740745820,2026-12-26 15:00:00,7.0,True,193,Leeds United,142,Aston Villa,Away,34.0,22.4,43.6,incomplete,57.9,54.1,59.0,39.4,37.6,37.5,62.5,Difficult,team-strength-adjusted
+1016215527,2026-12-26 15:00:00,17.0,False,135,Liverpool,134,Hull City,Away,38.9,19.0,42.1,incomplete,50.0,50.0,50.0,43.9,43.9,44.4,55.6,Difficult,probability-only
+992036566,2026-12-26 15:00:00,17.0,False,87,Manchester City,141,Newcastle United,Away,48.9,14.3,36.8,incomplete,62.2,27.4,49.3,59.6,43.9,49.8,50.2,Neutral,team-strength-adjusted
+740745776,2026-12-26 15:00:00,7.0,True,133,Manchester United,182,Nottingham Forest,Home,50.95,13.51,35.54,incomplete,39.9,34.4,37.8,57.5,55.1,56.6,43.4,Favorable,team-strength-adjusted
+992036566,2026-12-26 15:00:00,17.0,False,141,Newcastle United,87,Manchester City,Home,36.8,14.3,48.9,incomplete,98.2,94.1,96.1,22.9,21.0,20.4,79.6,Very difficult,team-strength-adjusted
+740745776,2026-12-26 15:00:00,7.0,True,182,Nottingham Forest,133,Manchester United,Away,35.54,13.51,50.95,incomplete,90.6,59.4,72.4,37.8,23.8,31.6,68.4,Very difficult,team-strength-adjusted
+740745775,2026-12-26 15:00:00,7.0,True,140,Sunderland,128,Everton,Away,33.4,18.2,48.4,incomplete,18.7,43.5,29.0,43.8,55.0,52.2,47.8,Neutral,team-strength-adjusted
+996566934,2026-12-26 15:00:00,17.0,False,86,Tottenham Hotspur,132,AFC Bournemouth,Home,48.8,15.5,35.7,incomplete,73.4,43.8,58.6,52.1,38.8,45.1,54.9,Neutral,team-strength-adjusted

@@ -1,0 +1,22 @@
+API Roster Merge Validation Report v2
+================================================================================
+Master rows: 34,423
+API roster rows: 7,165
+Bridge rows: 346
+Roster rows missing bridge: 0
+Enriched rows: 34,423
+Rostered API rows matched into master: 7,165
+API roster player/week keys not found in master after bridge: 0
+
+Outputs:
+  C:\Users\Tommy\fantrax_data\data\processed\manager_player_weekly_2526.csv
+  C:\Users\Tommy\fantrax_data\data\processed\manager_week_summary_2526.csv
+  C:\Users\Tommy\fantrax_data\data\processed\manager_season_summary_2526.csv
+  C:\Users\Tommy\fantrax_data\data\processed\lineup_quality_summary_2526.csv
+  C:\Users\Tommy\fantrax_data\data\processed\matchup_week_summary_2526.csv
+
+Notes:
+- manager_week_summary uses API ACTIVE as starter flag.
+- matchup_week_summary compares calculated starter fantasy points vs opponent.
+- Official standings remain the source of truth for league record/rank.
+- Missing active slots are real league behavior if managers failed to start full lineups.

@@ -1,0 +1,26 @@
+{
+  "get": "status",
+  "parameters": [],
+  "errors": [],
+  "results": 0,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": {
+    "account": {
+      "firstname": "Tommy",
+      "lastname": "Pemrick",
+      "email": "tpemrickjr22@gmail.com"
+    },
+    "subscription": {
+      "plan": "Free",
+      "end": "2027-07-29T00:00:00+00:00",
+      "active": true
+    },
+    "requests": {
+      "current": 0,
+      "limit_day": 100
+    }
+  }
+}

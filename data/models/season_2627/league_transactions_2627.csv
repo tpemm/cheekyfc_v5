@@ -1,0 +1,1 @@
+season_id,transaction_id,timestamp,transaction_type,source_transaction_type,manager,team,player_added,player_dropped,trade_partner,players_sent,players_received,waiver_priority,faab,fantrax_player_id,registry_player_id,source,source_retrieved_at,last_refreshed
