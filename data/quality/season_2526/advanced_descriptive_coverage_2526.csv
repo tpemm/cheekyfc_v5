@@ -1,0 +1,9 @@
+dataset,rows,players,clubs,status
+supplemental_player_match,14677,603,20,PRODUCTION_READY
+player_advanced_profile,603,603,,PRODUCTION_READY
+player_role_usage,2004,460,20,PRODUCTION_READY
+player_set_piece_usage,2438,363,20,PRODUCTION_READY
+team_set_piece_hierarchy,2438,363,20,PRODUCTION_READY
+team_playstyle_profile,120,,20,PRODUCTION_READY
+historical_fantasy_allowed_ranked,80,,,PRODUCTION_READY
+formation_player_usage,2004,460,20,PRODUCTION_READY

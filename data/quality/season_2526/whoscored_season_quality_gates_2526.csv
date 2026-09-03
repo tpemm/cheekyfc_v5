@@ -1,0 +1,13 @@
+gate,observed,threshold,passed
+raw_cache_completeness,1.0,1.0,True
+match_normalization,1.0,1.0,True
+team_mapping,1.0,1.0,True
+meaningful_player_mapping,0.9720670391061452,0.97,True
+canonical_event_uniqueness,1.0,1.0,True
+coordinate_validity,1.0,1.0,True
+starter_coverage,1.0,0.95,True
+starting_role_coverage,0.9715311004784689,0.95,True
+rating_validity,1.0,1.0,True
+formation_coverage,1.0,0.95,True
+manager_coverage,1.0,0.95,True
+fantrax_exact_attribution_availability,1.0,0.95,True

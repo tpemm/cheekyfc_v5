@@ -1,0 +1,381 @@
+canonical_match_id,whoscored_match_id,date,home_club_id,away_club_id,whoscored_home_team_id,whoscored_away_team_id,home_score,away_score,home_formation,away_formation,home_manager_name,away_manager_name,competition,source,retrieved_at
+understat:28778,1903117,2025-08-15,liverpool,bournemouth,26,183,4,2,4231,4141,Arne Slot,Andoni Iraola,Premier League,WhoScored/Opta,2026-08-19T23:14:50.695177+00:00
+understat:28779,1903118,2025-08-16,aston_villa,newcastle_united,24,23,0,0,4231,433,Unai Emery,Eddie Howe,Premier League,WhoScored/Opta,2026-08-19T23:17:23.843717+00:00
+understat:28780,1903119,2025-08-16,brighton,fulham,211,170,1,1,4231,4231,Fabian Hürzeler,Marco Alexandre Saraiva da Silva,Premier League,WhoScored/Opta,2026-08-19T23:25:27.505386+00:00
+understat:28781,1903121,2025-08-16,sunderland,west_ham,16,29,3,0,433,3412,Régis Le Bris,Graham Potter,Premier League,WhoScored/Opta,2026-08-19T23:25:50.547754+00:00
+understat:28782,1903122,2025-08-16,tottenham_hotspur,burnley,30,184,3,0,433,541,Thomas Frank,Scott Parker,Premier League,WhoScored/Opta,2026-08-19T23:26:07.379102+00:00
+understat:28783,1903123,2025-08-16,wolverhampton_wanderers,manchester_city,161,167,0,4,343,433,Vítor Manuel de Oliveira Lopes Pereira,Pep Guardiola,Premier League,WhoScored/Opta,2026-08-19T23:28:32.694026+00:00
+understat:28784,1903124,2025-08-17,chelsea,crystal_palace,15,162,0,0,4231,3421,Enzo Maresca,Oliver Glasner,Premier League,WhoScored/Opta,2026-08-19T23:28:53.196542+00:00
+understat:28785,1903120,2025-08-17,nottingham_forest,brentford,174,189,3,1,4231,4231,Nuno Herlander Simões Espírito Santo,Keith Andrews,Premier League,WhoScored/Opta,2026-08-19T23:29:15.834978+00:00
+understat:28786,1903125,2025-08-17,manchester_united,arsenal,32,13,0,1,3421,433,Ruben Filipe Marques Diogo Amorim,Mikel Arteta,Premier League,WhoScored/Opta,2026-08-19T23:29:36.035285+00:00
+understat:28787,1903126,2025-08-18,leeds_united,everton,19,31,1,0,433,4231,Daniel Farke,David Moyes,Premier League,WhoScored/Opta,2026-08-19T23:30:14.026203+00:00
+understat:28788,1903136,2025-08-22,west_ham,chelsea,29,15,1,5,3412,4231,Graham Potter,Enzo Maresca,Premier League,WhoScored/Opta,2026-08-19T23:32:35.743746+00:00
+understat:28789,1903134,2025-08-23,manchester_city,tottenham_hotspur,167,30,0,2,4141,433,Pep Guardiola,Thomas Frank,Premier League,WhoScored/Opta,2026-08-19T23:34:34.824553+00:00
+understat:28790,1903129,2025-08-23,brentford,aston_villa,189,24,1,0,4231,4231,Keith Andrews,Unai Emery,Premier League,WhoScored/Opta,2026-08-20T00:05:13.355674+00:00
+understat:28791,1903130,2025-08-23,burnley,sunderland,184,16,2,0,4231,433,Scott Parker,Régis Le Bris,Premier League,WhoScored/Opta,2026-08-19T23:38:57.846038+00:00
+understat:28792,1903127,2025-08-23,bournemouth,wolverhampton_wanderers,183,161,1,0,4141,343,Andoni Iraola,Vítor Manuel de Oliveira Lopes Pereira,Premier League,WhoScored/Opta,2026-08-19T23:39:20.153364+00:00
+understat:28793,1903128,2025-08-23,arsenal,leeds_united,13,19,5,0,433,433,Mikel Arteta,Daniel Farke,Premier League,WhoScored/Opta,2026-08-19T23:39:39.988615+00:00
+understat:28794,1903131,2025-08-24,crystal_palace,nottingham_forest,162,174,1,1,343,4231,Oliver Glasner,Nuno Herlander Simões Espírito Santo,Premier League,WhoScored/Opta,2026-08-19T23:40:25.658728+00:00
+understat:28795,1903132,2025-08-24,everton,brighton,31,211,2,0,4231,4231,David Moyes,Fabian Hürzeler,Premier League,WhoScored/Opta,2026-08-19T23:41:04.167228+00:00
+understat:28796,1903133,2025-08-24,fulham,manchester_united,170,32,1,1,4231,3421,Marco Alexandre Saraiva da Silva,Ruben Filipe Marques Diogo Amorim,Premier League,WhoScored/Opta,2026-08-19T23:41:26.889530+00:00
+understat:28797,1903135,2025-08-25,newcastle_united,liverpool,23,26,2,3,433,4231,Eddie Howe,Arne Slot,Premier League,WhoScored/Opta,2026-08-19T23:43:52.294525+00:00
+understat:28798,1903141,2025-08-30,chelsea,fulham,15,170,2,0,4231,4231,Enzo Maresca,Marco Alexandre Saraiva da Silva,Premier League,WhoScored/Opta,2026-08-19T23:44:58.794178+00:00
+understat:28799,1903142,2025-08-30,tottenham_hotspur,bournemouth,30,183,0,1,433,4231,Thomas Frank,Andoni Iraola,Premier League,WhoScored/Opta,2026-08-19T23:47:25.912267+00:00
+understat:28800,1903144,2025-08-30,wolverhampton_wanderers,everton,161,31,2,3,343,4231,Vítor Manuel de Oliveira Lopes Pereira,David Moyes,Premier League,WhoScored/Opta,2026-08-19T23:49:54.991156+00:00
+understat:28801,1903140,2025-08-30,sunderland,brentford,16,189,2,1,433,4231,Régis Le Bris,Keith Andrews,Premier League,WhoScored/Opta,2026-08-19T23:50:16.534679+00:00
+understat:28802,1903146,2025-08-30,manchester_united,burnley,32,184,3,2,3421,4231,Ruben Filipe Marques Diogo Amorim,Scott Parker,Premier League,WhoScored/Opta,2026-08-19T23:50:38.945745+00:00
+understat:28803,1903143,2025-08-30,leeds_united,newcastle_united,19,23,0,0,433,532,Daniel Farke,Eddie Howe,Premier League,WhoScored/Opta,2026-08-19T23:53:04.950412+00:00
+understat:28804,1903138,2025-08-31,nottingham_forest,west_ham,174,29,0,3,4231,4231,Nuno Herlander Simões Espírito Santo,Graham Potter,Premier League,WhoScored/Opta,2026-08-19T23:53:42.854515+00:00
+understat:28805,1903139,2025-08-31,brighton,manchester_city,211,167,2,1,4231,433,Fabian Hürzeler,Pep Guardiola,Premier League,WhoScored/Opta,2026-08-19T23:54:16.657778+00:00
+understat:28806,1903145,2025-08-31,liverpool,arsenal,26,13,1,0,4231,433,Arne Slot,Mikel Arteta,Premier League,WhoScored/Opta,2026-08-19T23:54:40.931031+00:00
+understat:28807,1903137,2025-08-31,aston_villa,crystal_palace,24,162,0,3,4231,3421,Unai Emery,Oliver Glasner,Premier League,WhoScored/Opta,2026-08-20T00:05:13.737314+00:00
+understat:28808,1903148,2025-09-13,arsenal,nottingham_forest,13,174,3,0,433,4231,Mikel Arteta,Ange Postecoglou,Premier League,WhoScored/Opta,2026-08-20T00:01:18.336321+00:00
+understat:28809,1903155,2025-09-13,newcastle_united,wolverhampton_wanderers,23,161,1,0,433,352,Eddie Howe,Vítor Manuel de Oliveira Lopes Pereira,Premier League,WhoScored/Opta,2026-08-20T00:08:24.925077+00:00
+understat:28810,1903147,2025-09-13,bournemouth,brighton,183,211,2,1,4231,4231,Andoni Iraola,Fabian Hürzeler,Premier League,WhoScored/Opta,2026-08-20T00:05:59.641123+00:00
+understat:28811,1903151,2025-09-13,crystal_palace,sunderland,162,16,0,0,3421,433,Oliver Glasner,Régis Le Bris,Premier League,WhoScored/Opta,2026-08-20T00:12:35.852197+00:00
+understat:28812,1903152,2025-09-13,everton,aston_villa,31,24,0,0,4231,4231,David Moyes,Unai Emery,Premier League,WhoScored/Opta,2026-08-20T00:08:26.779247+00:00
+understat:28813,1903153,2025-09-13,fulham,leeds_united,170,19,1,0,4231,433,Marco Alexandre Saraiva da Silva,Daniel Farke,Premier League,WhoScored/Opta,2026-08-20T00:13:43.273594+00:00
+understat:28814,1903156,2025-09-13,west_ham,tottenham_hotspur,29,30,0,3,4231,433,Graham Potter,Thomas Frank,Premier League,WhoScored/Opta,2026-08-20T00:10:00.368494+00:00
+understat:28815,1903149,2025-09-13,brentford,chelsea,189,15,2,2,532,4231,Keith Andrews,Enzo Maresca,Premier League,WhoScored/Opta,2026-08-20T00:14:07.401729+00:00
+understat:28816,1903150,2025-09-14,burnley,liverpool,184,26,0,1,541,4231,Scott Parker,Arne Slot,Premier League,WhoScored/Opta,2026-08-20T00:11:13.763995+00:00
+understat:28817,1903154,2025-09-14,manchester_city,manchester_united,167,32,3,0,4141,3421,Pep Guardiola,Ruben Filipe Marques Diogo Amorim,Premier League,WhoScored/Opta,2026-08-20T00:14:36.100604+00:00
+understat:28818,1903164,2025-09-20,liverpool,everton,26,31,2,1,4231,4231,Arne Slot,David Moyes,Premier League,WhoScored/Opta,2026-08-20T00:11:40.558349+00:00
+understat:28819,1903171,2025-09-20,west_ham,crystal_palace,29,162,1,2,433,3421,Graham Potter,Oliver Glasner,Premier League,WhoScored/Opta,2026-08-20T00:16:04.738696+00:00
+understat:28820,1903173,2025-09-20,wolverhampton_wanderers,leeds_united,161,19,1,3,3421,433,Vítor Manuel de Oliveira Lopes Pereira,Daniel Farke,Premier League,WhoScored/Opta,2026-08-20T00:14:06.995412+00:00
+understat:28821,1903159,2025-09-20,brighton,tottenham_hotspur,211,30,2,2,4231,433,Fabian Hürzeler,Thomas Frank,Premier League,WhoScored/Opta,2026-08-20T00:16:55.247139+00:00
+understat:28822,1903160,2025-09-20,burnley,nottingham_forest,184,174,1,1,541,4231,Scott Parker,Ange Postecoglou,Premier League,WhoScored/Opta,2026-08-20T00:14:37.683565+00:00
+understat:28824,1903167,2025-09-20,manchester_united,chelsea,32,15,2,1,3421,4231,Ruben Filipe Marques Diogo Amorim,Enzo Maresca,Premier League,WhoScored/Opta,2026-08-20T00:17:17.118431+00:00
+understat:28825,1903162,2025-09-20,fulham,brentford,170,189,3,1,4231,532,Marco Alexandre Saraiva da Silva,Keith Andrews,Premier League,WhoScored/Opta,2026-08-20T00:16:08.120145+00:00
+understat:28823,1903157,2025-09-21,bournemouth,newcastle_united,183,23,0,0,4231,3421,Andoni Iraola,Eddie Howe,Premier League,WhoScored/Opta,2026-08-20T00:17:48.222261+00:00
+understat:28826,1903169,2025-09-21,sunderland,aston_villa,16,24,1,1,433,4231,Régis Le Bris,Unai Emery,Premier League,WhoScored/Opta,2026-08-20T00:17:14.551841+00:00
+understat:28827,1903158,2025-09-21,arsenal,manchester_city,13,167,1,1,433,4141,Mikel Arteta,Pep Guardiola,Premier League,WhoScored/Opta,2026-08-20T00:18:15.721703+00:00
+understat:28828,1903177,2025-09-27,brentford,manchester_united,189,32,3,1,4231,3421,Keith Andrews,Ruben Filipe Marques Diogo Amorim,Premier League,WhoScored/Opta,2026-08-20T00:17:42.082388+00:00
+understat:28829,1903178,2025-09-27,chelsea,brighton,15,211,1,3,433,4231,Enzo Maresca,Fabian Hürzeler,Premier League,WhoScored/Opta,2026-08-20T00:19:17.504565+00:00
+understat:28830,1903179,2025-09-27,crystal_palace,liverpool,162,26,2,1,3421,4231,Oliver Glasner,Arne Slot,Premier League,WhoScored/Opta,2026-08-20T00:18:14.357118+00:00
+understat:28832,1903183,2025-09-27,leeds_united,bournemouth,19,183,2,2,433,4231,Daniel Farke,Andoni Iraola,Premier League,WhoScored/Opta,2026-08-20T00:21:46.055561+00:00
+understat:28833,1903185,2025-09-27,manchester_city,burnley,167,184,5,1,4141,541,Pep Guardiola,Scott Parker,Premier League,WhoScored/Opta,2026-08-20T00:19:38.814494+00:00
+understat:28834,1903188,2025-09-27,nottingham_forest,sunderland,174,16,0,1,4231,4231,Ange Postecoglou,Régis Le Bris,Premier League,WhoScored/Opta,2026-08-20T12:11:22.693310+00:00
+understat:28835,1903161,2025-09-27,tottenham_hotspur,wolverhampton_wanderers,30,161,1,1,4231,433,Thomas Frank,Vítor Manuel de Oliveira Lopes Pereira,Premier League,WhoScored/Opta,2026-08-20T02:49:03.760859+00:00
+understat:28831,1903175,2025-09-28,aston_villa,fulham,24,170,3,1,4231,4231,Unai Emery,Marco Alexandre Saraiva da Silva,Premier League,WhoScored/Opta,2026-08-20T00:23:53.462871+00:00
+understat:28836,1903186,2025-09-28,newcastle_united,arsenal,23,13,1,2,433,4231,Eddie Howe,Mikel Arteta,Premier League,WhoScored/Opta,2026-08-20T00:24:04.159986+00:00
+understat:28837,1903181,2025-09-29,everton,west_ham,31,29,1,1,4231,4141,David Moyes,Nuno Herlander Simões Espírito Santo,Premier League,WhoScored/Opta,2026-08-20T00:24:20.164049+00:00
+understat:28838,1903163,2025-10-03,bournemouth,fulham,183,170,3,1,4231,3421,Andoni Iraola,Marco Alexandre Saraiva da Silva,Premier League,WhoScored/Opta,2026-08-20T00:24:35.230593+00:00
+understat:28839,1903165,2025-10-04,arsenal,west_ham,13,29,2,0,433,4141,Mikel Arteta,Nuno Herlander Simões Espírito Santo,Premier League,WhoScored/Opta,2026-08-20T00:25:25.531671+00:00
+understat:28842,1903170,2025-10-04,chelsea,liverpool,15,26,2,1,4231,4231,Enzo Maresca,Arne Slot,Premier League,WhoScored/Opta,2026-08-20T00:25:12.878348+00:00
+understat:28844,1903174,2025-10-04,leeds_united,tottenham_hotspur,19,30,1,2,433,4231,Daniel Farke,Thomas Frank,Premier League,WhoScored/Opta,2026-08-20T00:26:04.485350+00:00
+understat:28845,1903176,2025-10-04,manchester_united,sunderland,32,16,2,0,3421,4231,Ruben Filipe Marques Diogo Amorim,Régis Le Bris,Premier League,WhoScored/Opta,2026-08-20T00:25:41.847573+00:00
+understat:28840,1903166,2025-10-05,aston_villa,burnley,24,184,2,1,4222,541,Unai Emery,Scott Parker,Premier League,WhoScored/Opta,2026-08-20T00:26:50.193170+00:00
+understat:28841,1903168,2025-10-05,brentford,manchester_city,189,167,0,1,532,4141,Keith Andrews,Pep Guardiola,Premier League,WhoScored/Opta,2026-08-20T00:26:33.811449+00:00
+understat:28843,1903172,2025-10-05,everton,crystal_palace,31,162,2,1,4231,3421,David Moyes,Oliver Glasner,Premier League,WhoScored/Opta,2026-08-20T00:27:18.056411+00:00
+understat:28846,1903180,2025-10-05,newcastle_united,nottingham_forest,23,174,2,0,433,343,Eddie Howe,Ange Postecoglou,Premier League,WhoScored/Opta,2026-08-20T00:27:02.492847+00:00
+understat:28847,1903182,2025-10-05,wolverhampton_wanderers,brighton,161,211,1,1,433,4231,Vítor Manuel de Oliveira Lopes Pereira,Fabian Hürzeler,Premier League,WhoScored/Opta,2026-08-20T00:27:45.637449+00:00
+understat:28848,1903184,2025-10-18,brighton,newcastle_united,211,23,2,1,4231,433,Fabian Hürzeler,Eddie Howe,Premier League,WhoScored/Opta,2026-08-20T00:27:34.969574+00:00
+understat:28849,1903187,2025-10-18,burnley,leeds_united,184,19,2,0,4231,433,Scott Parker,Daniel Farke,Premier League,WhoScored/Opta,2026-08-20T00:28:13.074141+00:00
+understat:28850,1903189,2025-10-18,crystal_palace,bournemouth,162,183,3,3,3421,4231,Oliver Glasner,Andoni Iraola,Premier League,WhoScored/Opta,2026-08-20T00:28:01.312685+00:00
+understat:28851,1903190,2025-10-18,fulham,arsenal,170,13,0,1,4231,433,Marco Alexandre Saraiva da Silva,Mikel Arteta,Premier League,WhoScored/Opta,2026-08-20T00:28:48.185880+00:00
+understat:28853,1903192,2025-10-18,manchester_city,everton,167,31,2,0,4141,4231,Pep Guardiola,David Moyes,Premier League,WhoScored/Opta,2026-08-20T00:28:30.863891+00:00
+understat:28854,1903193,2025-10-18,nottingham_forest,chelsea,174,15,0,3,532,4231,Ange Postecoglou,Enzo Maresca,Premier League,WhoScored/Opta,2026-08-20T00:29:28.613406+00:00
+understat:28855,1903194,2025-10-18,sunderland,wolverhampton_wanderers,16,161,2,0,4231,433,Régis Le Bris,Vítor Manuel de Oliveira Lopes Pereira,Premier League,WhoScored/Opta,2026-08-20T00:28:48.749514+00:00
+understat:28852,1903191,2025-10-19,liverpool,manchester_united,26,32,1,2,4231,3421,Arne Slot,Ruben Filipe Marques Diogo Amorim,Premier League,WhoScored/Opta,2026-08-20T00:31:18.672065+00:00
+understat:28856,1903195,2025-10-19,tottenham_hotspur,aston_villa,30,24,1,2,4231,4231,Thomas Frank,Unai Emery,Premier League,WhoScored/Opta,2026-08-20T09:24:24.786021+00:00
+understat:28857,1903196,2025-10-20,west_ham,brentford,29,189,0,2,4231,4231,Nuno Herlander Simões Espírito Santo,Keith Andrews,Premier League,WhoScored/Opta,2026-08-20T09:24:55.489848+00:00
+understat:28864,1903203,2025-10-24,leeds_united,west_ham,19,29,2,1,433,343,Daniel Farke,Nuno Herlander Simões Espírito Santo,Premier League,WhoScored/Opta,2026-08-20T02:49:30.835831+00:00
+understat:28861,1903200,2025-10-25,brentford,liverpool,189,26,3,2,4231,4231,Keith Andrews,Arne Slot,Premier League,WhoScored/Opta,2026-08-20T00:33:46.325854+00:00
+understat:28862,1903201,2025-10-25,chelsea,sunderland,15,16,1,2,4231,541,Enzo Maresca,Régis Le Bris,Premier League,WhoScored/Opta,2026-08-20T02:49:53.634259+00:00
+understat:28865,1903204,2025-10-25,manchester_united,brighton,32,211,4,2,3421,4231,Ruben Filipe Marques Diogo Amorim,Fabian Hürzeler,Premier League,WhoScored/Opta,2026-08-20T00:34:20.480151+00:00
+understat:28866,1903205,2025-10-25,newcastle_united,fulham,23,170,2,1,433,4231,Eddie Howe,Marco Alexandre Saraiva da Silva,Premier League,WhoScored/Opta,2026-08-20T00:38:10.227882+00:00
+understat:28858,1903197,2025-10-26,bournemouth,nottingham_forest,183,174,2,0,4231,4231,Andoni Iraola,Sean Dyche,Premier League,WhoScored/Opta,2026-08-20T00:37:16.537997+00:00
+understat:28859,1903198,2025-10-26,arsenal,crystal_palace,13,162,1,0,433,3421,Mikel Arteta,Oliver Glasner,Premier League,WhoScored/Opta,2026-08-20T00:38:48.471916+00:00
+understat:28860,1903199,2025-10-26,aston_villa,manchester_city,24,167,1,0,4231,4141,Unai Emery,Pep Guardiola,Premier League,WhoScored/Opta,2026-08-20T02:32:02.632728+00:00
+understat:28863,1903202,2025-10-26,everton,tottenham_hotspur,31,30,0,3,4231,4231,David Moyes,Thomas Frank,Premier League,WhoScored/Opta,2026-08-20T00:39:05.360977+00:00
+understat:28867,1903206,2025-10-26,wolverhampton_wanderers,burnley,161,184,2,3,433,4231,Vítor Manuel de Oliveira Lopes Pereira,Scott Parker,Premier League,WhoScored/Opta,2026-08-20T00:41:57.226392+00:00
+understat:28868,1903207,2025-11-01,brighton,leeds_united,211,19,3,0,4231,4141,Fabian Hürzeler,Daniel Farke,Premier League,WhoScored/Opta,2026-08-20T00:39:28.912040+00:00
+understat:28869,1903208,2025-11-01,burnley,arsenal,184,13,0,2,541,433,Scott Parker,Mikel Arteta,Premier League,WhoScored/Opta,2026-08-20T00:45:38.421718+00:00
+understat:28870,1903209,2025-11-01,crystal_palace,brentford,162,189,2,0,3421,4231,Oliver Glasner,Keith Andrews,Premier League,WhoScored/Opta,2026-08-20T09:26:19.817897+00:00
+understat:28871,1903210,2025-11-01,fulham,wolverhampton_wanderers,170,161,3,0,4231,532,Marco Alexandre Saraiva da Silva,Vítor Manuel de Oliveira Lopes Pereira,Premier League,WhoScored/Opta,2026-08-20T00:46:07.439776+00:00
+understat:28872,1903211,2025-11-01,liverpool,aston_villa,26,24,2,0,4231,4231,Arne Slot,Unai Emery,Premier League,WhoScored/Opta,2026-08-20T00:43:21.281430+00:00
+understat:28874,1903213,2025-11-01,nottingham_forest,manchester_united,174,32,2,2,4231,3421,Sean Dyche,Ruben Filipe Marques Diogo Amorim,Premier League,WhoScored/Opta,2026-08-20T00:49:25.393065+00:00
+understat:28876,1903215,2025-11-01,tottenham_hotspur,chelsea,30,15,0,1,4231,4231,Thomas Frank,Enzo Maresca,Premier League,WhoScored/Opta,2026-08-20T00:44:58.868205+00:00
+understat:28873,1903212,2025-11-02,manchester_city,bournemouth,167,183,3,1,4321,4231,Pep Guardiola,Andoni Iraola,Premier League,WhoScored/Opta,2026-08-20T00:49:51.286845+00:00
+understat:28877,1903216,2025-11-02,west_ham,newcastle_united,29,23,3,1,433,433,Nuno Herlander Simões Espírito Santo,Eddie Howe,Premier League,WhoScored/Opta,2026-08-20T00:45:56.467922+00:00
+understat:28875,1903214,2025-11-03,sunderland,everton,16,31,1,1,343,4231,Régis Le Bris,David Moyes,Premier League,WhoScored/Opta,2026-08-20T00:51:25.419827+00:00
+understat:28880,1903219,2025-11-08,chelsea,wolverhampton_wanderers,15,161,3,0,4231,532,Enzo Maresca,James Collins,Premier League,WhoScored/Opta,2026-08-20T09:27:05.563189+00:00
+understat:28882,1903221,2025-11-08,everton,fulham,31,170,2,0,4231,4231,David Moyes,Marco Alexandre Saraiva da Silva,Premier League,WhoScored/Opta,2026-08-20T00:53:00.847968+00:00
+understat:28885,1903224,2025-11-08,sunderland,arsenal,16,13,2,2,541,4231,Régis Le Bris,Mikel Arteta,Premier League,WhoScored/Opta,2026-08-20T00:48:50.271171+00:00
+understat:28886,1903225,2025-11-08,tottenham_hotspur,manchester_united,30,32,2,2,4231,3421,Thomas Frank,Ruben Filipe Marques Diogo Amorim,Premier League,WhoScored/Opta,2026-08-20T00:56:59.755859+00:00
+understat:28887,1903226,2025-11-08,west_ham,burnley,29,184,3,2,433,4231,Nuno Herlander Simões Espírito Santo,Scott Parker,Premier League,WhoScored/Opta,2026-08-20T00:49:53.035896+00:00
+understat:28878,1903217,2025-11-09,aston_villa,bournemouth,24,183,4,0,442,4231,Unai Emery,Andoni Iraola,Premier League,WhoScored/Opta,2026-08-20T00:57:36.465116+00:00
+understat:28879,1903218,2025-11-09,brentford,newcastle_united,189,23,3,1,4231,433,Keith Andrews,Eddie Howe,Premier League,WhoScored/Opta,2026-08-20T00:51:31.380496+00:00
+understat:28881,1903220,2025-11-09,crystal_palace,brighton,162,211,0,0,3421,4231,Oliver Glasner,Fabian Hürzeler,Premier League,WhoScored/Opta,2026-08-20T00:59:08.454209+00:00
+understat:28883,1903222,2025-11-09,manchester_city,liverpool,167,26,3,0,433,4231,Pep Guardiola,Arne Slot,Premier League,WhoScored/Opta,2026-08-20T00:53:27.398046+00:00
+understat:28884,1903223,2025-11-09,nottingham_forest,leeds_united,174,19,3,1,4231,433,Sean Dyche,Daniel Farke,Premier League,WhoScored/Opta,2026-08-20T00:59:57.979819+00:00
+understat:28888,1903227,2025-11-22,bournemouth,west_ham,183,29,2,2,4231,343,Andoni Iraola,Nuno Herlander Simões Espírito Santo,Premier League,WhoScored/Opta,2026-08-20T00:53:53.757503+00:00
+understat:28890,1903229,2025-11-22,brighton,brentford,211,189,2,1,4231,4231,Fabian Hürzeler,Keith Andrews,Premier League,WhoScored/Opta,2026-08-20T01:00:44.419702+00:00
+understat:28891,1903230,2025-11-22,burnley,chelsea,184,15,0,2,433,4231,Scott Parker,Enzo Maresca,Premier League,WhoScored/Opta,2026-08-20T00:54:24.650711+00:00
+understat:28892,1903231,2025-11-22,fulham,sunderland,170,16,1,0,4231,541,Marco Alexandre Saraiva da Silva,Régis Le Bris,Premier League,WhoScored/Opta,2026-08-20T01:01:19.955001+00:00
+understat:28894,1903233,2025-11-22,liverpool,nottingham_forest,26,174,0,3,433,4231,Arne Slot,Sean Dyche,Premier League,WhoScored/Opta,2026-08-20T00:56:18.169494+00:00
+understat:28896,1903235,2025-11-22,newcastle_united,manchester_city,23,167,2,1,451,4321,Eddie Howe,Pep Guardiola,Premier League,WhoScored/Opta,2026-08-20T01:02:13.238572+00:00
+understat:28897,1903236,2025-11-22,wolverhampton_wanderers,crystal_palace,161,162,0,2,532,343,Rob Edwards,Oliver Glasner,Premier League,WhoScored/Opta,2026-08-20T09:27:25.427190+00:00
+understat:28889,1903228,2025-11-23,arsenal,tottenham_hotspur,13,30,4,1,4231,3421,Mikel Arteta,Thomas Frank,Premier League,WhoScored/Opta,2026-08-20T01:04:12.594953+00:00
+understat:28893,1903232,2025-11-23,leeds_united,aston_villa,19,24,1,2,433,442,Daniel Farke,Unai Emery,Premier League,WhoScored/Opta,2026-08-20T09:28:51.765705+00:00
+understat:28895,1903234,2025-11-24,manchester_united,everton,32,31,0,1,3421,4231,Ruben Filipe Marques Diogo Amorim,David Moyes,Premier League,WhoScored/Opta,2026-08-20T01:07:05.289015+00:00
+understat:28899,1903238,2025-11-29,brentford,burnley,189,184,3,1,4231,4231,Keith Andrews,Scott Parker,Premier League,WhoScored/Opta,2026-08-20T00:58:03.762218+00:00
+understat:28902,1903241,2025-11-29,everton,newcastle_united,31,23,1,4,4231,433,David Moyes,Eddie Howe,Premier League,WhoScored/Opta,2026-08-20T01:07:24.746573+00:00
+understat:28903,1903242,2025-11-29,manchester_city,leeds_united,167,19,3,2,4321,433,Pep Guardiola,Daniel Farke,Premier League,WhoScored/Opta,2026-08-20T00:59:02.559276+00:00
+understat:28905,1903244,2025-11-29,sunderland,bournemouth,16,183,3,2,4231,4231,Régis Le Bris,Andoni Iraola,Premier League,WhoScored/Opta,2026-08-20T09:27:26.054628+00:00
+understat:28906,1903245,2025-11-29,tottenham_hotspur,fulham,30,170,1,2,4222,4231,Thomas Frank,Marco Alexandre Saraiva da Silva,Premier League,WhoScored/Opta,2026-08-20T01:00:04.446123+00:00
+understat:28898,1903237,2025-11-30,aston_villa,wolverhampton_wanderers,24,161,1,0,4231,343,Unai Emery,Rob Edwards,Premier League,WhoScored/Opta,2026-08-20T09:27:56.894803+00:00
+understat:28900,1903239,2025-11-30,chelsea,arsenal,15,13,1,1,4231,433,Enzo Maresca,Mikel Arteta,Premier League,WhoScored/Opta,2026-08-20T01:00:38.505080+00:00
+understat:28901,1903240,2025-11-30,crystal_palace,manchester_united,162,32,1,2,3421,3421,Oliver Glasner,Ruben Filipe Marques Diogo Amorim,Premier League,WhoScored/Opta,2026-08-20T01:09:16.125174+00:00
+understat:28904,1903243,2025-11-30,nottingham_forest,brighton,174,211,0,2,4231,4231,Sean Dyche,Fabian Hürzeler,Premier League,WhoScored/Opta,2026-08-20T01:04:29.850865+00:00
+understat:28907,1903246,2025-11-30,west_ham,liverpool,29,26,0,2,4231,4231,Nuno Herlander Simões Espírito Santo,Arne Slot,Premier League,WhoScored/Opta,2026-08-20T01:12:10.986971+00:00
+understat:28908,1903247,2025-12-02,bournemouth,everton,183,31,0,1,4231,4231,Andoni Iraola,David Moyes,Premier League,WhoScored/Opta,2026-08-20T01:05:02.771399+00:00
+understat:28912,1903251,2025-12-02,fulham,manchester_city,170,167,4,5,4231,433,Marco Alexandre Saraiva da Silva,Pep Guardiola,Premier League,WhoScored/Opta,2026-08-20T01:12:47.447490+00:00
+understat:28916,1903255,2025-12-02,newcastle_united,tottenham_hotspur,23,30,2,2,433,4231,Eddie Howe,Thomas Frank,Premier League,WhoScored/Opta,2026-08-20T01:05:58.437968+00:00
+understat:28909,1903248,2025-12-03,arsenal,brentford,13,189,2,0,433,532,Mikel Arteta,Keith Andrews,Premier League,WhoScored/Opta,2026-08-20T01:13:24.498424+00:00
+understat:28910,1903249,2025-12-03,brighton,aston_villa,211,24,3,4,4231,4231,Fabian Hürzeler,Unai Emery,Premier League,WhoScored/Opta,2026-08-20T01:06:36.571164+00:00
+understat:28911,1903250,2025-12-03,burnley,crystal_palace,184,162,0,1,442,3421,Scott Parker,Oliver Glasner,Premier League,WhoScored/Opta,2026-08-20T01:13:58.884934+00:00
+understat:28913,1903252,2025-12-03,leeds_united,chelsea,19,15,3,1,352,4231,Daniel Farke,Enzo Maresca,Premier League,WhoScored/Opta,2026-08-20T01:07:22.005373+00:00
+understat:28914,1903253,2025-12-03,liverpool,sunderland,26,16,1,1,4231,442,Arne Slot,Régis Le Bris,Premier League,WhoScored/Opta,2026-08-20T01:16:06.851155+00:00
+understat:28917,1903256,2025-12-03,wolverhampton_wanderers,nottingham_forest,161,174,0,1,343,4231,Rob Edwards,Sean Dyche,Premier League,WhoScored/Opta,2026-08-20T01:08:03.627502+00:00
+understat:28915,1903254,2025-12-04,manchester_united,west_ham,32,29,1,1,3421,4231,Ruben Filipe Marques Diogo Amorim,Nuno Herlander Simões Espírito Santo,Premier League,WhoScored/Opta,2026-08-20T01:16:38.613630+00:00
+understat:28918,1903257,2025-12-06,bournemouth,chelsea,183,15,0,0,4231,4231,Andoni Iraola,Enzo Maresca,Premier League,WhoScored/Opta,2026-08-20T01:08:47.078475+00:00
+understat:28919,1903258,2025-12-06,aston_villa,arsenal,24,13,2,1,4231,433,Unai Emery,Mikel Arteta,Premier League,WhoScored/Opta,2026-08-20T01:17:13.163812+00:00
+understat:28921,1903477,2025-12-06,everton,nottingham_forest,31,174,3,0,4231,4231,David Moyes,Sean Dyche,Premier League,WhoScored/Opta,2026-08-20T01:11:33.144966+00:00
+understat:28923,1903479,2025-12-06,leeds_united,liverpool,19,26,3,3,352,4231,Daniel Farke,Arne Slot,Premier League,WhoScored/Opta,2026-08-20T01:18:52.636652+00:00
+understat:28924,1903480,2025-12-06,manchester_city,sunderland,167,16,3,0,4321,541,Pep Guardiola,Régis Le Bris,Premier League,WhoScored/Opta,2026-08-20T01:12:32.887665+00:00
+understat:28925,1903481,2025-12-06,newcastle_united,burnley,23,184,2,1,433,433,Eddie Howe,Scott Parker,Premier League,WhoScored/Opta,2026-08-20T01:19:25.540644+00:00
+understat:28926,1903482,2025-12-06,tottenham_hotspur,brentford,30,189,2,0,4231,4231,Thomas Frank,Keith Andrews,Premier League,WhoScored/Opta,2026-08-20T01:13:09.430338+00:00
+understat:28920,1903476,2025-12-07,brighton,west_ham,211,29,1,1,4231,3412,Fabian Hürzeler,Nuno Herlander Simões Espírito Santo,Premier League,WhoScored/Opta,2026-08-20T01:20:25.936615+00:00
+understat:28922,1903478,2025-12-07,fulham,crystal_palace,170,162,1,2,4231,3421,Marco Alexandre Saraiva da Silva,Oliver Glasner,Premier League,WhoScored/Opta,2026-08-20T01:13:46.521318+00:00
+understat:28927,1903483,2025-12-08,wolverhampton_wanderers,manchester_united,161,32,1,4,3421,3421,Rob Edwards,Ruben Filipe Marques Diogo Amorim,Premier League,WhoScored/Opta,2026-08-20T01:21:01.919873+00:00
+understat:28928,1903484,2025-12-13,arsenal,wolverhampton_wanderers,13,161,2,1,433,352,Mikel Arteta,Rob Edwards,Premier League,WhoScored/Opta,2026-08-20T01:16:33.643073+00:00
+understat:28930,1903486,2025-12-13,burnley,fulham,184,170,2,3,433,4231,Scott Parker,Marco Alexandre Saraiva da Silva,Premier League,WhoScored/Opta,2026-08-20T01:21:59.180010+00:00
+understat:28931,1903487,2025-12-13,chelsea,everton,15,31,2,0,4231,4231,Enzo Maresca,David Moyes,Premier League,WhoScored/Opta,2026-08-20T01:17:06.968418+00:00
+understat:28933,1903489,2025-12-13,liverpool,brighton,26,211,2,0,4231,4231,Arne Slot,Fabian Hürzeler,Premier League,WhoScored/Opta,2026-08-20T01:23:21.628461+00:00
+understat:28929,1903485,2025-12-14,brentford,leeds_united,189,19,1,1,4231,352,Keith Andrews,Daniel Farke,Premier League,WhoScored/Opta,2026-08-20T01:18:08.525280+00:00
+understat:28932,1903488,2025-12-14,crystal_palace,manchester_city,162,167,0,3,3421,4321,Oliver Glasner,Pep Guardiola,Premier League,WhoScored/Opta,2026-08-20T01:24:09.043614+00:00
+understat:28935,1903491,2025-12-14,nottingham_forest,tottenham_hotspur,174,30,3,0,4231,4231,Sean Dyche,Thomas Frank,Premier League,WhoScored/Opta,2026-08-20T01:19:24.051908+00:00
+understat:28936,1903492,2025-12-14,sunderland,newcastle_united,16,23,1,0,4231,433,Régis Le Bris,Eddie Howe,Premier League,WhoScored/Opta,2026-08-20T01:25:23.655992+00:00
+understat:28937,1903493,2025-12-14,west_ham,aston_villa,29,24,2,3,4312,4231,Nuno Herlander Simões Espírito Santo,Unai Emery,Premier League,WhoScored/Opta,2026-08-20T01:20:45.716244+00:00
+understat:28934,1903490,2025-12-15,manchester_united,bournemouth,32,183,4,4,3421,4231,Ruben Filipe Marques Diogo Amorim,Andoni Iraola,Premier League,WhoScored/Opta,2026-08-20T01:26:13.598013+00:00
+understat:28938,1903494,2025-12-20,bournemouth,burnley,183,184,1,1,4231,442,Andoni Iraola,Scott Parker,Premier League,WhoScored/Opta,2026-08-20T02:50:27.764426+00:00
+understat:28940,1903496,2025-12-20,brighton,sunderland,211,16,0,0,4231,4231,Fabian Hürzeler,Régis Le Bris,Premier League,WhoScored/Opta,2026-08-20T01:27:03.243388+00:00
+understat:28941,1903281,2025-12-20,everton,arsenal,31,13,0,1,4231,433,David Moyes,Mikel Arteta,Premier League,WhoScored/Opta,2026-08-20T01:25:26.896635+00:00
+understat:28943,1903287,2025-12-20,leeds_united,crystal_palace,19,162,4,1,352,3421,Daniel Farke,Oliver Glasner,Premier League,WhoScored/Opta,2026-08-20T01:27:47.889033+00:00
+understat:28944,1903290,2025-12-20,manchester_city,west_ham,167,29,3,0,4321,4312,Pep Guardiola,Nuno Herlander Simões Espírito Santo,Premier League,WhoScored/Opta,2026-08-20T01:26:30.747516+00:00
+understat:28945,1903293,2025-12-20,newcastle_united,chelsea,23,15,2,2,433,4231,Eddie Howe,Enzo Maresca,Premier League,WhoScored/Opta,2026-08-20T02:33:02.625975+00:00
+understat:28946,1903296,2025-12-20,tottenham_hotspur,liverpool,30,26,1,2,4222,4231,Thomas Frank,Arne Slot,Premier League,WhoScored/Opta,2026-08-20T01:27:26.706015+00:00
+understat:28947,1903299,2025-12-20,wolverhampton_wanderers,brentford,161,189,0,2,352,433,Rob Edwards,Keith Andrews,Premier League,WhoScored/Opta,2026-08-20T01:32:38.989598+00:00
+understat:28939,1903495,2025-12-21,aston_villa,manchester_united,24,32,2,1,4231,3421,Unai Emery,Ruben Filipe Marques Diogo Amorim,Premier League,WhoScored/Opta,2026-08-20T01:28:05.384763+00:00
+understat:28942,1903284,2025-12-22,fulham,nottingham_forest,170,174,1,0,4231,4231,Marco Alexandre Saraiva da Silva,Sean Dyche,Premier League,WhoScored/Opta,2026-08-20T01:33:30.580186+00:00
+understat:28954,1903319,2025-12-26,manchester_united,newcastle_united,32,23,1,0,4231,433,Ruben Filipe Marques Diogo Amorim,Eddie Howe,Premier League,WhoScored/Opta,2026-08-20T01:29:39.467807+00:00
+understat:28948,1903302,2025-12-27,arsenal,brighton,13,211,2,1,433,3421,Mikel Arteta,Fabian Hürzeler,Premier League,WhoScored/Opta,2026-08-20T01:34:26.051886+00:00
+understat:28949,1903305,2025-12-27,brentford,bournemouth,189,183,4,1,4231,4231,Keith Andrews,Andoni Iraola,Premier League,WhoScored/Opta,2026-08-20T01:30:54.468551+00:00
+understat:28950,1903308,2025-12-27,burnley,everton,184,31,0,0,343,4231,Scott Parker,David Moyes,Premier League,WhoScored/Opta,2026-08-20T01:35:21.159008+00:00
+understat:28951,1903311,2025-12-27,chelsea,aston_villa,15,24,1,2,4231,442,Enzo Maresca,Unai Emery,Premier League,WhoScored/Opta,2026-08-20T01:32:52.940085+00:00
+understat:28953,1903316,2025-12-27,liverpool,wolverhampton_wanderers,26,161,2,1,4231,3421,Arne Slot,Rob Edwards,Premier League,WhoScored/Opta,2026-08-20T01:37:19.133557+00:00
+understat:28955,1903323,2025-12-27,nottingham_forest,manchester_city,174,167,1,2,4231,4321,Sean Dyche,Pep Guardiola,Premier League,WhoScored/Opta,2026-08-20T01:34:17.991509+00:00
+understat:28957,1903330,2025-12-27,west_ham,fulham,29,170,0,1,4321,4231,Nuno Herlander Simões Espírito Santo,Marco Alexandre Saraiva da Silva,Premier League,WhoScored/Opta,2026-08-20T01:38:08.143940+00:00
+understat:28952,1903314,2025-12-28,crystal_palace,tottenham_hotspur,162,30,0,1,3421,4231,Oliver Glasner,Thomas Frank,Premier League,WhoScored/Opta,2026-08-20T01:34:51.316929+00:00
+understat:28956,1903326,2025-12-28,sunderland,leeds_united,16,19,1,1,4231,352,Régis Le Bris,Daniel Farke,Premier League,WhoScored/Opta,2026-08-20T01:38:49.396088+00:00
+understat:28958,1903333,2025-12-30,arsenal,aston_villa,13,24,4,1,433,4231,Mikel Arteta,Unai Emery,Premier League,WhoScored/Opta,2026-08-20T01:37:28.076301+00:00
+understat:28960,1903339,2025-12-30,burnley,newcastle_united,184,23,1,3,343,433,Scott Parker,Eddie Howe,Premier League,WhoScored/Opta,2026-08-20T01:39:45.051850+00:00
+understat:28961,1903342,2025-12-30,chelsea,bournemouth,15,183,2,2,4231,4231,Enzo Maresca,Andoni Iraola,Premier League,WhoScored/Opta,2026-08-20T01:38:46.468776+00:00
+understat:28964,1903351,2025-12-30,manchester_united,wolverhampton_wanderers,32,161,1,1,4231,352,Ruben Filipe Marques Diogo Amorim,Rob Edwards,Premier League,WhoScored/Opta,2026-08-20T01:40:44.612330+00:00
+understat:28965,1903354,2025-12-30,nottingham_forest,everton,174,31,0,2,4231,4231,Sean Dyche,David Moyes,Premier League,WhoScored/Opta,2026-08-20T01:39:44.478261+00:00
+understat:28967,1903360,2025-12-30,west_ham,brighton,29,211,2,2,4231,4231,Nuno Herlander Simões Espírito Santo,Fabian Hürzeler,Premier League,WhoScored/Opta,2026-08-20T01:41:44.930389+00:00
+understat:28959,1903336,2026-01-01,brentford,tottenham_hotspur,189,30,0,0,433,433,Keith Andrews,Thomas Frank,Premier League,WhoScored/Opta,2026-08-20T01:40:46.286853+00:00
+understat:28962,1903345,2026-01-01,crystal_palace,fulham,162,170,1,1,3421,4231,Oliver Glasner,Marco Alexandre Saraiva da Silva,Premier League,WhoScored/Opta,2026-08-20T01:42:22.920286+00:00
+understat:28963,1903348,2026-01-01,liverpool,leeds_united,26,19,0,0,4231,352,Arne Slot,Daniel Farke,Premier League,WhoScored/Opta,2026-08-20T09:29:12.644918+00:00
+understat:28966,1903357,2026-01-01,sunderland,manchester_city,16,167,0,0,4231,4321,Régis Le Bris,Pep Guardiola,Premier League,WhoScored/Opta,2026-08-20T01:46:36.797317+00:00
+understat:28970,1903263,2026-01-03,wolverhampton_wanderers,west_ham,161,29,3,0,352,4231,Rob Edwards,Nuno Herlander Simões Espírito Santo,Premier League,WhoScored/Opta,2026-08-20T09:29:32.798587+00:00
+understat:28971,1903363,2026-01-03,bournemouth,arsenal,183,13,2,3,4231,433,Andoni Iraola,Mikel Arteta,Premier League,WhoScored/Opta,2026-08-20T01:47:20.709951+00:00
+understat:28972,1903366,2026-01-03,aston_villa,nottingham_forest,24,174,3,1,4231,451,Unai Emery,Sean Dyche,Premier League,WhoScored/Opta,2026-08-20T01:43:08.784445+00:00
+understat:28973,1903369,2026-01-03,brighton,burnley,211,184,2,0,4231,541,Fabian Hürzeler,Scott Parker,Premier League,WhoScored/Opta,2026-08-20T01:47:50.403671+00:00
+understat:28968,1903259,2026-01-04,newcastle_united,crystal_palace,23,162,2,0,433,3421,Eddie Howe,Oliver Glasner,Premier League,WhoScored/Opta,2026-08-20T01:43:49.626198+00:00
+understat:28969,1903261,2026-01-04,tottenham_hotspur,sunderland,30,16,1,1,4231,442,Thomas Frank,Régis Le Bris,Premier League,WhoScored/Opta,2026-08-20T01:48:23.370213+00:00
+understat:28974,1903371,2026-01-04,everton,brentford,31,189,2,4,4231,4231,David Moyes,Keith Andrews,Premier League,WhoScored/Opta,2026-08-20T01:44:13.146861+00:00
+understat:28975,1903374,2026-01-04,fulham,liverpool,170,26,2,2,3421,4231,Marco Alexandre Saraiva da Silva,Arne Slot,Premier League,WhoScored/Opta,2026-08-20T01:49:48.043828+00:00
+understat:28976,1903375,2026-01-04,leeds_united,manchester_united,19,32,1,1,352,3421,Daniel Farke,Ruben Filipe Marques Diogo Amorim,Premier League,WhoScored/Opta,2026-08-20T01:45:56.862490+00:00
+understat:28977,1903376,2026-01-04,manchester_city,chelsea,167,15,1,1,4141,4231,Pep Guardiola,Calum McFarlane,Premier League,WhoScored/Opta,2026-08-20T01:51:23.436662+00:00
+understat:28987,1903288,2026-01-06,west_ham,nottingham_forest,29,174,1,2,4231,4231,Nuno Herlander Simões Espírito Santo,Sean Dyche,Premier League,WhoScored/Opta,2026-08-20T01:47:14.102260+00:00
+understat:28978,1903276,2026-01-07,everton,wolverhampton_wanderers,31,161,1,1,433,352,David Moyes,Rob Edwards,Premier League,WhoScored/Opta,2026-08-20T01:54:20.314168+00:00
+understat:28979,1903265,2026-01-07,bournemouth,tottenham_hotspur,183,30,3,2,4231,4231,Andoni Iraola,Thomas Frank,Premier League,WhoScored/Opta,2026-08-20T01:47:44.435389+00:00
+understat:28981,1903269,2026-01-07,brentford,sunderland,189,16,3,0,4231,4231,Keith Andrews,Régis Le Bris,Premier League,WhoScored/Opta,2026-08-20T01:55:08.403516+00:00
+understat:28982,1903271,2026-01-07,burnley,manchester_united,184,32,2,2,3421,4231,Scott Parker,Darren Fletcher,Premier League,WhoScored/Opta,2026-08-20T01:48:20.077032+00:00
+understat:28983,1903274,2026-01-07,crystal_palace,aston_villa,162,24,0,0,3421,4231,Oliver Glasner,Unai Emery,Premier League,WhoScored/Opta,2026-08-20T01:55:25.609025+00:00
+understat:28984,1903279,2026-01-07,fulham,chelsea,170,15,2,1,3421,4231,Marco Alexandre Saraiva da Silva,Calum McFarlane,Premier League,WhoScored/Opta,2026-08-20T01:49:08.205309+00:00
+understat:28985,1903282,2026-01-07,manchester_city,brighton,167,211,1,1,4141,4231,Pep Guardiola,Fabian Hürzeler,Premier League,WhoScored/Opta,2026-08-20T01:55:59.993169+00:00
+understat:28986,1903285,2026-01-07,newcastle_united,leeds_united,23,19,4,3,433,3142,Eddie Howe,Daniel Farke,Premier League,WhoScored/Opta,2026-08-20T01:49:51.798438+00:00
+understat:28980,1903267,2026-01-08,arsenal,liverpool,13,26,0,0,433,4231,Mikel Arteta,Arne Slot,Premier League,WhoScored/Opta,2026-08-20T01:56:16.790671+00:00
+understat:28990,1903297,2026-01-17,chelsea,brentford,15,189,2,0,4231,4231,Liam Rosenior,Keith Andrews,Premier League,WhoScored/Opta,2026-08-20T01:51:31.931935+00:00
+understat:28991,1903300,2026-01-17,leeds_united,fulham,19,170,1,0,352,4231,Daniel Farke,Marco Alexandre Saraiva da Silva,Premier League,WhoScored/Opta,2026-08-20T01:56:34.402585+00:00
+understat:28992,1903303,2026-01-17,liverpool,burnley,26,184,1,1,4231,3421,Arne Slot,Scott Parker,Premier League,WhoScored/Opta,2026-08-20T09:32:06.051665+00:00
+understat:28993,1903304,2026-01-17,manchester_united,manchester_city,32,167,2,0,4231,4141,Michael Carrick,Pep Guardiola,Premier League,WhoScored/Opta,2026-08-20T01:56:51.209678+00:00
+understat:28994,1903307,2026-01-17,nottingham_forest,arsenal,174,13,0,0,4231,433,Sean Dyche,Mikel Arteta,Premier League,WhoScored/Opta,2026-08-20T01:52:54.910808+00:00
+understat:28995,1903310,2026-01-17,sunderland,crystal_palace,16,162,2,1,4231,3421,Régis Le Bris,Oliver Glasner,Premier League,WhoScored/Opta,2026-08-20T02:33:23.034083+00:00
+understat:28996,1903313,2026-01-17,tottenham_hotspur,west_ham,30,29,1,2,4231,4411,Thomas Frank,Nuno Herlander Simões Espírito Santo,Premier League,WhoScored/Opta,2026-08-20T01:55:17.069861+00:00
+understat:28988,1903291,2026-01-18,aston_villa,everton,24,31,0,1,4231,4231,Unai Emery,David Moyes,Premier League,WhoScored/Opta,2026-08-20T02:33:41.772595+00:00
+understat:28997,1903317,2026-01-18,wolverhampton_wanderers,newcastle_united,161,23,0,0,352,433,Rob Edwards,Eddie Howe,Premier League,WhoScored/Opta,2026-08-20T01:55:49.085614+00:00
+understat:28989,1903294,2026-01-19,brighton,bournemouth,211,183,1,1,4231,4231,Fabian Hürzeler,Andoni Iraola,Premier League,WhoScored/Opta,2026-08-20T02:34:15.894536+00:00
+understat:28998,1903320,2026-01-24,bournemouth,liverpool,183,26,3,2,4231,4222,Andoni Iraola,Arne Slot,Premier League,WhoScored/Opta,2026-08-20T01:56:09.911763+00:00
+understat:29001,1903328,2026-01-24,burnley,tottenham_hotspur,184,30,2,2,3421,3421,Scott Parker,Thomas Frank,Premier League,WhoScored/Opta,2026-08-20T02:34:35.010939+00:00
+understat:29004,1903337,2026-01-24,fulham,brighton,170,211,2,1,4231,433,Marco Alexandre Saraiva da Silva,Fabian Hürzeler,Premier League,WhoScored/Opta,2026-08-20T01:56:30.036182+00:00
+understat:29005,1903340,2026-01-24,manchester_city,wolverhampton_wanderers,167,161,2,0,4141,352,Pep Guardiola,Rob Edwards,Premier League,WhoScored/Opta,2026-08-20T02:35:14.125351+00:00
+understat:29007,1903260,2026-01-24,west_ham,sunderland,29,16,3,1,4411,442,Nuno Herlander Simões Espírito Santo,Régis Le Bris,Premier League,WhoScored/Opta,2026-08-20T01:56:49.412185+00:00
+understat:28999,1903322,2026-01-25,arsenal,manchester_united,13,32,2,3,433,4231,Mikel Arteta,Michael Carrick,Premier League,WhoScored/Opta,2026-08-20T02:35:33.261394+00:00
+understat:29000,1903325,2026-01-25,brentford,nottingham_forest,189,174,0,2,4231,4231,Keith Andrews,Sean Dyche,Premier League,WhoScored/Opta,2026-08-20T01:57:25.764001+00:00
+understat:29002,1903331,2026-01-25,crystal_palace,chelsea,162,15,1,3,3421,4231,Oliver Glasner,Liam Rosenior,Premier League,WhoScored/Opta,2026-08-20T02:37:55.800405+00:00
+understat:29006,1903343,2026-01-25,newcastle_united,aston_villa,23,24,0,2,433,4231,Eddie Howe,Unai Emery,Premier League,WhoScored/Opta,2026-08-20T01:57:43.767563+00:00
+understat:29003,1903334,2026-01-26,everton,leeds_united,31,19,1,1,4231,3421,David Moyes,Daniel Farke,Premier League,WhoScored/Opta,2026-08-20T02:38:20.598500+00:00
+understat:29009,1903266,2026-01-31,chelsea,west_ham,15,29,3,2,4141,4411,Liam Rosenior,Nuno Herlander Simões Espírito Santo,Premier League,WhoScored/Opta,2026-08-20T02:00:06.482103+00:00
+understat:29010,1903264,2026-01-31,brighton,everton,211,31,1,1,433,4231,Fabian Hürzeler,David Moyes,Premier League,WhoScored/Opta,2026-08-20T02:38:42.510127+00:00
+understat:29014,1903270,2026-01-31,liverpool,newcastle_united,26,23,4,1,4231,433,Arne Slot,Eddie Howe,Premier League,WhoScored/Opta,2026-08-20T02:02:31.984687+00:00
+understat:29015,1903268,2026-01-31,leeds_united,arsenal,19,13,0,4,3421,4231,Daniel Farke,Mikel Arteta,Premier League,WhoScored/Opta,2026-08-20T02:39:00.785600+00:00
+understat:29017,1903278,2026-01-31,wolverhampton_wanderers,bournemouth,161,183,0,2,352,4231,Rob Edwards,Andoni Iraola,Premier League,WhoScored/Opta,2026-08-20T02:04:56.415789+00:00
+understat:29008,1903262,2026-02-01,aston_villa,brentford,24,189,0,1,4231,4231,Unai Emery,Keith Andrews,Premier League,WhoScored/Opta,2026-08-20T02:39:49.069838+00:00
+understat:29012,1903272,2026-02-01,manchester_united,fulham,32,170,3,2,4231,4231,Michael Carrick,Marco Alexandre Saraiva da Silva,Premier League,WhoScored/Opta,2026-08-20T02:05:20.139716+00:00
+understat:29013,1903273,2026-02-01,nottingham_forest,crystal_palace,174,162,1,1,4231,3421,Sean Dyche,Oliver Glasner,Premier League,WhoScored/Opta,2026-08-20T02:40:18.921861+00:00
+understat:29016,1903277,2026-02-01,tottenham_hotspur,manchester_city,30,167,2,2,3421,4132,Thomas Frank,Pep Guardiola,Premier League,WhoScored/Opta,2026-08-20T02:05:40.257192+00:00
+understat:29011,1903275,2026-02-02,sunderland,burnley,16,184,3,0,541,3421,Régis Le Bris,Scott Parker,Premier League,WhoScored/Opta,2026-08-20T02:40:36.699384+00:00
+understat:29023,1903295,2026-02-06,leeds_united,nottingham_forest,19,174,3,1,3421,4231,Daniel Farke,Sean Dyche,Premier League,WhoScored/Opta,2026-08-20T02:06:00.516454+00:00
+understat:29018,1903280,2026-02-07,bournemouth,aston_villa,183,24,1,1,4231,4231,Andoni Iraola,Unai Emery,Premier League,WhoScored/Opta,2026-08-20T02:40:53.571084+00:00
+understat:29019,1903283,2026-02-07,arsenal,sunderland,13,16,3,0,433,4231,Mikel Arteta,Régis Le Bris,Premier League,WhoScored/Opta,2026-08-20T02:06:16.665091+00:00
+understat:29021,1903289,2026-02-07,burnley,west_ham,184,29,0,2,451,4411,Scott Parker,Nuno Herlander Simões Espírito Santo,Premier League,WhoScored/Opta,2026-08-20T02:41:17.241458+00:00
+understat:29022,1903292,2026-02-07,fulham,everton,170,31,1,2,4231,4231,Marco Alexandre Saraiva da Silva,David Moyes,Premier League,WhoScored/Opta,2026-08-20T02:06:37.161485+00:00
+understat:29025,1903301,2026-02-07,manchester_united,tottenham_hotspur,32,30,2,0,4231,433,Michael Carrick,Thomas Frank,Premier League,WhoScored/Opta,2026-08-20T02:41:39.905350+00:00
+understat:29026,1903306,2026-02-07,newcastle_united,brentford,23,189,2,3,433,4231,Eddie Howe,Keith Andrews,Premier League,WhoScored/Opta,2026-08-20T02:07:02.877508+00:00
+understat:29027,1903309,2026-02-07,wolverhampton_wanderers,chelsea,161,15,1,3,4231,4231,Rob Edwards,Liam Rosenior,Premier League,WhoScored/Opta,2026-08-20T02:42:30.553137+00:00
+understat:29020,1903286,2026-02-08,brighton,crystal_palace,211,162,0,1,4231,3421,Fabian Hürzeler,Oliver Glasner,Premier League,WhoScored/Opta,2026-08-20T02:07:20.970028+00:00
+understat:29024,1903298,2026-02-08,liverpool,manchester_city,26,167,1,2,4231,4132,Arne Slot,Pep Guardiola,Premier League,WhoScored/Opta,2026-08-20T03:40:00.591892+00:00
+understat:29030,1903318,2026-02-10,chelsea,leeds_united,15,19,2,2,4231,541,Liam Rosenior,Daniel Farke,Premier League,WhoScored/Opta,2026-08-20T02:07:39.340647+00:00
+understat:29032,1903324,2026-02-10,everton,bournemouth,31,183,1,2,4231,4231,David Moyes,Andoni Iraola,Premier League,WhoScored/Opta,2026-08-20T02:47:01.328366+00:00
+understat:29036,1903335,2026-02-10,tottenham_hotspur,newcastle_united,30,23,1,2,433,433,Thomas Frank,Eddie Howe,Premier League,WhoScored/Opta,2026-08-20T02:08:09.156432+00:00
+understat:29037,1903338,2026-02-10,west_ham,manchester_united,29,32,1,1,4231,4231,Nuno Herlander Simões Espírito Santo,Michael Carrick,Premier League,WhoScored/Opta,2026-08-20T02:47:21.684093+00:00
+understat:29028,1903312,2026-02-11,aston_villa,brighton,24,211,1,0,4231,433,Unai Emery,Fabian Hürzeler,Premier League,WhoScored/Opta,2026-08-20T02:08:33.752635+00:00
+understat:29031,1903321,2026-02-11,crystal_palace,burnley,162,184,2,3,3421,3421,Oliver Glasner,Scott Parker,Premier League,WhoScored/Opta,2026-08-20T02:47:39.909138+00:00
+understat:29033,1903327,2026-02-11,manchester_city,fulham,167,170,3,0,4132,4231,Pep Guardiola,Marco Alexandre Saraiva da Silva,Premier League,WhoScored/Opta,2026-08-20T02:09:01.883325+00:00
+understat:29034,1903329,2026-02-11,nottingham_forest,wolverhampton_wanderers,174,161,0,0,4231,3412,Sean Dyche,Rob Edwards,Premier League,WhoScored/Opta,2026-08-20T02:47:57.188223+00:00
+understat:29035,1903332,2026-02-11,sunderland,liverpool,16,26,0,1,4231,4231,Régis Le Bris,Arne Slot,Premier League,WhoScored/Opta,2026-08-20T02:09:23.295833+00:00
+understat:29029,1903315,2026-02-12,brentford,arsenal,189,13,1,1,4231,4231,Keith Andrews,Mikel Arteta,Premier League,WhoScored/Opta,2026-08-20T02:48:13.457098+00:00
+understat:29087,1903469,2026-02-18,wolverhampton_wanderers,arsenal,161,13,2,2,3421,4231,Rob Edwards,Mikel Arteta,Premier League,WhoScored/Opta,2026-08-20T02:09:45.162153+00:00
+understat:29038,1903341,2026-02-21,aston_villa,leeds_united,24,19,1,1,4231,541,Unai Emery,Daniel Farke,Premier League,WhoScored/Opta,2026-08-20T02:48:33.344733+00:00
+understat:29039,1903344,2026-02-21,brentford,brighton,189,211,0,2,4231,433,Keith Andrews,Fabian Hürzeler,Premier League,WhoScored/Opta,2026-08-20T02:10:06.672445+00:00
+understat:29040,1903347,2026-02-21,chelsea,burnley,15,184,1,1,4231,3421,Liam Rosenior,Scott Parker,Premier League,WhoScored/Opta,2026-08-20T02:48:51.590141+00:00
+understat:29043,1903385,2026-02-21,manchester_city,newcastle_united,167,23,2,1,4132,433,Pep Guardiola,Eddie Howe,Premier League,WhoScored/Opta,2026-08-20T02:10:26.031870+00:00
+understat:29047,1903394,2026-02-21,west_ham,bournemouth,29,183,0,0,451,4231,Nuno Herlander Simões Espírito Santo,Andoni Iraola,Premier League,WhoScored/Opta,2026-08-20T02:49:15.179247+00:00
+understat:29041,1903380,2026-02-22,crystal_palace,wolverhampton_wanderers,162,161,1,0,3421,3421,Oliver Glasner,Rob Edwards,Premier League,WhoScored/Opta,2026-08-20T02:12:47.704120+00:00
+understat:29044,1903386,2026-02-22,nottingham_forest,liverpool,174,26,0,1,4231,4231,Vítor Manuel de Oliveira Lopes Pereira,Arne Slot,Premier League,WhoScored/Opta,2026-08-20T02:49:47.331469+00:00
+understat:29045,1903390,2026-02-22,sunderland,fulham,16,170,1,3,4141,4231,Régis Le Bris,Marco Alexandre Saraiva da Silva,Premier League,WhoScored/Opta,2026-08-20T02:13:05.922433+00:00
+understat:29046,1903393,2026-02-22,tottenham_hotspur,arsenal,30,13,1,4,352,4231,Igor Tudor,Mikel Arteta,Premier League,WhoScored/Opta,2026-08-20T02:50:58.780315+00:00
+understat:29042,1903383,2026-02-23,everton,manchester_united,31,32,0,1,4231,4231,David Moyes,Michael Carrick,Premier League,WhoScored/Opta,2026-08-20T02:13:33.164577+00:00
+understat:29057,1903414,2026-02-27,wolverhampton_wanderers,aston_villa,161,24,2,0,3421,4231,Rob Edwards,Unai Emery,Premier League,WhoScored/Opta,2026-08-20T02:53:31.668486+00:00
+understat:29048,1903396,2026-02-28,bournemouth,sunderland,183,16,1,1,4231,4231,Andoni Iraola,Régis Le Bris,Premier League,WhoScored/Opta,2026-08-20T02:15:51.731028+00:00
+understat:29051,1903402,2026-02-28,burnley,brentford,184,189,3,4,3421,4231,Scott Parker,Keith Andrews,Premier League,WhoScored/Opta,2026-08-20T02:53:48.496382+00:00
+understat:29053,1903406,2026-02-28,leeds_united,manchester_city,19,167,0,1,541,4132,Daniel Farke,Pep Guardiola,Premier League,WhoScored/Opta,2026-08-20T02:18:15.309191+00:00
+understat:29054,1903408,2026-02-28,liverpool,west_ham,26,29,5,2,4231,451,Arne Slot,Nuno Herlander Simões Espírito Santo,Premier League,WhoScored/Opta,2026-08-20T02:54:10.559679+00:00
+understat:29056,1903412,2026-02-28,newcastle_united,everton,23,31,2,3,433,4231,Eddie Howe,David Moyes,Premier League,WhoScored/Opta,2026-08-20T02:18:41.304504+00:00
+understat:29049,1903399,2026-03-01,arsenal,chelsea,13,15,2,1,4231,433,Mikel Arteta,Liam Rosenior,Premier League,WhoScored/Opta,2026-08-20T02:54:30.717302+00:00
+understat:29050,1903400,2026-03-01,brighton,nottingham_forest,211,174,2,1,4231,4231,Fabian Hürzeler,Vítor Manuel de Oliveira Lopes Pereira,Premier League,WhoScored/Opta,2026-08-20T02:19:08.172079+00:00
+understat:29052,1903404,2026-03-01,fulham,tottenham_hotspur,170,30,2,1,4231,442,Marco Alexandre Saraiva da Silva,Igor Tudor,Premier League,WhoScored/Opta,2026-08-20T02:54:49.911406+00:00
+understat:29055,1903410,2026-03-01,manchester_united,crystal_palace,32,162,2,1,4231,3421,Michael Carrick,Oliver Glasner,Premier League,WhoScored/Opta,2026-08-20T02:21:07.454921+00:00
+understat:29058,1903416,2026-03-03,bournemouth,brentford,183,189,0,0,4231,4231,Andoni Iraola,Keith Andrews,Premier League,WhoScored/Opta,2026-08-20T02:55:12.470615+00:00
+understat:29061,1903423,2026-03-03,everton,burnley,31,184,2,0,4231,3421,David Moyes,Scott Parker,Premier League,WhoScored/Opta,2026-08-20T02:21:23.212860+00:00
+understat:29063,1903427,2026-03-03,leeds_united,sunderland,19,16,0,1,451,4231,Daniel Farke,Régis Le Bris,Premier League,WhoScored/Opta,2026-08-20T02:55:32.523983+00:00
+understat:29067,1903435,2026-03-03,wolverhampton_wanderers,liverpool,161,26,2,1,3511,4231,Rob Edwards,Arne Slot,Premier League,WhoScored/Opta,2026-08-20T02:21:40.206306+00:00
+understat:29059,1903418,2026-03-04,aston_villa,chelsea,24,15,1,4,4231,433,Unai Emery,Liam Rosenior,Premier League,WhoScored/Opta,2026-08-20T02:56:02.039597+00:00
+understat:29060,1903421,2026-03-04,brighton,arsenal,211,13,0,1,4231,4231,Fabian Hürzeler,Mikel Arteta,Premier League,WhoScored/Opta,2026-08-20T02:22:00.974439+00:00
+understat:29062,1903425,2026-03-04,fulham,west_ham,170,29,0,1,4231,442,Marco Alexandre Saraiva da Silva,Nuno Herlander Simões Espírito Santo,Premier League,WhoScored/Opta,2026-08-20T02:56:20.680360+00:00
+understat:29064,1903429,2026-03-04,manchester_city,nottingham_forest,167,174,2,2,4132,532,Pep Guardiola,Vítor Manuel de Oliveira Lopes Pereira,Premier League,WhoScored/Opta,2026-08-20T02:22:20.857164+00:00
+understat:29065,1903431,2026-03-04,newcastle_united,manchester_united,23,32,2,1,433,4231,Eddie Howe,Michael Carrick,Premier League,WhoScored/Opta,2026-08-20T02:58:44.237525+00:00
+understat:29066,1903433,2026-03-05,tottenham_hotspur,crystal_palace,30,162,1,3,3421,3421,Igor Tudor,Oliver Glasner,Premier League,WhoScored/Opta,2026-08-20T02:22:37.487442+00:00
+understat:29068,1903437,2026-03-14,arsenal,everton,13,31,2,0,4231,4231,Mikel Arteta,David Moyes,Premier League,WhoScored/Opta,2026-08-20T03:01:56.030500+00:00
+understat:29070,1903441,2026-03-14,burnley,bournemouth,184,183,0,0,4231,4231,Scott Parker,Andoni Iraola,Premier League,WhoScored/Opta,2026-08-20T02:22:54.876496+00:00
+understat:29071,1903443,2026-03-14,chelsea,newcastle_united,15,23,0,1,4231,4231,Liam Rosenior,Eddie Howe,Premier League,WhoScored/Opta,2026-08-20T03:02:13.527447+00:00
+understat:29076,1903456,2026-03-14,sunderland,brighton,16,211,0,1,4141,4231,Régis Le Bris,Fabian Hürzeler,Premier League,WhoScored/Opta,2026-08-20T02:23:13.602544+00:00
+understat:29077,1903459,2026-03-14,west_ham,manchester_city,29,167,1,1,3421,4132,Nuno Herlander Simões Espírito Santo,Pep Guardiola,Premier League,WhoScored/Opta,2026-08-20T03:02:30.160240+00:00
+understat:29072,1903445,2026-03-15,crystal_palace,leeds_united,162,19,0,0,3421,3412,Oliver Glasner,Daniel Farke,Premier League,WhoScored/Opta,2026-08-20T02:23:32.370679+00:00
+understat:29073,1903447,2026-03-15,liverpool,tottenham_hotspur,26,30,1,1,4231,442,Arne Slot,Igor Tudor,Premier League,WhoScored/Opta,2026-08-20T03:02:51.229164+00:00
+understat:29074,1903450,2026-03-15,manchester_united,aston_villa,32,24,3,1,4231,4231,Michael Carrick,Unai Emery,Premier League,WhoScored/Opta,2026-08-20T02:23:58.030241+00:00
+understat:29075,1903452,2026-03-15,nottingham_forest,fulham,174,170,0,0,4231,4231,Vítor Manuel de Oliveira Lopes Pereira,Marco Alexandre Saraiva da Silva,Premier League,WhoScored/Opta,2026-08-20T03:03:11.378271+00:00
+understat:29069,1903439,2026-03-16,brentford,wolverhampton_wanderers,189,161,2,2,4141,3421,Keith Andrews,Rob Edwards,Premier League,WhoScored/Opta,2026-08-20T02:26:18.340026+00:00
+understat:29078,1903460,2026-03-20,bournemouth,manchester_united,183,32,2,2,4231,4231,Andoni Iraola,Michael Carrick,Premier League,WhoScored/Opta,2026-08-20T03:04:09.486714+00:00
+understat:29080,1903462,2026-03-21,brighton,liverpool,211,26,2,1,4231,41212,Fabian Hürzeler,Arne Slot,Premier League,WhoScored/Opta,2026-08-20T02:26:41.115722+00:00
+understat:29081,1903463,2026-03-21,everton,chelsea,31,15,3,0,4231,4231,David Moyes,Liam Rosenior,Premier League,WhoScored/Opta,2026-08-20T03:04:31.095779+00:00
+understat:29082,1903464,2026-03-21,fulham,burnley,170,184,3,1,4231,4231,Marco Alexandre Saraiva da Silva,Scott Parker,Premier League,WhoScored/Opta,2026-08-20T02:29:00.756058+00:00
+understat:29083,1903465,2026-03-21,leeds_united,brentford,19,189,0,0,3412,532,Daniel Farke,Keith Andrews,Premier League,WhoScored/Opta,2026-08-20T03:04:49.825309+00:00
+understat:29079,1903461,2026-03-22,aston_villa,west_ham,24,29,2,0,4231,433,Unai Emery,Nuno Herlander Simões Espírito Santo,Premier League,WhoScored/Opta,2026-08-20T02:29:20.434514+00:00
+understat:29085,1903467,2026-03-22,newcastle_united,sunderland,23,16,1,2,4231,4141,Eddie Howe,Régis Le Bris,Premier League,WhoScored/Opta,2026-08-20T03:05:11.649149+00:00
+understat:29086,1903468,2026-03-22,tottenham_hotspur,nottingham_forest,30,174,0,3,442,4231,Igor Tudor,Vítor Manuel de Oliveira Lopes Pereira,Premier League,WhoScored/Opta,2026-08-20T02:29:39.496988+00:00
+understat:29091,1903355,2026-04-10,west_ham,wolverhampton_wanderers,29,161,4,0,4411,3511,Nuno Herlander Simões Espírito Santo,Rob Edwards,Premier League,WhoScored/Opta,2026-08-20T03:05:29.416287+00:00
+understat:29092,1903470,2026-04-11,arsenal,bournemouth,13,183,1,2,4231,4231,Mikel Arteta,Andoni Iraola,Premier League,WhoScored/Opta,2026-08-20T02:30:03.753867+00:00
+understat:29093,1903471,2026-04-11,brentford,everton,189,31,2,2,4231,4231,Keith Andrews,David Moyes,Premier League,WhoScored/Opta,2026-08-20T03:05:58.293337+00:00
+understat:29094,1903472,2026-04-11,burnley,brighton,184,211,0,2,4231,4231,Scott Parker,Fabian Hürzeler,Premier League,WhoScored/Opta,2026-08-20T02:30:32.471117+00:00
+understat:29097,1903475,2026-04-11,liverpool,fulham,26,170,2,0,4231,4231,Arne Slot,Marco Alexandre Saraiva da Silva,Premier League,WhoScored/Opta,2026-08-20T03:06:25.905291+00:00
+understat:29089,1903349,2026-04-12,nottingham_forest,aston_villa,174,24,1,1,4231,4231,Vítor Manuel de Oliveira Lopes Pereira,Unai Emery,Premier League,WhoScored/Opta,2026-08-20T02:31:34.997070+00:00
+understat:29090,1903352,2026-04-12,sunderland,tottenham_hotspur,16,30,1,0,4231,4231,Régis Le Bris,Roberto De Zerbi,Premier League,WhoScored/Opta,2026-08-20T03:06:42.685820+00:00
+understat:29095,1903473,2026-04-12,chelsea,manchester_city,15,167,0,3,4231,4231,Liam Rosenior,Pep Guardiola,Premier League,WhoScored/Opta,2026-08-20T02:32:01.982739+00:00
+understat:29096,1903474,2026-04-12,crystal_palace,newcastle_united,162,23,2,1,343,433,Oliver Glasner,Eddie Howe,Premier League,WhoScored/Opta,2026-08-20T03:07:17.226383+00:00
+understat:29088,1903346,2026-04-13,manchester_united,leeds_united,32,19,1,2,4231,3421,Michael Carrick,Daniel Farke,Premier League,WhoScored/Opta,2026-08-20T02:33:22.410822+00:00
+understat:29099,1903362,2026-04-18,brentford,fulham,189,170,0,0,4231,4231,Keith Andrews,Marco Alexandre Saraiva da Silva,Premier League,WhoScored/Opta,2026-08-20T03:09:36.522848+00:00
+understat:29100,1903365,2026-04-18,chelsea,manchester_united,15,32,0,1,4231,4231,Liam Rosenior,Michael Carrick,Premier League,WhoScored/Opta,2026-08-20T02:33:42.381453+00:00
+understat:29103,1903377,2026-04-18,leeds_united,wolverhampton_wanderers,19,161,3,0,3421,3421,Daniel Farke,Rob Edwards,Premier League,WhoScored/Opta,2026-08-20T03:09:57.887585+00:00
+understat:29105,1903379,2026-04-18,newcastle_united,bournemouth,23,183,1,2,433,4231,Eddie Howe,Andoni Iraola,Premier League,WhoScored/Opta,2026-08-20T02:34:39.613648+00:00
+understat:29107,1903382,2026-04-18,tottenham_hotspur,brighton,30,211,2,2,433,4231,Roberto De Zerbi,Fabian Hürzeler,Premier League,WhoScored/Opta,2026-08-20T03:10:16.914101+00:00
+understat:29098,1903358,2026-04-19,aston_villa,sunderland,24,16,4,3,4231,4231,Unai Emery,Régis Le Bris,Premier League,WhoScored/Opta,2026-08-20T02:35:39.219436+00:00
+understat:29102,1903372,2026-04-19,everton,liverpool,31,26,1,2,4231,4231,David Moyes,Arne Slot,Premier League,WhoScored/Opta,2026-08-20T03:10:43.921418+00:00
+understat:29104,1903378,2026-04-19,manchester_city,arsenal,167,13,2,1,4231,433,Pep Guardiola,Mikel Arteta,Premier League,WhoScored/Opta,2026-08-20T02:35:57.900720+00:00
+understat:29106,1903381,2026-04-19,nottingham_forest,burnley,174,184,4,1,4231,4231,Vítor Manuel de Oliveira Lopes Pereira,Scott Parker,Premier League,WhoScored/Opta,2026-08-20T03:11:01.212122+00:00
+understat:29101,1903368,2026-04-20,crystal_palace,west_ham,162,29,0,0,3421,4411,Oliver Glasner,Nuno Herlander Simões Espírito Santo,Premier League,WhoScored/Opta,2026-08-20T02:38:21.836323+00:00
+understat:29110,1903388,2026-04-21,brighton,chelsea,211,15,3,0,4231,541,Fabian Hürzeler,Liam Rosenior,Premier League,WhoScored/Opta,2026-08-20T03:11:21.206149+00:00
+understat:29108,1903384,2026-04-22,bournemouth,leeds_united,183,19,2,2,4231,3421,Andoni Iraola,Daniel Farke,Premier League,WhoScored/Opta,2026-08-20T02:38:43.573764+00:00
+understat:29111,1903389,2026-04-22,burnley,manchester_city,184,167,0,1,541,4231,Scott Parker,Pep Guardiola,Premier League,WhoScored/Opta,2026-08-20T03:11:48.375722+00:00
+understat:29115,1903397,2026-04-24,sunderland,nottingham_forest,16,174,0,5,4231,442,Régis Le Bris,Vítor Manuel de Oliveira Lopes Pereira,Premier League,WhoScored/Opta,2026-08-20T02:41:16.063556+00:00
+understat:29109,1903387,2026-04-25,arsenal,newcastle_united,13,23,1,0,433,4141,Mikel Arteta,Eddie Howe,Premier League,WhoScored/Opta,2026-08-20T03:12:46.482608+00:00
+understat:29112,1903391,2026-04-25,fulham,aston_villa,170,24,1,0,4231,4231,Marco Alexandre Saraiva da Silva,Unai Emery,Premier League,WhoScored/Opta,2026-08-20T09:32:25.143998+00:00
+understat:29113,1903392,2026-04-25,liverpool,crystal_palace,26,162,3,1,4231,3421,Arne Slot,Oliver Glasner,Premier League,WhoScored/Opta,2026-08-20T03:15:07.365661+00:00
+understat:29116,1903398,2026-04-25,west_ham,everton,29,31,2,1,4411,4231,Nuno Herlander Simões Espírito Santo,David Moyes,Premier League,WhoScored/Opta,2026-08-20T02:41:58.609792+00:00
+understat:29117,1903401,2026-04-25,wolverhampton_wanderers,tottenham_hotspur,161,30,0,1,3421,4231,Rob Edwards,Roberto De Zerbi,Premier League,WhoScored/Opta,2026-08-20T03:15:24.727840+00:00
+understat:29114,1903395,2026-04-27,manchester_united,brentford,32,189,2,1,4231,4231,Michael Carrick,Keith Andrews,Premier League,WhoScored/Opta,2026-08-20T02:42:19.810257+00:00
+understat:29124,1903415,2026-05-01,leeds_united,burnley,19,184,3,1,352,541,Daniel Farke,Michael Jackson,Premier League,WhoScored/Opta,2026-08-20T03:15:47.540055+00:00
+understat:29119,1903405,2026-05-02,arsenal,fulham,13,170,3,0,4231,4231,Mikel Arteta,Marco Alexandre Saraiva da Silva,Premier League,WhoScored/Opta,2026-08-20T02:42:52.236720+00:00
+understat:29121,1903409,2026-05-02,brentford,west_ham,189,29,3,0,4231,4411,Keith Andrews,Nuno Herlander Simões Espírito Santo,Premier League,WhoScored/Opta,2026-08-20T03:16:04.787538+00:00
+understat:29126,1903419,2026-05-02,newcastle_united,brighton,23,211,3,1,4231,4231,Eddie Howe,Fabian Hürzeler,Premier League,WhoScored/Opta,2026-08-20T02:43:22.612396+00:00
+understat:29127,1903420,2026-05-02,wolverhampton_wanderers,sunderland,161,16,1,1,3421,4231,Rob Edwards,Régis Le Bris,Premier League,WhoScored/Opta,2026-08-20T03:16:21.880210+00:00
+understat:29118,1903403,2026-05-03,bournemouth,crystal_palace,183,162,3,0,4231,343,Andoni Iraola,Oliver Glasner,Premier League,WhoScored/Opta,2026-08-20T02:43:59.729556+00:00
+understat:29120,1903407,2026-05-03,aston_villa,tottenham_hotspur,24,30,1,2,4231,4231,Unai Emery,Roberto De Zerbi,Premier League,WhoScored/Opta,2026-08-20T03:17:17.035068+00:00
+understat:29125,1903417,2026-05-03,manchester_united,liverpool,32,26,3,2,4231,4222,Michael Carrick,Arne Slot,Premier League,WhoScored/Opta,2026-08-20T02:46:19.663748+00:00
+understat:29122,1903411,2026-05-04,chelsea,nottingham_forest,15,174,1,3,4231,442,Calum McFarlane,Vítor Manuel de Oliveira Lopes Pereira,Premier League,WhoScored/Opta,2026-08-20T03:19:14.031618+00:00
+understat:29123,1903413,2026-05-04,everton,manchester_city,31,167,3,3,4231,4231,David Moyes,Pep Guardiola,Premier League,WhoScored/Opta,2026-08-20T02:46:39.990057+00:00
+understat:29128,1903422,2026-05-09,brighton,wolverhampton_wanderers,211,161,3,0,4231,3421,Fabian Hürzeler,Rob Edwards,Premier League,WhoScored/Opta,2026-08-19T18:55:40.841229+00:00
+understat:29131,1903428,2026-05-09,fulham,bournemouth,170,183,0,1,4231,4231,Marco Alexandre Saraiva da Silva,Andoni Iraola,Premier League,WhoScored/Opta,2026-08-19T19:10:32.562927+00:00
+understat:29132,1903430,2026-05-09,liverpool,chelsea,26,15,1,1,4231,4231,Arne Slot,Calum McFarlane,Premier League,WhoScored/Opta,2026-08-20T03:19:31.941899+00:00
+understat:29133,1903432,2026-05-09,manchester_city,brentford,167,189,3,0,4231,442,Pep Guardiola,Keith Andrews,Premier League,WhoScored/Opta,2026-08-19T19:11:30.367321+00:00
+understat:29135,1903436,2026-05-09,sunderland,manchester_united,16,32,0,0,4231,4231,Régis Le Bris,Michael Carrick,Premier League,WhoScored/Opta,2026-08-19T19:19:54.025321+00:00
+understat:29129,1903424,2026-05-10,burnley,aston_villa,184,24,2,2,4231,4231,Michael Jackson,Unai Emery,Premier League,WhoScored/Opta,2026-08-19T19:20:18.025358+00:00
+understat:29130,1903426,2026-05-10,crystal_palace,everton,162,31,2,2,3421,4231,Oliver Glasner,David Moyes,Premier League,WhoScored/Opta,2026-08-19T19:21:25.045914+00:00
+understat:29134,1903434,2026-05-10,nottingham_forest,newcastle_united,174,23,1,1,3421,4231,Vítor Manuel de Oliveira Lopes Pereira,Eddie Howe,Premier League,WhoScored/Opta,2026-08-19T19:21:44.428928+00:00
+understat:29137,1903440,2026-05-10,west_ham,arsenal,29,13,0,1,3421,4231,Nuno Herlander Simões Espírito Santo,Mikel Arteta,Premier League,WhoScored/Opta,2026-08-19T19:22:22.310638+00:00
+understat:29136,1903438,2026-05-11,tottenham_hotspur,leeds_united,30,19,1,1,4231,352,Roberto De Zerbi,Daniel Farke,Premier League,WhoScored/Opta,2026-08-19T19:22:40.370779+00:00
+understat:29084,1903466,2026-05-13,manchester_city,crystal_palace,167,162,3,0,4222,541,Pep Guardiola,Oliver Glasner,Premier League,WhoScored/Opta,2026-08-19T19:22:58.912267+00:00
+understat:29140,1903446,2026-05-15,aston_villa,liverpool,24,26,4,2,4231,4231,Unai Emery,Arne Slot,Premier League,WhoScored/Opta,2026-08-19T17:58:03.668608+00:00
+understat:29141,1903448,2026-05-17,brentford,crystal_palace,189,162,2,2,4231,3421,Keith Andrews,Oliver Glasner,Premier League,WhoScored/Opta,2026-08-19T19:24:05.743136+00:00
+understat:29143,1903451,2026-05-17,everton,sunderland,31,16,1,3,4231,4231,David Moyes,Régis Le Bris,Premier League,WhoScored/Opta,2026-08-19T19:25:10.662302+00:00
+understat:29144,1903453,2026-05-17,leeds_united,brighton,19,211,1,0,352,4231,Daniel Farke,Fabian Hürzeler,Premier League,WhoScored/Opta,2026-08-19T18:35:14.989177+00:00
+understat:29145,1903454,2026-05-17,manchester_united,nottingham_forest,32,174,3,2,4231,442,Michael Carrick,Vítor Manuel de Oliveira Lopes Pereira,Premier League,WhoScored/Opta,2026-08-19T18:34:16.143234+00:00
+understat:29146,1903455,2026-05-17,newcastle_united,west_ham,23,29,3,1,4231,3421,Eddie Howe,Nuno Herlander Simões Espírito Santo,Premier League,WhoScored/Opta,2026-08-19T18:35:22.769854+00:00
+understat:29147,1903457,2026-05-17,wolverhampton_wanderers,fulham,161,170,1,1,4231,4231,Rob Edwards,Marco Alexandre Saraiva da Silva,Premier League,WhoScored/Opta,2026-08-19T19:25:29.532581+00:00
+understat:29139,1903444,2026-05-18,arsenal,burnley,13,184,1,0,433,4231,Mikel Arteta,Michael Jackson,Premier League,WhoScored/Opta,2026-08-19T19:25:51.050028+00:00
+understat:29138,1903442,2026-05-19,bournemouth,manchester_city,183,167,1,1,4231,4141,Andoni Iraola,Pep Guardiola,Premier League,WhoScored/Opta,2026-08-19T19:26:56.353868+00:00
+understat:29142,1903449,2026-05-19,chelsea,tottenham_hotspur,15,30,2,1,4231,4231,Calum McFarlane,Roberto De Zerbi,Premier League,WhoScored/Opta,2026-08-19T18:35:30.073097+00:00
+understat:29148,1903458,2026-05-24,brighton,manchester_united,211,32,0,3,4231,4231,Fabian Hürzeler,Michael Carrick,Premier League,WhoScored/Opta,2026-08-19T18:35:37.124048+00:00
+understat:29149,1903350,2026-05-24,burnley,wolverhampton_wanderers,184,161,1,1,4231,3421,Michael Jackson,Rob Edwards,Premier League,WhoScored/Opta,2026-08-19T19:27:15.428304+00:00
+understat:29150,1903353,2026-05-24,crystal_palace,arsenal,162,13,1,2,3421,4231,Oliver Glasner,Mikel Arteta,Premier League,WhoScored/Opta,2026-08-19T19:27:36.381531+00:00
+understat:29151,1903356,2026-05-24,fulham,newcastle_united,170,23,2,0,4231,352,Marco Alexandre Saraiva da Silva,Eddie Howe,Premier League,WhoScored/Opta,2026-08-19T19:27:55.820068+00:00
+understat:29152,1903359,2026-05-24,liverpool,brentford,26,189,1,1,4231,4231,Arne Slot,Keith Andrews,Premier League,WhoScored/Opta,2026-08-19T19:28:16.218274+00:00
+understat:29153,1903361,2026-05-24,manchester_city,aston_villa,167,24,1,2,4222,4231,Pep Guardiola,Unai Emery,Premier League,WhoScored/Opta,2026-08-19T18:35:44.067081+00:00
+understat:29154,1903364,2026-05-24,nottingham_forest,bournemouth,174,183,1,1,442,4231,Vítor Manuel de Oliveira Lopes Pereira,Andoni Iraola,Premier League,WhoScored/Opta,2026-08-19T19:28:53.544755+00:00
+understat:29155,1903367,2026-05-24,sunderland,chelsea,16,15,2,1,4231,3412,Régis Le Bris,Calum McFarlane,Premier League,WhoScored/Opta,2026-08-19T19:29:10.612300+00:00
+understat:29156,1903370,2026-05-24,tottenham_hotspur,everton,30,31,1,0,4231,4231,Roberto De Zerbi,David Moyes,Premier League,WhoScored/Opta,2026-08-19T19:29:32.712174+00:00
+understat:29157,1903373,2026-05-24,west_ham,leeds_united,29,19,3,0,4231,352,Nuno Herlander Simões Espírito Santo,Daniel Farke,Premier League,WhoScored/Opta,2026-08-19T18:35:51.034069+00:00

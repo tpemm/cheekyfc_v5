@@ -44,6 +44,7 @@ _PAGES_BY_SEASON: Mapping[str, tuple[str, ...]] = {
     "2627": (
         "League Hub",
         "Players",
+        "Teams",
         "Managers",
         "Cup Tournament",
         "Trades",

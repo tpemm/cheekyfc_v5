@@ -1,0 +1,12 @@
+whoscored_team_id,canonical_club_id,mapping_status,mapping_method
+24,aston_villa,PROVEN,exact cached schedule date/home/away plus canonical alias registry
+211,brighton,PROVEN,exact cached schedule date/home/away plus canonical alias registry
+15,chelsea,PROVEN,exact cached schedule date/home/away plus canonical alias registry
+19,leeds_united,PROVEN,exact cached schedule date/home/away plus canonical alias registry
+26,liverpool,PROVEN,exact cached schedule date/home/away plus canonical alias registry
+167,manchester_city,PROVEN,exact cached schedule date/home/away plus canonical alias registry
+32,manchester_united,PROVEN,exact cached schedule date/home/away plus canonical alias registry
+23,newcastle_united,PROVEN,exact cached schedule date/home/away plus canonical alias registry
+174,nottingham_forest,PROVEN,exact cached schedule date/home/away plus canonical alias registry
+30,tottenham_hotspur,PROVEN,exact cached schedule date/home/away plus canonical alias registry
+29,west_ham,PROVEN,exact cached schedule date/home/away plus canonical alias registry

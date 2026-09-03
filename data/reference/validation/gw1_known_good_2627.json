@@ -1,0 +1,40 @@
+{
+  "snapshot": "2026/27 GW1 known-good",
+  "season_id": "2627",
+  "gameweek": 1,
+  "created_at": "2026-08-24T23:41:47.630357+00:00",
+  "authority": {
+    "fantasy": "Fantrax",
+    "advanced": "WhoScored",
+    "expected_goals": "Understat"
+  },
+  "counts": {
+    "matches": 10,
+    "clubs": 20,
+    "all_players": 615,
+    "rostered": 190,
+    "managers": 12,
+    "whoscored_matches": 10,
+    "whoscored_events": 15431,
+    "whoscored_player_match": 336,
+    "understat_matches": 10,
+    "understat_player_match": 310,
+    "understat_mapped_player_match": 231,
+    "unified_rows": 615,
+    "fantasy_allowed_rows": 76
+  },
+  "hashes": {
+    "unified": "a6f6b2d11d7e758df1f82c77cf787f6c596f2ec38bae8b10129b1dd6e5e67818",
+    "understat_schedule": "1e58351d15916a60efe361733a89b9321d465b64dc10a0d9e8cc12aaaf39015d",
+    "understat_player_match": "1f9b958aebff8743b315ff87b86706dd03c67b4aa3ffb82b475dee60907168cb",
+    "understat_team_match": "9e0467ba1147baecf8b59cbf9fafdc2fc959efbd7ce9fd7db0b8c51755b1a1a6",
+    "whoscored_events": "cead2d379e04ca8d0dffb8d0f86a2d80b68352b22585855faf77a8953d05e78a",
+    "whoscored_player_match": "25ce3a32f26273e2d6f9439e59c6d7b38636b1a729e2105ef18bb01c4cf5957d"
+  },
+  "quality": {
+    "understat_team_reciprocity": true,
+    "player_categories_passed": 11,
+    "team_rows_passed": 20
+  },
+  "understat_availability_note": "Fulham-Chelsea was available at the first check approximately 2.5 hours after full time; this is an observation, not a hard-coded refresh delay."
+}

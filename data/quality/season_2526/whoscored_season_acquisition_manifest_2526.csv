@@ -1,0 +1,2 @@
+canonical_match_id,understat_match_id,whoscored_match_id,date,home_club_id,away_club_id,status,worker_mode,attempt_count,timeout_count,last_attempt,acquisition_seconds,cache_valid,payload_bytes,event_count,payload_hash,error_type,error_message
+understat:28834,28834,1903188,2025-09-27,nottingham_forest,sunderland,ACQUIRED,SESSION_BACKED,1,0,2026-08-20T12:11:43.962253+00:00,26.518,True,2309713,1554,30ccd4e31b76e931993213b34245e00dbae719af3afa4cf40c18dd866ec3241a,,

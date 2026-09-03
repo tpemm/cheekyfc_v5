@@ -69,7 +69,7 @@ MODE_DEFAULTS={"Projection":PRESETS["Projection"],"Historical":PRESETS["Historic
 def validate_metrics(keys,*,mode="Custom"):
     values=tuple(keys)
     if len(values)!=len(set(values)): raise ValueError("Duplicate radar metrics are not allowed.")
-    if not 4<=len(values)<=8: raise ValueError("Choose between four and eight radar metrics.")
+    if not 3<=len(values)<=8: raise ValueError("Choose between three and eight radar metrics.")
     unknown=set(values)-CATALOG.keys()
     if unknown: raise ValueError(f"Unsupported radar metrics: {sorted(unknown)}")
     invalid=[key for key in values if mode not in CATALOG[key].modes and mode!="Custom"]

@@ -1,0 +1,6 @@
+area,state,last_successful_refresh,coverage,detail
+Core Data,Unavailable,,,No live build manifest
+WhoScored Advanced,Complete,2026-08-20T12:13:07.060497+00:00,380/380,0 missing · 0 failed · latest 2026-05-24
+Schedule / Understat,Current,2026-07-28T23:45:22.490340+00:00,380/380,Latest completed GW 38
+Advanced Models,Current,2026-08-20T12:12:41.532026+00:00,14677 player-match · 577884 events,74 unresolved players · 31 managers
+Quality,Current,2026-08-20T12:13:11.033523+00:00,12/12 gates,0 failed validation gates

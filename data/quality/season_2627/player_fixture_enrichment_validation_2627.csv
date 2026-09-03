@@ -1,0 +1,703 @@
+player_id,player,club,next_fixture,next_five_count,fixture_ease_available,validation_status
+06ex2,Aaron Bott,NOT,,0,False,unresolved_club
+062og,Aaron Hickey,BRF,Tottenham Hotspur,5,True,complete
+04amh,Aaron Ramsdale,NEW,Liverpool FC,5,True,complete
+06xzn,Abdoullah Ba,SUN,Ipswich Town,5,True,complete
+06r9w,Abdukodir Khusanov,MCI,Bournemouth,5,True,complete
+060u6,Abu Kamara,HUL,Manchester United,5,True,complete
+06zef,Adam Aznou,EVE,Crystal Palace,5,True,complete
+06ids,Adam Harrison,NEW,Liverpool FC,5,True,complete
+02lp5,Adam Smith,BOU,Manchester City,5,True,complete
+056ir,Adam Webster,BHA,Aston Villa,5,True,complete
+06jgs,Adam Wharton,CRY,Everton,5,True,complete
+06uyc,Adrien Truffert,BOU,Manchester City,5,True,complete
+06v0u,Ahmed Abdullahi,SUN,Ipswich Town,5,True,complete
+06h1g,Aidan Harris,NEW,Liverpool FC,5,True,complete
+059tu,Akin Famewo,HUL,Manchester United,5,True,complete
+060wh,Alejandro Garnacho,AVL,Brighton & Hove Albion,5,True,complete
+06uzw,Alex Cairns,LEE,Nottingham Forest,5,True,complete
+038ze,Alex Iwobi,FUL,Chelsea,5,True,complete
+070gu,Alex Jimenez,BOU,Manchester City,5,True,complete
+06ewy,Alex Murphy,NEW,Liverpool FC,5,True,complete
+03p9y,Alex Palmer,IPS,Sunderland,5,True,complete
+06f8y,Alex Scott,BOU,Manchester City,5,True,complete
+072pc,Alex Toth,BOU,Manchester City,5,True,complete
+0646f,Alexander Isak,LIV,Newcastle United,5,True,complete
+06nk2,Alexei Rojas Fedorushchenko,ARS,Coventry City,5,True,complete
+0522h,Alexis Mac Allister,LIV,Newcastle United,5,True,complete
+075zi,Alfie Cresswell,LEE,Nottingham Forest,5,True,complete
+072jc,Alfie McNally,FUL,Chelsea,5,True,complete
+04sjt,Alisson,LIV,Newcastle United,5,True,complete
+06fx0,Altay Bayindir,MUN,Hull City,5,True,complete
+072j3,Alysson,AVL,Brighton & Hove Albion,5,True,complete
+05r34,Amad Diallo,MUN,Hull City,5,True,complete
+063hu,Amadou Onana,AVL,Brighton & Hove Albion,5,True,complete
+06kud,Amara Nallo,LIV,Newcastle United,5,True,complete
+070ci,Amine Adli,BOU,Manchester City,5,True,complete
+076dm,Amir Hadziahmetovic,HUL,Manchester United,5,True,complete
+06zbq,Andre Harriman-Annous,ARS,Coventry City,5,True,complete
+06r9v,Andres Garcia,AVL,Brighton & Hove Albion,5,True,complete
+03gu5,Andrew Robertson,TOT,Brentford,5,True,complete
+068a0,Andrey Santos,MUN,Hull City,5,True,complete
+044i7,Angus Gunn,NOT,,0,False,unresolved_club
+076dw,Anis Mehmeti,IPS,Sunderland,5,True,complete
+05ogb,Anthony Elanga,NEW,Liverpool FC,5,True,complete
+04mdn,Anthony Gordon,NEW,Liverpool FC,5,True,complete
+068y0,Antoine Semenyo,MCI,Bournemouth,5,True,complete
+06zbx,Anton Stach,LEE,Nottingham Forest,5,True,complete
+03rzp,Antonee Robinson,FUL,Chelsea,5,True,complete
+06y4g,Antoni Milambo,BRF,Tottenham Hotspur,5,True,complete
+06r6s,Antonin Kinsky,TOT,Brentford,5,True,complete
+06uzy,Ao Tanaka,LEE,Nottingham Forest,5,True,complete
+05y7c,Archie Gray,TOT,Brentford,5,True,complete
+076df,Archie Howard,HUL,Manchester United,5,True,complete
+0700q,Archie Whitehall,NOT,,0,False,unresolved_club
+04gw6,Arijanet Muric,IPS,Sunderland,5,True,complete
+06v04,Armin Pecsi,LIV,Newcastle United,5,True,complete
+02lny,Ashley Young,IPS,Sunderland,5,True,complete
+06kqy,Ayden Heaven,MUN,Hull City,5,True,complete
+076du,Azor Matusiwa,IPS,Sunderland,5,True,complete
+0700u,Bafode Diakite,BOU,Manchester City,5,True,complete
+06cmu,Bart Verbruggen,BHA,Aston Villa,5,True,complete
+072h8,Ben Casey,CRY,Everton,5,True,complete
+02oo1,Ben Davies,TOT,Brentford,5,True,complete
+066nn,Ben Doak,BOU,Manchester City,5,True,complete
+04mcg,Ben Johnson,IPS,Sunderland,5,True,complete
+04e1e,Ben White,ARS,Coventry City,5,True,complete
+076cx,Ben Wilson,COV,Arsenal,5,True,complete
+06tf6,Bendito Mantato,MUN,Hull City,5,True,complete
+06zbw,Benjamin Lecomte,FUL,Chelsea,5,True,complete
+06zxy,Benjamin Sesko,MUN,Hull City,5,True,complete
+06804,Benoit Badiashile,CHE,Fulham,5,True,complete
+04fk6,Bernardo Silva,MCI,Bournemouth,5,True,complete
+04qor,Bernd Leno,FUL,Chelsea,5,True,complete
+035n1,Bertrand Traore,SUN,Ipswich Town,5,True,complete
+06fvn,Beto,EVE,Crystal Palace,5,True,complete
+05l2z,Bobby Thomas,COV,Arsenal,5,True,complete
+06yey,Borna Sosa,CRY,Everton,5,True,complete
+061va,Boubacar Kamara,AVL,Brighton & Hove Albion,5,True,complete
+06r7l,Bradley Burrowes,AVL,Brighton & Hove Albion,5,True,complete
+04t3n,Bradley Collins,COV,Arsenal,5,True,complete
+072iu,Braiden Graham,EVE,Crystal Palace,5,True,complete
+072x8,Brando Bailey-Joseph,ARS,Coventry City,5,True,complete
+04gyd,Brandon Austin,TOT,Brentford,5,True,complete
+076db,Brandon Thomas-Asante,COV,Arsenal,5,True,complete
+061vp,Brenden Aaronson,LEE,Nottingham Forest,5,True,complete
+061ya,Brennan Johnson,CRY,Everton,5,True,complete
+070hc,Brian Brobbey,SUN,Ipswich Town,5,True,complete
+072mq,Brian Madjo,AVL,Brighton & Hove Albion,5,True,complete
+05gcr,Bruno Fernandes,MUN,Hull City,5,True,complete
+05ylj,Bruno Guimaraes,NEW,Liverpool FC,5,True,complete
+05trb,Bryan Mbeumo,MUN,Hull City,5,True,complete
+04y92,Bukayo Saka,ARS,Coventry City,5,True,complete
+06nvb,Caleb Kporha,CRY,Everton,5,True,complete
+06qqm,Callum Bates,EVE,Crystal Palace,5,True,complete
+04mi4,Callum Hudson-Odoi,NOT,,0,False,unresolved_club
+06qq8,Callum Olusesi,TOT,Brentford,5,True,complete
+03r8x,Callum Wilson,BRF,Tottenham Hotspur,5,True,complete
+0554g,Calvin Bassey,FUL,Chelsea,5,True,complete
+061z5,Calvin Ramsay,LIV,Newcastle United,5,True,complete
+045ob,Caoimhin Kelleher,BRF,Tottenham Hotspur,5,True,complete
+062ct,Carl Rushworth,COV,Arsenal,5,True,complete
+0687c,Carlos Alcaraz,EVE,Crystal Palace,5,True,complete
+06fwi,Carlos Baleba,BHA,Aston Villa,5,True,complete
+0642l,Casemiro,MUN,Hull City,5,True,complete
+076dk,Cathal McCarthy,HUL,Manchester United,5,True,complete
+073ac,Ceadach O'Neill,ARS,Coventry City,5,True,complete
+05o6g,Cedric Kipre,IPS,Sunderland,5,True,complete
+06mnn,Chadi Riad,CRY,Everton,5,True,complete
+06xzd,Charalampos Kostoulas,BHA,Aston Villa,5,True,complete
+06xzf,Charlie Crew,LEE,Nottingham Forest,5,True,complete
+072ht,Charlie Gray,MCI,Bournemouth,5,True,complete
+0730i,Charlie Holland,CHE,Fulham,5,True,complete
+076dh,Charlie Hughes,HUL,Manchester United,5,True,complete
+072p7,Charlie Stevens,BOU,Manchester City,5,True,complete
+06rwp,Charlie Tasker,BHA,Aston Villa,5,True,complete
+062ot,Cheick Doucoure,CRY,Everton,5,True,complete
+06ybq,Chemsdine Talbi,SUN,Ipswich Town,5,True,complete
+06roj,Chido Obi-Martin,MUN,Hull City,5,True,complete
+0635j,Chris Richards,CRY,Everton,5,True,complete
+06v0l,Chris Rigg,SUN,Ipswich Town,5,True,complete
+02m5b,Chris Wood,NOT,,0,False,unresolved_club
+070hh,Christantus Uche,CRY,Everton,5,True,complete
+05tr8,Christian Norgaard,ARS,Coventry City,5,True,complete
+04fjz,Christian Walton,IPS,Sunderland,5,True,complete
+072x6,Christos Mandas,BOU,Manchester City,5,True,complete
+05uox,Christos Tzolis,ARS,Coventry City,5,True,complete
+0326x,Chuba Akpom,IPS,Sunderland,5,True,complete
+05roa,Cody Drameh,HUL,Manchester United,5,True,complete
+067yv,Cody Gakpo,LIV,Newcastle United,5,True,complete
+05l8q,Cole Palmer,CHE,Fulham,5,True,complete
+05uhj,Conor Bradley,LIV,Newcastle United,5,True,complete
+06mg7,Conor Chaplin,IPS,Sunderland,5,True,complete
+051k8,Conor Gallagher,TOT,Brentford,5,True,complete
+06mwx,Conor McManus,BRF,Tottenham Hotspur,5,True,complete
+03297,Conor Townsend,IPS,Sunderland,5,True,complete
+076kd,Costinha,BHA,Aston Villa,5,True,complete
+06zbm,Cristhian Mosquera,ARS,Coventry City,5,True,complete
+05uoc,Cristian Romero,TOT,Brentford,5,True,complete
+04o82,Curtis Jones,LIV,Newcastle United,5,True,complete
+06mnc,Daichi Kamada,CRY,Everton,5,True,complete
+02lsa,Dan Burn,NEW,Liverpool FC,5,True,complete
+06zna,Dan Ndoye,NOT,,0,False,unresolved_club
+06v0j,Dan Neil,SUN,Ipswich Town,5,True,complete
+068lx,Dango Ouattara,BRF,Tottenham Hotspur,5,True,complete
+03yr0,Daniel James,LEE,Nottingham Forest,5,True,complete
+06jgi,Daniel Munoz,CRY,Everton,5,True,complete
+05nns,Danny Ballard,SUN,Ipswich Town,5,True,complete
+02lnx,Danny Welbeck,BHA,Aston Villa,5,True,complete
+04gpx,Dara O'Shea,IPS,Sunderland,5,True,complete
+06uzv,Dario Essugo,CHE,Fulham,5,True,complete
+062du,Darko Gyabi,HUL,Manchester United,5,True,complete
+03mga,Darnell Furlong,IPS,Sunderland,5,True,complete
+076dr,David Akintola,HUL,Manchester United,5,True,complete
+04rh9,David Brooks,BOU,Manchester City,5,True,complete
+02t13,David Button,IPS,Sunderland,5,True,complete
+05tqx,David Raya,ARS,Coventry City,5,True,complete
+06zod,Dean Benamar,CRY,Everton,5,True,complete
+03yww,Dean Henderson,CRY,Everton,5,True,complete
+04agz,Declan Rice,ARS,Coventry City,5,True,complete
+05ylx,Dejan Kulusevski,TOT,Brentford,5,True,complete
+05g4d,Dennis Cirkin,SUN,Ipswich Town,5,True,complete
+063y7,Destiny Udogie,TOT,Brentford,5,True,complete
+06r5b,Diego Gomez,BHA,Aston Villa,5,True,complete
+06yb8,Diego Leon,MUN,Hull City,5,True,complete
+070hn,Dilane Bakwa,NOT,,0,False,unresolved_club
+076de,Dillon Phillips,HUL,Manchester United,5,True,complete
+04qfz,Diogo Dalot,MUN,Hull City,5,True,complete
+062ts,Djed Spence,TOT,Brentford,5,True,complete
+06fuw,Djordje Petrovic,BOU,Manchester City,5,True,complete
+049tq,Dominic Calvert-Lewin,LEE,Nottingham Forest,5,True,complete
+03fgo,Dominic Solanke,TOT,Brentford,5,True,complete
+06cmm,Dominik Szoboszlai,LIV,Newcastle United,5,True,complete
+04ge7,Donyell Malen,AVL,Brighton & Hove Albion,5,True,complete
+04spp,Douglas Luiz,AVL,Brighton & Hove Albion,5,True,complete
+04p0d,Dwight McNeil,EVE,Crystal Palace,5,True,complete
+05nt6,Eberechi Eze,ARS,Coventry City,5,True,complete
+04ge9,Eddie Nketiah,CRY,Everton,5,True,complete
+066r9,Ehor Yarmolyuk,BRF,Tottenham Hotspur,5,True,complete
+06xza,Eli Kroupi,BOU,Manchester City,5,True,complete
+06v0s,Eliezer Mayenda,SUN,Ipswich Town,5,True,complete
+076dl,Eliot Matazo,HUL,Manchester United,5,True,complete
+06mn3,Elkan Baggott,IPS,Sunderland,5,True,complete
+05u40,Ellery Balcombe,BRF,Tottenham Hotspur,5,True,complete
+05opj,Elliot Anderson,MCI,Bournemouth,5,True,complete
+05m9r,Ellis Simms,COV,Arsenal,5,True,complete
+05746,Emil Krafth,NEW,Liverpool FC,5,True,complete
+04sat,Emile Smith Rowe,FUL,Chelsea,5,True,complete
+051kl,Emiliano Buendia,AVL,Brighton & Hove Albion,5,True,complete
+02lz0,Emiliano Martinez,AVL,Brighton & Hove Albion,5,True,complete
+076kg,Emmanuel Emegha,CHE,Fulham,5,True,complete
+03sbh,Enes Unal,BOU,Manchester City,5,True,complete
+068ym,Enzo Fernandez,CHE,Fulham,5,True,complete
+06v0p,Enzo Le Fee,SUN,Ipswich Town,5,True,complete
+076d9,Ephron Mason-Clark,COV,Arsenal,5,True,complete
+06mnd,Eric da Silva Moreira,NOT,,0,False,unresolved_club
+061vq,Erling Haaland,MCI,Bournemouth,5,True,complete
+06yxe,Estevao,CHE,Fulham,5,True,complete
+04lav,Ethan Ampadu,LEE,Nottingham Forest,5,True,complete
+06dpx,Ethan Brierley,BRF,Tottenham Hotspur,5,True,complete
+05tr1,Ethan Pinnock,BRF,Tottenham Hotspur,5,True,complete
+06p6j,Evanilson,BOU,Manchester City,5,True,complete
+06zwj,Evann Guessand,AVL,Brighton & Hove Albion,5,True,complete
+076ki,Ewen Jaouen,NEW,Liverpool FC,5,True,complete
+052ca,Ezri Konsa,AVL,Brighton & Hove Albion,5,True,complete
+04tig,Fabian Schar,NEW,Liverpool FC,5,True,complete
+05ojf,Fabio Carvalho,BRF,Tottenham Hotspur,5,True,complete
+067yu,Facundo Buonanotte,LEE,Nottingham Forest,5,True,complete
+06phw,Federico Chiesa,LIV,Newcastle United,5,True,complete
+06phe,Ferdi Kadioglu,BHA,Aston Villa,5,True,complete
+06nv3,Filip Jorgensen,CHE,Fulham,5,True,complete
+073vo,Finn Geragusyan,SUN,Ipswich Town,5,True,complete
+06v21,Florian Wirtz,LIV,Newcastle United,5,True,complete
+073ab,Floyd Samba,MCI,Bournemouth,5,True,complete
+05ue7,Frank Onyeka,COV,Arsenal,5,True,complete
+02ltw,Fraser Forster,BOU,Manchester City,5,True,complete
+06s7r,Freddie Simmonds,BHA,Aston Villa,5,True,complete
+03m5i,Freddie Woodman,LIV,Newcastle United,5,True,complete
+06yb7,Gabriel Gudmundsson,LEE,Nottingham Forest,5,True,complete
+045c8,Gabriel Jesus,ARS,Coventry City,5,True,complete
+05nzu,Gabriel Magalhaes,ARS,Coventry City,5,True,complete
+052h5,Gabriel Martinelli,ARS,Coventry City,5,True,complete
+063c2,Gabriel Slonina,CHE,Fulham,5,True,complete
+06zvn,George Hemmings,AVL,Brighton & Hove Albion,5,True,complete
+05m47,George Hirst,IPS,Sunderland,5,True,complete
+06ygl,George King,CRY,Everton,5,True,complete
+076qy,George Munday,BHA,Aston Villa,5,True,complete
+076d8,George Shepherd,COV,Arsenal,5,True,complete
+0689w,Georginio Rutter,BHA,Aston Villa,5,True,complete
+076kf,Geovany Quenda,CHE,Fulham,5,True,complete
+070hs,Gianluigi Donnarumma,MCI,Bournemouth,5,True,complete
+06xzg,Giorgi Mamardashvili,LIV,Newcastle United,5,True,complete
+0701y,Giovanni Leoni,LIV,Newcastle United,5,True,complete
+06qx6,Godwill Kukonki,MUN,Hull City,5,True,complete
+0435m,Granit Xhaka,SUN,Ipswich Town,5,True,complete
+06cmb,Guglielmo Vicario,TOT,Brentford,5,True,complete
+06y29,Habib Diarra,SUN,Ipswich Town,5,True,complete
+076da,Haji Wright,COV,Arsenal,5,True,complete
+06jfe,Hakon Valdimarsson,BRF,Tottenham Hotspur,5,True,complete
+06onv,Harrison Armstrong,EVE,Crystal Palace,5,True,complete
+074vj,Harrison Dudziak,ARS,Coventry City,5,True,complete
+06v0q,Harrison Jones,SUN,Ipswich Town,5,True,complete
+037mt,Harrison Reed,FUL,Chelsea,5,True,complete
+06s7s,Harry Howell,BHA,Aston Villa,5,True,complete
+03gu4,Harry Maguire,MUN,Hull City,5,True,complete
+076kh,Harry Vaughan,HUL,Manchester United,5,True,complete
+03rxs,Harry Wilson,LEE,Nottingham Forest,5,True,complete
+04abn,Harvey Barnes,NEW,Liverpool FC,5,True,complete
+05rfp,Harvey Davies,LIV,Newcastle United,5,True,complete
+04xjr,Harvey Elliott,AVL,Brighton & Hove Albion,5,True,complete
+06zbz,Hugo Ekitike,LIV,Newcastle United,5,True,complete
+052cb,Ian Maatsen,AVL,Brighton & Hove Albion,5,True,complete
+06fxu,Ibrahim Sangare,NOT,,0,False,unresolved_club
+05u7f,Ibrahima Konate,LIV,Newcastle United,5,True,complete
+03rxa,Idrissa Gueye,EVE,Crystal Palace,5,True,complete
+072x7,Ife Ibrahim,ARS,Coventry City,5,True,complete
+06y9o,Igor Jesus,NOT,,0,False,unresolved_club
+06eka,Igor Julio,BHA,Aston Villa,5,True,complete
+06mn0,Igor Thiago,BRF,Tottenham Hotspur,5,True,complete
+06v01,Ilia Gruev,LEE,Nottingham Forest,5,True,complete
+05r94,Iliman Ndiaye,EVE,Crystal Palace,5,True,complete
+05mzt,Illan Meslier,ARS,Coventry City,5,True,complete
+05748,Ismaila Sarr,CRY,Everton,5,True,complete
+076dy,Ivan Azon,IPS,Sunderland,5,True,complete
+076dd,Ivor Pandur,HUL,Manchester United,5,True,complete
+032aa,Jack Butland,HUL,Manchester United,5,True,complete
+05244,Jack Clarke,IPS,Sunderland,5,True,complete
+06mul,Jack Fletcher,MUN,Hull City,5,True,complete
+02lm7,Jack Grealish,MCI,Bournemouth,5,True,complete
+067ys,Jack Hinshelwood,BHA,Aston Villa,5,True,complete
+06roi,Jack Moorhouse,MUN,Hull City,5,True,complete
+06ppi,Jack Porter,ARS,Coventry City,5,True,complete
+076d3,Jack Rudoni,COV,Arsenal,5,True,complete
+06mg2,Jack Taylor,IPS,Sunderland,5,True,complete
+072dy,Jack Thompson,NOT,,0,False,unresolved_club
+070eq,Jack Whittaker,SUN,Ipswich Town,5,True,complete
+0746j,Jackson Izquierdo,CRY,Everton,5,True,complete
+06msc,Jacob Greaves,IPS,Sunderland,5,True,complete
+03am7,Jacob Murphy,NEW,Liverpool FC,5,True,complete
+051k3,Jacob Ramsey,NEW,Liverpool FC,5,True,complete
+073ue,Jaden Dixon,ARS,Coventry City,5,True,complete
+05rff,Jaden Philogene,IPS,Sunderland,5,True,complete
+04gw7,Jadon Sancho,MUN,Hull City,5,True,complete
+076dc,Jahnoah Markelo,COV,Arsenal,5,True,complete
+061vk,Jaidon Anthony,BRF,Tottenham Hotspur,5,True,complete
+06ygm,Jair Cunha,NOT,,0,False,unresolved_club
+06v51,Jaka Bijol,LEE,Nottingham Forest,5,True,complete
+02lpi,Jake Bidwell,COV,Arsenal,5,True,complete
+062oh,Jake O'Brien,EVE,Crystal Palace,5,True,complete
+066nj,James Debayo,HUL,Manchester United,5,True,complete
+05vyf,James Furlong,HUL,Manchester United,5,True,complete
+04spw,James Garner,EVE,Crystal Palace,5,True,complete
+061vb,James Hill,BOU,Manchester City,5,True,complete
+0521z,James Justin,LEE,Nottingham Forest,5,True,complete
+0414o,James Maddison,TOT,Brentford,5,True,complete
+06do3,James McConnell,LIV,Newcastle United,5,True,complete
+05uhs,James Mcatee,NOT,,0,False,unresolved_club
+02lv9,James Milner,BHA,Aston Villa,5,True,complete
+06zc5,James Rowswell,TOT,Brentford,5,True,complete
+0427d,James Tarkowski,EVE,Crystal Palace,5,True,complete
+05oz3,James Trafford,MCI,Bournemouth,5,True,complete
+073k1,James Wilson,TOT,Brentford,5,True,complete
+06avm,James Wright,AVL,Brighton & Hove Albion,5,True,complete
+076d5,Jamie Allen,COV,Arsenal,5,True,complete
+06y9n,Jamie Gittens,CHE,Fulham,5,True,complete
+05oh0,Jan-Paul van Hecke,TOT,Brentford,5,True,complete
+076kc,Jannik Schuster,BRF,Tottenham Hotspur,5,True,complete
+05l27,Jarrad Branthwaite,EVE,Crystal Palace,5,True,complete
+04rha,Jason Steele,BHA,Aston Villa,5,True,complete
+03fgl,Jay da Silva,COV,Arsenal,5,True,complete
+070hb,Jaydee Canvot,CRY,Everton,5,True,complete
+05o8o,Jayden Bogle,LEE,Nottingham Forest,5,True,complete
+06klv,Jayden Danns,LIV,Newcastle United,5,True,complete
+070ep,Jayden Jones,SUN,Ipswich Town,5,True,complete
+075sh,Jayden Lienou,LEE,Nottingham Forest,5,True,complete
+05r8o,Jean-Philippe Mateta,CRY,Everton,5,True,complete
+04tzt,Jefferson Lerma,CRY,Everton,5,True,complete
+06pdl,Jens Cajuste,IPS,Sunderland,5,True,complete
+070eo,Jenson Jones,SUN,Ipswich Town,5,True,complete
+06v05,Jeremie Frimpong,LIV,Newcastle United,5,True,complete
+06fup,Jeremy Doku,MCI,Bournemouth,5,True,complete
+06rmv,Jeremy Monga,MCI,Bournemouth,5,True,complete
+0738b,Jesse Derry,CHE,Fulham,5,True,complete
+06v0b,Jim Thwaites,MUN,Hull City,5,True,complete
+0700r,Jimmy Sinclair,NOT,,0,False,unresolved_club
+05os8,Joachim Andersen,FUL,Chelsea,5,True,complete
+068yd,Joao Gomes,AVL,Brighton & Hove Albion,5,True,complete
+062dt,Joao Palhinha,TOT,Brentford,5,True,complete
+05g2o,Joao Pedro,CHE,Fulham,5,True,complete
+072o9,Jocelin Ta Bi,SUN,Ipswich Town,5,True,complete
+05n3u,Joe Gelhardt,HUL,Manchester United,5,True,complete
+03yqz,Joe Rodon,LEE,Nottingham Forest,5,True,complete
+04ge6,Joe Willock,NEW,Liverpool FC,5,True,complete
+072h9,Joel Drakes-Thomas,CRY,Everton,5,True,complete
+04h87,Joel Latibeaudiere,COV,Arsenal,5,True,complete
+06nby,Joel Ndala,MCI,Bournemouth,5,True,complete
+06v02,Joel Piroe,LEE,Nottingham Forest,5,True,complete
+05mxa,Joel Veltman,BHA,Aston Villa,5,True,complete
+0554i,Joelinton,NEW,Liverpool FC,5,True,complete
+02m5l,John Egan,HUL,Manchester United,5,True,complete
+0327p,John Lundstram,HUL,Manchester United,5,True,complete
+051k0,John McGinn,AVL,Brighton & Hove Albion,5,True,complete
+02m3v,John Ruddy,NEW,Liverpool FC,5,True,complete
+02yl5,John Stones,MCI,Bournemouth,5,True,complete
+070gt,John Victor Maciel Furtado,NOT,,0,False,unresolved_club
+070hr,Jonah Kusi-Asare,FUL,Chelsea,5,True,complete
+02lk5,Jordan Henderson,BRF,Tottenham Hotspur,5,True,complete
+032f9,Jordan Pickford,EVE,Crystal Palace,5,True,complete
+06nyw,Jorge Cuenca,FUL,Chelsea,5,True,complete
+06mow,Jorgen Strand Larsen,CRY,Everton,5,True,complete
+06zqq,Jorrel Hato,CHE,Fulham,5,True,complete
+03r93,Joseph Gomez,LIV,Newcastle United,5,True,complete
+06kwp,Josh Acheampong,CHE,Fulham,5,True,complete
+048xg,Josh Dasilva,BRF,Tottenham Hotspur,5,True,complete
+076d6,Josh Eccles,COV,Arsenal,5,True,complete
+06nk3,Josh Nichols,ARS,Coventry City,5,True,complete
+06jh3,Joshua King,FUL,Chelsea,5,True,complete
+06zqi,Joshua Stephenson,BRF,Tottenham Hotspur,5,True,complete
+06mve,Joshua Zirkzee,MUN,Hull City,5,True,complete
+06ex4,Josko Gvardiol,MCI,Bournemouth,5,True,complete
+06on4,Julian Eyestone,BRF,Tottenham Hotspur,5,True,complete
+06r7f,Julio Soler,BOU,Manchester City,5,True,complete
+06zc3,Jun'ai Byfield,TOT,Brentford,5,True,complete
+06dmj,Jurrien Timber,ARS,Coventry City,5,True,complete
+06kx1,Justin Devenny,CRY,Everton,5,True,complete
+06clt,Justin Kluivert,BOU,Manchester City,5,True,complete
+06pry,Kaden Braithwaite,MCI,Bournemouth,5,True,complete
+062oi,Kaden Rodney,CRY,Everton,5,True,complete
+05o6h,Kai Havertz,ARS,Coventry City,5,True,complete
+05uhl,Kaide Gordon,LIV,Newcastle United,5,True,complete
+05rey,Kaine Hayden,COV,Arsenal,5,True,complete
+062ci,Kaoru Mitoma,BHA,Aston Villa,5,True,complete
+03pif,Karl Darlow,MUN,Hull City,5,True,complete
+05oz4,Karl Hein,ARS,Coventry City,5,True,complete
+05y55,Kasey McAteer,IPS,Sunderland,5,True,complete
+072mp,Kaye Furo,BRF,Tottenham Hotspur,5,True,complete
+062p3,Keane Lewis-Potter,BRF,Tottenham Hotspur,5,True,complete
+06617,Keehan Willows,NOT,,0,False,unresolved_club
+05oeh,Kenny Tete,FUL,Chelsea,5,True,complete
+04u40,Kepa,ARS,Coventry City,5,True,complete
+070hj,Kevin,FUL,Chelsea,5,True,complete
+057cr,Kevin Danso,TOT,Brentford,5,True,complete
+067zv,Kevin Schade,BRF,Tottenham Hotspur,5,True,complete
+072cf,Keyrol Figueroa,LIV,Newcastle United,5,True,complete
+073y1,Khari Ranson,ARS,Coventry City,5,True,complete
+072p2,Kian Noble,MCI,Bournemouth,5,True,complete
+03m5h,Kieran Dowell,HUL,Manchester United,5,True,complete
+06rkq,Kieran Morrison,LIV,Newcastle United,5,True,complete
+03dx3,Kieran Trippier,NEW,Liverpool FC,5,True,complete
+05gcc,Kiernan Dewsbury-Hall,EVE,Crystal Palace,5,True,complete
+0666p,Kobbie Mainoo,MUN,Hull City,5,True,complete
+06zby,Kornel Misciur,LIV,Newcastle United,5,True,complete
+05uel,Kristoffer Ajer,BRF,Tottenham Hotspur,5,True,complete
+076dt,Kyle Joseph,HUL,Manchester United,5,True,complete
+05r4h,Lamare Bogarde,AVL,Brighton & Hove Albion,5,True,complete
+07659,Lamin Sillah,NOT,,0,False,unresolved_club
+06shp,Landon Emenalo,CHE,Fulham,5,True,complete
+0520r,Leandro Trossard,ARS,Coventry City,5,True,complete
+05nil,Leif Davis,IPS,Sunderland,5,True,complete
+06mx0,Leny Yoro,MUN,Hull City,5,True,complete
+06on5,Leo Shahar,NEW,Liverpool FC,5,True,complete
+06mg5,Leon Ayinde,IPS,Sunderland,5,True,complete
+05uns,Leon Bailey,AVL,Brighton & Hove Albion,5,True,complete
+072i1,Leon Routh,AVL,Brighton & Hove Albion,5,True,complete
+062p5,Levi Colwill,CHE,Fulham,5,True,complete
+076dg,Lewie Coyle,HUL,Manchester United,5,True,complete
+043qy,Lewis Cook,BOU,Manchester City,5,True,complete
+04e1c,Lewis Dunk,BHA,Aston Villa,5,True,complete
+05y9n,Lewis Hall,NEW,Liverpool FC,5,True,complete
+06ab3,Lewis Miley,NEW,Liverpool FC,5,True,complete
+05oig,Liam Delap,CHE,Fulham,5,True,complete
+076cz,Liam Kitching,COV,Arsenal,5,True,complete
+052h1,Liam Millar,HUL,Manchester United,5,True,complete
+062pl,Lisandro Martinez,MUN,Hull City,5,True,complete
+072r2,Lorenzo Lucca,NOT,,0,False,unresolved_club
+06do4,Louie Koumas,HUL,Manchester United,5,True,complete
+06exj,Luca Gunter,TOT,Brentford,5,True,complete
+072zr,Luca Netz,NOT,,0,False,unresolved_club
+06qq9,Luca Williams-Barnett,TOT,Brentford,5,True,complete
+06mn7,Lucas Bergvall,TOT,Brentford,5,True,complete
+04tm0,Lucas Digne,AVL,Brighton & Hove Albion,5,True,complete
+04ym7,Lucas Perri,LEE,Nottingham Forest,5,True,complete
+062h9,Luis Sinisterra,BOU,Manchester City,5,True,complete
+072zo,Luka Bentt,BRF,Tottenham Hotspur,5,True,complete
+06v0y,Luka Vuskovic,BHA,Aston Villa,5,True,complete
+04lnu,Lukas Nmecha,LEE,Nottingham Forest,5,True,complete
+06v0m,Luke O'Nien,SUN,Ipswich Town,5,True,complete
+02oq6,Luke Shaw,MUN,Hull City,5,True,complete
+06mfy,Luke Woolfenden,COV,Arsenal,5,True,complete
+070ho,Lutsharel Geertruida,SUN,Ipswich Town,5,True,complete
+06qvv,Malachi Hardy,TOT,Brentford,5,True,complete
+072ga,Malcom DaCosta,BOU,Manchester City,5,True,complete
+0700p,Malick Thiaw,NEW,Liverpool FC,5,True,complete
+072lp,Malik Olayiwola,EVE,Crystal Palace,5,True,complete
+06clz,Malo Gusto,CHE,Fulham,5,True,complete
+06uzu,Mamadou Sarr,CHE,Fulham,5,True,complete
+06pib,Manuel Ugarte,MUN,Hull City,5,True,complete
+05w9i,Marc Cucurella,CHE,Fulham,5,True,complete
+050jq,Marc Guehi,MCI,Bournemouth,5,True,complete
+06mnm,Marc Guiu,CHE,Fulham,5,True,complete
+076dv,Marcelino Nunez,IPS,Sunderland,5,True,complete
+06ymt,Marco Bizot,AVL,Brighton & Hove Albion,5,True,complete
+063e7,Marcos Senesi,TOT,Brentford,5,True,complete
+02ls8,Marcus Bettinelli,MCI,Bournemouth,5,True,complete
+0639x,Marcus Tavernier,BOU,Manchester City,5,True,complete
+05n09,Mark Gillespie,NEW,Liverpool FC,5,True,complete
+04vy4,Mark Travers,EVE,Crystal Palace,5,True,complete
+06zbn,Marli Salmon,ARS,Coventry City,5,True,complete
+05r9b,Martin Odegaard,ARS,Coventry City,5,True,complete
+06y9z,Martin Zubimendi,ARS,Coventry City,5,True,complete
+052cd,Mason Mount,MUN,Hull City,5,True,complete
+06r5r,Matai Akinmboni,BOU,Manchester City,5,True,complete
+04u41,Mateo Kovacic,MCI,Bournemouth,5,True,complete
+06pe1,Mateus Goncalo Espanha Fernandes,TOT,Brentford,5,True,complete
+067yz,Matheus Cunha,MUN,Hull City,5,True,complete
+063zi,Matheus Nunes,MCI,Bournemouth,5,True,complete
+05tr9,Mathias Jensen,BRF,Tottenham Hotspur,5,True,complete
+075qp,Mathis Eboue,CHE,Fulham,5,True,complete
+06rm8,Mathys Tel,TOT,Brentford,5,True,complete
+06mpp,Mats Wieffer,BHA,Aston Villa,5,True,complete
+076dn,Matt Crooks,HUL,Manchester United,5,True,complete
+03mfe,Matt Grimes,COV,Arsenal,5,True,complete
+04qfq,Matt O'Riley,BHA,Aston Villa,5,True,complete
+0372y,Matt Targett,HUL,Manchester United,5,True,complete
+06p4k,Matthijs de Ligt,MUN,Hull City,5,True,complete
+05o4b,Matty Cash,AVL,Brighton & Hove Albion,5,True,complete
+076di,Matty Jacob,HUL,Manchester United,5,True,complete
+04f6h,Matz Sels,NOT,,0,False,unresolved_club
+067x6,Max Alleyne,MCI,Bournemouth,5,True,complete
+06zbp,Max Dowman,ARS,Coventry City,5,True,complete
+06jfh,Max Merrick,CHE,Fulham,5,True,complete
+06zeg,Max Thompson,NEW,Liverpool FC,5,True,complete
+06pia,Maxence Lacroix,CRY,Everton,5,True,complete
+06y9m,Maxim De Cuyper,BHA,Aston Villa,5,True,complete
+072zp,Melker Ellborg,SUN,Ipswich Town,5,True,complete
+070hi,Merlin Rohl,EVE,Crystal Palace,5,True,complete
+06rgg,Michael Kayode,BRF,Tottenham Hotspur,5,True,complete
+0327r,Michael Keane,EVE,Crystal Palace,5,True,complete
+06zrs,Michael Laffey,LIV,Newcastle United,5,True,complete
+06ezb,Micky van de Ven,TOT,Brentford,5,True,complete
+076d1,Miguel Angel Brau,COV,Arsenal,5,True,complete
+04hk9,Mikel Merino,ARS,Coventry City,5,True,complete
+063q8,Mikkel Damsgaard,BRF,Tottenham Hotspur,5,True,complete
+06v0v,Milan Aleksic,SUN,Ipswich Town,5,True,complete
+076d0,Milan van Ewijk,COV,Arsenal,5,True,complete
+06do9,Milos Kerkez,LIV,Newcastle United,5,True,complete
+06r5d,Min-Hyeok Yang,COV,Arsenal,5,True,complete
+076dq,Mohamed Belloumi,HUL,Manchester United,5,True,complete
+073aa,Mohamed Kone,AVL,Brighton & Hove Albion,5,True,complete
+03aqp,Mohamed Salah,LIV,Newcastle United,5,True,complete
+06fv8,Mohammed Kudus,TOT,Brentford,5,True,complete
+05rb8,Moises Caicedo,CHE,Fulham,5,True,complete
+06pig,Morato,NOT,,0,False,unresolved_club
+04qr9,Morgan Gibbs-White,NOT,,0,False,unresolved_club
+05uht,Morgan Rogers,CHE,Fulham,5,True,complete
+06fwz,Murillo,NOT,,0,False,unresolved_club
+068a1,Mykhailo Mudryk,CHE,Fulham,5,True,complete
+066sd,Myles Lewis-Skelly,ARS,Coventry City,5,True,complete
+02y6o,Nathan Ake,MCI,Bournemouth,5,True,complete
+05u1m,Nathan Collins,BRF,Tottenham Hotspur,5,True,complete
+05yct,Nathan Patterson,EVE,Crystal Palace,5,True,complete
+076dp,Nathan Tinsdale,HUL,Manchester United,5,True,complete
+02t1k,Nathaniel Clyne,CRY,Everton,5,True,complete
+05a6e,Neco Williams,NOT,,0,False,unresolved_club
+072at,Nehemiah Oriola,BHA,Aston Villa,5,True,complete
+05r2t,Niall Huggins,SUN,Ipswich Town,5,True,complete
+044ei,Nick Pope,NEW,Liverpool FC,5,True,complete
+070g7,Nick Woltemade,NEW,Liverpool FC,5,True,complete
+06rm7,Nico Gonzalez,MCI,Bournemouth,5,True,complete
+067x8,Nico O'Reilly,MCI,Bournemouth,5,True,complete
+06fy7,Nicolas Dominguez,NOT,,0,False,unresolved_club
+070g8,Nicolo Savona,NOT,,0,False,unresolved_club
+06mw0,Nikola Milenkovic,NOT,,0,False,unresolved_club
+072cd,Nils Ramming,BHA,Aston Villa,5,True,complete
+072zs,Nilson Angulo,SUN,Ipswich Town,5,True,complete
+070cj,Noah Okafor,LEE,Nottingham Forest,5,True,complete
+06y59,Noah Sadiki,SUN,Ipswich Town,5,True,complete
+068n8,Noni Madueke,ARS,Coventry City,5,True,complete
+0703c,Nordi Mukiele,SUN,Ipswich Town,5,True,complete
+06p4j,Noussair Mazraoui,MUN,Hull City,5,True,complete
+03frx,Ola Aina,NOT,,0,False,unresolved_club
+076cw,Oliver Dovin,COV,Arsenal,5,True,complete
+0477b,Oliver McBurnie,HUL,Manchester United,5,True,complete
+06y26,Olivier Boscagli,BHA,Aston Villa,5,True,complete
+06kji,Ollie Harrison,CHE,Fulham,5,True,complete
+073b0,Ollie Shield,BRF,Tottenham Hotspur,5,True,complete
+05ocl,Ollie Watkins,AVL,Brighton & Hove Albion,5,True,complete
+0700t,Omar Alderete,SUN,Ipswich Town,5,True,complete
+06rf9,Omar Marmoush,MCI,Bournemouth,5,True,complete
+05ubv,Omari Hutchinson,NOT,,0,False,unresolved_club
+05ye7,Oscar Bobb,FUL,Chelsea,5,True,complete
+076cy,Oscar Varney,COV,Arsenal,5,True,complete
+0643r,Owen Bevan,BOU,Manchester City,5,True,complete
+03jlw,Paddy McNair,HUL,Manchester United,5,True,complete
+05w7t,Pape Sarr,TOT,Brentford,5,True,complete
+04fk1,Pascal Gross,BHA,Aston Villa,5,True,complete
+05mzz,Pascal Struijk,BHA,Aston Villa,5,True,complete
+06rlj,Patrick Dorgu,MUN,Hull City,5,True,complete
+06crm,Pau Torres,AVL,Brighton & Hove Albion,5,True,complete
+056iy,Pedro Neto,CHE,Fulham,5,True,complete
+05n07,Pedro Porro,TOT,Brentford,5,True,complete
+076do,Pharrell Brown,HUL,Manchester United,5,True,complete
+04abb,Phil Foden,MCI,Bournemouth,5,True,complete
+070hq,Piero Hincapie,ARS,Coventry City,5,True,complete
+06ime,Radu Dragusin,TOT,Brentford,5,True,complete
+070hp,Randal Kolo Muani,TOT,Brentford,5,True,complete
+06exb,Rasmus Hojlund,MUN,Hull City,5,True,complete
+04qrc,Raul Jimenez,FUL,Chelsea,5,True,complete
+072wq,Rayan,BOU,Manchester City,5,True,complete
+05os4,Rayan Ait-Nouri,MCI,Bournemouth,5,True,complete
+06v07,Rayan Cherki,MCI,Bournemouth,5,True,complete
+051k7,Reece James,CHE,Fulham,5,True,complete
+05rka,Reece Welch,EVE,Crystal Palace,5,True,complete
+05o2p,Regan Slater,HUL,Manchester United,5,True,complete
+06rrq,Reggie Walsh,CHE,Fulham,5,True,complete
+06nlc,Reigan Heskey,MCI,Bournemouth,5,True,complete
+06yb9,Reinildo,SUN,Ipswich Town,5,True,complete
+04ge8,Reiss Nelson,BRF,Tottenham Hotspur,5,True,complete
+05ubh,Remi Matthews,CRY,Everton,5,True,complete
+06r3w,Remy Rees-Dottin,BOU,Manchester City,5,True,complete
+06yxd,Rhys Chadwick,LEE,Nottingham Forest,5,True,complete
+0722r,Rhys Oakley,AVL,Brighton & Hove Albion,5,True,complete
+05oji,Rhys Williams,LIV,Newcastle United,5,True,complete
+06nu7,Riccardo Calafiori,ARS,Coventry City,5,True,complete
+04io4,Richarlison,TOT,Brentford,5,True,complete
+05tqz,Rico Henry,BRF,Tottenham Hotspur,5,True,complete
+062x7,Rico Lewis,MCI,Bournemouth,5,True,complete
+06mwu,Riley Owen,BRF,Tottenham Hotspur,5,True,complete
+06zbt,Rio Cardines,CRY,Everton,5,True,complete
+06mgn,Rio Kyerematen,TOT,Brentford,5,True,complete
+06r2g,Rio Ngumoha,LIV,Newcastle United,5,True,complete
+04yme,Robert Sanchez,CHE,Fulham,5,True,complete
+06znb,Robin Roefs,SUN,Ipswich Town,5,True,complete
+0524k,Rodri,MCI,Bournemouth,5,True,complete
+05ylw,Rodrigo Bentancur,TOT,Brentford,5,True,complete
+061vn,Rodrigo Muniz,FUL,Chelsea,5,True,complete
+06r9h,Romain Esse,COV,Arsenal,5,True,complete
+05udw,Romaine Mundle,SUN,Ipswich Town,5,True,complete
+06xzb,Romelle Donovan,BRF,Tottenham Hotspur,5,True,complete
+05unu,Romeo Lavia,CHE,Fulham,5,True,complete
+072gz,Ronnie Hollingshead,AVL,Brighton & Hove Albion,5,True,complete
+02lpf,Ross Barkley,AVL,Brighton & Hove Albion,5,True,complete
+05omu,Ruben Dias,MCI,Bournemouth,5,True,complete
+061ve,Ryan Christie,BOU,Manchester City,5,True,complete
+04sjv,Ryan Giles,HUL,Manchester United,5,True,complete
+06fxe,Ryan Gravenberch,LIV,Newcastle United,5,True,complete
+072b6,Ryan Kavuma-McQueen,CHE,Fulham,5,True,complete
+0722t,Ryan McAidoo,MCI,Bournemouth,5,True,complete
+04qfm,Ryan Sessegnon,FUL,Chelsea,5,True,complete
+0643w,Ryan Trevitt,BRF,Tottenham Hotspur,5,True,complete
+061y6,Ryan Yates,NOT,,0,False,unresolved_club
+072g3,Sam Alabi,NEW,Liverpool FC,5,True,complete
+03ysd,Sam Byram,LEE,Nottingham Forest,5,True,complete
+06v00,Sam Chambers,LEE,Nottingham Forest,5,True,complete
+06ie2,Sam Proctor,AVL,Brighton & Hove Albion,5,True,complete
+06ewp,Samuel Amissah,FUL,Chelsea,5,True,complete
+070hk,Samuel Chukwueze,FUL,Chelsea,5,True,complete
+05gcs,Sander Berge,FUL,Chelsea,5,True,complete
+06cms,Sandro Tonali,TOT,Brentford,5,True,complete
+068yt,Sasa Lukic,FUL,Chelsea,5,True,complete
+06mvz,Savio,MCI,Bournemouth,5,True,complete
+02lpl,Seamus Coleman,EVE,Crystal Palace,5,True,complete
+04ug0,Sean Longstaff,LEE,Nottingham Forest,5,True,complete
+06rnn,Sean Neave,NEW,Liverpool FC,5,True,complete
+06y28,Sebastiaan Bornauw,LEE,Nottingham Forest,5,True,complete
+03ksl,Semi Ajayi,HUL,Manchester United,5,True,complete
+070hl,Senne Lammens,MUN,Hull City,5,True,complete
+05220,Sepp van den Berg,BRF,Tottenham Hotspur,5,True,complete
+072cb,Seth Ridgeon,FUL,Chelsea,5,True,complete
+06zc0,Seung-Soo Park,NEW,Liverpool FC,5,True,complete
+06v0c,Shea Lacey,MUN,Hull City,5,True,complete
+06qgn,Shumaira Mheuka,CHE,Fulham,5,True,complete
+033l8,Simon Moore,SUN,Ipswich Town,5,True,complete
+076dx,Sindre Egeli,IPS,Sunderland,5,True,complete
+04e1k,Solly March,BHA,Aston Villa,5,True,complete
+06sj8,Somto Boniface,IPS,Sunderland,5,True,complete
+072py,Souza,TOT,Brentford,5,True,complete
+076dj,Stanley Ashbee,HUL,Manchester United,5,True,complete
+062p0,Stefan Bajcetic,LIV,Newcastle United,5,True,complete
+062cw,Stefan Ortega,NOT,,0,False,unresolved_club
+06xzc,Stefanos Tzimas,BHA,Aston Villa,5,True,complete
+06fwn,Steven Benda,FUL,Chelsea,5,True,complete
+062a9,Sven Botman,NEW,Liverpool FC,5,True,complete
+06ys4,Sverre Nypan,MCI,Bournemouth,5,True,complete
+072j7,TJ Carroll,AVL,Brighton & Hove Albion,5,True,complete
+04rzl,Taiwo Awoniyi,NOT,,0,False,unresolved_club
+075kd,Talla Ndiaye,LIV,Newcastle United,5,True,complete
+0410j,Tammy Abraham,AVL,Brighton & Hove Albion,5,True,complete
+076d4,Tatsuhiro Sakamoto,COV,Arsenal,5,True,complete
+05xtr,Teddy Sharman-Lowe,CHE,Fulham,5,True,complete
+06ybp,Thierno Barry,EVE,Crystal Palace,5,True,complete
+05rbn,Thomas McGill,BHA,Aston Villa,5,True,complete
+06v06,Tijjani Reijnders,MCI,Bournemouth,5,True,complete
+05t6z,Tim Iroegbunam,EVE,Crystal Palace,5,True,complete
+05o4c,Timothy Castagne,FUL,Chelsea,5,True,complete
+06crn,Toby Collyer,HUL,Manchester United,5,True,complete
+0328q,Tom Cairney,FUL,Chelsea,5,True,complete
+03dwz,Tom Heaton,MUN,Hull City,5,True,complete
+06cmt,Tom King,EVE,Crystal Palace,5,True,complete
+06yjz,Tommy Pilling,LIV,Newcastle United,5,True,complete
+06nk0,Tommy Setford,ARS,Coventry City,5,True,complete
+03yeg,Tosin Adarabioyo,CHE,Fulham,5,True,complete
+06v0g,Trai Hume,SUN,Ipswich Town,5,True,complete
+04mup,Trevoh Chalobah,CHE,Fulham,5,True,complete
+06hze,Treymaurice Nyoni,LIV,Newcastle United,5,True,complete
+072x9,Tye Hall,TOT,Brentford,5,True,complete
+062h7,Tyler Adams,BOU,Manchester City,5,True,complete
+06195,Tyler Dibling,EVE,Crystal Palace,5,True,complete
+06v0a,Tyler Fletcher,MUN,Hull City,5,True,complete
+064op,Tyler Fredricson,MUN,Hull City,5,True,complete
+05r93,Tyler Onyango,EVE,Crystal Palace,5,True,complete
+06zc8,Tynan Thompson,MUN,Hull City,5,True,complete
+062ft,Tyrell Malacia,MUN,Hull City,5,True,complete
+05akv,Tyrick Mitchell,CRY,Everton,5,True,complete
+06l4i,Tyrique George,EVE,Crystal Palace,5,True,complete
+03rec,Tyrone Mings,AVL,Brighton & Hove Albion,5,True,complete
+072p3,Tyrone Samba,MCI,Bournemouth,5,True,complete
+05s08,Valentino Livramento,NEW,Liverpool FC,5,True,complete
+070h9,Veljko Milosavljevic,BOU,Manchester City,5,True,complete
+04fk8,Victor Lindelof,AVL,Brighton & Hove Albion,5,True,complete
+076qg,Victor Munoz,LIV,Newcastle United,5,True,complete
+076d7,Victor Torp,COV,Arsenal,5,True,complete
+04tsb,Viktor Gyokeres,ARS,Coventry City,5,True,complete
+03vlj,Virgil van Dijk,LIV,Newcastle United,5,True,complete
+05ybq,Vitalii Mykolenko,EVE,Crystal Palace,5,True,complete
+05tre,Vitaly Janelt,BRF,Tottenham Hotspur,5,True,complete
+06xze,Walter Benitez,CRY,Everton,5,True,complete
+06fso,Wataru Endo,LIV,Newcastle United,5,True,complete
+06zrq,Wellity Lucky,LIV,Newcastle United,5,True,complete
+05opl,Wesley Fofana,CHE,Fulham,5,True,complete
+064a0,Wilfried Gnonto,LEE,Nottingham Forest,5,True,complete
+04f6o,Will Hughes,CRY,Everton,5,True,complete
+06zrt,Will Wright,LIV,Newcastle United,5,True,complete
+05t6x,William Osula,NEW,Liverpool FC,5,True,complete
+0558w,William Saliba,ARS,Coventry City,5,True,complete
+04qr0,Willy Boly,NOT,,0,False,unresolved_club
+06v0t,Wilson Isidor,SUN,Ipswich Town,5,True,complete
+06fhy,Wilson Odobert,TOT,Brentford,5,True,complete
+070fa,Xavi Simons,TOT,Brentford,5,True,complete
+06c6g,Yankuba Minteh,BHA,Aston Villa,5,True,complete
+068yc,Yasin Ayari,BHA,Aston Villa,5,True,complete
+070f9,Yeremy Pino,CRY,Everton,5,True,complete
+05uor,Yoane Wissa,NEW,Liverpool FC,5,True,complete
+04yo7,Youri Tielemans,MUN,Hull City,5,True,complete
+076ds,Yu Hirakawa,HUL,Manchester United,5,True,complete
+04sft,Yves Bissouma,TOT,Brentford,5,True,complete
+06442,Zach Abbott,NOT,,0,False,unresolved_club
+06do1,Zach Marsh,CRY,Everton,5,True,complete
+076ke,Zadok Yohanna,BHA,Aston Villa,5,True,complete
+072c1,Zyan Blake,NOT,,0,False,unresolved_club
+078j4,,,,0,False,unresolved_club
+078i7,,,,0,False,unresolved_club
+0784y,,LEE,Nottingham Forest,5,True,complete
+0784o,,CRY,Everton,5,True,complete
+0784z,,LIV,Newcastle United,5,True,complete
+03ybi,,MUN,Hull City,5,True,complete
+07848,,AVL,Brighton & Hove Albion,5,True,complete
+07877,,BRF,Tottenham Hotspur,5,True,complete
+07898,,,,0,False,unresolved_club
+0787y,,BOU,Manchester City,5,True,complete
+0784x,,IPS,Sunderland,5,True,complete
+06mgd,,IPS,Sunderland,5,True,complete
+0784p,,EVE,Crystal Palace,5,True,complete
+0784b,,CHE,Fulham,5,True,complete

@@ -1,0 +1,19 @@
+{
+  "matches": 20,
+  "lineups": 800,
+  "events": 30766,
+  "advanced_player_match_rows": 786,
+  "pitch_rows": 30766,
+  "mapped_lineup_rows": 786,
+  "lineup_rows": 800,
+  "player_identity_coverage": 0.9825,
+  "new_player_mappings": 0,
+  "formation_coverage": 1.0,
+  "rating_coverage": 0.7775,
+  "coordinate_coverage": 1.0,
+  "set_piece_rows": 828,
+  "team_match_feature_rows": 40,
+  "playstyle_rows": 21,
+  "fantasy_allowed_status": "UNAVAILABLE_NO_CURRENT_MATCH_ATTRIBUTABLE_FANTRAX_POINTS",
+  "playstyle_status": "CURRENT_OBSERVED"
+}

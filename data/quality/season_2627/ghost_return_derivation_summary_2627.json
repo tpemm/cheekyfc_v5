@@ -1,0 +1,15 @@
+{
+  "component_derived_ghost_observations": 320,
+  "derived_ghost_observations": 296,
+  "waiver_derived_observations": 296,
+  "partial_observations": 0,
+  "missing_observations": 0,
+  "comparable_component_observations": 320,
+  "exact_agreement": 320,
+  "agreement_rate": 1.0,
+  "mae": 0.0,
+  "median_absolute_difference": 0.0,
+  "total_component_derived_ghost": 2020.0,
+  "total_derived_ghost": 2020.0,
+  "mismatch_count": 0
+}

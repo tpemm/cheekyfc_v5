@@ -91,6 +91,16 @@ def test_subprocess_receives_inherited_environment(project_path, seasons, monkey
     assert executor.calls[0][1]["env"]["FANTRAX_LEAGUE_ID_2627"]=="new-league"
 
 
+def test_2627_refresh_subprocess_receives_local_streamlit_secret(project_path,monkeypatch):
+    monkeypatch.delenv("FANTRAX_LEAGUE_ID_2627",raising=False)
+    secret=project_path/".streamlit"/"secrets.toml";secret.parent.mkdir(parents=True)
+    secret.write_text('FANTRAX_LEAGUE_ID_2627 = "local-current-league"\n',encoding="utf-8")
+    manager=SeasonManager(definitions={"2627":{"label":"2026/27","status":"active","enabled":True,"data_ready":True}},default_season_id="2627",project_root=project_path)
+    executor=RecordingExecutor(stdout="REFRESH_CONTEXT season_id=2627 league_id=local-current-league")
+    OperationsService(season_manager=manager,project_root=project_path,executor=executor).run("refresh_live_standings","2627")
+    assert executor.calls[0][1]["env"]["FANTRAX_LEAGUE_ID_2627"]=="local-current-league"
+
+
 def test_failed_stage_context_and_streams_are_retained(project_path,seasons):
     executor=RecordingExecutor(returncode=1,stdout="REFRESH_CONTEXT season_id=active league_id=league-x",stderr="REFRESH_FAILURE stage=getStandings exception_type=HTTPError message=Forbidden")
     result=service(project_path,seasons,executor).run("refresh_live_fantrax_sources","active")

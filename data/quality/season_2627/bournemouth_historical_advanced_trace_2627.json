@@ -1,0 +1,19 @@
+{
+  "club": "AFC Bournemouth",
+  "canonical_club_id": "afc_bournemouth",
+  "historical_canonical_club_id": "bournemouth",
+  "current_club_resolved": true,
+  "historical_eligible": true,
+  "formations_rows": 4,
+  "fantasy_allowed_rows": 4,
+  "playstyle_rows": 2,
+  "manager_rows": 1,
+  "role_rows": 45,
+  "set_piece_rows": 143,
+  "status": "AVAILABLE",
+  "current_directory_id": "afc_bournemouth",
+  "historical_advanced_id": "bournemouth",
+  "routing_namespace": "working",
+  "historical_model_root": "data/models/season_2526/advanced",
+  "seconds": 0.686
+}

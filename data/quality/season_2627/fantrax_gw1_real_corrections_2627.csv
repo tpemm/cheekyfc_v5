@@ -1,0 +1,11 @@
+period,fantrax_player_id,player_name,manager_id,roster_status,metric,old_value,new_value,delta,previous_snapshot,new_snapshot,active_xi,canonical_player_id,club,fantasy_team_name,correction_detected_at
+1,07898,Gonzalo Garcia,h2e8dn5dmrp1z5vp,Act,Fantasy Points,14,13.0,-1.0,20260824T2341120000,20260825T1454070000,True,FTX-07898,FUL,Berkshire’s Club,2026-08-25T16:27:18.496059+00:00
+1,07898,Gonzalo Garcia,h2e8dn5dmrp1z5vp,Act,Average Fantasy Points per Game,14,13.0,-1.0,20260824T2341120000,20260825T1454070000,True,FTX-07898,FUL,Berkshire’s Club,2026-08-25T16:27:18.496059+00:00
+1,07898,Gonzalo Garcia,h2e8dn5dmrp1z5vp,Act,RC,1,0.0,-1.0,20260824T2341120000,20260825T1454070000,True,FTX-07898,FUL,Berkshire’s Club,2026-08-25T16:27:18.496059+00:00
+1,06pia,Maxence Lacroix,qwkltl98mrp1z5vp,Act,Fantasy Points,14,16.0,2.0,20260824T2341120000,20260825T1454070000,True,pr_13aa175b61be9d3d,CRY,epatel3,2026-08-25T16:27:18.496059+00:00
+1,06pia,Maxence Lacroix,qwkltl98mrp1z5vp,Act,Average Fantasy Points per Game,14,16.0,2.0,20260824T2341120000,20260825T1454070000,True,pr_13aa175b61be9d3d,CRY,epatel3,2026-08-25T16:27:18.496059+00:00
+1,06pia,Maxence Lacroix,qwkltl98mrp1z5vp,Act,RC,2,3.0,1.0,20260824T2341120000,20260825T1454070000,True,pr_13aa175b61be9d3d,CRY,epatel3,2026-08-25T16:27:18.496059+00:00
+1,06pia,Maxence Lacroix,qwkltl98mrp1z5vp,Act,Int,1,2.0,1.0,20260824T2341120000,20260825T1454070000,True,pr_13aa175b61be9d3d,CRY,epatel3,2026-08-25T16:27:18.496059+00:00
+1,05g2o,Joao Pedro,qwkltl98mrp1z5vp,Act,Fantasy Points,22,22.5,0.5,20260824T2341120000,20260825T1454070000,True,pr_cfe4cc43db7d7a00,CHE,epatel3,2026-08-25T16:27:18.496059+00:00
+1,05g2o,Joao Pedro,qwkltl98mrp1z5vp,Act,Average Fantasy Points per Game,22,22.5,0.5,20260824T2341120000,20260825T1454070000,True,pr_cfe4cc43db7d7a00,CHE,epatel3,2026-08-25T16:27:18.496059+00:00
+1,05g2o,Joao Pedro,qwkltl98mrp1z5vp,Act,Int,1,2.0,1.0,20260824T2341120000,20260825T1454070000,True,pr_cfe4cc43db7d7a00,CHE,epatel3,2026-08-25T16:27:18.496059+00:00

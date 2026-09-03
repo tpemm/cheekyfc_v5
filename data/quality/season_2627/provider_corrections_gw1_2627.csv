@@ -1,0 +1,11 @@
+provider,period,match,canonical_player_id,player,club,field,old_value,new_value,difference,old_snapshot,new_snapshot,active_starter,manager_affected,downstream_impact
+Fantrax,1,,,Gonzalo Garcia,,Fantasy Points,14,13.0,-1.0,20260824T2341120000,20260825T1454070000,,h2e8dn5dmrp1z5vp,full source rebuild
+Fantrax,1,,,Gonzalo Garcia,,Average Fantasy Points per Game,14,13.0,-1.0,20260824T2341120000,20260825T1454070000,,h2e8dn5dmrp1z5vp,full source rebuild
+Fantrax,1,,,Gonzalo Garcia,,RC,1,0.0,-1.0,20260824T2341120000,20260825T1454070000,,h2e8dn5dmrp1z5vp,full source rebuild
+Fantrax,1,,,Maxence Lacroix,,Fantasy Points,14,16.0,2.0,20260824T2341120000,20260825T1454070000,,qwkltl98mrp1z5vp,full source rebuild
+Fantrax,1,,,Maxence Lacroix,,Average Fantasy Points per Game,14,16.0,2.0,20260824T2341120000,20260825T1454070000,,qwkltl98mrp1z5vp,full source rebuild
+Fantrax,1,,,Maxence Lacroix,,RC,2,3.0,1.0,20260824T2341120000,20260825T1454070000,,qwkltl98mrp1z5vp,full source rebuild
+Fantrax,1,,,Maxence Lacroix,,Int,1,2.0,1.0,20260824T2341120000,20260825T1454070000,,qwkltl98mrp1z5vp,full source rebuild
+Fantrax,1,,,Joao Pedro,,Fantasy Points,22,22.5,0.5,20260824T2341120000,20260825T1454070000,,qwkltl98mrp1z5vp,full source rebuild
+Fantrax,1,,,Joao Pedro,,Average Fantasy Points per Game,22,22.5,0.5,20260824T2341120000,20260825T1454070000,,qwkltl98mrp1z5vp,full source rebuild
+Fantrax,1,,,Joao Pedro,,Int,1,2.0,1.0,20260824T2341120000,20260825T1454070000,,qwkltl98mrp1z5vp,full source rebuild

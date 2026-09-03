@@ -21,9 +21,9 @@ Season and recent-form aggregates are derived from completed rows only. Supporte
 
 The live calculation reuses the finalized league scoring engine and the established definition:
 
-`ghost_points = fantasy_points - goal_points - assist_points - clean_sheet_points - goals_against_points`
+`ghost_points = fantasy_points - goal_points - assist_points - clean_sheet_points`
 
-All removed contributions use the configured position-sensitive scoring weights; goals-against contributions retain their sign. If fantasy score or any required component is unavailable, Ghost Points remains blank. This avoids silently treating missing scoring components as zero.
+Removed contributions use the season-versioned commissioner scoring configuration. Goals-against and all peripheral scoring remain Ghost. If fantasy score or any required return component is unavailable, Ghost Points remains blank. This avoids silently treating missing scoring components as zero.
 
 ## Players experience
 
@@ -50,3 +50,18 @@ Manager roster rates use the shared completed-period player facts and ratio-of-s
 aggregation; no separate manager rate engine is maintained.
 The live League Hub may display supported current free-agent facts only after
 weekly data exists; missing preseason production is never rendered as zero.
+## Players-page rate presentation
+
+Per Game, Per Start, and Per 90 are presentation choices over the registered live analytical fields. They do not change fantasy-points, Ghost, xGI, projected-minutes, fixture, ownership, or historical formulas. Historical values are contextual profile data and never backfill preseason live production.
+### Compact live profile
+
+The scouting profile has a compact identity/header and six current decision metrics, followed by Overview, Performance, Playing Time, Advanced, Fixtures, History, and Ownership / Draft tabs. Preseason current production stays blank; historical radar/context, Minutes Outlook, fixtures, ownership, and draft context remain usable. Weekly production and minutes trends activate only from registered completed-period observations.
+### Match-by-match performance
+
+Performance now contains Points by Gameweek, Last 5, Home/Away rates, an authoritative Ghost/non-Ghost breakdown, and sortable Full Gameweek Stats. Current views require completed `period_complete` observations. Finalized 2025/26 detail uses the registered master weekly frame. Missing weeks and metrics remain missing rather than becoming zero.
+### Overview dimensions
+
+Overview summarizes exact production beside the radar and adds no secondary score or percentile-bar layer. Current production remains unavailable during preseason instead of borrowing historical values.
+# Matchup observation use
+
+Completed `current_player_weekly` facts feed positional allowed and recent playing-time features. Multi-position eligibility is reduced to one canonical primary group; weekly facts are never duplicated across groups. Current preseason files remain empty rather than zero-filled.

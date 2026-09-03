@@ -248,3 +248,10 @@ Refresh League has not gained an undocumented player-stat request. It continues 
 Understat acquisition is prepared for the single Refresh League workflow and writes atomically only beneath `data/raw/understat/2627/`. A missing or empty preseason response is a successful empty state. No second prominent refresh action or page-level network request was added.
 
 Refresh League now includes incremental Fantrax weekly acquisition before the cache-only build. Advanced contains Backfill Weekly Player Stats, Force Refresh Current Period, Validate Player Performance, Rebuild Live Models, and source-coverage diagnostics. Valid finalized periods are skipped by default.
+# Team fixture refresh cadence
+
+Use `refresh_footballdata_full.py --execute --current-matches-only --skip-build` only for explicit fixture refreshes. It performs one budget check, revalidates current-season page 1, follows fresh pagination, and atomically caches pages. Refresh preseason, after announced schedule changes, and periodically during the season—not on page render and not team by team. Near-term status changes may justify more frequent selective refreshes once the provider offers complete coverage.
+
+Refresh Fantrax league metadata with `refresh_live_fantrax.py` source `league_metadata`; validate and rebuild the scoring-period reference before canonical fixtures. Normal `Refresh League` remains focused on weekly live data and does not automatically spend schedule-provider requests.
+
+Use `refresh_soccerdata_team_context.py --mode schedule --cache-only` for the reproducible schedule build. Remove `--cache-only` only for an explicit external refresh. ClubElo uses `--mode clubelo`; invalid or empty acquisition must never overwrite the registered production cache. These advanced operations remain separate from normal Refresh League.

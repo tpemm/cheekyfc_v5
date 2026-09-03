@@ -1,0 +1,14 @@
+{
+  "season": "2526",
+  "started_at": "2026-08-19T23:02:45.508227+00:00",
+  "mode": "CACHE_ONLY",
+  "schedule_matches": 380,
+  "completed_eligible": 380,
+  "valid_caches": 30,
+  "missing_or_failed": 350,
+  "cache_hits": 30,
+  "acquired": 0,
+  "failed": 0,
+  "advanced_build": "SUCCESS",
+  "elapsed_seconds": 9.334
+}

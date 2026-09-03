@@ -1,0 +1,23 @@
+{
+  "methodology_version": "team_tactical_v1",
+  "calibration_season": "2526",
+  "thresholds": {"high_percentile": 80, "low_percentile": 20},
+  "confidence": [
+    {"minimum_matches": 10, "state": "Established"},
+    {"minimum_matches": 5, "state": "Developing"},
+    {"minimum_matches": 3, "state": "Emerging"},
+    {"minimum_matches": 0, "state": "Very Early"}
+  ],
+  "traits": [
+    {"trait_id":"territorial_activity","dimension":"territorial_activity","high_name":"Advanced Attacking Activity","balanced_name":"Balanced Territorial Activity","low_name":"Deep Attacking Activity","features":{"final_third_event_share":0.5,"final_third_entries_per_match":0.5},"minimum_sample":5,"description":"Recorded actions and successful entries occur relatively high up the pitch.","caveat":"Event activity is not possession dominance."},
+    {"trait_id":"width","dimension":"width","high_name":"Wide Attacking Activity","balanced_name":"Balanced Attacking Width","low_name":"Central Attacking Activity","features":{"wide_attacking_activity_share":1.0},"minimum_sample":5,"description":"Final-third attacking actions occur in wide channels at a high rate.","caveat":"Width is separate from crossing volume."},
+    {"trait_id":"crossing_tendency","dimension":"crossing_tendency","high_name":"Cross Heavy","balanced_name":"Balanced Crossing","low_name":"Cross Light","features":{"crosses_per_match":0.7,"crosses_per_100_attacking_events":0.3},"minimum_sample":5,"description":"Attempts crosses at a high rate relative to the league.","caveat":"Volume characteristic; cross success is shown separately."},
+    {"trait_id":"central_creation","dimension":"central_creation","high_name":"Central Creation","balanced_name":"Balanced Creation","low_name":"Wide Creation","features":{"central_creation_share":1.0},"minimum_sample":5,"description":"Recorded key-pass and shot creation occurs centrally at a high share.","caveat":"Wide Creation is not synonymous with Cross Heavy."},
+    {"trait_id":"dribbling_tendency","dimension":"dribbling_tendency","high_name":"Dribble Heavy","balanced_name":"Balanced 1v1 Activity","low_name":"Dribble Light","features":{"take_ons_per_match":0.7,"take_ons_per_100_attacking_events":0.3},"minimum_sample":5,"description":"Attempts TakeOns at a high rate relative to the league.","caveat":"TakeOn success is an effectiveness metric, not tendency."},
+    {"trait_id":"box_penetration","dimension":"box_penetration","high_name":"High Box Penetration","balanced_name":"Moderate Box Penetration","low_name":"Low Box Penetration","features":{"box_entries_per_match":0.6,"box_event_share":0.4},"minimum_sample":5,"description":"Enters and records actions in the opponent box at a high rate.","caveat":"Descriptive penetration volume, not attacking quality."},
+    {"trait_id":"chance_creation","dimension":"chance_creation","high_name":"High Chance Creation","balanced_name":"Typical Chance Creation","low_name":"Low Chance Creation","features":{"key_passes_per_match":0.6,"xg_per_match":0.4},"minimum_sample":5,"description":"Produces key passes and xG at high rates.","caveat":"Shots were removed as redundant with KP; this remains a production profile, not an overall attack score."},
+    {"trait_id":"defensive_activity_height","dimension":"defensive_activity_height","high_name":"Advanced Defensive Activity","balanced_name":"Mid Defensive Activity","low_name":"Deep Defensive Activity","features":{"defensive_event_activity_depth":0.7,"advanced_defensive_action_share":0.3},"minimum_sample":5,"description":"Recorded defensive actions occur relatively high up the pitch.","caveat":"This does not establish a high press."},
+    {"trait_id":"defensive_disruption","dimension":"defensive_disruption","high_name":"High Defensive Disruption","balanced_name":"Typical Defensive Disruption","low_name":"Low Defensive Disruption","features":{"successful_tackles_per_match":0.34,"interceptions_per_match":0.33,"recoveries_per_match":0.33},"minimum_sample":5,"description":"Records tackles won, interceptions, and recoveries at high rates.","caveat":"Activity is influenced by game state and opponent behavior."},
+    {"trait_id":"aerial_orientation","dimension":"aerial_orientation","high_name":"Aerial Heavy","balanced_name":"Balanced Aerial Volume","low_name":"Aerial Light","features":{"aerials_per_match":1.0},"minimum_sample":5,"description":"Contests aerial events at a high rate relative to the league.","caveat":"Aerial win percentage is shown separately as effectiveness."}
+  ]
+}

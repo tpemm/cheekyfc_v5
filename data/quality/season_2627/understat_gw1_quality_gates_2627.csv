@@ -1,0 +1,6 @@
+gate,passed,observed
+exact_match_identity,True,20/20
+team_perspectives,True,40 rows / 20 clubs
+xg_xga_reciprocity,True,True
+player_match_rows,True,622
+played_zero_preserved,True,329

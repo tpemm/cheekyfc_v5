@@ -9,7 +9,9 @@ from typing import Any
 import numpy as np
 import pandas as pd
 
-from fantrax.analytics.core.scoring_engine import position_sensitive_points
+from fantrax.live.ghost import derive_return_ghost
+from fantrax.live.current_identity import display_names
+from fantrax.live.player_participation import add_canonical_rates
 
 
 EVENT_FIELDS=("goals","assists","shots","shots_on_target","key_passes","accurate_crosses","successful_dribbles","tackles_won","interceptions","clearances","blocks","aerials_won","aerials_lost","dispossessions","fouls_drawn","fouls_committed","yellow_cards","red_cards","clean_sheets","goals_against","saves","penalties_saved","penalties_missed","own_goals")
@@ -66,11 +68,8 @@ def normalize_weekly_export(frame: pd.DataFrame, *, retrieved_at: str, season_id
 
 
 def _ghost_points(row: pd.Series) -> float:
-    required=("fantasy_points","goals","assists","clean_sheets","goals_against","canonical_position")
-    if any(pd.isna(row.get(column)) or str(row.get(column)).strip()=="" for column in required): return np.nan
-    try: major=position_sensitive_points(str(row["canonical_position"]),goals=row["goals"],assists=row["assists"],clean_sheets=row["clean_sheets"],goals_against=row["goals_against"])
-    except ValueError: return np.nan
-    return float(row["fantasy_points"])-major
+    result=derive_return_ghost(fantasy_points=row.get("fantasy_points"),position=row.get("canonical_position"),goals=row.get("goals"),assists=row.get("assists"),clean_sheets=row.get("clean_sheets"),appeared=bool(pd.to_numeric(row.get("appearance"),errors="coerce") or 0))
+    return result["ghost_points"]
 
 
 def load_cached_weekly_exports(raw_root: Path) -> pd.DataFrame:
@@ -95,6 +94,7 @@ def enrich_weekly(weekly: pd.DataFrame, registry: pd.DataFrame, ownership: pd.Da
     out=weekly.copy()
     if not registry.empty:
         cols=[c for c in ("fantrax_player_id","registry_player_id","canonical_name") if c in registry]; reg=registry[cols].copy(); reg["fantrax_player_id"]=reg["fantrax_player_id"].astype("string"); out=out.drop(columns=[c for c in ("registry_player_id","canonical_name") if c in out]).merge(reg.drop_duplicates("fantrax_player_id"),on="fantrax_player_id",how="left")
+    out["player_name"] = display_names(out.get("canonical_name", pd.Series(pd.NA, index=out.index)), out["player_name"])
     if not rosters.empty:
         cols=[c for c in ("period","fantrax_player_id","manager_id","manager_name","roster_status","lineup_status") if c in rosters]; roster=rosters[cols].drop_duplicates(["period","fantrax_player_id"],keep="last").rename(columns={"manager_id":"current_manager_id_api","manager_name":"current_manager_name_api","roster_status":"roster_status_api","lineup_status":"lineup_status_api"}); out=out.merge(roster,on=["period","fantrax_player_id"],how="left")
         for column in ("current_manager_id","current_manager_name","roster_status","lineup_status"):
@@ -111,20 +111,18 @@ def completed_window(weekly: pd.DataFrame, window: str) -> tuple[pd.DataFrame,st
     return complete[pd.to_numeric(complete.get("period"),errors="coerce").isin(selected)].copy(),label
 
 
-def aggregate_player_window(weekly: pd.DataFrame, window: str="Season") -> tuple[pd.DataFrame,str]:
-    source,label=completed_window(weekly,window)
+def aggregate_player_window(weekly: pd.DataFrame, window: str="Season", *, include_partial:bool=False) -> tuple[pd.DataFrame,str]:
+    if include_partial:
+        source=weekly.copy();periods=sorted(pd.to_numeric(source.get("period"),errors="coerce").dropna().astype(int).unique());requested=None if window=="Season" else int(window.split()[-1]);selected=periods if requested is None else periods[-requested:];source=source[pd.to_numeric(source.get("period"),errors="coerce").isin(selected)];label="Season (including active period)" if requested is None else f"Last {requested} (including active period)"
+    else:source,label=completed_window(weekly,window)
     if source.empty: return pd.DataFrame(),label
     sums=("fantasy_points","ghost_points","minutes",*EVENT_FIELDS,"xg","xa","xgi","understat_minutes")
     aggregations={column:(column,lambda values:pd.to_numeric(values,errors="coerce").sum(min_count=1)) for column in sums if column in source}
     for column in ("appearance","start"): aggregations[column]=(column,lambda values:pd.to_numeric(values,errors="coerce").sum(min_count=1))
     for column in ("registry_player_id","canonical_name","player_name","club","fantrax_position","canonical_position","current_manager_id","current_manager_name","roster_status"): aggregations[column]=(column,"last")
     out=source.groupby("fantrax_player_id",as_index=False).agg(**aggregations); out["periods_covered"]=source.groupby("fantrax_player_id")["period"].nunique().values
-    for metric in ("fantasy_points","ghost_points","goals","assists","key_passes","aerials_won","tackles_won","xgi"):
-        if metric not in out: continue
-        out[f"{metric}_per_game"]=pd.to_numeric(out[metric],errors="coerce").div(pd.to_numeric(out["appearance"],errors="coerce").where(pd.to_numeric(out["appearance"],errors="coerce").gt(0)))
-        out[f"{metric}_per_start"]=pd.to_numeric(out[metric],errors="coerce").div(pd.to_numeric(out["start"],errors="coerce").where(pd.to_numeric(out["start"],errors="coerce").gt(0)))
-        denominator=out["understat_minutes"] if metric=="xgi" else out["minutes"]
-        out[f"{metric}_per_90"]=pd.to_numeric(out[metric],errors="coerce").mul(90).div(pd.to_numeric(denominator,errors="coerce").where(pd.to_numeric(denominator,errors="coerce").gt(0)))
+    out["games_played"]=out["appearance"];out["starts"]=out["start"]
+    out=add_canonical_rates(out,tuple(x for x in ("fantasy_points","ghost_points",*EVENT_FIELDS,"xg","xa","xgi") if x in out))
     out["start_percentage"]=pd.to_numeric(out["start"],errors="coerce").mul(100).div(pd.to_numeric(out["appearance"],errors="coerce").where(pd.to_numeric(out["appearance"],errors="coerce").gt(0)))
     out["minutes_per_game"]=pd.to_numeric(out["minutes"],errors="coerce").div(pd.to_numeric(out["appearance"],errors="coerce").where(pd.to_numeric(out["appearance"],errors="coerce").gt(0)))
     return out,label

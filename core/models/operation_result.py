@@ -23,6 +23,13 @@ class OperationResult:
     resolved_league_id: str | None = None
     failed_stage: str | None = None
     command: str | None = None
+    status: str | None = None
+    scoring_period: int | None = None
+    rows_before: int | None = None
+    rows_after: int | None = None
+    changed: bool | None = None
+    warning: str | None = None
+    source: str | None = None
 
     def display_log(self) -> str:
         lines = [

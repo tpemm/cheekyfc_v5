@@ -1,0 +1,8 @@
+product,rows,elapsed_seconds,status
+team_match_analytics,40,0.1067,CURRENT
+team_season_profile,20,0.0384,CURRENT
+team_manager_profile,20,0.0202,CURRENT
+team_formation_analytics,21,0.0188,CURRENT
+team_home_away_profile,40,0.025,CURRENT
+team_fantasy_allowed_match,40,0.0183,CURRENT
+team_fantasy_allowed_position_match,158,0.0183,CURRENT

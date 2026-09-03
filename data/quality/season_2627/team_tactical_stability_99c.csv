@@ -1,0 +1,21 @@
+dimension,feature,between_team_variance,within_team_variance,split_half_spearman,split_half_pearson,stability_status,notes
+territorial_activity,final_third_event_share,5.734218012867502,27.011296083688773,0.7864661654135339,0.7553602439057456,STRONG,Equal-match split; red-card matches retained and flagged.
+territorial_activity,final_third_entries_per_match,29.066372649074204,119.71301564722617,0.6451127819548872,0.7037108567603969,STRONG,Equal-match split; red-card matches retained and flagged.
+width,wide_attacking_activity_share,4.691865767689538,27.73482711583349,0.5112781954887218,0.6382038122968983,MODERATE,Equal-match split; red-card matches retained and flagged.
+crossing_tendency,crosses_per_match,4.696768843854788,55.90138691322902,0.5722898056345829,0.6254653710066682,MODERATE,Equal-match split; red-card matches retained and flagged.
+crossing_tendency,crosses_per_100_attacking_events,6.9364395573255,12.700667224485422,0.8736842105263158,0.9103883804121505,STRONG,Equal-match split; red-card matches retained and flagged.
+central_creation,central_creation_share,8.099787344278345,111.42463925224634,0.36541353383458647,0.2560229690449962,MODERATE,Equal-match split; red-card matches retained and flagged.
+dribbling_tendency,take_ons_per_match,9.290310176410557,28.39434566145092,0.6049661399548533,0.743621185285307,STRONG,Equal-match split; red-card matches retained and flagged.
+dribbling_tendency,take_ons_per_100_attacking_events,7.102056405079347,39.40237446043157,0.46015037593984964,0.39201911151756436,MODERATE,Equal-match split; red-card matches retained and flagged.
+box_penetration,box_entries_per_match,2.005933809593234,19.779445234708394,0.5709447148820527,0.6287931592932792,MODERATE,Equal-match split; red-card matches retained and flagged.
+box_penetration,box_event_share,0.24661905399610654,2.3438234071318895,0.5413533834586466,0.5890766420341702,MODERATE,Equal-match split; red-card matches retained and flagged.
+chance_creation,key_passes_per_match,2.6229333722116923,13.34473684210526,0.8552087855637432,0.8568718627949818,STRONG,Equal-match split; red-card matches retained and flagged.
+effectiveness,shots_per_match,3.551631068668902,21.574715504978663,0.7594126506024096,0.7703184694013906,STRONG,Equal-match split; red-card matches retained and flagged.
+effectiveness,shots_on_target_per_match,0.08185413325557662,1.2311166429587481,0.5832082023218559,0.625196182386882,MODERATE,Equal-match split; red-card matches retained and flagged.
+chance_creation,xg_per_match,0.10809205082797409,0.663818061243622,0.9067669172932331,0.9123450599120071,STRONG,Equal-match split; red-card matches retained and flagged.
+defensive_activity_height,defensive_event_activity_depth,3.33444415176515,20.42695962855771,0.5578947368421052,0.5463530819899406,MODERATE,Equal-match split; red-card matches retained and flagged.
+defensive_activity_height,advanced_defensive_action_share,2.5278417123034114,18.425678839897536,0.5924812030075188,0.615131408617744,MODERATE,Equal-match split; red-card matches retained and flagged.
+defensive_disruption,successful_tackles_per_match,1.0564149292899836,11.060028449502134,0.5718587021416621,0.4862532077475057,MODERATE,Equal-match split; red-card matches retained and flagged.
+defensive_disruption,interceptions_per_match,0.7814167517130776,10.931543385490757,0.4883200723258571,0.5089468891371429,MODERATE,Equal-match split; red-card matches retained and flagged.
+defensive_disruption,recoveries_per_match,5.912004300918499,45.267887624466574,0.6646616541353384,0.6106999839573374,STRONG,Equal-match split; red-card matches retained and flagged.
+aerial_orientation,aerials_per_match,24.85044467123487,94.16472261735419,0.657390042728858,0.7220437620354261,STRONG,Equal-match split; red-card matches retained and flagged.

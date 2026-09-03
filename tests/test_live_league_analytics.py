@@ -92,7 +92,7 @@ def test_hub_uses_data_manager_and_performs_no_http_or_direct_csv_reads():
     source=open("views/live_league_hub.py",encoding="utf-8").read()
     assert "data.load_frame" in source
     assert "pd.read_csv" not in source and "requests." not in source and "httpx." not in source
-    assert "Live scoring, form, luck" in source and "Available Players" in source
+    assert "Manager Awards" in source and "Weekly Scoring" in source
 
 
 def test_manager_moves_are_not_called_trades_without_confirmation():
@@ -128,6 +128,6 @@ def test_preseason_compact_table_uses_neutral_live_fields():
 
 def test_hub_cards_and_manager_grid_refinement_are_present_in_source():
     source=open("views/live_league_hub.py",encoding="utf-8").read()
-    for label in ("Latest Jester","Jester Leader","Latest Manager of the Month","Cup Status"):assert label in source
+    for label in ("Latest Jester","Jester Leader","Manager of the Month","Cup Status"):assert label in source
     assert 'section_header(ui,"Manager Cards"' not in source
-    assert "Draft / Projection Basis" in source and "Manager / Team" in source
+    assert "Recent Roster Activity" not in source and "Available Players" not in source

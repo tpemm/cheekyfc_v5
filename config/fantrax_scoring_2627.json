@@ -1,0 +1,65 @@
+{
+  "season": "2627",
+  "source": "Commissioner-provided 2026/27 Fantrax scoring configuration",
+  "profiles": {
+    "GK": {
+      "rules": {
+        "AER": {"type": "flat", "points_each": 1},
+        "AT": {"type": "flat", "points_each": 7},
+        "CS": {"type": "flat", "points_each": 6},
+        "DIS": {"type": "flat", "points_each": -0.5},
+        "CLR": {"type": "flat", "points_each": 0.5},
+        "GS": {"type": "flat", "points_each": 0},
+        "G": {"type": "flat", "points_each": 12},
+        "Int": {"type": "flat", "points_each": 1},
+        "KP": {"type": "flat", "points_each": 2},
+        "Min": {"type": "flat", "points_each": 0},
+        "OG": {"type": "flat", "points_each": -5},
+        "PKS": {"type": "flat", "points_each": 10},
+        "RC": {"type": "flat", "points_each": -7},
+        "Sv": {"type": "flat", "points_each": 2},
+        "SOT": {"type": "flat", "points_each": 2},
+        "Sm": {"type": "flat", "points_each": 1},
+        "SBOF": {"type": "flat", "points_each": 0},
+        "SBON": {"type": "flat", "points_each": 0},
+        "CoS": {"type": "flat", "points_each": 1},
+        "TkW": {"type": "flat", "points_each": 1},
+        "YC": {"type": "flat", "points_each": -2},
+        "HCS": {"type": "flat", "points_each": 1},
+        "GA": {"type": "cumulative_ranges", "ranges": [{"from": 1, "to": 1, "points_each": 0}, {"from": 2, "points_each": -2}]}
+      }
+    },
+    "OUTFIELD_DEFAULT": {
+      "rules": {
+        "AC": {"type": "flat", "points_each": 1},
+        "AER": {"type": "flat", "points_each": 0.5},
+        "AT": {"type": "flat", "points_each": 6},
+        "BS": {"type": "flat", "points_each": 1},
+        "CS": {"type": "flat", "points_each": 6},
+        "DIS": {"type": "flat", "points_each": -0.5},
+        "CLR": {"type": "flat", "points_each": 0.5},
+        "GS": {"type": "flat", "points_each": 0},
+        "G": {"type": "cumulative_ranges", "ranges": [{"from": 1, "to": 2, "points_each": 9}, {"from": 3, "points_each": 12}]},
+        "Int": {"type": "flat", "points_each": 1},
+        "KP": {"type": "flat", "points_each": 2},
+        "Min": {"type": "flat", "points_each": 0},
+        "OG": {"type": "flat", "points_each": -5},
+        "PKD": {"type": "flat", "points_each": 2},
+        "PKM": {"type": "flat", "points_each": -5},
+        "RC": {"type": "flat", "points_each": -7},
+        "SOT": {"type": "flat", "points_each": 2},
+        "SBOF": {"type": "flat", "points_each": 0},
+        "SBON": {"type": "flat", "points_each": 0},
+        "CoS": {"type": "flat", "points_each": 1},
+        "TkW": {"type": "flat", "points_each": 1},
+        "YC": {"type": "flat", "points_each": -2}
+      }
+    }
+  },
+  "positions": {
+    "G": {"inherits": "GK", "overrides": {}},
+    "D": {"inherits": "OUTFIELD_DEFAULT", "overrides": {"AER": {"type": "flat", "points_each": 1}, "AT": {"type": "flat", "points_each": 7}, "GA": {"type": "cumulative_ranges", "ranges": [{"from": 1, "to": 1, "points_each": 0}, {"from": 2, "points_each": -2}]}}},
+    "M": {"inherits": "OUTFIELD_DEFAULT", "overrides": {"CS": {"type": "flat", "points_each": 1}}},
+    "F": {"inherits": "OUTFIELD_DEFAULT", "overrides": {"CS": {"type": "flat", "points_each": 0}}}
+  }
+}

@@ -1,0 +1,13 @@
+category,validation_status,fantrax_player_id,player_name,club_id,current_manager_name,lineup_status,fantasy_points,appearance,start,minutes,goals,assists,key_passes,xg,xa,xgi,whoscored_available,understat_available,source_coverage
+rostered starter,PASS,06y9m,Maxim De Cuyper,brighton_hove_albion,Pot Splashers,ACTIVE,36.0,1.0,1.0,77.0,1.0,1.0,3.0,1.3795270919799805,0.1410702615976333,1.5205973535776138,True,True,FANTRAX_DETAILED + WHOSCORED + UNDERSTAT
+rostered substitute,PASS,03ybi,Marcus Rashford,manchester_united,Pot Splashers,ACTIVE,10.0,1.0,0.0,45.0,0.0,0.0,4.0,,,,False,False,FANTRAX_DETAILED + NO_WHOSCORED + NO_UNDERSTAT
+rostered DNP,PASS,02lsa,Dan Burn,newcastle_united,Count Doku,RESERVE,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,False,False,FANTRAX_DETAILED + NO_WHOSCORED + NO_UNDERSTAT
+waiver starter,NO_CANDIDATE,,,,,,,,,,,,,,,,,,
+waiver substitute,PASS,02lp5,Adam Smith,afc_bournemouth,,,3.0,1.0,,90.0,0.0,0.0,0.0,0.0,0.0,0.0,True,True,FANTRAX_ALL_PLAYER_ONLY + WHOSCORED + UNDERSTAT
+goalscorer,PASS,067ys,Jack Hinshelwood,brighton_hove_albion,,,28.5,1.0,,69.0,2.0,0.0,1.0,1.401410698890686,0.100886195898056,1.502296894788742,True,True,FANTRAX_ALL_PLAYER_ONLY + WHOSCORED + UNDERSTAT
+assist provider,PASS,07877,Mamadou Sangare,brentford,Berkshire’s Club,RESERVE,23.0,1.0,1.0,75.0,0.0,2.0,2.0,,,,False,False,FANTRAX_DETAILED + NO_WHOSCORED + NO_UNDERSTAT
+high xG,PASS,0646f,Alexander Isak,liverpool,The Facerockers,ACTIVE,8.0,1.0,1.0,90.0,0.0,0.0,1.0,1.4106600284576416,0.0404612980782985,1.4511213265359402,True,True,FANTRAX_DETAILED + WHOSCORED + UNDERSTAT
+high xA,PASS,04ge9,Eddie Nketiah,crystal_palace,,,8.5,1.0,,60.0,0.0,0.0,2.0,0.3071564733982086,1.3189489841461182,1.6261054575443268,True,True,FANTRAX_ALL_PLAYER_ONLY + WHOSCORED + UNDERSTAT
+WhoScored chance creator,PASS,05uht,Morgan Rogers,chelsea,Count Doku,ACTIVE,25.5,1.0,1.0,81.0,1.0,0.0,5.0,0.5566893219947815,0.2769356667995453,0.8336249887943268,True,True,FANTRAX_DETAILED + WHOSCORED + UNDERSTAT
+goalkeeper,PASS,078az,Konstantinos Tzolakis,hull_city,,,23.0,,,,,,,,,,False,False,FANTRAX_ALL_PLAYER_ONLY + NO_WHOSCORED + NO_UNDERSTAT
+defender,PASS,06y9m,Maxim De Cuyper,brighton_hove_albion,Pot Splashers,ACTIVE,36.0,1.0,1.0,77.0,1.0,1.0,3.0,1.3795270919799805,0.1410702615976333,1.5205973535776138,True,True,FANTRAX_DETAILED + WHOSCORED + UNDERSTAT

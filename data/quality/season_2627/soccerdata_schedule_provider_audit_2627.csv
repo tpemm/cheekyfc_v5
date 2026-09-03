@@ -1,0 +1,7 @@
+provider,acquisition_status,unique_matches,club_count,future_matches_present,stable_match_id,date_available,home_away_available,status_available,round_available,complete_380,cache_path,error,recommended
+Sofascore,cached_success,380,20,True,True,True,True,True,True,True,data/raw/soccerdata/coverage_2627/sofascore/sofascore__read_schedule.csv,,True
+ESPN,cached_success,380,20,True,True,True,True,False,False,True,data/raw/soccerdata/coverage_2627/espn/espn__read_schedule.csv,,False
+FBref,invalid_season_resolution,462,46,False,False,True,True,True,True,False,data/raw/soccerdata/coverage_2627/fbref/fbref__read_schedule.csv,Returned historical seasons beginning in 1926 under requested 2627,False
+Understat,cached_empty,0,0,False,False,False,False,False,False,False,data/raw/soccerdata/coverage_2627/understat/understat__read_schedule.csv,No usable preseason schedule rows,False
+WhoScored,method_supported_not_cached,0,0,False,Unknown,Unknown,Unknown,Unknown,Unknown,False,,Selenium-backed reader had no reproducible 2627 schedule cache,False
+football-data.io,fallback_partial,170,20,True,True,True,True,True,True,False,data/raw/footballdata_io/full_refresh/current_schedule,Provider exposes only 170 matches,False

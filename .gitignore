@@ -3,6 +3,7 @@
 __pycache__/
 *.py[cod]
 .env
+config/local_machine.env
 .streamlit/secrets.toml
 .vscode/
 .idea/
@@ -28,4 +29,7 @@ data/seasons/all_time/
 playwright/.auth/
 **/storage_state.json
 .test_artifacts/
+migration_exports/
+playwright-browsers/
+*.refresh.log
 cheekyfc_v5/

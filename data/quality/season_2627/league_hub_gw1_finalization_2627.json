@@ -1,0 +1,20 @@
+{
+  "decision": "PASS",
+  "period_state_before": "ACTIVE",
+  "period_state_after": "COMPLETE_PENDING_CORRECTIONS",
+  "terminal_whoscored_matches": 10,
+  "fantrax_period_finalized": false,
+  "completed_matchups": 6,
+  "manager_week_rows": 12,
+  "active_lineup_rows": 132,
+  "efficiency_rows": 12,
+  "lineup_changes_non_null": 0,
+  "weekly_scoring_managers": 12,
+  "position_history_managers": 12,
+  "leaderboard_rows": {
+    "Golden Boot": 3,
+    "Playmaker": 3,
+    "Golden Glove": 3,
+    "Ghost King": 3
+  }
+}

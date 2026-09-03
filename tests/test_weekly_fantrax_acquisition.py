@@ -5,7 +5,7 @@ from uuid import uuid4
 import pandas as pd
 import pytest
 
-from fantrax.live.player_performance import load_cached_weekly_exports, normalize_weekly_export
+from fantrax.live.player_performance import aggregate_player_window,load_cached_weekly_exports, normalize_weekly_export
 from fantrax.live.pipeline import _weekly_score_reconciliation
 from fantrax.live.weekly_acquisition import (
     commit_period, normalize_period_exports, period_state, plan_periods,
@@ -50,7 +50,7 @@ def test_legacy_acquisition_contract_is_audited_before_reuse():
 
 def test_period_state_and_incremental_plan_use_authoritative_boundaries():
     current,completed=period_state(league(),now=NOW); assert current==2 and completed==[1]
-    plan=plan_periods(league(),raw_root(),now=NOW); assert plan["targets"]==[1]
+    plan=plan_periods(league(),raw_root(),now=NOW); assert plan["targets"]==[1,2]
 
 
 def test_preseason_is_successful_and_performs_no_fetch():
@@ -61,7 +61,18 @@ def test_preseason_is_successful_and_performs_no_fetch():
 def test_period_export_retains_ids_positions_points_advanced_events_and_zero():
     result=normalize_period_exports(all_players(),{"t1":("Manager",team_export())},period=1); known=result.set_index("fantrax_player_id").loc["p1"]; free=result.set_index("fantrax_player_id").loc["p2"]
     assert known.fantrax_position=="D,M" and known.fantasy_points==10.5 and known.key_passes==2 and known.tackles_won==3
-    assert free.fantasy_points==0 and pd.isna(free.key_passes)
+    assert pd.isna(free.fantasy_points) and pd.isna(free.key_passes)
+
+
+def test_partial_period_preserves_observed_zero_for_played_club_and_na_for_unplayed_club():
+    players=("ID,Player,Team,Position,Opponent,FPts\n*p1*,Starter,ARS,M,CHE,5\n*p2*,Bench,ARS,M,CHE,0\n*p3*,Future,LIV,M,EVE,0\n").encode()
+    team=('"","Outfielder"\nID,Pos,Player,Team,Eligible,Status,Opponent,Fantasy Points,GP,GS,Min\n*p1*,M,Starter,ARS,M,Act,CHE,5,1,1,90\n*p2*,M,Bench,ARS,M,Res,CHE,0,0,0,0\n').encode()
+    result=normalize_period_exports(players,{"t1":("Manager",team)},period=1).set_index("fantrax_player_id")
+    assert result.loc["p2","fantasy_points"]==0
+    assert pd.isna(result.loc["p3","fantasy_points"]) and pd.isna(result.loc["p3","appearance"])
+    normalized=normalize_weekly_export(result.reset_index(),retrieved_at="now",period=1);normalized["period_complete"]=False
+    totals,_=aggregate_player_window(normalized,"Season",include_partial=True)
+    assert set(totals.fantrax_player_id)=={"p1","p2","p3"} and totals.set_index("fantrax_player_id").loc["p1","fantasy_points"]==5
 
 
 def test_invalid_empty_or_bad_response_never_overwrites_valid_cache():

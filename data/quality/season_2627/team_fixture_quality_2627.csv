@@ -1,0 +1,11 @@
+metric,actual,expected,passed
+canonical_clubs,20,20,True
+premier_league_matches,380,380,True
+duplicate_match_ids,0,0,True
+unresolved_home_clubs,0,0,True
+unresolved_away_clubs,0,0,True
+missing_opponents,0,0,True
+missing_venues,0,0,True
+fantrax_periods_mapped,380,380,True
+brighton_league_fixtures,38,38,True
+fixture_ease_team_rows,314,760,False

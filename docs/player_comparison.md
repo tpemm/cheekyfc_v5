@@ -1,52 +1,31 @@
-# Player profiles and comparison
+# Player Comparison
 
-Sprint 8.1 adds a presentation-derived player analysis layer. Canonical data is still loaded through `DataManager`; comparison state lives only in Streamlit session state and is never registered or written to disk.
+The live comparison is a session-only research surface over registered `DataManager` datasets. It supports two through five stable player identities and follows one hierarchy: title, selection and controls, compact player cards, then a 3:2 shared-radar/exact-table row. Nothing is written to disk and no profile sections are appended.
 
-## Modes, rate bases, and presets
+## Selection and controls
 
-Supported modes are Projection, Historical, Current Season, Draft Profile, and Custom. Rate basis is Total, Per Game, Per Start, or Per 90. Rate selection only swaps fields explicitly mapped in the catalog; percentage, rank, projection, context, and minutes metrics retain their natural unit.
+The selector stores stable registry IDs with Fantrax ID fallback while showing name, club, and position rather than internal IDs. Duplicate additions are rejected, five players is the maximum, and individual removal or clear-all preserves valid state.
 
-Named presets are Balanced Profile, Projection, Historical Production, Floor and Minutes, Attacking Upside, and Draft Value. A custom selection must contain four to eight unique catalog metrics. Catalog order is retained because Streamlit has no stable native drag-reordering control.
+Controls retain Projection, 2025/26 Historical, Current Season, Draft Profile, and Custom modes, plus Per Game, Per Start, Per 90, League/Position percentiles, and three-to-eight catalog-backed editable metrics. There is no second metric catalog or large comparison preset control.
 
-Current Season mode uses current-season fields only. Before weekly performance exists it displays: “2026/27 performance data will appear after the first completed scoring period.” It never substitutes historical values.
+## Player cards
 
-## Metric catalog
+Each equal-width card shows identity followed by Points, Ghost, and xGI for the selected basis; Minutes Outlook; Next Fixture; Home Avg; Away Avg; and authoritative Owner/Available status. Current mode never backfills absent live production with historical values. Historical mode uses finalized 2025/26 weekly data for venue splits.
 
-`analytics/players/comparison_catalog.py` declares each supported field, label, family, valid mode, supported rate fields, unit, precision, direction, percentile eligibility, missing behavior, minimum requirement, and provenance. Views cannot request arbitrary dataframe columns. Families cover projection, fantasy production, ghost floor, attacking output, playing time, club, fixtures, draft, ownership, and current season where canonical fields exist.
+Opening fixtures retain the registered Fantrax venue evidence: an `@` opponent is away, an explicit venue wins, and a scheduled non-`@` fixture is home. The display is `Opponent (H)` or `Opponent (A)`. A bare opponent with no supported venue evidence is displayed without a suffix; missing fixtures use an em dash.
 
-Lower-is-better ADP and Draft Rank use reversed percentile direction and ranking. Missing data remains missing and is never converted to zero.
+Home and Away averages use valid appearances, starts, or minutes for the selected basis. Missing samples remain missing and are never zero-filled.
 
-## Peer groups
+## Shared radar
 
-League percentiles use every valid player in the loaded live-player frame. Position percentiles assign each player exactly once: canonical primary position when populated, otherwise the first valid Fantrax eligibility. A multi-position player is not duplicated across groups. Fewer than five valid positional peers triggers a warning.
+The shared radar continues to use `analytics.players.comparison`, `comparison_catalog`, and `components.player_radar`. Every player receives identical selected axes and the established League or primary-Position percentile universe. Missing values remain gaps. Rich comparison hover retains raw value, percentile, rank, peer count/group, and provenance. Two or three valid traces may use restrained fill; four or five use outlines to limit overlap.
 
-Ties use pandas average percentile ranks and deterministic minimum competition ranks. Every compared player uses the same prepared distribution, axes, mode, rate basis, peer basis, and 0–100 scale.
+## Exact comparison
 
-## Radar and raw values
+The exact table contains Stat plus one column per selected player and no Winner column. Stable rows are Season Points; Points/Game, Points/Start, Points/90; Ghost/Game, Ghost/Start, Ghost/90; Goals; Assists; xGI/90; Home Avg; Away Avg; Minutes Outlook; and Next 5 Fixture Ease. Rows missing for every player are omitted.
 
-The reusable Plotly component supports four to eight axes, stable order, responsive size, restrained fills, five semantic trace colors, and no network calls. Hover contains label, raw value, percentile, rank, peer count/group, and source. Missing points remain gaps. If fewer than four metrics are valid, no polygon is drawn.
+Selected radar metrics absent from the stable set are appended once. Direction comes from comparison-catalog metadata. Every tied best valid value is bold and uses the semantic dark green `positive` token; missing values are neither compared nor highlighted. The tool deliberately provides evidence without an overall winner, composite score, or recommendation.
 
-Every radar is followed by an exact-value table containing player, metric, raw value, percentile, rank/count, peer group, and source. This table is authoritative for reading exact values; the radar is a shape summary.
+## Season behavior
 
-## Comparison state and layouts
-
-`player_compare_ids` holds at most five stable registry IDs with Fantrax ID fallback. Duplicate additions are rejected. Users can add from a live profile or Draft HQ player detail, remove individual players, or clear the list. Normal reruns retain state; nothing is persisted to disk.
-
-One player produces an instructional state. Two players receive a head-to-head title, deterministic tags, shared radar, and raw-value table without a Winner column. Three to five players receive a combined radar, legend, low-opacity fills (outlines beyond three), and the same compact raw table.
-
-## Coverage and reuse
-
-Tags and warnings are deterministic: high floor, historical production, xGI, minutes security/rotation, fixtures, free agent, multi-position, ADP value/reach, limited historical sample, missing ADP, and missing Understat sample. Profile previews use compact percentile bars; full Plotly radars are limited to profiles and comparison to protect database performance.
-
-Draft HQ only adds a session-state handoff; Mine/Other, queue, rankings, board, and navigation are unchanged. Future Trade HQ should import the catalog, prepared percentile functions, radar/raw panel, and shared selected IDs rather than implementing another normalization system.
-# Historical comparison
-
-Historical Players reuses `analytics.players.comparison`, the controlled comparison catalog, and `components.player_radar`. It supports two through five players, League or Position percentiles, controlled four-to-eight-axis presets/custom selection, exact values, ranks, peer counts, and provenance. The shared table has no synthetic Winner column and preserves direction-aware percentile highlighting.
-# Live comparison
-
-Current fantasy points, Ghost Points, and xGI support the established Total, Per Game, Per Start, and Per 90 bases. Live comparisons use a common completed-period window and peer universe; historical and projection modes retain their existing inputs.
-# Supplemental source compatibility
-
-Supplemental factual fields may share a comparison universe only where the compatibility audit approves analytical comparison. Row-level provenance remains available. Fantrax-specific or materially incompatible definitions are not mixed.
-
-Current Season comparisons use the same finalized Fantrax periods and selected Season/Last 3/5/10 window for every player.
+Current Season uses current 2026/27 fields and completed current weekly rows only. Historical uses finalized 2025/26 fields and weekly rows. Projection, Draft Profile, and Custom retain their existing catalog inputs. Compare has no merged season-composite or synthetic overlay mode; the separate Player Profile season overlay remains unchanged.

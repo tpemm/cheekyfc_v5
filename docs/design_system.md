@@ -50,3 +50,25 @@ Live Managers preserves the established five-tab information architecture and
 shared presentation components; Sprint 8.5 intentionally introduces no redesign.
 The live League Hub preserves the settled hierarchy. Unsupported metrics use an
 em dash, an intentional notice, or omission rather than a misleading zero card.
+League Hub headline cards share one minimum height and internal structure. The
+shared shell header no longer uses a negative top margin, preventing clipping
+without changing fonts, colors, sidebar behavior or the wider design system.
+## Live player information hierarchy
+
+The live Players database favors a compact decision scan: identity, ownership, rate production, minutes outlook, and fixture ease. Deeper historical and radar context belongs in the profile. Draft-day context remains available below live performance, historical context, playing-time/fixtures, and ownership.
+### Player scouting hierarchy
+
+Live player profiles use one headline strip and one primary radar, then seven purpose-specific tabs. Current performance and playing-time facts are separated from outlooks; historical comparison is context; ownership and frozen draft-day values are secondary. Repeated metric dumps are avoided, and charts are used only for profile shape, rate comparison, or real weekly trends.
+### Match-analysis layout
+
+Performance uses two compact chart rows followed by one detailed table: full-season and recent-form charts, venue and composition charts, then gameweek facts. Shared Plotly theming is used throughout. Negative scoring uses signed bar/line geometry; donut geometry is reserved for nonnegative components.
+### Overview scouting card
+
+The Overview uses a 3:2 visual-to-stat desktop row that stacks naturally on narrow screens and stops after its exact-value panel.
+
+### Player comparison surface
+
+Comparison uses equal white cards with shared borders, 12px radii, compact two-column labels/values, and a 3:2 radar-to-table desktop row. Best exact values use the semantic `positive` token with bold type; ties receive equal emphasis. The presentation never introduces a Winner column or overall recommendation.
+# Teams page states
+
+Team profiles use the existing compact page header, section header, metric, tab, dataframe, and informational-state patterns. Unsupported preseason Fantasy Allowed and Playstyle data is represented with a clean explicit unavailable state.

@@ -27,7 +27,7 @@ def test_catalog_is_complete_and_controlled():
         assert metric.rate_bases and metric.modes and metric.source and metric.missing
     with pytest.raises(ValueError): validate_metrics(("arbitrary_column",)*4)
     with pytest.raises(ValueError): validate_metrics(("draft_score",)*4)
-    with pytest.raises(ValueError): validate_metrics(METRICS[:3])
+    with pytest.raises(ValueError): validate_metrics(METRICS[:2])
     with pytest.raises(ValueError): validate_metrics(tuple(CATALOG)[:9])
 
 def test_league_percentiles_direction_ties_and_missing_values():

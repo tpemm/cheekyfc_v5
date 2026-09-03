@@ -1,0 +1,274 @@
+canonical_player_id,club_id,manager_id,manager_name,formation,actual_tactical_role,role_starts,role_share,role_rank,player_name
+FTX-02LP5,afc_bournemouth,mgr:6fe0e0af19e4,Marco Rose,4231,RB,2,1.0,1,Adam Smith
+FTX-02LPF,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4231,CAM,1,0.5,1,Ross Barkley
+FTX-02LPF,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4231,DM,1,0.5,1,Ross Barkley
+FTX-02LZ0,chelsea,mgr:84bddcc0c0d7,Xabi Alonso,3421,GK,1,1.0,1,Emiliano Martínez
+FTX-02OQ6,manchester_united,mgr:3aa905054daf,Michael Carrick,4231,LB,2,1.0,1,Luke Shaw
+FTX-032F9,everton,mgr:84316c036a2d,David Moyes,4231,GK,2,1.0,1,Jordan Pickford
+FTX-038ZE,fulham,mgr:c4ccacd3c126,Álvaro Arbeloa,4231,DM,2,1.0,1,Alex Iwobi
+FTX-03FRX,nottingham_forest,mgr:1058459b93f2,Oliver Glasner,3421,RWB,2,1.0,1,Ola Aina
+FTX-03GU4,manchester_united,mgr:3aa905054daf,Michael Carrick,4231,CB,2,1.0,1,Harry Maguire
+FTX-03GU5,tottenham_hotspur,mgr:b283d24885e5,Roberto De Zerbi,4231,LB,2,1.0,1,Andy Robertson
+FTX-03RXS,leeds_united,mgr:fa5d385e34dc,Daniel Farke,3421,CAM,1,1.0,1,Harry Wilson
+FTX-03RZP,fulham,mgr:c4ccacd3c126,Álvaro Arbeloa,4231,LB,2,1.0,1,Antonee Robinson
+FTX-03VLJ,liverpool,mgr:b4b8eecb310f,Andoni Iraola,4231,CB,2,1.0,1,Virgil van Dijk
+FTX-03YBI,manchester_united,mgr:3aa905054daf,Michael Carrick,4231,LW,1,1.0,1,Marcus Rashford
+FTX-03YQZ,leeds_united,mgr:fa5d385e34dc,Daniel Farke,3421,CB,2,1.0,1,Joe Rodon
+FTX-03YWW,crystal_palace,mgr:698607e509b7,Pierre Sage,3421,GK,2,1.0,1,Dean Henderson
+FTX-0427D,everton,mgr:84316c036a2d,David Moyes,4231,CB,2,1.0,1,James Tarkowski
+FTX-0435M,sunderland,mgr:1a031e232e88,Régis Le Bris,4231,DM,2,1.0,1,Granit Xhaka
+FTX-043QY,afc_bournemouth,mgr:6fe0e0af19e4,Marco Rose,4231,DM,2,1.0,1,Lewis Cook
+FTX-045OB,brentford,mgr:5f487ee40c90,Keith Andrews,4231,GK,2,1.0,1,Caoimhín Kelleher
+FTX-049TQ,leeds_united,mgr:fa5d385e34dc,Daniel Farke,3421,ST,2,1.0,1,Dominic Calvert-Lewin
+FTX-04ABB,manchester_city,mgr:dc01d928d84f,Enzo Maresca,4231,RW,2,1.0,1,Phil Foden
+FTX-04ABN,newcastle_united,mgr:bdab23b1e545,Matthias Jaissle,4231,LW,2,1.0,1,Harvey Barnes
+FTX-04AGZ,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,4231,DM,2,1.0,1,Declan Rice
+FTX-04E1C,brighton_hove_albion,mgr:dfda8206a0e2,Fabian Hürzeler,4231,CB,2,1.0,1,Lewis Dunk
+FTX-04E1E,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,4231,RB,2,1.0,1,Ben White
+FTX-04F6H,nottingham_forest,mgr:1058459b93f2,Oliver Glasner,3421,GK,2,1.0,1,Matz Sels
+FTX-04FK1,brighton_hove_albion,mgr:dfda8206a0e2,Fabian Hürzeler,4231,DM,2,1.0,1,Pascal Groß
+FTX-04FK8,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4231,CB,2,1.0,1,Victor Lindelöf
+FTX-04GE6,newcastle_united,mgr:bdab23b1e545,Matthias Jaissle,4231,CAM,1,1.0,1,Joe Willock
+FTX-04GE9,crystal_palace,mgr:698607e509b7,Pierre Sage,3421,CAM,2,1.0,1,Eddie Nketiah
+FTX-04IO4,tottenham_hotspur,mgr:b283d24885e5,Roberto De Zerbi,4231,ST,1,1.0,1,Richarlison
+FTX-04LAV,leeds_united,mgr:fa5d385e34dc,Daniel Farke,3421,CM,2,1.0,1,Ethan Ampadu
+FTX-04P0D,crystal_palace,mgr:698607e509b7,Pierre Sage,3421,CAM,1,1.0,1,Dwight McNeil
+FTX-04QFZ,manchester_united,mgr:3aa905054daf,Michael Carrick,4231,RB,1,1.0,1,Diogo Dalot
+FTX-04QOR,fulham,mgr:c4ccacd3c126,Álvaro Arbeloa,4231,GK,2,1.0,1,Bernd Leno
+FTX-04QOS,ipswich_town,mgr:2e016582b3f8,Gary O'Neil,4231,CB,2,1.0,1,Issa Diop
+FTX-04QR9,nottingham_forest,mgr:1058459b93f2,Oliver Glasner,3421,CAM,2,1.0,1,Morgan Gibbs-White
+FTX-04RZL,coventry_city,mgr:fb84c76f2aab,Frank Lampard,4231,ST,1,1.0,1,Taiwo Awoniyi
+FTX-04SJT,liverpool,mgr:b4b8eecb310f,Andoni Iraola,4231,GK,2,1.0,1,Alisson Becker
+FTX-04SPW,everton,mgr:84316c036a2d,David Moyes,4231,DM,1,1.0,1,James Garner
+FTX-04Y92,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,4231,RW,2,1.0,1,Bukayo Saka
+FTX-04YME,chelsea,mgr:84bddcc0c0d7,Xabi Alonso,3421,GK,1,1.0,1,Robert Sánchez
+FTX-04YO7,manchester_united,mgr:3aa905054daf,Michael Carrick,4231,DM,2,1.0,1,Youri Tielemans
+FTX-050JQ,manchester_city,mgr:dc01d928d84f,Enzo Maresca,4231,CB,1,0.5,1,Marc Guéhi
+FTX-050JQ,manchester_city,mgr:dc01d928d84f,Enzo Maresca,4231,DM,1,0.5,1,Marc Guéhi
+FTX-051K0,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4231,RW,2,1.0,1,John McGinn
+FTX-051K7,chelsea,mgr:84bddcc0c0d7,Xabi Alonso,3421,CM,1,1.0,1,Reece James
+FTX-051K8,tottenham_hotspur,mgr:b283d24885e5,Roberto De Zerbi,4231,CAM,1,1.0,1,Conor Gallagher
+FTX-051KL,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4231,CAM,1,0.5,1,Emiliano Buendía
+FTX-051KL,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4231,ST,1,0.5,1,Emiliano Buendía
+FTX-0521Z,leeds_united,mgr:fa5d385e34dc,Daniel Farke,3421,LWB,2,1.0,1,James Justin
+FTX-0522H,liverpool,mgr:b4b8eecb310f,Andoni Iraola,4231,DM,1,1.0,1,Alexis Mac Allister
+FTX-052CB,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4231,LB,2,1.0,1,Ian Maatsen
+FTX-0554G,fulham,mgr:c4ccacd3c126,Álvaro Arbeloa,4231,CB,2,1.0,1,Calvin Bassey
+FTX-056IY,chelsea,mgr:84bddcc0c0d7,Xabi Alonso,3421,RWB,1,1.0,1,Pedro Neto
+FTX-05A6E,nottingham_forest,mgr:1058459b93f2,Oliver Glasner,3421,LWB,2,1.0,1,Neco Williams
+FTX-05AKV,crystal_palace,mgr:698607e509b7,Pierre Sage,3421,LWB,2,1.0,1,Tyrick Mitchell
+FTX-05G2O,chelsea,mgr:84bddcc0c0d7,Xabi Alonso,3421,ST,2,1.0,1,João Pedro
+FTX-05GCC,everton,mgr:84316c036a2d,David Moyes,4231,CAM,2,1.0,1,Kiernan Dewsbury-Hall
+FTX-05GCR,manchester_united,mgr:3aa905054daf,Michael Carrick,4231,CAM,2,1.0,1,Bruno Fernandes
+FTX-05GCS,fulham,mgr:c4ccacd3c126,Álvaro Arbeloa,4231,DM,2,1.0,1,Sander Berge
+FTX-05L27,everton,mgr:84316c036a2d,David Moyes,4231,CB,2,1.0,1,Jarrad Branthwaite
+FTX-05L8Q,chelsea,mgr:84bddcc0c0d7,Xabi Alonso,3421,CAM,2,1.0,1,Cole Palmer
+FTX-05N07,tottenham_hotspur,mgr:b283d24885e5,Roberto De Zerbi,4231,RW,1,1.0,1,Pedro Porro
+FTX-05NNS,sunderland,mgr:1a031e232e88,Régis Le Bris,4231,CB,2,1.0,1,Dan Ballard
+FTX-05NZU,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,4231,CB,2,1.0,1,Gabriel Magalhães
+FTX-05O4B,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4231,RB,2,1.0,1,Matty Cash
+FTX-05O4C,fulham,mgr:c4ccacd3c126,Álvaro Arbeloa,4231,RB,2,1.0,1,Timothy Castagne
+FTX-05O6H,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,4231,ST,2,1.0,1,Kai Havertz
+FTX-05O8O,leeds_united,mgr:fa5d385e34dc,Daniel Farke,3421,RWB,2,1.0,1,Jayden Bogle
+FTX-05OGB,newcastle_united,mgr:bdab23b1e545,Matthias Jaissle,4231,RW,2,1.0,1,Anthony Elanga
+FTX-05OH0,tottenham_hotspur,mgr:b283d24885e5,Roberto De Zerbi,4231,CB,2,1.0,1,Jan Paul van Hecke
+FTX-05OMU,manchester_city,mgr:dc01d928d84f,Enzo Maresca,4231,CB,2,1.0,1,Rúben Dias
+FTX-05OPJ,manchester_city,mgr:dc01d928d84f,Enzo Maresca,4231,DM,2,1.0,1,Elliot Anderson
+FTX-05OPL,chelsea,mgr:84bddcc0c0d7,Xabi Alonso,3421,CB,1,1.0,1,Wesley Fofana
+FTX-05OS8,fulham,mgr:c4ccacd3c126,Álvaro Arbeloa,4231,CB,1,1.0,1,Joachim Andersen
+FTX-05OZ3,leeds_united,mgr:fa5d385e34dc,Daniel Farke,3421,GK,2,1.0,1,James Trafford
+FTX-05R8O,crystal_palace,mgr:698607e509b7,Pierre Sage,3421,ST,1,1.0,1,Jean-Philippe Mateta
+FTX-05R94,everton,mgr:84316c036a2d,David Moyes,4231,RW,2,1.0,1,Iliman Ndiaye
+FTX-05T6X,newcastle_united,mgr:bdab23b1e545,Matthias Jaissle,4231,ST,1,1.0,1,William Osula
+FTX-05TQX,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,4231,GK,2,1.0,1,David Raya
+FTX-05TR9,brentford,mgr:5f487ee40c90,Keith Andrews,4231,CAM,1,1.0,1,Mathias Jensen
+FTX-05TRB,manchester_united,mgr:3aa905054daf,Michael Carrick,4231,RW,2,1.0,1,Bryan Mbeumo
+FTX-05TRE,brentford,mgr:5f487ee40c90,Keith Andrews,4231,DM,2,1.0,1,Vitaly Janelt
+FTX-05U1M,brentford,mgr:5f487ee40c90,Keith Andrews,4231,CB,2,1.0,1,Nathan Collins
+FTX-05UDS,ipswich_town,mgr:2e016582b3f8,Gary O'Neil,4231,GK,2,1.0,1,Kjell Scherpen
+FTX-05UE7,coventry_city,mgr:fb84c76f2aab,Frank Lampard,4141,CM,1,1.0,1,Frank Onyeka
+FTX-05UEL,brentford,mgr:5f487ee40c90,Keith Andrews,4231,CB,2,1.0,1,Kristoffer Ajer
+FTX-05UHS,nottingham_forest,mgr:1058459b93f2,Oliver Glasner,3421,CM,2,1.0,1,James McAtee
+FTX-05UHT,chelsea,mgr:84bddcc0c0d7,Xabi Alonso,3421,CAM,2,1.0,1,Morgan Rogers
+FTX-05UNU,chelsea,mgr:84bddcc0c0d7,Xabi Alonso,3421,CM,2,1.0,1,Roméo Lavia
+FTX-05UOR,newcastle_united,mgr:bdab23b1e545,Matthias Jaissle,4231,CAM,1,0.5,1,Yoane Wissa
+FTX-05UOR,newcastle_united,mgr:bdab23b1e545,Matthias Jaissle,4231,ST,1,0.5,1,Yoane Wissa
+FTX-05W9R,crystal_palace,mgr:698607e509b7,Pierre Sage,3421,CB,1,1.0,1,Takehiro Tomiyasu
+FTX-05Y7C,tottenham_hotspur,mgr:b283d24885e5,Roberto De Zerbi,4231,RB,2,1.0,1,Archie Gray
+FTX-05Y9N,newcastle_united,mgr:bdab23b1e545,Matthias Jaissle,4231,LB,2,1.0,1,Lewis Hall
+FTX-05YBQ,everton,mgr:84316c036a2d,David Moyes,4231,LB,2,1.0,1,Vitalii Mykolenko
+FTX-05YE7,fulham,mgr:c4ccacd3c126,Álvaro Arbeloa,4231,RW,2,1.0,1,Oscar Bobb
+FTX-05YLW,tottenham_hotspur,mgr:b283d24885e5,Roberto De Zerbi,4231,DM,1,1.0,1,Rodrigo Bentancur
+FTX-061VA,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4231,DM,2,1.0,1,Boubacar Kamara
+FTX-061VB,afc_bournemouth,mgr:6fe0e0af19e4,Marco Rose,4231,CB,2,1.0,1,James Hill
+FTX-061VK,brentford,mgr:5f487ee40c90,Keith Andrews,4231,RW,1,1.0,1,Jaidon Anthony
+FTX-061VP,leeds_united,mgr:fa5d385e34dc,Daniel Farke,3421,CAM,2,1.0,1,Brenden Aaronson
+FTX-061VQ,manchester_city,mgr:dc01d928d84f,Enzo Maresca,4231,ST,2,1.0,1,Erling Haaland
+FTX-061XS,ipswich_town,mgr:2e016582b3f8,Gary O'Neil,4231,CAM,2,1.0,1,Julio Enciso
+FTX-062A9,newcastle_united,mgr:bdab23b1e545,Matthias Jaissle,4231,CB,2,1.0,1,Sven Botman
+FTX-062P3,brentford,mgr:5f487ee40c90,Keith Andrews,4231,LB,2,1.0,1,Keane Lewis-Potter
+FTX-062P5,chelsea,mgr:84bddcc0c0d7,Xabi Alonso,3421,CB,2,1.0,1,Levi Colwill
+FTX-062PL,manchester_united,mgr:3aa905054daf,Michael Carrick,4231,CB,1,1.0,1,Lisandro Martínez
+FTX-062X7,manchester_city,mgr:dc01d928d84f,Enzo Maresca,4231,RB,1,1.0,1,Rico Lewis
+FTX-0635J,crystal_palace,mgr:698607e509b7,Pierre Sage,3421,CB,2,1.0,1,Chris Richards
+FTX-0639X,afc_bournemouth,mgr:6fe0e0af19e4,Marco Rose,4231,LW,2,1.0,1,Marcus Tavernier
+FTX-063E7,tottenham_hotspur,mgr:b283d24885e5,Roberto De Zerbi,4231,CB,1,1.0,1,Marcos Senesi
+FTX-063Q8,brentford,mgr:5f487ee40c90,Keith Andrews,4231,CAM,1,1.0,1,Mikkel Damsgaard
+FTX-0646F,liverpool,mgr:b4b8eecb310f,Andoni Iraola,4231,ST,2,1.0,1,Alexander Isak
+FTX-0666P,manchester_united,mgr:3aa905054daf,Michael Carrick,4231,DM,1,1.0,1,Kobbie Mainoo
+FTX-066SD,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,4231,DM,2,1.0,1,Myles Lewis-Skelly
+FTX-067X8,manchester_city,mgr:dc01d928d84f,Enzo Maresca,4231,CAM,1,0.5,1,Nico O'Reilly
+FTX-067X8,manchester_city,mgr:dc01d928d84f,Enzo Maresca,4231,DM,1,0.5,1,Nico O'Reilly
+FTX-067YS,brighton_hove_albion,mgr:dfda8206a0e2,Fabian Hürzeler,4231,CAM,1,1.0,1,Jack Hinshelwood
+FTX-067YV,liverpool,mgr:b4b8eecb310f,Andoni Iraola,4231,LW,1,0.5,1,Cody Gakpo
+FTX-067YV,liverpool,mgr:b4b8eecb310f,Andoni Iraola,4231,RW,1,0.5,1,Cody Gakpo
+FTX-067YZ,manchester_united,mgr:3aa905054daf,Michael Carrick,4231,ST,2,1.0,1,Matheus Cunha
+FTX-067ZV,brentford,mgr:5f487ee40c90,Keith Andrews,4231,LW,2,1.0,1,Kevin Schade
+FTX-0689W,brighton_hove_albion,mgr:dfda8206a0e2,Fabian Hürzeler,4231,ST,1,1.0,1,Georginio Rutter
+FTX-068A0,manchester_united,mgr:3aa905054daf,Michael Carrick,4231,DM,1,1.0,1,Andrey Santos
+FTX-068LX,brentford,mgr:5f487ee40c90,Keith Andrews,4231,RW,1,1.0,1,Dango Ouattara
+FTX-068Y0,manchester_city,mgr:dc01d928d84f,Enzo Maresca,4231,LW,2,1.0,1,Antoine Semenyo
+FTX-068YC,brighton_hove_albion,mgr:dfda8206a0e2,Fabian Hürzeler,4231,DM,1,1.0,1,Yasin Ayari
+FTX-068YD,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4231,DM,1,1.0,1,João Gomes
+FTX-068YT,ipswich_town,mgr:2e016582b3f8,Gary O'Neil,4231,DM,2,1.0,1,Sasa Lukic
+FTX-06AB3,newcastle_united,mgr:bdab23b1e545,Matthias Jaissle,4231,DM,2,1.0,1,Lewis Miley
+FTX-06CLT,afc_bournemouth,mgr:6fe0e0af19e4,Marco Rose,4231,CAM,2,1.0,1,Justin Kluivert
+FTX-06CLZ,chelsea,mgr:84bddcc0c0d7,Xabi Alonso,3421,CM,1,0.5,1,Malo Gusto
+FTX-06CLZ,chelsea,mgr:84bddcc0c0d7,Xabi Alonso,3421,RWB,1,0.5,1,Malo Gusto
+FTX-06CM1,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4231,ST,1,1.0,1,Nicolas Jackson
+FTX-06CMM,liverpool,mgr:b4b8eecb310f,Andoni Iraola,4231,DM,2,1.0,1,Dominik Szoboszlai
+FTX-06CMS,tottenham_hotspur,mgr:b283d24885e5,Roberto De Zerbi,4231,DM,2,1.0,1,Sandro Tonali
+FTX-06CMU,brighton_hove_albion,mgr:dfda8206a0e2,Fabian Hürzeler,4231,GK,2,1.0,1,Bart Verbruggen
+FTX-06CRM,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4231,CB,2,1.0,1,Pau Torres
+FTX-06DO9,liverpool,mgr:b4b8eecb310f,Andoni Iraola,4231,LB,2,1.0,1,Milos Kerkez
+FTX-06EX4,manchester_city,mgr:dc01d928d84f,Enzo Maresca,4231,LB,2,1.0,1,Josko Gvardiol
+FTX-06EZB,tottenham_hotspur,mgr:b283d24885e5,Roberto De Zerbi,4231,CB,1,1.0,1,Micky van de Ven
+FTX-06F8Y,afc_bournemouth,mgr:6fe0e0af19e4,Marco Rose,4231,DM,2,1.0,1,Alex Scott
+FTX-06FUW,afc_bournemouth,mgr:6fe0e0af19e4,Marco Rose,4231,GK,2,1.0,1,Djordje Petrovic
+FTX-06FWZ,nottingham_forest,mgr:1058459b93f2,Oliver Glasner,3421,CB,2,1.0,1,Murillo
+FTX-06FXE,liverpool,mgr:b4b8eecb310f,Andoni Iraola,4231,DM,1,1.0,1,Ryan Gravenberch
+FTX-06FXU,nottingham_forest,mgr:1058459b93f2,Oliver Glasner,3421,CM,1,1.0,1,Ibrahim Sangaré
+FTX-06JGI,crystal_palace,mgr:698607e509b7,Pierre Sage,3421,RWB,1,1.0,1,Daniel Muñoz
+FTX-06JGS,crystal_palace,mgr:698607e509b7,Pierre Sage,3421,CM,2,1.0,1,Adam Wharton
+FTX-06KQY,manchester_united,mgr:3aa905054daf,Michael Carrick,4231,CB,1,1.0,1,Ayden Heaven
+FTX-06KWP,chelsea,mgr:84bddcc0c0d7,Xabi Alonso,3421,CB,1,1.0,1,Josh Acheampong
+FTX-06L4I,everton,mgr:84316c036a2d,David Moyes,4231,LW,2,1.0,1,Tyrique George
+FTX-06LOX,tottenham_hotspur,mgr:b283d24885e5,Roberto De Zerbi,4231,RW,1,1.0,1,Mikey Moore
+FTX-06MGD,ipswich_town,mgr:2e016582b3f8,Gary O'Neil,4231,RW,2,1.0,1,Abdul Fatawu
+FTX-06MN0,brentford,mgr:5f487ee40c90,Keith Andrews,4231,ST,2,1.0,1,Igor Thiago
+FTX-06MN7,tottenham_hotspur,mgr:b283d24885e5,Roberto De Zerbi,4231,DM,1,1.0,1,Lucas Bergvall
+FTX-06MNC,crystal_palace,mgr:698607e509b7,Pierre Sage,3421,CM,2,1.0,1,Daichi Kamada
+FTX-06MNN,crystal_palace,mgr:698607e509b7,Pierre Sage,3421,CB,1,1.0,1,Chadi Riad
+FTX-06MOW,crystal_palace,mgr:698607e509b7,Pierre Sage,3421,ST,1,1.0,1,Jørgen Strand Larsen
+FTX-06MPP,brighton_hove_albion,mgr:dfda8206a0e2,Fabian Hürzeler,4231,RB,2,1.0,1,Mats Wieffer
+FTX-06MSB,brighton_hove_albion,mgr:dfda8206a0e2,Fabian Hürzeler,4231,CAM,1,1.0,1,Malick Yalcouyé
+FTX-06MW0,nottingham_forest,mgr:1058459b93f2,Oliver Glasner,3421,CB,2,1.0,1,Nikola Milenkovic
+FTX-06NU7,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,4231,LB,2,1.0,1,Riccardo Calafiori
+FTX-06NYW,fulham,mgr:c4ccacd3c126,Álvaro Arbeloa,4231,CB,1,1.0,1,Jorge Cuenca
+FTX-06ONV,everton,mgr:84316c036a2d,David Moyes,4231,DM,2,1.0,1,Harrison Armstrong
+FTX-06P4J,manchester_united,mgr:3aa905054daf,Michael Carrick,4231,RB,1,1.0,1,Noussair Mazraoui
+FTX-06P6J,afc_bournemouth,mgr:6fe0e0af19e4,Marco Rose,4231,ST,2,1.0,1,Evanilson
+FTX-06PE1,tottenham_hotspur,mgr:b283d24885e5,Roberto De Zerbi,4231,CAM,1,1.0,1,Mateus Fernandes
+FTX-06PHE,brighton_hove_albion,mgr:dfda8206a0e2,Fabian Hürzeler,4231,LB,1,1.0,1,Ferdi Kadioglu
+FTX-06PIA,chelsea,mgr:84bddcc0c0d7,Xabi Alonso,3421,CB,2,1.0,1,Maxence Lacroix
+FTX-06R2G,liverpool,mgr:b4b8eecb310f,Andoni Iraola,4231,RW,1,1.0,1,Rio Ngumoha
+FTX-06R5B,brighton_hove_albion,mgr:dfda8206a0e2,Fabian Hürzeler,4231,RW,2,1.0,1,Diego Gómez
+FTX-06R6S,tottenham_hotspur,mgr:b283d24885e5,Roberto De Zerbi,4231,GK,2,1.0,1,Antonín Kinsky
+FTX-06R9W,manchester_city,mgr:dc01d928d84f,Enzo Maresca,4231,CB,1,0.5,1,Abdukodir Khusanov
+FTX-06R9W,manchester_city,mgr:dc01d928d84f,Enzo Maresca,4231,RB,1,0.5,1,Abdukodir Khusanov
+FTX-06RF9,tottenham_hotspur,mgr:b283d24885e5,Roberto De Zerbi,4231,ST,1,1.0,1,Omar Marmoush
+FTX-06RGG,brentford,mgr:5f487ee40c90,Keith Andrews,4231,RB,2,1.0,1,Michael Kayode
+FTX-06RLJ,manchester_united,mgr:3aa905054daf,Michael Carrick,4231,LW,1,1.0,1,Patrick Dorgu
+FTX-06RM7,newcastle_united,mgr:bdab23b1e545,Matthias Jaissle,4231,DM,1,1.0,1,Nico González
+FTX-06RM8,tottenham_hotspur,mgr:b283d24885e5,Roberto De Zerbi,4231,LW,2,1.0,1,Mathys Tel
+FTX-06UYC,afc_bournemouth,mgr:6fe0e0af19e4,Marco Rose,4231,LB,2,1.0,1,Adrien Truffert
+FTX-06V05,liverpool,mgr:b4b8eecb310f,Andoni Iraola,4231,RB,2,1.0,1,Jeremie Frimpong
+FTX-06V07,manchester_city,mgr:dc01d928d84f,Enzo Maresca,4231,CAM,1,1.0,1,Rayan Cherki
+FTX-06V0G,sunderland,mgr:1a031e232e88,Régis Le Bris,4231,RW,2,1.0,1,Trai Hume
+FTX-06V0M,sunderland,mgr:1a031e232e88,Régis Le Bris,4231,CB,1,1.0,1,Luke O'Nien
+FTX-06V0P,sunderland,mgr:1a031e232e88,Régis Le Bris,4231,CAM,2,1.0,1,Enzo Le Fée
+FTX-06V21,liverpool,mgr:b4b8eecb310f,Andoni Iraola,4231,CAM,2,1.0,1,Florian Wirtz
+FTX-06V51,leeds_united,mgr:fa5d385e34dc,Daniel Farke,3421,CB,2,1.0,1,Jaka Bijol
+FTX-06XZD,brighton_hove_albion,mgr:dfda8206a0e2,Fabian Hürzeler,4231,ST,1,1.0,1,Charalampos Kostoulas
+FTX-06Y26,brighton_hove_albion,mgr:dfda8206a0e2,Fabian Hürzeler,4231,DM,1,0.5,1,Olivier Boscagli
+FTX-06Y26,brighton_hove_albion,mgr:dfda8206a0e2,Fabian Hürzeler,4231,LB,1,0.5,1,Olivier Boscagli
+FTX-06Y27,coventry_city,mgr:fb84c76f2aab,Frank Lampard,4141,RM,1,0.5,1,Loum Tchaouna
+FTX-06Y27,coventry_city,mgr:fb84c76f2aab,Frank Lampard,4231,RW,1,0.5,1,Loum Tchaouna
+FTX-06Y59,sunderland,mgr:1a031e232e88,Régis Le Bris,4231,DM,2,1.0,1,Noah Sadiki
+FTX-06Y9M,brighton_hove_albion,mgr:dfda8206a0e2,Fabian Hürzeler,4231,LW,2,1.0,1,Maxim De Cuyper
+FTX-06Y9O,nottingham_forest,mgr:1058459b93f2,Oliver Glasner,3421,ST,2,1.0,1,Igor Jesus
+FTX-06YB9,sunderland,mgr:1a031e232e88,Régis Le Bris,4231,LB,2,1.0,1,Reinildo Mandava
+FTX-06YBP,everton,mgr:84316c036a2d,David Moyes,4231,ST,2,1.0,1,Thierno Barry
+FTX-06YGM,nottingham_forest,mgr:1058459b93f2,Oliver Glasner,3421,CB,2,1.0,1,Jair Cunha
+FTX-06YMT,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4231,GK,1,1.0,1,Marco Bizot
+FTX-06ZBM,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,4231,CB,2,1.0,1,Cristhian Mosquera
+FTX-06ZBX,leeds_united,mgr:fa5d385e34dc,Daniel Farke,3421,CM,2,1.0,1,Anton Stach
+FTX-06ZNA,nottingham_forest,mgr:1058459b93f2,Oliver Glasner,3421,CAM,2,1.0,1,Dan Ndoye
+FTX-06ZNB,sunderland,mgr:1a031e232e88,Régis Le Bris,4231,GK,2,1.0,1,Robin Roefs
+FTX-06ZQQ,chelsea,mgr:84bddcc0c0d7,Xabi Alonso,3421,LWB,2,1.0,1,Jorrel Hato
+FTX-06ZVN,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4231,LW,2,1.0,1,George Hemmings
+FTX-0700P,newcastle_united,mgr:bdab23b1e545,Matthias Jaissle,4231,CB,2,1.0,1,Malick Thiaw
+FTX-0703C,sunderland,mgr:1a031e232e88,Régis Le Bris,4231,CB,1,1.0,1,Nordi Mukiele
+FTX-070CJ,leeds_united,mgr:fa5d385e34dc,Daniel Farke,3421,CAM,1,1.0,1,Noah Okafor
+FTX-070F9,crystal_palace,mgr:698607e509b7,Pierre Sage,3421,CAM,1,1.0,1,Yéremy Pino
+FTX-070HB,crystal_palace,mgr:698607e509b7,Pierre Sage,3421,CB,2,1.0,1,Jaydee Canvot
+FTX-070HC,sunderland,mgr:1a031e232e88,Régis Le Bris,4231,ST,2,1.0,1,Brian Brobbey
+FTX-070HI,everton,mgr:84316c036a2d,David Moyes,4231,RB,2,1.0,1,Merlin Röhl
+FTX-070HL,manchester_united,mgr:3aa905054daf,Michael Carrick,4231,GK,2,1.0,1,Senne Lammens
+FTX-070HS,manchester_city,mgr:dc01d928d84f,Enzo Maresca,4231,GK,2,1.0,1,Gianluigi Donnarumma
+FTX-072WQ,afc_bournemouth,mgr:6fe0e0af19e4,Marco Rose,4231,RW,2,1.0,1,Rayan
+FTX-072ZS,sunderland,mgr:1a031e232e88,Régis Le Bris,4231,LW,2,1.0,1,Nilson Angulo
+FTX-0784I,coventry_city,mgr:fb84c76f2aab,Frank Lampard,4141,CB,1,0.5,1,Aurèle Amenda
+FTX-0784I,coventry_city,mgr:fb84c76f2aab,Frank Lampard,4231,CB,1,0.5,1,Aurèle Amenda
+FTX-0784P,everton,mgr:84316c036a2d,David Moyes,4231,DM,1,1.0,1,Hayden Hackney
+FTX-0784R,hull_city,mgr:9f4440ec2ca8,Sergej Jakirovic,541,CM,1,1.0,1,Hidemasa Morita
+FTX-0784W,ipswich_town,mgr:2e016582b3f8,Gary O'Neil,4231,ST,2,1.0,1,Emersonn
+FTX-0784X,ipswich_town,mgr:2e016582b3f8,Gary O'Neil,4231,LW,2,1.0,1,Daizen Maeda
+FTX-0784Y,leeds_united,mgr:fa5d385e34dc,Daniel Farke,3421,CB,2,1.0,1,Tarik Muharemovic
+FTX-0784Z,liverpool,mgr:b4b8eecb310f,Andoni Iraola,4231,CB,2,1.0,1,Jérémy Jacquet
+FTX-0785A,newcastle_united,mgr:bdab23b1e545,Matthias Jaissle,4231,DM,1,1.0,1,Sean Steur
+FTX-0785J,sunderland,mgr:1a031e232e88,Régis Le Bris,4231,RB,2,1.0,1,Thomas Meunier
+FTX-07877,brentford,mgr:5f487ee40c90,Keith Andrews,4231,DM,2,1.0,1,Mamadou Sangaré
+FTX-0787Y,afc_bournemouth,mgr:6fe0e0af19e4,Marco Rose,4231,CB,2,1.0,1,António Silva
+FTX-0788G,newcastle_united,mgr:bdab23b1e545,Matthias Jaissle,4231,GK,2,1.0,1,Lukás Hornícek
+FTX-07897,fulham,mgr:c4ccacd3c126,Álvaro Arbeloa,4231,LW,2,1.0,1,César Palacios
+FTX-07898,fulham,mgr:c4ccacd3c126,Álvaro Arbeloa,4231,ST,2,1.0,1,Gonzalo García
+FTX-078AZ,hull_city,mgr:9f4440ec2ca8,Sergej Jakirovic,541,GK,2,1.0,1,Konstantinos Tzolakis
+FTX-078G4,coventry_city,mgr:fb84c76f2aab,Frank Lampard,4141,CM,1,0.5,1,Caleb Yirenkyi
+FTX-078G4,coventry_city,mgr:fb84c76f2aab,Frank Lampard,4231,DM,1,0.5,1,Caleb Yirenkyi
+FTX-078HI,hull_city,mgr:9f4440ec2ca8,Sergej Jakirovic,541,LM,2,1.0,1,Elliot Stroud
+FTX-078MM,hull_city,mgr:9f4440ec2ca8,Sergej Jakirovic,541,CB,2,1.0,1,Nobel Mendy
+FTX-078QG,crystal_palace,mgr:698607e509b7,Pierre Sage,3421,RWB,1,1.0,1,Anan Khalaili
+FTX-078UD,newcastle_united,mgr:bdab23b1e545,Matthias Jaissle,4231,RB,2,1.0,1,Amar Dedic
+FTX-078WL,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4231,GK,1,1.0,1,Zion Suzuki
+pr_0b42d15c74eca788,hull_city,mgr:9f4440ec2ca8,Sergej Jakirovic,541,LB,2,1.0,1,Ryan Giles
+pr_1cf49c747203c77b,coventry_city,mgr:fb84c76f2aab,Frank Lampard,4141,ST,1,1.0,1,Ellis Simms
+pr_250a525c8fb0b806,coventry_city,mgr:fb84c76f2aab,Frank Lampard,4141,DM,1,0.5,1,Matt Grimes
+pr_250a525c8fb0b806,coventry_city,mgr:fb84c76f2aab,Frank Lampard,4231,DM,1,0.5,1,Matt Grimes
+pr_2dc8909ca052885f,liverpool,mgr:b4b8eecb310f,Andoni Iraola,4231,LW,1,1.0,1,Víctor Muñoz
+pr_324f38903221c32b,coventry_city,mgr:fb84c76f2aab,Frank Lampard,4141,RB,1,0.5,1,Milan van Ewijk
+pr_324f38903221c32b,coventry_city,mgr:fb84c76f2aab,Frank Lampard,4231,RB,1,0.5,1,Milan van Ewijk
+pr_41ec866daf042593,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,4231,CAM,2,1.0,1,Martin Ødegaard
+pr_48aea4da65a5a244,fulham,mgr:c4ccacd3c126,Álvaro Arbeloa,4231,CAM,2,1.0,1,Josh King
+pr_5b05eed522d404e7,brighton_hove_albion,mgr:dfda8206a0e2,Fabian Hürzeler,4231,CB,2,1.0,1,Luka Vuskovic
+pr_5e49c1cd91f1f34d,coventry_city,mgr:fb84c76f2aab,Frank Lampard,4141,GK,1,0.5,1,Carl Rushworth
+pr_5e49c1cd91f1f34d,coventry_city,mgr:fb84c76f2aab,Frank Lampard,4231,GK,1,0.5,1,Carl Rushworth
+pr_69e1eb773f5ff783,hull_city,mgr:9f4440ec2ca8,Sergej Jakirovic,541,CB,2,1.0,1,John Egan
+pr_6a7c2ebacd58663d,hull_city,mgr:9f4440ec2ca8,Sergej Jakirovic,541,RM,2,1.0,1,Mohamed Belloumi
+pr_73bc3e2e40864d74,ipswich_town,mgr:2e016582b3f8,Gary O'Neil,4231,RB,2,1.0,1,Dara O'Shea
+pr_7f943b8d8ebf5823,hull_city,mgr:9f4440ec2ca8,Sergej Jakirovic,541,ST,2,1.0,1,Oliver McBurnie
+pr_8423ecb420e3995f,coventry_city,mgr:fb84c76f2aab,Frank Lampard,4231,CAM,1,1.0,1,Jack Rudoni
+pr_93aaa65524dc1a19,coventry_city,mgr:fb84c76f2aab,Frank Lampard,4141,LM,1,1.0,1,Brandon Thomas-Asante
+pr_975edca78e5e06f1,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,4231,LW,2,1.0,1,Christos Tzolis
+pr_afa9e82138c5780c,hull_city,mgr:9f4440ec2ca8,Sergej Jakirovic,541,RB,2,1.0,1,Lewie Coyle
+pr_b10dd88466762544,hull_city,mgr:9f4440ec2ca8,Sergej Jakirovic,541,CM,1,1.0,1,Matt Crooks
+pr_c357333820dede1b,coventry_city,mgr:fb84c76f2aab,Frank Lampard,4231,LW,1,1.0,1,Ephron Mason-Clark
+pr_cd2d216755538e53,coventry_city,mgr:fb84c76f2aab,Frank Lampard,4141,CB,1,0.5,1,Bobby Thomas
+pr_cd2d216755538e53,coventry_city,mgr:fb84c76f2aab,Frank Lampard,4231,CB,1,0.5,1,Bobby Thomas
+pr_d522b1300b9ba94f,coventry_city,mgr:fb84c76f2aab,Frank Lampard,4141,LB,1,0.5,1,Jay Dasilva
+pr_d522b1300b9ba94f,coventry_city,mgr:fb84c76f2aab,Frank Lampard,4231,LB,1,0.5,1,Jay Dasilva
+pr_d98078d761abad72,ipswich_town,mgr:2e016582b3f8,Gary O'Neil,4231,CB,2,1.0,1,Jacob Greaves
+pr_dbcdba8fad114b8d,ipswich_town,mgr:2e016582b3f8,Gary O'Neil,4231,LB,2,1.0,1,Leif Davis
+pr_de140302e8752695,ipswich_town,mgr:2e016582b3f8,Gary O'Neil,4231,DM,2,1.0,1,Marcelino Núñez
+pr_deac0127221bee1b,hull_city,mgr:9f4440ec2ca8,Sergej Jakirovic,541,CB,2,1.0,1,Semi Ajayi
+pr_e76d89b210b386d8,hull_city,mgr:9f4440ec2ca8,Sergej Jakirovic,541,CM,2,1.0,1,Regan Slater

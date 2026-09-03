@@ -1,0 +1,10 @@
+{
+  "identity_seconds": 0.165,
+  "normalization_seconds": 9.228,
+  "manager_team_context_seconds": 0.027,
+  "advanced_player_match_seconds": 1.192,
+  "role_formation_seconds": 0.025,
+  "team_feature_seconds": 1.653,
+  "write_seconds": 13.932,
+  "complete_seconds": 36.063
+}

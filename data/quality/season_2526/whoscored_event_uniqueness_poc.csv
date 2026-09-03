@@ -1,0 +1,9 @@
+canonical_match_id,whoscored_match_id,events,unique_event_ids,unique_sequence_ids,duplicate_event_ids_within_match,duplicate_normalized_rows
+understat:29140,1903446,1374,1374,790,0,0
+understat:29142,1903449,1577,1577,901,0,0
+understat:29144,1903453,1495,1495,975,0,0
+understat:29145,1903454,1552,1552,866,0,0
+understat:29146,1903455,1586,1586,911,0,0
+understat:29148,1903458,1472,1472,848,0,0
+understat:29153,1903361,1425,1425,810,0,0
+understat:29157,1903373,1409,1409,826,0,0

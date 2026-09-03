@@ -5,6 +5,7 @@ from __future__ import annotations
 from datetime import datetime, timezone
 import hashlib
 import json
+import time
 from pathlib import Path
 from typing import Any
 
@@ -40,6 +41,10 @@ from fantrax.live.understat_live import (
     supplement_fantrax,
 )
 from fantrax.live.weekly_acquisition import weekly_period_status
+from fantrax.live.season_state import resolve_scoring_period_state
+from fantrax.live.matchup_acquisition import three_way_reconciliation
+from fantrax.live.league_lineups import active_player_weekly,completed_whoscored_periods,enrich_manager_weeks
+from fantrax.live.manager_name_history import update_manager_name_history
 
 
 OUTPUT_FILENAMES = {
@@ -58,6 +63,7 @@ OUTPUT_FILENAMES = {
     "current_player_weekly":"current_player_weekly_{season}.csv",
     "understat_player_weekly":"understat_player_weekly_{season}.csv",
     "manager_player_weekly":"manager_player_weekly_{season}.csv",
+    "league_active_player_weekly":"league_active_player_weekly_{season}.csv",
 }
 
 
@@ -68,7 +74,12 @@ def _latest_metadata(path: Path) -> str:
 
 
 def _atomic_csv(frame: pd.DataFrame,path: Path)->None:
-    path.parent.mkdir(parents=True,exist_ok=True); tmp=path.with_suffix(path.suffix+".tmp"); frame.to_csv(tmp,index=False); tmp.replace(path)
+    path.parent.mkdir(parents=True,exist_ok=True);tmp=path.with_suffix(path.suffix+".tmp");frame.to_csv(tmp,index=False)
+    for attempt in range(6):
+        try:tmp.replace(path);return
+        except PermissionError:
+            if attempt==5:raise
+            time.sleep(.05*(attempt+1))
 
 
 def _explicit_period(payload: Any) -> int | None:
@@ -88,8 +99,9 @@ def _explicit_period(payload: Any) -> int | None:
 
 def _authoritative_period(league_payload: Any, roster_parts: list[pd.DataFrame]) -> int | None:
     available = sorted({int(frame["period"].iloc[0]) for frame in roster_parts if not frame.empty})
-    explicit = _explicit_period(league_payload)
-    if explicit in available: return explicit
+    periods=scoring_periods_from_league(league_payload or {})
+    current=resolve_scoring_period_state(periods,league_payload=league_payload).current_period
+    if current in available:return current
     # Without authoritative period metadata, future payloads are not observations.
     return available[0] if available else None
 
@@ -114,21 +126,49 @@ def _manager_week_summary(matchups: pd.DataFrame,standings: pd.DataFrame,teams: 
     rank_lookup={}
     team_names=dict(zip(teams.get("manager_id",pd.Series(dtype=object)).astype(str),teams.get("manager_name",pd.Series(dtype=object))))
     for standing in standings.to_dict("records"):
-        if pd.isna(standing.get("period")):continue
         name=standing.get("manager") or team_names.get(str(standing.get("manager_id")))
-        rank_lookup[(standing.get("period"),name)]=standing.get("rank")
-    identities={str(row.manager_name):row for row in teams.itertuples()};period_dates={int(item["number"]):item.get("endDate") for item in (league_payload or {}).get("scoringPeriods",[]) if isinstance(item,dict) and pd.notna(pd.to_numeric(item.get("number"),errors="coerce"))}
+        period=pd.to_numeric(standing.get("period"),errors="coerce")
+        rank_lookup[(int(period) if pd.notna(period) else None,name)]=standing.get("rank")
+    identities={str(row.manager_name):row for row in teams.itertuples()};identities_by_team={str(row.fantasy_team_id):row for row in teams.itertuples()};period_dates={int(item["number"]):item.get("endDate") for item in (league_payload or {}).get("scoringPeriods",[]) if isinstance(item,dict) and pd.notna(pd.to_numeric(item.get("number"),errors="coerce"))}
+    has_status="status" in matchups.columns
     records={}
     for row in matchups.itertuples():
         if pd.isna(row.home_score) or pd.isna(row.away_score): continue
-        for manager,score,opponent,opponent_score in ((row.home_manager,row.home_score,row.away_manager,row.away_score),(row.away_manager,row.away_score,row.home_manager,row.home_score)):
-            result="D" if score==opponent_score else "W" if score>opponent_score else "L"
-            identity=identities.get(str(manager)); opponent_identity=identities.get(str(opponent)); record=records.setdefault(str(manager),{"W":0,"D":0,"L":0,"pf":0.0,"pa":0.0}); record[result]+=1; record["pf"]+=float(score); record["pa"]+=float(opponent_score)
-            rows.append({"season_id":row.season_id,"period":row.period,"manager_id":getattr(identity,"manager_id",pd.NA),"manager_name":manager,"fantasy_team_id":getattr(identity,"fantasy_team_id",pd.NA),"fantasy_team_name":getattr(identity,"fantasy_team_name",manager),"opponent_manager_id":getattr(opponent_identity,"manager_id",pd.NA),"opponent_manager_name":opponent,"fantasy_points":score,"opponent_points":opponent_score,"result":result,"cumulative_wins":record["W"],"cumulative_draws":record["D"],"cumulative_losses":record["L"],"league_points_after_week":record["W"]*3+record["D"],"rank_after_week":rank_lookup.get((row.period,manager),pd.NA),"points_for_after_week":record["pf"],"points_against_after_week":record["pa"],
-                "manager":manager,"total_score":score,"opponent":opponent,"opponent_score":opponent_score,"record_after_week":f'{record["W"]}-{record["D"]}-{record["L"]}',"optimal_xi_score":pd.NA,
-                "source_coverage":"matchup scores only; advanced lineup metrics pending","source":"Fantrax cached matchups","last_refreshed":refreshed_at})
-    result=pd.DataFrame(rows);result["period_completed_at"]=pd.to_numeric(result.get("period"),errors="coerce").map(period_dates) if not result.empty else pd.Series(dtype=object)
+        home_team_id=getattr(row,"home_team_id",None);away_team_id=getattr(row,"away_team_id",None)
+        for manager,team_id,score,opponent,opponent_id,opponent_score in ((row.home_manager,home_team_id,row.home_score,row.away_manager,away_team_id,row.away_score),(row.away_manager,away_team_id,row.away_score,row.home_manager,home_team_id,row.home_score)):
+            final=not has_status or str(getattr(row,"status","")).lower() in {"completed","complete","final"}
+            result=("D" if score==opponent_score else "W" if score>opponent_score else "L") if final else pd.NA
+            identity=identities_by_team.get(str(team_id),identities.get(str(manager))); opponent_identity=identities_by_team.get(str(opponent_id),identities.get(str(opponent)))
+            canonical_manager=getattr(identity,"manager_name",manager);canonical_team=getattr(identity,"fantasy_team_name",canonical_manager)
+            canonical_opponent=getattr(opponent_identity,"manager_name",opponent)
+            identity_key=str(getattr(identity,"manager_id",team_id if team_id is not None else manager));record=records.setdefault(identity_key,{"W":0,"D":0,"L":0,"pf":0.0,"pa":0.0})
+            if final:record[result]+=1;record["pf"]+=float(score);record["pa"]+=float(opponent_score)
+            rows.append({"season_id":row.season_id,"period":row.period,"manager_id":getattr(identity,"manager_id",pd.NA),"manager_name":canonical_manager,"fantasy_team_id":getattr(identity,"fantasy_team_id",pd.NA),"fantasy_team_name":canonical_team,"opponent_manager_id":getattr(opponent_identity,"manager_id",pd.NA),"opponent_manager_name":canonical_opponent,"fantasy_points":score,"opponent_points":opponent_score,"result":result,"cumulative_wins":record["W"],"cumulative_draws":record["D"],"cumulative_losses":record["L"],"league_points_after_week":record["W"]*3+record["D"],"rank_after_week":rank_lookup.get((row.period,manager),rank_lookup.get((None,manager),pd.NA)),"points_for_after_week":record["pf"],"points_against_after_week":record["pa"],
+                "manager":canonical_manager,"total_score":score,"opponent":canonical_opponent,"opponent_score":opponent_score,"record_after_week":f'{record["W"]}-{record["D"]}-{record["L"]}',"optimal_xi_score":pd.NA,
+                "source_coverage":"live active-lineup score" if not final else "completed Fantrax matchup score; corrections pending","source":"Fantrax detailed weekly exports" if not final else "Fantrax cached matchups","last_refreshed":refreshed_at})
+    result=pd.DataFrame(rows)
+    if not result.empty:
+        for period,index in result.groupby("period").groups.items():
+            ordered=result.loc[index].sort_values(["cumulative_wins","cumulative_draws","points_for_after_week"],ascending=[False,False,False],kind="stable")
+            result.loc[ordered.index,"rank_after_week"]=range(1,len(ordered)+1)
+    result["period_completed_at"]=pd.to_numeric(result.get("period"),errors="coerce").map(period_dates) if not result.empty else pd.Series(dtype=object)
     return result.reindex(columns=DATASET_COLUMNS["manager_week_summary"])
+
+
+def _apply_live_matchup_scores(matchups:pd.DataFrame,weekly:pd.DataFrame,*,protected_periods:set[int]|None=None)->pd.DataFrame:
+    """Overlay current in-progress scores from authoritative detailed exports."""
+    if matchups.empty or weekly.empty:return matchups
+    active=weekly[weekly.get("lineup_status",pd.Series(index=weekly.index,dtype=object)).astype(str).str.upper().isin({"ACTIVE","ACT","STARTER","STARTING"})].copy()
+    active=active[active.get("current_manager_id",pd.Series(index=active.index,dtype=object)).notna()]
+    if active.empty:return matchups
+    scores=active.groupby(["period","current_manager_id"],as_index=False).fantasy_points.sum(min_count=1).set_index(["period","current_manager_id"])["fantasy_points"]
+    out=matchups.copy();period=pd.to_numeric(out.period,errors="coerce").astype("Int64"); protected_periods=protected_periods or set()
+    for side in ("home","away"):
+        values=pd.Series([scores.get((p,str(team)),pd.NA) for p,team in zip(period,out[f"{side}_team_id"])],index=out.index,dtype="Float64")
+        mask=values.notna()&~period.isin(protected_periods);out.loc[mask,f"{side}_score"]=values[mask]
+    live=out.home_score.notna()&out.away_score.notna()&~out.status.astype(str).str.lower().isin({"completed","complete","final"})
+    out.loc[live,"status"]="live";out.loc[live,"margin"]=(pd.to_numeric(out.loc[live,"home_score"])-pd.to_numeric(out.loc[live,"away_score"])).abs();out.loc[live,"winner"]=pd.NA
+    return out
 
 
 def _weekly_score_reconciliation(manager_players:pd.DataFrame,manager_week:pd.DataFrame)->pd.DataFrame:
@@ -185,6 +225,25 @@ def _ownership(rosters:pd.DataFrame,transactions:pd.DataFrame,events:pd.DataFram
     return pd.DataFrame(rows,columns=DATASET_COLUMNS["player_ownership"])
 
 
+def authoritative_current_roster(weekly:pd.DataFrame,teams:pd.DataFrame,refreshed_at:str)->pd.DataFrame:
+    """Project latest authoritative weekly roster membership onto the canonical roster grain."""
+    if weekly.empty:return empty_dataset("current_rosters")
+    period=pd.to_numeric(weekly.get("period"),errors="coerce");latest=int(period.max())
+    current=weekly[period.eq(latest)&weekly.get("current_manager_id",pd.Series(index=weekly.index,dtype=object)).notna()].copy()
+    current=current.drop_duplicates("fantrax_player_id",keep="last")
+    team_by_id=teams.set_index(teams.manager_id.astype(str)) if not teams.empty else pd.DataFrame()
+    rows=[]
+    for row in current.to_dict("records"):
+        manager_id=str(row.get("current_manager_id"));team=team_by_id.loc[manager_id] if not team_by_id.empty and manager_id in team_by_id.index else pd.Series(dtype=object)
+        lineup=str(row.get("lineup_status") or "").upper();injured=lineup in {"IR","INJURED_RESERVE"};reserve=lineup in {"RES","RESERVE","BENCH","BE"}
+        roster_status="INJURED_RESERVE" if injured else "RESERVE" if reserve else "ACTIVE"
+        rows.append({"season_id":row.get("season_id"),"observed_at":refreshed_at,"source_retrieved_at":row.get("source_retrieved_at"),"scoring_period":latest,"period":latest,
+            "manager_id":manager_id,"manager_name":row.get("current_manager_name") or team.get("manager_name"),"fantasy_team_id":team.get("fantasy_team_id",manager_id),"fantasy_team_name":row.get("current_manager_name") or team.get("fantasy_team_name",team.get("manager_name")),
+            "fantrax_player_id":row.get("fantrax_player_id"),"registry_player_id":row.get("registry_player_id"),"canonical_name":row.get("canonical_name"),"player_name":row.get("player_name"),"premier_league_club":row.get("club"),"club":row.get("club"),"fantrax_position":row.get("fantrax_position"),
+            "roster_status":roster_status,"lineup_status":roster_status,"active":roster_status=="ACTIVE","reserve":reserve,"injured_reserve":injured,"source":"Fantrax detailed weekly current roster","validation_status":"valid","last_refreshed":refreshed_at})
+    return pd.DataFrame(rows).reindex(columns=DATASET_COLUMNS["current_rosters"])
+
+
 def build_live_season(config:LiveSeasonConfig|None=None,*,registry_path:Path|None=None)->dict[str,Any]:
     """Build solely from cached artifacts. Missing required cache fails before outputs change."""
     config=config or load_live_season_config(); league_path=config.raw_root/"league"/f"league_metadata_{config.season_id}_latest.json"
@@ -203,6 +262,16 @@ def build_live_season(config:LiveSeasonConfig|None=None,*,registry_path:Path|Non
     for part in roster_parts:
         joined,unresolved=join_player_registry(part,registry); joined["player_name"]=joined["player_name"].fillna(joined.get("canonical_name")); joined_parts.append(joined.reindex(columns=DATASET_COLUMNS["current_rosters"])); unresolved_parts.append(unresolved)
     authoritative_period=_authoritative_period(league_payload,joined_parts)
+    name_history_path=config.model_root/f"manager_name_history_{config.season_id}.csv"
+    existing_name_history=pd.read_csv(name_history_path,dtype={"manager_id":str}) if name_history_path.exists() else pd.DataFrame()
+    manager_name_history=existing_name_history
+    if manager_name_history.empty and not matchups.empty:
+        for observed_period,group in matchups.sort_values("period").groupby("period"):
+            observations=pd.concat([group[["season_id","home_team_id","home_manager"]].rename(columns={"home_team_id":"manager_id","home_manager":"manager_name"}),group[["season_id","away_team_id","away_manager"]].rename(columns={"away_team_id":"manager_id","away_manager":"manager_name"})],ignore_index=True)
+            observations["fantasy_team_name"]=observations["manager_name"]
+            manager_name_history=update_manager_name_history(manager_name_history,observations,period=int(observed_period),observed_at=now)
+    manager_name_history=update_manager_name_history(manager_name_history,teams,period=authoritative_period or config.period_minimum,observed_at=now)
+    _atomic_csv(manager_name_history,name_history_path)
     current=next((part for part in joined_parts if not part.empty and int(part["period"].iat[0])==authoritative_period),empty_dataset("current_rosters"))
     transaction_files=sorted(path for path in (config.raw_root/"transactions").glob("*.json") if not path.name.endswith(".metadata.json")); transactions=empty_dataset("league_transactions")
     if transaction_files:
@@ -228,7 +297,7 @@ def build_live_season(config:LiveSeasonConfig|None=None,*,registry_path:Path|Non
     pool=pd.read_csv(pool_path,dtype={"fantrax_player_id":str}) if pool_path.exists() else pd.DataFrame()
     draft_path=config.model_root.parents[0]/f"draft_{config.season_id}"/f"draft_results_graded_input_{config.season_id}.csv"
     draft=pd.read_csv(draft_path,dtype={"fantrax_player_id":str}) if draft_path.exists() else pd.DataFrame()
-    ownership=_ownership(current,transactions,events,now,pool=pool,draft=draft,teams=teams); manager_week=_manager_week_summary(matchups,standings,teams,now,league_payload)
+    ownership=_ownership(current,transactions,events,now,pool=pool,draft=draft,teams=teams)
     rankings_path=config.model_root.parents[0]/f"draft_{config.season_id}"/f"draft_rankings_{config.season_id}.csv"
     rankings=pd.read_csv(rankings_path,dtype={"fantrax_player_id":str}) if rankings_path.exists() else pd.DataFrame()
     live_players=build_live_player_analytics(pool,ownership,current,rankings,draft,events,season_id=config.season_id)
@@ -237,7 +306,51 @@ def build_live_season(config:LiveSeasonConfig|None=None,*,registry_path:Path|Non
     understat_weekly,unresolved_understat=load_cached_understat(understat_root,periods,registry,season_id=config.season_id)
     combined_weekly=supplement_fantrax(load_cached_weekly_exports(config.raw_root),understat_weekly,weekly_columns=WEEKLY_COLUMNS)
     current_weekly=enrich_weekly(combined_weekly,registry,ownership,pd.concat(joined_parts,ignore_index=True) if joined_parts else current)
-    current_totals,_=aggregate_player_window(current_weekly,"Season")
+    # Detailed manager exports are the freshest complete roster surface.  Rebuild
+    # current ownership from their latest period so pickups, bench and IR members
+    # cannot be lost to a stale getTeamRosters cache.
+    effective_current=authoritative_current_roster(current_weekly,teams,now)
+    if not effective_current.empty:
+        current=effective_current
+        latest_names=current.drop_duplicates("manager_id").set_index(current.drop_duplicates("manager_id").manager_id.astype(str)).manager_name
+        teams["manager_name"]=teams.manager_id.astype(str).map(latest_names).fillna(teams.manager_name);teams["fantasy_team_name"]=teams.manager_id.astype(str).map(latest_names).fillna(teams.fantasy_team_name)
+        roster_validation=validate_rosters(current,config);roster_valid=not roster_validation["severity"].eq("error").any()
+        ownership=_ownership(current,transactions,events,now,pool=pool,draft=draft,teams=teams)
+        current_weekly=enrich_weekly(combined_weekly,registry,ownership,current)
+        live_players=build_live_player_analytics(pool,ownership,current,rankings,draft,events,season_id=config.season_id)
+        latest_period=int(pd.to_numeric(current_weekly.period,errors="coerce").max());universe_ids=set(current_weekly[pd.to_numeric(current_weekly.period,errors="coerce").eq(latest_period)].fantrax_player_id.astype(str))
+        live_players=live_players[live_players.fantrax_player_id.astype(str).isin(universe_ids)].drop_duplicates("fantrax_player_id",keep="last").reset_index(drop=True)
+        missing=current_weekly[pd.to_numeric(current_weekly.period,errors="coerce").eq(latest_period)&~current_weekly.fantrax_player_id.astype(str).isin(set(live_players.fantrax_player_id.astype(str)))].drop_duplicates("fantrax_player_id",keep="last")
+        if not missing.empty:
+            additions=missing.reindex(columns=live_players.columns).copy();additions["available"]=~additions.fantrax_player_id.astype(str).isin(set(current.fantrax_player_id.astype(str)));live_players=pd.concat([live_players,additions],ignore_index=True)
+    completed_periods=completed_whoscored_periods(config.raw_root.parents[1]/"whoscored"/config.season_id/"poc",periods,config.model_root.parents[1]/"reference"/f"whoscored_season_manifest_{config.season_id}.csv")
+    current_weekly["period_complete"]=pd.to_numeric(current_weekly.get("period"),errors="coerce").isin(completed_periods)
+    authority_path=config.model_root/f"fantrax_matchups_{config.season_id}.csv"
+    authoritative=pd.read_csv(authority_path,dtype={"home_team_id":str,"away_team_id":str}) if authority_path.exists() else pd.DataFrame()
+    if not authoritative.empty and len(manager_name_history)<=len(teams):
+        manager_name_history=pd.DataFrame()
+        for observed_period,group in authoritative.sort_values("period").groupby("period"):
+            observations=pd.concat([group[["season_id","home_team_id","home_manager"]].rename(columns={"home_team_id":"manager_id","home_manager":"manager_name"}),group[["season_id","away_team_id","away_manager"]].rename(columns={"away_team_id":"manager_id","away_manager":"manager_name"})],ignore_index=True);observations["fantasy_team_name"]=observations.manager_name
+            manager_name_history=update_manager_name_history(manager_name_history,observations,period=int(observed_period),observed_at=now)
+        manager_name_history=update_manager_name_history(manager_name_history,teams,period=authoritative_period or config.period_minimum,observed_at=now);_atomic_csv(manager_name_history,name_history_path)
+    protected_periods=set(pd.to_numeric(authoritative.get("period"),errors="coerce").dropna().astype(int)) if not authoritative.empty else set()
+    if protected_periods:
+        matchups=matchups[~pd.to_numeric(matchups.period,errors="coerce").isin(protected_periods)].copy()
+        promoted=authoritative.rename(columns={"acquired_at":"source_retrieved_at"}).copy()
+        canonical_names=dict(zip(teams.get("fantasy_team_id",pd.Series(dtype=str)).astype(str),teams.get("manager_name",pd.Series(dtype=str))))
+        for side in ("home","away"):
+            promoted[f"{side}_manager"]=promoted[f"{side}_team_id"].astype(str).map(canonical_names).fillna(promoted[f"{side}_manager"])
+        promoted["winner"]=promoted.apply(lambda row:"TIE" if row.home_score==row.away_score else row.home_manager if row.home_score>row.away_score else row.away_manager,axis=1)
+        promoted["last_refreshed"]=promoted.get("source_retrieved_at",now)
+        promoted["source"]=promoted.get("source","Fantrax getLiveScoringStats")
+        matchups=pd.concat([matchups,promoted.reindex(columns=DATASET_COLUMNS["weekly_matchups"])],ignore_index=True).sort_values(["period","matchup_id"])
+    matchups=_apply_live_matchup_scores(matchups,current_weekly,protected_periods=protected_periods)
+    completed_mask=pd.to_numeric(matchups.get("period"),errors="coerce").isin(completed_periods)&matchups.get("home_score",pd.Series(index=matchups.index,dtype=float)).notna()&matchups.get("away_score",pd.Series(index=matchups.index,dtype=float)).notna()
+    matchups.loc[completed_mask,"status"]="completed";matchups.loc[completed_mask,"winner"]=matchups.loc[completed_mask].apply(lambda row:"TIE" if row.home_score==row.away_score else row.home_manager if row.home_score>row.away_score else row.away_manager,axis=1)
+    manager_week=_manager_week_summary(matchups,standings,teams,now,league_payload)
+    manager_week=enrich_manager_weeks(manager_week,current_weekly,completed_periods)
+    active_weekly=active_player_weekly(current_weekly,completed_periods)
+    current_totals,_=aggregate_player_window(current_weekly,"Season",include_partial=True)
     if not current_totals.empty:
         live_players=live_players.merge(current_totals,on="fantrax_player_id",how="left",suffixes=("","_current"))
         current_aliases={"fantasy_points":"current_fantasy_points","ghost_points":"current_ghost_points","minutes":"current_minutes","start":"current_starts","appearance":"current_appearances","start_percentage":"current_start_percentage","minutes_per_game":"current_minutes_per_game","xg":"current_xg","xa":"current_xa","xgi":"current_xgi","fantasy_points_per_game":"current_points_per_game","fantasy_points_per_start":"current_points_per_start","fantasy_points_per_90":"current_points_per_90","ghost_points_per_game":"current_ghost_per_game","ghost_points_per_start":"current_ghost_per_start","ghost_points_per_90":"current_ghost_per_90","xgi_per_game":"current_xgi_per_game","xgi_per_start":"current_xgi_per_start","xgi_per_90":"current_xgi_per_90"}
@@ -265,7 +378,7 @@ def build_live_season(config:LiveSeasonConfig|None=None,*,registry_path:Path|Non
         "roster_snapshots_manifest":snapshot_manifest,"roster_tracking_quality":tracking_quality,
         "live_player_analytics":live_players,"live_manager_analytics":live_managers,
         "live_position_strength":position_strength,"live_league_summary":league_summary,"available_players":available_players,
-        "current_player_weekly":current_weekly,"understat_player_weekly":understat_weekly,"manager_player_weekly":manager_players}
+        "current_player_weekly":current_weekly,"understat_player_weekly":understat_weekly,"manager_player_weekly":manager_players,"league_active_player_weekly":active_weekly}
     validations={"league_teams":validate_league_teams(teams,config),"current_rosters":roster_validation,"league_standings":validate_standings(standings,config),
         "weekly_matchups":validate_matchups(matchups),"league_transactions":validate_transactions(transactions),"player_ownership":validate_ownership(ownership,current)}
     errors=pd.concat(validations.values(),ignore_index=True); blocking=errors[errors["severity"].eq("error")]
@@ -301,6 +414,12 @@ def build_live_season(config:LiveSeasonConfig|None=None,*,registry_path:Path|Non
     _atomic_csv(unresolved_understat,config.quality_root/f"unresolved_understat_identities_{config.season_id}.csv")
     _atomic_csv(weekly_period_status(config.raw_root,league_payload),config.quality_root/f"weekly_period_status_{config.season_id}.csv")
     _atomic_csv(_weekly_score_reconciliation(manager_players,manager_week),config.quality_root/f"weekly_score_reconciliation_{config.season_id}.csv")
+    live_scoring_path=config.model_root/f"fantrax_live_player_scoring_{config.season_id}.csv"
+    if authority_path.exists() and live_scoring_path.exists():
+        live_scoring=pd.read_csv(live_scoring_path,dtype={"fantrax_team_id":str,"fantrax_player_id":str})
+        manager_recon,player_recon=three_way_reconciliation(authoritative,live_scoring,current_weekly)
+        _atomic_csv(manager_recon,config.quality_root/f"fantrax_matchup_three_way_reconciliation_{config.season_id}.csv")
+        _atomic_csv(player_recon,config.quality_root/f"fantrax_live_player_reconciliation_{config.season_id}.csv")
     _atomic_csv(dictionary,config.model_root.parents[1]/"reference"/f"fantrax_stat_dictionary_{config.season_id}.csv")
     summary=[]
     for key,frame in datasets.items():

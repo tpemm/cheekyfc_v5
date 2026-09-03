@@ -19,13 +19,9 @@ import re
 from typing import Iterable, Mapping
 
 from fantrax.analytics.core.league_rules import (
-    ASSIST_POINTS,
-    CLEAN_SHEET_POINTS,
-    GOALS_AGAINST_AFTER_FIRST_POINTS,
-    GOAL_POINTS_BASE,
-    GOAL_POINTS_THIRD_PLUS,
     POSITIONS,
 )
+from fantrax.analytics.core.fantrax_scoring import score_stat
 
 
 def _finite(value: object, default: float = 0.0) -> float:
@@ -64,9 +60,9 @@ def parse_eligible_positions(value: object, fallback: object = "") -> tuple[str,
 def goal_points(position: str, goals: object) -> float:
     pos = normalize_position(position)
     count = max(_finite(goals), 0.0)
-    if pos in GOAL_POINTS_THIRD_PLUS:
-        return min(count, 2.0) * GOAL_POINTS_BASE[pos] + max(count - 2.0, 0.0) * GOAL_POINTS_THIRD_PLUS[pos]
-    return count * GOAL_POINTS_BASE.get(pos, 0.0)
+    if not pos:
+        raise ValueError(f"Unknown scoring position: {position!r}")
+    return score_stat("2627", pos, "G", count)
 
 
 def position_sensitive_points(
@@ -82,9 +78,9 @@ def position_sensitive_points(
         raise ValueError(f"Unknown scoring position: {position!r}")
     return (
         goal_points(pos, goals)
-        + ASSIST_POINTS[pos] * max(_finite(assists), 0.0)
-        + CLEAN_SHEET_POINTS[pos] * max(_finite(clean_sheets), 0.0)
-        + GOALS_AGAINST_AFTER_FIRST_POINTS[pos] * max(_finite(goals_against) - 1.0, 0.0)
+        + score_stat("2627", pos, "AT", max(_finite(assists), 0.0))
+        + score_stat("2627", pos, "CS", max(_finite(clean_sheets), 0.0))
+        + (score_stat("2627", pos, "GA", max(_finite(goals_against), 0.0)) if pos in {"G", "D"} else 0.0)
     )
 
 

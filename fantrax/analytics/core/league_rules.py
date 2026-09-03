@@ -20,9 +20,9 @@ MAX_ACTIVE = {"G": 1, "D": 5, "M": 5, "F": 3}
 # Non-position-sensitive scoring is preserved through a residual anchored to
 # the official exported Fantrax score, so the engine does not need to recreate
 # every category to optimize a rostered lineup.
-GOAL_POINTS_BASE = {"G": 12.0, "D": 10.0, "M": 9.0, "F": 9.0}
-GOAL_POINTS_THIRD_PLUS = {"M": 12.0, "F": 12.0}
-ASSIST_POINTS = {"G": 6.0, "D": 7.0, "M": 6.0, "F": 6.0}
+GOAL_POINTS_BASE = {"G": 12.0, "D": 9.0, "M": 9.0, "F": 9.0}
+GOAL_POINTS_THIRD_PLUS = {"D": 12.0, "M": 12.0, "F": 12.0}
+ASSIST_POINTS = {"G": 7.0, "D": 7.0, "M": 6.0, "F": 6.0}
 CLEAN_SHEET_POINTS = {"G": 6.0, "D": 6.0, "M": 1.0, "F": 0.0}
 GOALS_AGAINST_AFTER_FIRST_POINTS = {"G": -2.0, "D": -2.0, "M": 0.0, "F": 0.0}
 

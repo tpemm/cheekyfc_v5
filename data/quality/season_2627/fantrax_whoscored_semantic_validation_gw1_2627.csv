@@ -1,0 +1,11 @@
+metric,fantrax_field,whoscored_field,sample_size,exact_agreement,mae,fantrax_total,derived_total,mismatches
+cross_attempts,accurate_crosses,ws_cross_attempts,152,0.5592105263157895,1.0855263157894737,53.0,218.0,67
+accurate_crosses,accurate_crosses,ws_cross_successful,152,1.0,0.0,53.0,53.0,0
+sot_goal_saved,shots_on_target,ws_sot_goal_saveds,165,0.7212121212121212,0.36363636363636365,54.0,114.0,46
+sot_goal_saved_unblocked,shots_on_target,ws_sot_goal_saved_unblockeds,165,0.9878787878787879,0.012121212121212121,54.0,52.0,2
+sot_successful_shot,shots_on_target,ws_sot_successful_shots,165,0.509090909090909,0.8303030303030303,54.0,191.0,81
+tackle_attempts,tackles_won,ws_tackle_attempts,165,0.6060606060606061,0.5696969696969697,108.0,202.0,65
+tackles_successful,tackles_won,ws_tackle_successful,165,0.9878787878787879,0.012121212121212121,108.0,108.0,2
+clearances,clearances,ws_clearances,165,0.9212121212121213,0.09696969696969697,279.0,279.0,13
+goals,goals,ws_goals,165,1.0,0.0,17.0,17.0,0
+official_assists,assists,ws_official_assists,165,0.9515151515151515,0.048484848484848485,21.0,13.0,8

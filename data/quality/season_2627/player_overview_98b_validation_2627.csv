@@ -1,0 +1,7 @@
+fantrax_id,player_name,club,position,roster_status,fantasy_manager,ownership,games_played,starts,minutes,season_fpts,fpts_per_game,fpts_per_start,ghost_per_start,goals,assists,assist_source,key_passes,sot,accurate_crosses,tackles_won,interceptions,clearances,aerial_wins,clean_sheets,xg,xa,xg90,xa90,whoscored_coverage,understat_coverage,historical_2526_available,historical_overlay_valid,validation_status
+06y9m,Maxim De Cuyper,BHA,"D,M",ACTIVE,Pot Splashers,,1.0,1.0,77.0,36.0,36.0,36.0,13.0,1.0,1.0,FANTRAX_DETAILED,3.0,1.0,2.0,2.0,1.0,0.0,0.0,1.0,1.3795270919799805,0.1410702615976333,1.612434263353224,0.1648873187504805,True,True,True,True,PASS
+05tre,Vitaly Janelt,BRF,M,,,,1.0,1.0,90.0,26.0,26.0,26.0,15.0,1.0,0.0,WHOSCORED_OFFICIAL,2.0,2.0,4.0,3.0,4.0,1.0,0.0,1.0,0.4880397617816925,0.083657830953598,0.4880397617816925,0.083657830953598,True,True,True,True,PASS
+07877,Mamadou Sangare,BRF,M,RESERVE,Berkshire’s Club,,1.0,1.0,75.0,23.0,23.0,23.0,10.0,0.0,2.0,FANTRAX_DETAILED,2.0,1.0,0.0,0.0,2.0,2.0,0.0,1.0,0.0391997434198856,0.5642412900924683,0.0470396921038627,0.6770895481109619,True,False,False,False,PASS
+070hq,Piero Hincapié,ARS,D,,,,1.0,0.0,7.0,0.0,0.0,,,0.0,0.0,WHOSCORED_OFFICIAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,True,True,True,PASS
+062ct,Carl Rushworth,COV,G,,,,1.0,1.0,90.0,3.5,3.5,3.5,0.0,0.0,0.0,WHOSCORED_OFFICIAL,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,,,,True,False,False,False,PASS
+02lk5,Jordan Henderson,BRF,M,,,,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,False,False,False,False,PASS

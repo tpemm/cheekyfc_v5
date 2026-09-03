@@ -292,6 +292,50 @@ def write_manifest(
     return path
 
 
+def refresh_current_match_schedule(
+    client: FootballDataClient,
+    output_root: Path,
+    *,
+    reserve: int,
+) -> tuple[list[Path], dict[str, Any]]:
+    """Revalidate page one, then follow pagination from the fresh response.
+
+    This intentionally does not infer pagination from a stale cache.  The
+    provider publishes future fixtures incrementally, so a formerly complete
+    two-page cache can later become four pages.
+    """
+    usage = client.account_usage()
+    remaining = usage.requests_remaining
+    if remaining is None:
+        raise FootballDataError("Could not validate the remaining request budget")
+    if remaining < reserve + 1:
+        raise FootballDataError("Request reserve would be breached by page-one revalidation")
+    target_root = output_root / "current_schedule"
+    first = client.season_matches(CURRENT_SEASON_ID, page=1, limit=MATCH_PAGE_LIMIT)
+    total_pages = pagination_total_pages(first.payload)
+    if remaining < reserve + total_pages:
+        raise FootballDataError(
+            f"Complete schedule needs {total_pages} match calls plus one usage call; "
+            f"only {remaining} requests remained before acquisition with reserve={reserve}."
+        )
+    paths=[]
+    first_path=target_root / "matches_2627_page_1.json"
+    save_json(first.payload, first_path); paths.append(first_path)
+    latest_remaining=first.requests_remaining
+    for page in range(2,total_pages+1):
+        result=client.season_matches(CURRENT_SEASON_ID,page=page,limit=MATCH_PAGE_LIMIT)
+        path=target_root/f"matches_2627_page_{page}.json"
+        save_json(result.payload,path); paths.append(path); latest_remaining=result.requests_remaining
+    meta=first.payload.get("meta") or {}; pagination=meta.get("pagination") or {}
+    summary={"retrieved_at":datetime.now().isoformat(timespec="seconds"),
+             "season_id":CURRENT_SEASON_ID,"league_id":CURRENT_EPL_LEAGUE_ID,
+             "usage_call_count":1,"match_call_count":total_pages,
+             "provider_total":pagination.get("total"),"provider_total_pages":total_pages,
+             "requests_remaining":latest_remaining,"protected_reserve":reserve}
+    save_json(summary,target_root/"schedule_refresh_manifest.json")
+    return paths,summary
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(
         description=(
@@ -332,10 +376,23 @@ def main() -> None:
         action="store_true",
         help="Do not rebuild normalized analytics after downloading.",
     )
+    parser.add_argument(
+        "--current-matches-only", action="store_true",
+        help="Revalidate current-season page 1 and fetch its fresh pagination only.",
+    )
     args = parser.parse_args()
 
     raw_root = PROJECT_ROOT / "data" / "raw" / "footballdata_io"
     output_root = raw_root / "full_refresh"
+
+    if args.current_matches_only:
+        if not args.execute:
+            print("Current schedule preview: 1 usage call plus the page count declared by a freshly fetched page 1.")
+            return
+        paths,summary=refresh_current_match_schedule(FootballDataClient(),output_root,reserve=args.reserve)
+        print(json.dumps(summary,indent=2)); print(f"Saved {len(paths)} current schedule pages.")
+        if not args.skip_build: run_foundation_builder()
+        return
 
     plan = build_plan(
         raw_root=raw_root,

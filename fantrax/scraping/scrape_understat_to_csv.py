@@ -28,6 +28,9 @@ import pandas as pd
 import soccerdata as sd
 
 
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+if str(PROJECT_ROOT) not in sys.path:sys.path.insert(0,str(PROJECT_ROOT))
+from core.services.machine_role import require_commissioner_writer
 DEFAULT_OUT_DIR = str(PROJECT_ROOT / "data" / "raw" / "understat")
 DEFAULT_LEAGUE = "ENG-Premier League"
 DEFAULT_SEASON = "2025/26"
@@ -214,6 +217,7 @@ def main():
     parser.add_argument("--mode", default="upsert", choices=["upsert", "overwrite"], help="Write mode")
 
     args = parser.parse_args()
+    require_commissioner_writer("Understat provider-cache write")
 
     out_dir = Path(args.out_dir)
     out_dir.mkdir(parents=True, exist_ok=True)

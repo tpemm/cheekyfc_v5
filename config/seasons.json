@@ -11,7 +11,7 @@
     "league": "Cheeky FC",
     "status": "active",
     "enabled": true,
-    "data_ready": false
+    "data_ready": true
   },
   "all_time": {
     "label": "All Time",

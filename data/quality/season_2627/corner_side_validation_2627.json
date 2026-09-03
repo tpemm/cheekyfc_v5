@@ -1,0 +1,9 @@
+{
+  "corners": 184,
+  "x_min": 99.3,
+  "x_max": 99.8,
+  "low_y": 91,
+  "high_y": 93,
+  "left_right_status": "NOT_APPROVED",
+  "reason": "coordinates prove two corner sides but do not independently prove human left/right label orientation"
+}

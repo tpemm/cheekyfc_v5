@@ -1,0 +1,10 @@
+{
+  "period": 2,
+  "snapshot_count": 4,
+  "previous_snapshot": "20260901T0016340000",
+  "new_snapshot": "20260902T2353220000",
+  "players_changed": 5,
+  "stat_fields_changed": 6,
+  "managers_affected": 5,
+  "period_state": "COMPLETE_PENDING_CORRECTIONS"
+}

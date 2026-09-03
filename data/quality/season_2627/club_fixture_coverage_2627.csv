@@ -1,0 +1,21 @@
+club_id,club,fantrax_code,football_data_team_id,football_data_mapped,fantrax_mapped,league_fixture_count,home_fixture_count,away_fixture_count,next_fixture_available,next_five_available,unresolved_fixture_count,schedule_complete,validation_status
+afc_bournemouth,AFC Bournemouth,BOU,132,True,True,38,19,19,True,True,0,True,complete
+arsenal,Arsenal,ARS,57,True,True,38,19,19,True,True,0,True,complete
+aston_villa,Aston Villa,AVL,142,True,True,38,19,19,True,True,0,True,complete
+brentford,Brentford,BRF,189,True,True,38,19,19,True,True,0,True,complete
+brighton_hove_albion,Brighton & Hove Albion,BHA,180,True,True,38,19,19,True,True,0,True,complete
+chelsea,Chelsea,CHE,136,True,True,38,19,19,True,True,0,True,complete
+coventry_city,Coventry City,COV,209,True,True,38,19,19,True,True,0,True,complete
+crystal_palace,Crystal Palace,CRY,127,True,True,38,19,19,True,True,0,True,complete
+everton,Everton,EVE,128,True,True,38,19,19,True,True,0,True,complete
+fulham,Fulham,FUL,146,True,True,38,19,19,True,True,0,True,complete
+hull_city,Hull City,HUL,134,True,True,38,19,19,True,True,0,True,complete
+ipswich_town,Ipswich Town,IPS,191,True,True,38,19,19,True,True,0,True,complete
+leeds_united,Leeds United,LEE,193,True,True,38,19,19,True,True,0,True,complete
+liverpool,Liverpool,LIV,135,True,True,38,19,19,True,True,0,True,complete
+manchester_city,Manchester City,MCI,87,True,True,38,19,19,True,True,0,True,complete
+manchester_united,Manchester United,MUN,133,True,True,38,19,19,True,True,0,True,complete
+newcastle_united,Newcastle United,NEW,141,True,True,38,19,19,True,True,0,True,complete
+nottingham_forest,Nottingham Forest,NFO,182,True,True,38,19,19,True,True,0,True,complete
+sunderland,Sunderland,SUN,140,True,True,38,19,19,True,True,0,True,complete
+tottenham_hotspur,Tottenham Hotspur,TOT,86,True,True,38,19,19,True,True,0,True,complete

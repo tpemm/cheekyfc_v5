@@ -1,0 +1,21 @@
+club,canonical_club_id,historical_canonical_club_id,current_club_resolved,historical_eligible,formations_rows,fantasy_allowed_rows,playstyle_rows,manager_rows,role_rows,set_piece_rows,status
+AFC Bournemouth,afc_bournemouth,bournemouth,True,True,4,4,2,1,45,143,AVAILABLE
+Arsenal,arsenal,arsenal,True,True,4,4,2,1,52,115,AVAILABLE
+Aston Villa,aston_villa,aston_villa,True,True,5,4,3,1,63,176,AVAILABLE
+Brentford,brentford,brentford,True,True,8,4,5,1,73,128,AVAILABLE
+Brighton & Hove Albion,brighton_hove_albion,brighton,True,True,5,4,3,1,62,154,AVAILABLE
+Chelsea,chelsea,chelsea,True,True,11,4,8,3,142,94,AVAILABLE
+Coventry City,coventry_city,coventry_city,True,False,0,0,0,0,0,0,NO_HISTORICAL_EPL_DATA
+Crystal Palace,crystal_palace,crystal_palace,True,True,5,4,3,1,56,125,AVAILABLE
+Everton,everton,everton,True,True,3,4,2,1,44,66,AVAILABLE
+Fulham,fulham,fulham,True,True,4,4,2,1,47,147,AVAILABLE
+Hull City,hull_city,hull_city,True,False,0,0,0,0,0,0,NO_HISTORICAL_EPL_DATA
+Ipswich Town,ipswich_town,ipswich_town,True,False,0,0,0,0,0,0,NO_HISTORICAL_EPL_DATA
+Leeds United,leeds_united,leeds_united,True,True,13,4,8,1,115,123,AVAILABLE
+Liverpool,liverpool,liverpool,True,True,5,4,4,1,75,117,AVAILABLE
+Manchester City,manchester_city,manchester_city,True,True,11,4,6,1,118,167,AVAILABLE
+Manchester United,manchester_united,manchester_united,True,True,6,4,4,3,75,88,AVAILABLE
+Newcastle United,newcastle_united,newcastle_united,True,True,9,4,7,1,99,157,AVAILABLE
+Nottingham Forest,nottingham_forest,nottingham_forest,True,True,15,4,10,4,148,117,AVAILABLE
+Sunderland,sunderland,sunderland,True,True,10,4,6,1,111,94,AVAILABLE
+Tottenham Hotspur,tottenham_hotspur,tottenham_hotspur,True,True,14,4,9,3,161,94,AVAILABLE

@@ -76,6 +76,150 @@ def _definition(
 
 CORE_DATASETS: tuple[DatasetDefinition, ...] = (
     _definition(
+        "premier_league_clubs", "Premier League Clubs",
+        "Canonical 2026/27 Premier League club identities and explicit provider mappings.",
+        "reference", "reference", "premier_league_clubs_{season_id}.csv",
+        producer="scripts.build_team_fixture_foundation", consumers=("Teams", "Players", "fixture pipeline"),
+        required=False, schema_name=None, required_columns=("canonical_club_id", "canonical_name", "abbreviation", "fantrax_code"),
+    ),
+    _definition(
+        "team_matches", "Canonical Team Matches",
+        "One provider-neutral row per known match, including competition and Fantrax period context.",
+        "model", "season", "team_matches_{season_id}.csv",
+        producer="scripts.build_team_fixture_foundation", consumers=("Teams", "Players", "fixture pipeline"),
+        required=False, schema_name=None, working_subdirectory="models/season_{season_id}",
+        required_columns=("match_id", "competition_type", "home_club_id", "away_club_id", "kickoff_time"),
+    ),
+    _definition(
+        "team_fixtures", "Team Fixtures",
+        "Canonical matches oriented once from each club's perspective.",
+        "model", "season", "team_fixtures_{season_id}.csv",
+        producer="scripts.build_team_fixture_foundation", consumers=("Teams", "Players"),
+        required=False, schema_name=None, working_subdirectory="models/season_{season_id}",
+        required_columns=("club_id", "match_id", "opponent_id", "home_away", "kickoff_time"),
+    ),
+    _definition(
+        "club_elo_current", "Current Club Elo",
+        "Latest soccerdata ClubElo ratings mapped to canonical current Premier League clubs.",
+        "model", "season", "club_elo_current_{season_id}.csv", producer="scripts.refresh_soccerdata_team_context",
+        consumers=("Teams", "Players", "fixture intelligence"), required=False, schema_name=None,
+        working_subdirectory="models/season_{season_id}", required_columns=("canonical_club_id","club","elo","elo_rank_pl"),
+    ),
+    _definition(
+        "club_elo_history", "Club Elo History",
+        "Cached historical ClubElo time series for canonical Premier League clubs.",
+        "model", "season", "club_elo_history_{season_id}.csv", producer="scripts.refresh_soccerdata_team_context",
+        consumers=("Teams", "fixture intelligence"), required=False, schema_name=None,
+        working_subdirectory="models/season_{season_id}", required_columns=("canonical_club_id","date","elo"),
+    ),
+    _definition("player_pitch_events","Historical Player Pitch Events","Compact Parquet event activity for production pitch filtering.","model","season","player_pitch_events_{season_id}.parquet",producer="scripts.build_advanced_descriptive_products",consumers=("Player Pitch",),required=False,schema_name=None,working_subdirectory="models/season_{season_id}/advanced",required_columns=("canonical_match_id","canonical_player_id","event_type","x","y")),
+    *(
+        _definition(key,label,description,"model","season",f"{key}_{{season_id}}.csv",producer="scripts.build_team_analytics_2627",consumers=("Teams","team research","matchup analytics"),required=False,schema_name=None,working_subdirectory="models/season_{season_id}",required_columns=required_columns)
+        for key,label,description,required_columns in (
+            ("team_match_analytics","Canonical Team Match Analytics","One observed row per club and completed Premier League match.",("canonical_match_id","club_id","opponent_id","manager_id","formation","xg","xga","feature_class")),
+            ("team_season_profile","Team Season Profile","Descriptive season aggregates with neutral league volume context.",("club_id","matches","feature_class")),
+            ("team_manager_profile","Team Manager Regime Profile","Observed team aggregates by match-observed manager regime.",("club_id","manager_id","matches","feature_class")),
+            ("team_formation_analytics","Team Formation Analytics","Observed team aggregates by starting formation.",("club_id","formation","matches","formation_share","feature_class")),
+            ("team_home_away_profile","Team Home Away Profile","Canonical fixture-oriented venue splits.",("club_id","home_away","matches","feature_class")),
+            ("team_fantasy_allowed_match","Team Fantasy Allowed Match","Match-attributable best-available fantasy observations allowed by opponent.",("canonical_match_id","club_id","fantasy_points_allowed","feature_class")),
+            ("team_fantasy_allowed_position_match","Team Positional Fantasy Allowed Match","Match-attributable fantasy observations allowed by primary Fantrax position.",("canonical_match_id","club_id","position_group","fantasy_points_allowed","feature_class")),
+        )
+    ),
+    *(
+        _definition(key,label,description,"model","season",f"{key}_{{season_id}}.csv",producer="scripts.build_team_tactical_99c",consumers=consumers,required=False,schema_name=None,working_subdirectory="models/season_{season_id}",required_columns=required_columns)
+        for key,label,description,consumers,required_columns in (
+            ("team_tactical_match_features","Team Tactical Match Features","Observed match-level tactical rates and spatial features calibrated by team_tactical_v1.",( "Teams","Player Role & Tactical","Fantasy Allowed"),("season","canonical_match_id","club_id","opponent_id","methodology_version")),
+            ("team_tactical_profile","Team Tactical Profile","Club-season tactical dimensions, percentiles, transparent traits, and sample confidence.",( "Teams","opponent context"),("club_id","matches","confidence","methodology_version")),
+            ("team_manager_tactical_profile","Team Manager Tactical Profile","Match-observed manager-regime tactical summaries with sample gating.",( "Teams",),("club_id","manager_id","matches","confidence","methodology_version")),
+            ("team_formation_tactical_profile","Team Formation Tactical Profile","Observed formation tactical summaries without causal claims.",( "Teams",),("club_id","formation","matches","confidence","methodology_version")),
+            ("team_venue_tactical_profile","Team Venue Tactical Profile","Observed home/away tactical summaries.",( "Teams","matchup analytics"),("club_id","home_away","matches","confidence","methodology_version")),
+            ("team_opponent_tactical_context","Team Opponent Tactical Context","Joinable match/opponent tactical fingerprint for Player and Fantasy Allowed research.",( "Players","Fantasy Allowed","team matchup analytics"),("canonical_match_id","club_id","opponent_id","methodology_version")),
+        )
+    ),
+    *(
+        _definition(key,label,description,"model","season",f"{key}_{{season_id}}.csv",
+            producer="scripts.build_team_matchup_foundation",consumers=consumers,required=False,schema_name=None,
+            working_subdirectory="models/season_{season_id}",required_columns=required_columns)
+        for key,label,description,consumers,required_columns in (
+            ("team_match_observations","Team Match Observations","Observed team-perspective match facts with source coverage.",( "Teams","matchup analytics"),("match_id","club_id","opponent_id","feature_class")),
+            ("team_position_fantasy_allowed","Team Position Fantasy Allowed","Derived opponent fantasy production allowed by canonical position and transparent window.",( "Teams","Players","matchup analytics"),("club_id","position_group","window","matches_observed","feature_class")),
+            ("team_attack_profile","Team Attack Profile","Transparent observed/derived attacking rates.",( "Teams","matchup analytics"),("club_id","matches_observed","feature_class")),
+            ("team_defense_profile","Team Defense Profile","Transparent observed/derived defensive and allowed rates.",( "Teams","matchup analytics"),("club_id","matches_observed","feature_class")),
+            ("team_matchup_features","Team Matchup Features","Model-ready future team fixture features without predictions.",( "matchup analytics",),("club_id","opponent_id","match_id","feature_class")),
+            ("player_matchup_features","Player Matchup Features","Model-ready player/opponent features without projections.",( "Players","matchup analytics"),("fantrax_player_id","club_id","position_group","feature_class","contains_prediction")),
+        )
+    ),
+    *(
+        _definition(key,label,description,"model","season",f"{key}_{{season_id}}.csv",
+            producer="scripts.build_whoscored_scale_products",consumers=("Operations Center","advanced analytics"),
+            required=False,schema_name=None,working_subdirectory="models/season_{season_id}",required_columns=required_columns)
+        for key,label,description,required_columns in (
+            ("whoscored_match_scale","WhoScored Match Scale","Staged normalized WhoScored matches.",("canonical_match_id","whoscored_match_id")),
+            ("whoscored_team_match_scale","WhoScored Team Match Scale","Manager-aware team-match observations.",("canonical_match_id","club_id","manager_id")),
+            ("whoscored_lineup_scale","WhoScored Lineup Scale","Observed lineups, roles, formations, and ratings.",("canonical_match_id","whoscored_player_id","club_id")),
+            ("whoscored_event_scale","WhoScored Event Scale","Canonical unique event activity with provider IDs retained.",("canonical_match_id","event_id","provider_event_id")),
+            ("advanced_player_match_scale","Advanced Player Match Scale","Staged provider-enriched player-match observations.",("canonical_match_id","canonical_player_id","feature_class")),
+            ("player_tactical_position_history_scale","Player Tactical Position History","Observed manager-aware tactical role shares.",("canonical_player_id","manager_id","position_share")),
+            ("team_formation_history_scale","Team Formation History","Observed manager-aware formation shares.",("club_id","manager_id","formation_share")),
+            ("team_event_features_scale","Team Event Features","Transparent observed and spatial team-match components.",("canonical_match_id","club_id","feature_class")),
+            ("player_event_activity_scale","Player Event Activity","Reusable event activity, explicitly not tracking data.",("canonical_match_id","event_id","dataset_label")),
+        )
+    ),
+    _definition(
+        "refresh_status","Refresh Status","Evidence-derived Core, advanced, schedule, model, and quality freshness status.",
+        "quality","season", "refresh_status_{season_id}.csv",producer="scripts.build_refresh_status",consumers=("Operations Center",),
+        required=False,schema_name=None,working_subdirectory="quality/season_{season_id}",required_columns=("area","state","last_successful_refresh","coverage","detail"),
+    ),
+    _definition(
+        "weekly_advanced_refresh_latest","Current Advanced Refresh Status","Incremental commissioner-only WhoScored plan and coverage evidence.",
+        "quality","season","weekly_advanced_refresh_latest.json",producer="scripts.weekly_advanced_refresh",consumers=("Operations Center",),
+        required=False,schema_name=None,working_subdirectory="quality/season_{season_id}",required_columns=(),
+    ),
+    _definition(
+        "historical_player_research_profile","Historical Player Research Profile","Compact best-available prior-season display metrics with provenance.",
+        "model","season","historical_player_research_profile_2526.csv",producer="scripts.build_historical_player_research_profile",consumers=("Players",),
+        required=False,schema_name=None,working_subdirectory="models/season_2627",required_columns=("canonical_player_id","starts","tackles_won_per_start"),
+    ),
+    *(
+        _definition(key,label,description,"model","season",f"{key}_{{season_id}}.csv",
+            producer="scripts.build_whoscored_season_products",consumers=("future Player/Teams advanced UI","historical modeling"),required=False,schema_name=None,
+            working_subdirectory="models/season_{season_id}/advanced",required_columns=required_columns)
+        for key,label,description,required_columns in (
+            ("whoscored_match","WhoScored Historical Matches","Validated supplemental season match observations.",("canonical_match_id","whoscored_match_id")),
+            ("whoscored_lineup","WhoScored Historical Lineups","Validated supplemental season lineups and tactical roles.",("canonical_match_id","whoscored_player_id","club_id")),
+            ("whoscored_event","WhoScored Historical Events","Validated season event activity with canonical unique keys.",("canonical_match_id","event_id","provider_event_id")),
+            ("advanced_player_match","Advanced Historical Player Match","Supplemental WhoScored, Understat, and safely attributed Fantrax observations.",("canonical_match_id","canonical_player_id","feature_class")),
+            ("player_match_roles","Historical Player Match Roles","Observed starting tactical roles with manager and formation context.",("canonical_match_id","canonical_player_id","manager_id")),
+            ("player_role_profile","Historical Player Role Profiles","Observed role shares by player, manager, and formation.",("canonical_player_id","actual_position_standardized","role_share")),
+            ("team_formation_history","Historical Team Formation History","One observed formation per club-match.",("canonical_match_id","club_id","manager_id","formation")),
+            ("team_formation_profile","Historical Team Formation Profiles","Formation usage by club, manager, and venue.",("club_id","manager_id","formation","formation_share")),
+            ("team_match_features","Historical Team Match Features","Transparent event and spatial team-match components.",("canonical_match_id","club_id","feature_class")),
+            ("player_event_data","Historical Player Event Activity","Pitch-view-ready event activity, not tracking data.",("canonical_match_id","event_id","dataset_label")),
+            ("historical_position_fantasy_allowed","Historical Positional Fantasy Allowed","Single-primary-position opponent baseline using exact Fantrax attribution only.",("opponent_id","position_group","position_method")),
+            ("supplemental_player_match","Supplemental Player Match","Fantrax-first, provenance-retaining historical advanced player-match facts.",("canonical_match_id","canonical_player_id","key_passes_source")),
+            ("player_advanced_profile","Player Advanced Profile","Historical totals and transparent rate denominators.",("canonical_player_id","appearances","starts")),
+            ("player_role_usage","Player Role Usage","Observed tactical-role starts by player, manager, and formation.",("canonical_player_id","manager_id","actual_tactical_role","role_share")),
+            ("player_set_piece_usage","Player Set Piece Usage","Observed set-piece attempts, shares, and ranks by window and manager regime.",("canonical_player_id","club_id","set_piece_type","window","rank")),
+            ("team_set_piece_hierarchy","Team Set Piece Hierarchy","Evidence-backed set-piece hierarchy with shares and samples.",("club_id","set_piece_type","window","rank","role_label")),
+            ("team_playstyle_profile","Team Playstyle Profile","Observed manager/formation event rates without a composite score.",("club_id","manager_id","formation","matches")),
+            ("historical_fantasy_allowed_ranked","Historical Fantasy Allowed Ranked","Fantrax-authoritative positional production allowed with ranks.",("opponent_id","position_group","matches")),
+            ("formation_player_usage","Formation Player Usage","Observed formation-role player usage.",("club_id","manager_id","formation","actual_tactical_role","role_rank")),
+        )
+    ),
+    *(
+        _definition(key,label,description,"model","season",f"{key}_{{season_id}}.csv",
+            producer="scripts.build_whoscored_historical_poc",consumers=("advanced match POC",),
+            required=False,schema_name=None,working_subdirectory="models/season_{season_id}",required_columns=required_columns)
+        for key,label,description,required_columns in (
+            ("whoscored_match_poc","WhoScored Match POC","Observed normalized WhoScored match facts for the bounded historical POC.",("canonical_match_id","whoscored_match_id","source")),
+            ("whoscored_lineup_poc","WhoScored Lineup POC","Observed WhoScored lineup, role, rating, and formation facts.",("canonical_match_id","whoscored_player_id","club_id","source")),
+            ("whoscored_event_poc","WhoScored Event POC","Observed WhoScored event stream with raw qualifier preservation.",("canonical_match_id","event_id","event_type","source")),
+            ("advanced_player_match_poc","Advanced Player Match POC","Identity-safe sample player-match joins across Fantrax, Understat, and WhoScored.",("canonical_match_id","canonical_player_id","feature_class","contains_prediction")),
+            ("team_formation_usage_poc","Team Formation Usage POC","Sample-only observed starting formation frequencies.",("club_id","formation","matches_observed","scope")),
+            ("player_role_usage_poc","Player Role Usage POC","Sample-only mapped player starting-role frequencies.",("canonical_player_id","club_id","actual_position_standardized","scope")),
+        )
+    ),
+    _definition(
         "master_player_weekly",
         "Master Player Weekly",
         "Canonical player-by-gameweek table combining Fantrax and Understat data.",
@@ -514,6 +658,18 @@ CORE_DATASETS: tuple[DatasetDefinition, ...] = (
         consumers=("League Hub", "Managers"), required=False, schema_name=None, working_subdirectory="models/season_{season_id}",
     ),
     _definition(
+        "fantrax_matchups", "Authoritative Fantrax Matchups", "Validated private live-scoring manager totals and results.",
+        "live_model", "season", "fantrax_matchups_{season_id}.csv", producer="fantrax.live.matchup_acquisition",
+        consumers=("League Hub", "Managers", "Update Pipeline"), required=False, schema_name=None,
+        working_subdirectory="models/season_{season_id}", required_columns=("period","matchup_id","home_team_id","away_team_id","home_score","away_score"),
+    ),
+    _definition(
+        "fantrax_live_player_scoring", "Fantrax Live Player Scoring", "Private live-scoring FPts and lineup state used to reconcile official manager totals.",
+        "live_model", "season", "fantrax_live_player_scoring_{season_id}.csv", producer="fantrax.live.matchup_acquisition",
+        consumers=("Managers", "Update Pipeline", "quality reporting"), required=False, schema_name=None,
+        working_subdirectory="models/season_{season_id}", required_columns=("period","fantrax_team_id","fantrax_player_id","lineup_status","live_scoring_fpts"),
+    ),
+    _definition(
         "league_transactions", "League Transactions", "Normalized draft, add, drop, waiver, trade, and commissioner events.",
         "live_model", "season", "league_transactions_{season_id}.csv", producer="fantrax.live.pipeline",
         consumers=("Players", "Managers", "Trade Tool"), required=False, schema_name=None, working_subdirectory="models/season_{season_id}",
@@ -530,10 +686,56 @@ CORE_DATASETS: tuple[DatasetDefinition, ...] = (
         working_subdirectory="models/season_{season_id}", required_columns=("season_id","period","fantrax_player_id","fantasy_points"),
     ),
     _definition(
+        "player_match_participation", "Player Match Participation", "Canonical current player-match appearances, starts, minutes, roles, and clean-sheet context.",
+        "live_model", "season", "player_match_participation_{season_id}.csv", producer="scripts.build_current_player_participation",
+        consumers=("Players", "Comparison", "quality reporting"), required=False, schema_name=None,
+        working_subdirectory="models/season_{season_id}", required_columns=("canonical_match_id","canonical_player_id","appeared","started","minutes"),
+    ),
+    _definition(
+        "current_player_season_summary", "Current Player Season Summary", "Canonical current player totals and shared rate bases.",
+        "live_model", "season", "current_player_season_summary_{season_id}.csv", producer="scripts.build_current_player_participation",
+        consumers=("Players", "Comparison"), required=False, schema_name=None, working_subdirectory="models/season_{season_id}",
+    ),
+    _definition(
+        "current_player_match_log", "Current Player Match Log", "One row per observed current player-match with fantasy and provider facts.",
+        "live_model", "season", "current_player_match_log_{season_id}.csv", producer="scripts.build_current_player_participation",
+        consumers=("Players", "Match Analysis"), required=False, schema_name=None, working_subdirectory="models/season_{season_id}",
+    ),
+    _definition(
+        "league_active_player_weekly", "League Active Player Weekly", "Historically attributed active fantasy starters used by League Hub awards.",
+        "live_model", "season", "league_active_player_weekly_{season_id}.csv", producer="fantrax.live.pipeline",
+        consumers=("League Hub","Managers"), required=False, schema_name=None,
+        working_subdirectory="models/season_{season_id}", required_columns=("season_id","period","manager_id","fantrax_player_id","active_start","fantrax_points"),
+    ),
+    _definition(
+        "live_player_weekly_enriched", "Unified Live Player Weekly", "Fantrax-authoritative current player-week enriched with approved WhoScored and optional Understat fields.",
+        "live_model", "season", "live_player_weekly_enriched_{season_id}.csv", producer="scripts.build_live_weekly_unified",
+        consumers=("Players", "Teams", "Fantasy Allowed"), required=False, schema_name=None,
+        working_subdirectory="models/season_{season_id}", required_columns=("period","fantrax_player_id","fantasy_points"),
+    ),
+    _definition(
         "understat_player_weekly", "Understat Player Weekly", "Supplemental match facts mapped to authoritative Fantrax scoring periods.",
         "live_model", "season", "understat_player_weekly_{season_id}.csv", producer="fantrax.live.pipeline",
         consumers=("Players", "Available Players", "quality reporting"), required=False, schema_name=None,
         working_subdirectory="models/season_{season_id}", required_columns=("season_id","period","fantrax_player_id","understat_player_id"),
+    ),
+    _definition(
+        "understat_player_match", "Understat Player Match", "Current-season provider xG/xA facts with exact match and player identity status.",
+        "live_model", "season", "understat_player_match_{season_id}.csv", producer="scripts.build_understat_live_products",
+        consumers=("Players", "quality reporting"), required=False, schema_name=None, working_subdirectory="models/season_{season_id}",
+        required_columns=("canonical_match_id","understat_match_id","understat_player_id","xg","xa","identity_status"),
+    ),
+    _definition(
+        "understat_team_match", "Understat Team Match", "Current-season team xG/xGA perspectives with reciprocal opponent facts.",
+        "live_model", "season", "understat_team_match_{season_id}.csv", producer="scripts.build_understat_live_products",
+        consumers=("Teams", "quality reporting"), required=False, schema_name=None, working_subdirectory="models/season_{season_id}",
+        required_columns=("canonical_match_id","canonical_club_id","opponent_id","xg","xga"),
+    ),
+    _definition(
+        "team_position_fantasy_allowed_current", "Current Team Position Fantasy Allowed", "Current Fantrax match-attributable production allowed by opponent and position.",
+        "live_model", "season", "team_position_fantasy_allowed_current_{season_id}.csv", producer="scripts.build_live_weekly_unified",
+        consumers=("Teams",), required=False, schema_name=None, working_subdirectory="models/season_{season_id}",
+        required_columns=("opponent_id","position_group","matches","points_allowed_per_match"),
     ),
     _definition(
         "fantrax_stat_dictionary", "Fantrax Stat Dictionary", "League scoring definitions and normalized live-stat source classifications.",

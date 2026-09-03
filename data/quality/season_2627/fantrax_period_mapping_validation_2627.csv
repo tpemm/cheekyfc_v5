@@ -1,0 +1,5 @@
+metric,actual,expected,passed
+source_season,2627,2627,True
+period_count,38,38,True
+mapped_matches,380,380,True
+source_status,current,current,True

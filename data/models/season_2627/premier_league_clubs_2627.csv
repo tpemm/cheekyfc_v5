@@ -1,0 +1,21 @@
+canonical_club_id,canonical_name,short_name,abbreviation,fantrax_team_name,fantrax_code,football_data_team_id,understat_team_id,understat_name,aliases
+afc_bournemouth,AFC Bournemouth,Bournemouth,BOU,AFC Bournemouth,BOU,132,,,Bournemouth|AFC Bournemouth
+arsenal,Arsenal,Arsenal,ARS,Arsenal,ARS,57,,,Arsenal FC
+aston_villa,Aston Villa,Aston Villa,AVL,Aston Villa,AVL,142,,,Aston Villa FC
+brentford,Brentford,Brentford,BRF,Brentford,BRF,189,,,Brentford FC
+brighton_hove_albion,Brighton & Hove Albion,Brighton,BHA,Brighton,BHA,180,,,Brighton|Brighton & Hove Albion FC
+chelsea,Chelsea,Chelsea,CHE,Chelsea,CHE,136,,,Chelsea FC
+coventry_city,Coventry City,Coventry,COV,Coventry City,COV,209,,,Coventry|Coventry City FC
+crystal_palace,Crystal Palace,Crystal Palace,CRY,Crystal Palace,CRY,127,,,Palace|Crystal Palace FC
+everton,Everton,Everton,EVE,Everton,EVE,128,,,Everton FC
+fulham,Fulham,Fulham,FUL,Fulham,FUL,146,,,Fulham FC
+hull_city,Hull City,Hull,HUL,Hull City,HUL,134,,,Hull|Hull City AFC
+ipswich_town,Ipswich Town,Ipswich,IPS,Ipswich Town,IPS,191,,,Ipswich|Ipswich Town FC
+leeds_united,Leeds United,Leeds,LEE,Leeds United,LEE,193,,,Leeds|Leeds United FC
+liverpool,Liverpool,Liverpool,LIV,Liverpool,LIV,135,,,Liverpool FC
+manchester_city,Manchester City,Man City,MCI,Manchester City,MCI,87,,,Man City|Manchester City FC
+manchester_united,Manchester United,Man United,MUN,Manchester United,MUN,133,,,Man Utd|Man United|Manchester United FC
+newcastle_united,Newcastle United,Newcastle,NEW,Newcastle United,NEW,141,,,Newcastle|Newcastle United FC
+nottingham_forest,Nottingham Forest,Nott'm Forest,NFO,Nottingham Forest,NFO,182,,,Nottm Forest|Nottingham Forest FC
+sunderland,Sunderland,Sunderland,SUN,Sunderland,SUN,140,,,Sunderland AFC
+tottenham_hotspur,Tottenham Hotspur,Spurs,TOT,Spurs,TOT,86,,,Tottenham|Tottenham Hotspur FC

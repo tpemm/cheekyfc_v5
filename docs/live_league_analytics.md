@@ -52,3 +52,11 @@ Ghost / GW, Efficiency, and Lineup Changes. Ghost, efficiency and lineup changes
 require complete authoritative coverage and never use proxies. Position-strength
 leaders display fantasy-team/manager labels and an explicit Draft / Projection
 Basis during preseason; internal IDs are not displayed.
+## Display hierarchy
+
+Headline cards are Latest Jester, Jester Leader, calendar-named Manager of the
+Month, and Cup Status. Weekly highlights are limited to Highest Score, Lowest
+Score, Closest Match and Biggest Blowout. Player leaderboards are Golden Boot,
+Playmaker, Golden Glove and Highest Weekly Points, with at most three completed-
+period entries. This sprint changes presentation only; all definitions remain in
+their existing analytics helpers.

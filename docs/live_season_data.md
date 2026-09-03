@@ -62,3 +62,10 @@ Live manager models separate standings, player performance, ownership, finalized
 history, and frozen draft expectations. See `live_manager_analytics.md`.
 `live_league_summary` is the cached League Hub presentation frame. It adds rank
 movement, completed form and weekly distribution values to manager analytics.
+# 2026/27 fixture coverage
+
+The existing cache currently covers 170 Premier League matches (17 per club). Cached Fantrax scoring periods are stale 2025/26 windows, so canonical 2026/27 period fields remain blank until authoritative live periods are acquired.
+
+The Fantrax gap is resolved: 38 live 2026/27 periods are validated and all 170 known fixtures map. The schedule gap remains blocked at the provider source, which returned 170 again on 2026-08-19.
+
+The schedule gap is resolved through cached Sofascore: 380 matches, 760 perspectives, 38 per club, and 380/380 Fantrax mappings. ClubElo is separately blocked by endpoint timeouts.

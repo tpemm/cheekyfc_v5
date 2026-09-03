@@ -1,0 +1,401 @@
+season,club,matches,dimension,raw_value,league_average,percentile,trait,threshold,minimum_sample,confidence,validation_status
+2526,arsenal,38,territorial_activity,28.092537555806643,23.456619269146366,95.0,Advanced Attacking Activity,<=20 / >=80,5,Established,PASS
+2526,arsenal,38,width,77.94704803909083,76.72764962515251,75.0,Balanced Attacking Width,<=20 / >=80,5,Established,PASS
+2526,arsenal,38,crossing_tendency,17.81578947368421,18.06184210526316,36.0,Balanced Crossing,<=20 / >=80,5,Established,PASS
+2526,arsenal,38,central_creation,59.29055645657384,62.15894598785305,15.0,Wide Creation,<=20 / >=80,5,Established,PASS
+2526,arsenal,38,dribbling_tendency,18.42105263157895,17.777631578947368,50.0,Balanced 1v1 Activity,<=20 / >=80,5,Established,PASS
+2526,arsenal,38,box_penetration,11.973684210526315,10.326315789473684,94.0,High Box Penetration,<=20 / >=80,5,Established,PASS
+2526,arsenal,38,chance_creation,10.68421052631579,9.121052631578946,89.0,High Chance Creation,<=20 / >=80,5,Established,PASS
+2526,arsenal,38,defensive_activity_height,36.14264053807032,32.59568293468708,98.5,Advanced Defensive Activity,<=20 / >=80,5,Established,PASS
+2526,arsenal,38,defensive_disruption,8.842105263157896,9.892105263157896,18.35,Low Defensive Disruption,<=20 / >=80,5,Established,PASS
+2526,arsenal,38,aerial_orientation,30.31578947368421,31.589473684210525,40.0,Balanced Aerial Volume,<=20 / >=80,5,Established,PASS
+2526,aston_villa,38,territorial_activity,23.206918689702444,23.456619269146366,52.5,Balanced Territorial Activity,<=20 / >=80,5,Established,PASS
+2526,aston_villa,38,width,75.07797141579438,76.72764962515251,25.0,Balanced Attacking Width,<=20 / >=80,5,Established,PASS
+2526,aston_villa,38,crossing_tendency,15.894736842105264,18.06184210526316,16.0,Cross Light,<=20 / >=80,5,Established,PASS
+2526,aston_villa,38,central_creation,63.07084979123392,62.15894598785305,65.0,Balanced Creation,<=20 / >=80,5,Established,PASS
+2526,aston_villa,38,dribbling_tendency,17.394736842105264,17.777631578947368,49.5,Balanced 1v1 Activity,<=20 / >=80,5,Established,PASS
+2526,aston_villa,38,box_penetration,11.157894736842104,10.326315789473684,63.0,Moderate Box Penetration,<=20 / >=80,5,Established,PASS
+2526,aston_villa,38,chance_creation,9.657894736842104,9.121052631578946,63.0,Typical Chance Creation,<=20 / >=80,5,Established,PASS
+2526,aston_villa,38,defensive_activity_height,32.0532691291129,32.59568293468708,49.5,Mid Defensive Activity,<=20 / >=80,5,Established,PASS
+2526,aston_villa,38,defensive_disruption,9.18421052631579,9.892105263157896,13.500000000000002,Low Defensive Disruption,<=20 / >=80,5,Established,PASS
+2526,aston_villa,38,aerial_orientation,23.473684210526315,31.589473684210525,10.0,Aerial Light,<=20 / >=80,5,Established,PASS
+2526,bournemouth,38,territorial_activity,24.31368010284995,23.456619269146366,70.0,Balanced Territorial Activity,<=20 / >=80,5,Established,PASS
+2526,bournemouth,38,width,75.17460892596273,76.72764962515251,30.0,Balanced Attacking Width,<=20 / >=80,5,Established,PASS
+2526,bournemouth,38,crossing_tendency,19.236842105263158,18.06184210526316,71.0,Balanced Crossing,<=20 / >=80,5,Established,PASS
+2526,bournemouth,38,central_creation,66.05567020899363,62.15894598785305,90.0,Central Creation,<=20 / >=80,5,Established,PASS
+2526,bournemouth,38,dribbling_tendency,19.657894736842106,17.777631578947368,85.5,Dribble Heavy,<=20 / >=80,5,Established,PASS
+2526,bournemouth,38,box_penetration,9.947368421052632,10.326315789473684,51.0,Moderate Box Penetration,<=20 / >=80,5,Established,PASS
+2526,bournemouth,38,chance_creation,9.605263157894736,9.121052631578946,72.0,Typical Chance Creation,<=20 / >=80,5,Established,PASS
+2526,bournemouth,38,defensive_activity_height,32.60607735988779,32.59568293468708,64.5,Mid Defensive Activity,<=20 / >=80,5,Established,PASS
+2526,bournemouth,38,defensive_disruption,9.947368421052632,9.892105263157896,81.35,High Defensive Disruption,<=20 / >=80,5,Established,PASS
+2526,bournemouth,38,aerial_orientation,35.18421052631579,31.589473684210525,80.0,Aerial Heavy,<=20 / >=80,5,Established,PASS
+2526,brentford,38,territorial_activity,21.559180241410992,23.456619269146366,30.0,Balanced Territorial Activity,<=20 / >=80,5,Established,PASS
+2526,brentford,38,width,77.58588815893464,76.72764962515251,70.0,Balanced Attacking Width,<=20 / >=80,5,Established,PASS
+2526,brentford,38,crossing_tendency,17.973684210526315,18.06184210526316,70.5,Balanced Crossing,<=20 / >=80,5,Established,PASS
+2526,brentford,38,central_creation,64.10494340778665,62.15894598785305,75.0,Balanced Creation,<=20 / >=80,5,Established,PASS
+2526,brentford,38,dribbling_tendency,18.710526315789473,17.777631578947368,79.5,Balanced 1v1 Activity,<=20 / >=80,5,Established,PASS
+2526,brentford,38,box_penetration,11.026315789473685,10.326315789473684,73.0,Moderate Box Penetration,<=20 / >=80,5,Established,PASS
+2526,brentford,38,chance_creation,7.7368421052631575,9.121052631578946,43.0,Typical Chance Creation,<=20 / >=80,5,Established,PASS
+2526,brentford,38,defensive_activity_height,31.60505705219437,32.59568293468708,38.5,Mid Defensive Activity,<=20 / >=80,5,Established,PASS
+2526,brentford,38,defensive_disruption,8.526315789473685,9.892105263157896,59.5,Typical Defensive Disruption,<=20 / >=80,5,Established,PASS
+2526,brentford,38,aerial_orientation,37.76315789473684,31.589473684210525,85.0,Aerial Heavy,<=20 / >=80,5,Established,PASS
+2526,brighton,38,territorial_activity,23.63011184450775,23.456619269146366,65.0,Balanced Territorial Activity,<=20 / >=80,5,Established,PASS
+2526,brighton,38,width,75.3979121627629,76.72764962515251,35.0,Balanced Attacking Width,<=20 / >=80,5,Established,PASS
+2526,brighton,38,crossing_tendency,18.842105263157894,18.06184210526316,66.0,Balanced Crossing,<=20 / >=80,5,Established,PASS
+2526,brighton,38,central_creation,65.04273473532739,62.15894598785305,80.0,Central Creation,<=20 / >=80,5,Established,PASS
+2526,brighton,38,dribbling_tendency,18.263157894736842,17.777631578947368,54.0,Balanced 1v1 Activity,<=20 / >=80,5,Established,PASS
+2526,brighton,38,box_penetration,10.0,10.326315789473684,52.0,Moderate Box Penetration,<=20 / >=80,5,Established,PASS
+2526,brighton,38,chance_creation,9.578947368421053,9.121052631578946,59.0,Typical Chance Creation,<=20 / >=80,5,Established,PASS
+2526,brighton,38,defensive_activity_height,35.88032587400415,32.59568293468708,93.0,Advanced Defensive Activity,<=20 / >=80,5,Established,PASS
+2526,brighton,38,defensive_disruption,10.81578947368421,9.892105263157896,71.80000000000001,Typical Defensive Disruption,<=20 / >=80,5,Established,PASS
+2526,brighton,38,aerial_orientation,28.86842105263158,31.589473684210525,30.0,Balanced Aerial Volume,<=20 / >=80,5,Established,PASS
+2526,burnley,38,territorial_activity,20.56914841759483,23.456619269146366,15.0,Deep Attacking Activity,<=20 / >=80,5,Established,PASS
+2526,burnley,38,width,79.662091123188,76.72764962515251,95.0,Wide Attacking Activity,<=20 / >=80,5,Established,PASS
+2526,burnley,38,crossing_tendency,13.763157894736842,18.06184210526316,14.0,Cross Light,<=20 / >=80,5,Established,PASS
+2526,burnley,38,central_creation,58.463719081295174,62.15894598785305,10.0,Wide Creation,<=20 / >=80,5,Established,PASS
+2526,burnley,38,dribbling_tendency,14.710526315789474,17.777631578947368,31.5,Balanced 1v1 Activity,<=20 / >=80,5,Established,PASS
+2526,burnley,38,box_penetration,7.394736842105263,10.326315789473684,5.0,Low Box Penetration,<=20 / >=80,5,Established,PASS
+2526,burnley,38,chance_creation,6.921052631578948,9.121052631578946,8.0,Low Chance Creation,<=20 / >=80,5,Established,PASS
+2526,burnley,38,defensive_activity_height,30.69380646306109,32.59568293468708,13.5,Deep Defensive Activity,<=20 / >=80,5,Established,PASS
+2526,burnley,38,defensive_disruption,9.605263157894736,9.892105263157896,54.900000000000006,Typical Defensive Disruption,<=20 / >=80,5,Established,PASS
+2526,burnley,38,aerial_orientation,32.26315789473684,31.589473684210525,70.0,Balanced Aerial Volume,<=20 / >=80,5,Established,PASS
+2526,chelsea,38,territorial_activity,22.83432341355812,23.456619269146366,62.5,Balanced Territorial Activity,<=20 / >=80,5,Established,PASS
+2526,chelsea,38,width,75.04283404303405,76.72764962515251,20.0,Central Attacking Activity,<=20 / >=80,5,Established,PASS
+2526,chelsea,38,crossing_tendency,17.894736842105264,18.06184210526316,42.5,Balanced Crossing,<=20 / >=80,5,Established,PASS
+2526,chelsea,38,central_creation,62.65636751402735,62.15894598785305,60.0,Balanced Creation,<=20 / >=80,5,Established,PASS
+2526,chelsea,38,dribbling_tendency,18.86842105263158,17.777631578947368,69.5,Balanced 1v1 Activity,<=20 / >=80,5,Established,PASS
+2526,chelsea,38,box_penetration,10.105263157894736,10.326315789473684,41.0,Moderate Box Penetration,<=20 / >=80,5,Established,PASS
+2526,chelsea,38,chance_creation,10.0,9.121052631578946,84.0,High Chance Creation,<=20 / >=80,5,Established,PASS
+2526,chelsea,38,defensive_activity_height,34.15464935627998,32.59568293468708,83.5,Advanced Defensive Activity,<=20 / >=80,5,Established,PASS
+2526,chelsea,38,defensive_disruption,8.894736842105264,9.892105263157896,56.35,Typical Defensive Disruption,<=20 / >=80,5,Established,PASS
+2526,chelsea,38,aerial_orientation,25.42105263157895,31.589473684210525,15.0,Aerial Light,<=20 / >=80,5,Established,PASS
+2526,crystal_palace,38,territorial_activity,21.440953600642576,23.456619269146366,17.5,Deep Attacking Activity,<=20 / >=80,5,Established,PASS
+2526,crystal_palace,38,width,70.79749664328324,76.72764962515251,5.0,Central Attacking Activity,<=20 / >=80,5,Established,PASS
+2526,crystal_palace,38,crossing_tendency,16.026315789473685,18.06184210526316,28.5,Balanced Crossing,<=20 / >=80,5,Established,PASS
+2526,crystal_palace,38,central_creation,67.16523142407176,62.15894598785305,100.0,Central Creation,<=20 / >=80,5,Established,PASS
+2526,crystal_palace,38,dribbling_tendency,11.657894736842104,17.777631578947368,6.5,Dribble Light,<=20 / >=80,5,Established,PASS
+2526,crystal_palace,38,box_penetration,10.552631578947368,10.326315789473684,66.0,Moderate Box Penetration,<=20 / >=80,5,Established,PASS
+2526,crystal_palace,38,chance_creation,7.842105263157895,9.121052631578946,44.0,Typical Chance Creation,<=20 / >=80,5,Established,PASS
+2526,crystal_palace,38,defensive_activity_height,31.169555062856094,32.59568293468708,28.5,Mid Defensive Activity,<=20 / >=80,5,Established,PASS
+2526,crystal_palace,38,defensive_disruption,10.894736842105264,9.892105263157896,63.60000000000001,Typical Defensive Disruption,<=20 / >=80,5,Established,PASS
+2526,crystal_palace,38,aerial_orientation,39.39473684210526,31.589473684210525,95.0,Aerial Heavy,<=20 / >=80,5,Established,PASS
+2526,everton,38,territorial_activity,25.63473386352028,23.456619269146366,65.0,Balanced Territorial Activity,<=20 / >=80,5,Established,PASS
+2526,everton,38,width,77.48057943678695,76.72764962515251,65.0,Balanced Attacking Width,<=20 / >=80,5,Established,PASS
+2526,everton,38,crossing_tendency,17.763157894736842,18.06184210526316,40.0,Balanced Crossing,<=20 / >=80,5,Established,PASS
+2526,everton,38,central_creation,60.1040367109373,62.15894598785305,30.0,Balanced Creation,<=20 / >=80,5,Established,PASS
+2526,everton,38,dribbling_tendency,17.526315789473685,17.777631578947368,50.0,Balanced 1v1 Activity,<=20 / >=80,5,Established,PASS
+2526,everton,38,box_penetration,9.789473684210526,10.326315789473684,56.0,Moderate Box Penetration,<=20 / >=80,5,Established,PASS
+2526,everton,38,chance_creation,8.236842105263158,9.121052631578946,40.0,Typical Chance Creation,<=20 / >=80,5,Established,PASS
+2526,everton,38,defensive_activity_height,32.461428694282304,32.59568293468708,56.0,Mid Defensive Activity,<=20 / >=80,5,Established,PASS
+2526,everton,38,defensive_disruption,10.605263157894736,9.892105263157896,58.5,Typical Defensive Disruption,<=20 / >=80,5,Established,PASS
+2526,everton,38,aerial_orientation,39.73684210526316,31.589473684210525,100.0,Aerial Heavy,<=20 / >=80,5,Established,PASS
+2526,fulham,38,territorial_activity,21.444170012252044,23.456619269146366,42.5,Balanced Territorial Activity,<=20 / >=80,5,Established,PASS
+2526,fulham,38,width,78.14778826024938,76.72764962515251,80.0,Wide Attacking Activity,<=20 / >=80,5,Established,PASS
+2526,fulham,38,crossing_tendency,18.210526315789473,18.06184210526316,62.0,Balanced Crossing,<=20 / >=80,5,Established,PASS
+2526,fulham,38,central_creation,61.750952198137924,62.15894598785305,55.0,Balanced Creation,<=20 / >=80,5,Established,PASS
+2526,fulham,38,dribbling_tendency,15.0,17.777631578947368,21.5,Balanced 1v1 Activity,<=20 / >=80,5,Established,PASS
+2526,fulham,38,box_penetration,11.131578947368421,10.326315789473684,54.0,Moderate Box Penetration,<=20 / >=80,5,Established,PASS
+2526,fulham,38,chance_creation,9.236842105263158,9.121052631578946,45.0,Typical Chance Creation,<=20 / >=80,5,Established,PASS
+2526,fulham,38,defensive_activity_height,30.99934615634759,32.59568293468708,19.0,Deep Defensive Activity,<=20 / >=80,5,Established,PASS
+2526,fulham,38,defensive_disruption,10.236842105263158,9.892105263157896,58.400000000000006,Typical Defensive Disruption,<=20 / >=80,5,Established,PASS
+2526,fulham,38,aerial_orientation,28.236842105263158,31.589473684210525,25.0,Balanced Aerial Volume,<=20 / >=80,5,Established,PASS
+2526,leeds_united,38,territorial_activity,21.837936075759565,23.456619269146366,30.0,Balanced Territorial Activity,<=20 / >=80,5,Established,PASS
+2526,leeds_united,38,width,74.7909602871474,76.72764962515251,15.0,Central Attacking Activity,<=20 / >=80,5,Established,PASS
+2526,leeds_united,38,crossing_tendency,17.973684210526315,18.06184210526316,69.0,Balanced Crossing,<=20 / >=80,5,Established,PASS
+2526,leeds_united,38,central_creation,66.90558879721151,62.15894598785305,95.0,Central Creation,<=20 / >=80,5,Established,PASS
+2526,leeds_united,38,dribbling_tendency,16.0,17.777631578947368,45.0,Balanced 1v1 Activity,<=20 / >=80,5,Established,PASS
+2526,leeds_united,38,box_penetration,9.421052631578947,10.326315789473684,44.0,Moderate Box Penetration,<=20 / >=80,5,Established,PASS
+2526,leeds_united,38,chance_creation,8.552631578947368,9.121052631578946,49.0,Typical Chance Creation,<=20 / >=80,5,Established,PASS
+2526,leeds_united,38,defensive_activity_height,32.92718615487902,32.59568293468708,68.5,Mid Defensive Activity,<=20 / >=80,5,Established,PASS
+2526,leeds_united,38,defensive_disruption,10.210526315789474,9.892105263157896,51.75000000000001,Typical Defensive Disruption,<=20 / >=80,5,Established,PASS
+2526,leeds_united,38,aerial_orientation,38.89473684210526,31.589473684210525,90.0,Aerial Heavy,<=20 / >=80,5,Established,PASS
+2526,liverpool,38,territorial_activity,27.57695171231645,23.456619269146366,95.0,Advanced Attacking Activity,<=20 / >=80,5,Established,PASS
+2526,liverpool,38,width,76.56156024772588,76.72764962515251,40.0,Balanced Attacking Width,<=20 / >=80,5,Established,PASS
+2526,liverpool,38,crossing_tendency,20.13157894736842,18.06184210526316,62.49999999999999,Balanced Crossing,<=20 / >=80,5,Established,PASS
+2526,liverpool,38,central_creation,60.34014057824975,62.15894598785305,35.0,Balanced Creation,<=20 / >=80,5,Established,PASS
+2526,liverpool,38,dribbling_tendency,19.210526315789473,17.777631578947368,60.99999999999999,Balanced 1v1 Activity,<=20 / >=80,5,Established,PASS
+2526,liverpool,38,box_penetration,13.157894736842104,10.326315789473684,98.0,High Box Penetration,<=20 / >=80,5,Established,PASS
+2526,liverpool,38,chance_creation,12.105263157894736,9.121052631578946,92.0,High Chance Creation,<=20 / >=80,5,Established,PASS
+2526,liverpool,38,defensive_activity_height,33.56386720664946,32.59568293468708,81.5,Advanced Defensive Activity,<=20 / >=80,5,Established,PASS
+2526,liverpool,38,defensive_disruption,7.973684210526316,9.892105263157896,13.25,Low Defensive Disruption,<=20 / >=80,5,Established,PASS
+2526,liverpool,38,aerial_orientation,27.763157894736842,31.589473684210525,20.0,Aerial Light,<=20 / >=80,5,Established,PASS
+2526,manchester_city,38,territorial_activity,28.045552195977166,23.456619269146366,95.0,Advanced Attacking Activity,<=20 / >=80,5,Established,PASS
+2526,manchester_city,38,width,77.02042763929019,76.72764962515251,45.0,Balanced Attacking Width,<=20 / >=80,5,Established,PASS
+2526,manchester_city,38,crossing_tendency,16.289473684210527,18.06184210526316,19.0,Cross Light,<=20 / >=80,5,Established,PASS
+2526,manchester_city,38,central_creation,65.06053374019187,62.15894598785305,85.0,Central Creation,<=20 / >=80,5,Established,PASS
+2526,manchester_city,38,dribbling_tendency,25.789473684210527,17.777631578947368,80.5,Dribble Heavy,<=20 / >=80,5,Established,PASS
+2526,manchester_city,38,box_penetration,12.289473684210526,10.326315789473684,93.0,High Box Penetration,<=20 / >=80,5,Established,PASS
+2526,manchester_city,38,chance_creation,11.973684210526315,9.121052631578946,97.0,High Chance Creation,<=20 / >=80,5,Established,PASS
+2526,manchester_city,38,defensive_activity_height,35.98526103555142,32.59568293468708,93.5,Advanced Defensive Activity,<=20 / >=80,5,Established,PASS
+2526,manchester_city,38,defensive_disruption,8.789473684210526,9.892105263157896,39.75,Typical Defensive Disruption,<=20 / >=80,5,Established,PASS
+2526,manchester_city,38,aerial_orientation,22.263157894736842,31.589473684210525,5.0,Aerial Light,<=20 / >=80,5,Established,PASS
+2526,manchester_united,38,territorial_activity,23.658425691258895,23.456619269146366,72.5,Balanced Territorial Activity,<=20 / >=80,5,Established,PASS
+2526,manchester_united,38,width,74.31579468004537,76.72764962515251,10.0,Central Attacking Activity,<=20 / >=80,5,Established,PASS
+2526,manchester_united,38,crossing_tendency,16.842105263157894,18.06184210526316,30.5,Balanced Crossing,<=20 / >=80,5,Established,PASS
+2526,manchester_united,38,central_creation,61.219366175157276,62.15894598785305,50.0,Balanced Creation,<=20 / >=80,5,Established,PASS
+2526,manchester_united,38,dribbling_tendency,15.789473684210526,17.777631578947368,23.5,Balanced 1v1 Activity,<=20 / >=80,5,Established,PASS
+2526,manchester_united,38,box_penetration,11.605263157894736,10.326315789473684,67.0,Moderate Box Penetration,<=20 / >=80,5,Established,PASS
+2526,manchester_united,38,chance_creation,11.894736842105264,9.121052631578946,88.0,High Chance Creation,<=20 / >=80,5,Established,PASS
+2526,manchester_united,38,defensive_activity_height,32.57786939827613,32.59568293468708,52.0,Mid Defensive Activity,<=20 / >=80,5,Established,PASS
+2526,manchester_united,38,defensive_disruption,10.789473684210526,9.892105263157896,75.05000000000001,Typical Defensive Disruption,<=20 / >=80,5,Established,PASS
+2526,manchester_united,38,aerial_orientation,32.0,31.589473684210525,55.0,Balanced Aerial Volume,<=20 / >=80,5,Established,PASS
+2526,newcastle_united,38,territorial_activity,24.962151256882304,23.456619269146366,82.5,Advanced Attacking Activity,<=20 / >=80,5,Established,PASS
+2526,newcastle_united,38,width,77.34573979897526,76.72764962515251,60.0,Balanced Attacking Width,<=20 / >=80,5,Established,PASS
+2526,newcastle_united,38,crossing_tendency,23.157894736842106,18.06184210526316,92.5,Cross Heavy,<=20 / >=80,5,Established,PASS
+2526,newcastle_united,38,central_creation,63.63879020334681,62.15894598785305,70.0,Balanced Creation,<=20 / >=80,5,Established,PASS
+2526,newcastle_united,38,dribbling_tendency,17.86842105263158,17.777631578947368,47.5,Balanced 1v1 Activity,<=20 / >=80,5,Established,PASS
+2526,newcastle_united,38,box_penetration,11.368421052631579,10.326315789473684,76.0,Moderate Box Penetration,<=20 / >=80,5,Established,PASS
+2526,newcastle_united,38,chance_creation,9.289473684210526,9.121052631578946,60.0,Typical Chance Creation,<=20 / >=80,5,Established,PASS
+2526,newcastle_united,38,defensive_activity_height,33.381819918785645,32.59568293468708,69.0,Mid Defensive Activity,<=20 / >=80,5,Established,PASS
+2526,newcastle_united,38,defensive_disruption,9.289473684210526,9.892105263157896,39.95,Typical Defensive Disruption,<=20 / >=80,5,Established,PASS
+2526,newcastle_united,38,aerial_orientation,32.10526315789474,31.589473684210525,65.0,Balanced Aerial Volume,<=20 / >=80,5,Established,PASS
+2526,nottingham_forest,38,territorial_activity,24.123628949524488,23.456619269146366,62.5,Balanced Territorial Activity,<=20 / >=80,5,Established,PASS
+2526,nottingham_forest,38,width,79.61287325525329,76.72764962515251,90.0,Wide Attacking Activity,<=20 / >=80,5,Established,PASS
+2526,nottingham_forest,38,crossing_tendency,21.81578947368421,18.06184210526316,90.5,Cross Heavy,<=20 / >=80,5,Established,PASS
+2526,nottingham_forest,38,central_creation,57.59769085928043,62.15894598785305,5.0,Wide Creation,<=20 / >=80,5,Established,PASS
+2526,nottingham_forest,38,dribbling_tendency,18.526315789473685,17.777631578947368,68.5,Balanced 1v1 Activity,<=20 / >=80,5,Established,PASS
+2526,nottingham_forest,38,box_penetration,9.736842105263158,10.326315789473684,27.0,Moderate Box Penetration,<=20 / >=80,5,Established,PASS
+2526,nottingham_forest,38,chance_creation,9.105263157894736,9.121052631578946,40.0,Typical Chance Creation,<=20 / >=80,5,Established,PASS
+2526,nottingham_forest,38,defensive_activity_height,31.477799600727646,32.59568293468708,39.5,Mid Defensive Activity,<=20 / >=80,5,Established,PASS
+2526,nottingham_forest,38,defensive_disruption,10.131578947368421,9.892105263157896,58.300000000000004,Typical Defensive Disruption,<=20 / >=80,5,Established,PASS
+2526,nottingham_forest,38,aerial_orientation,29.710526315789473,31.589473684210525,35.0,Balanced Aerial Volume,<=20 / >=80,5,Established,PASS
+2526,sunderland,38,territorial_activity,22.141095314633855,23.456619269146366,40.0,Balanced Territorial Activity,<=20 / >=80,5,Established,PASS
+2526,sunderland,38,width,77.13405239536095,76.72764962515251,50.0,Balanced Attacking Width,<=20 / >=80,5,Established,PASS
+2526,sunderland,38,crossing_tendency,16.105263157894736,18.06184210526316,33.5,Balanced Crossing,<=20 / >=80,5,Established,PASS
+2526,sunderland,38,central_creation,60.51929224365879,62.15894598785305,45.0,Balanced Creation,<=20 / >=80,5,Established,PASS
+2526,sunderland,38,dribbling_tendency,14.68421052631579,17.777631578947368,23.5,Balanced 1v1 Activity,<=20 / >=80,5,Established,PASS
+2526,sunderland,38,box_penetration,9.342105263157896,10.326315789473684,29.0,Moderate Box Penetration,<=20 / >=80,5,Established,PASS
+2526,sunderland,38,chance_creation,7.131578947368421,9.121052631578946,15.0,Low Chance Creation,<=20 / >=80,5,Established,PASS
+2526,sunderland,38,defensive_activity_height,30.78944131029532,32.59568293468708,23.0,Mid Defensive Activity,<=20 / >=80,5,Established,PASS
+2526,sunderland,38,defensive_disruption,9.342105263157896,9.892105263157896,25.150000000000002,Typical Defensive Disruption,<=20 / >=80,5,Established,PASS
+2526,sunderland,38,aerial_orientation,34.55263157894737,31.589473684210525,75.0,Balanced Aerial Volume,<=20 / >=80,5,Established,PASS
+2526,tottenham_hotspur,38,territorial_activity,22.646656117523804,23.456619269146366,40.0,Balanced Territorial Activity,<=20 / >=80,5,Established,PASS
+2526,tottenham_hotspur,38,width,78.48240411702771,76.72764962515251,85.0,Wide Attacking Activity,<=20 / >=80,5,Established,PASS
+2526,tottenham_hotspur,38,crossing_tendency,20.342105263157894,18.06184210526316,88.5,Cross Heavy,<=20 / >=80,5,Established,PASS
+2526,tottenham_hotspur,38,central_creation,60.4322167198218,62.15894598785305,40.0,Balanced Creation,<=20 / >=80,5,Established,PASS
+2526,tottenham_hotspur,38,dribbling_tendency,23.342105263157894,17.777631578947368,96.5,Dribble Heavy,<=20 / >=80,5,Established,PASS
+2526,tottenham_hotspur,38,box_penetration,9.236842105263158,10.326315789473684,29.0,Moderate Box Penetration,<=20 / >=80,5,Established,PASS
+2526,tottenham_hotspur,38,chance_creation,8.236842105263158,9.121052631578946,32.0,Typical Chance Creation,<=20 / >=80,5,Established,PASS
+2526,tottenham_hotspur,38,defensive_activity_height,32.80096145176862,32.59568293468708,57.5,Mid Defensive Activity,<=20 / >=80,5,Established,PASS
+2526,tottenham_hotspur,38,defensive_disruption,11.973684210526315,9.892105263157896,80.2,High Defensive Disruption,<=20 / >=80,5,Established,PASS
+2526,tottenham_hotspur,38,aerial_orientation,32.05263157894737,31.589473684210525,60.0,Balanced Aerial Volume,<=20 / >=80,5,Established,PASS
+2526,west_ham,38,territorial_activity,21.224473203306076,23.456619269146366,10.0,Deep Attacking Activity,<=20 / >=80,5,Established,PASS
+2526,west_ham,38,width,79.71108260819858,76.72764962515251,100.0,Wide Attacking Activity,<=20 / >=80,5,Established,PASS
+2526,west_ham,38,crossing_tendency,16.789473684210527,18.06184210526316,42.0,Balanced Crossing,<=20 / >=80,5,Established,PASS
+2526,west_ham,38,central_creation,59.919838505887306,62.15894598785305,25.0,Balanced Creation,<=20 / >=80,5,Established,PASS
+2526,west_ham,38,dribbling_tendency,17.157894736842106,17.777631578947368,53.5,Balanced 1v1 Activity,<=20 / >=80,5,Established,PASS
+2526,west_ham,38,box_penetration,8.026315789473685,10.326315789473684,16.0,Low Box Penetration,<=20 / >=80,5,Established,PASS
+2526,west_ham,38,chance_creation,7.7368421052631575,9.121052631578946,29.0,Typical Chance Creation,<=20 / >=80,5,Established,PASS
+2526,west_ham,38,defensive_activity_height,30.391305625730663,32.59568293468708,13.0,Deep Defensive Activity,<=20 / >=80,5,Established,PASS
+2526,west_ham,38,defensive_disruption,10.605263157894736,9.892105263157896,65.10000000000001,Typical Defensive Disruption,<=20 / >=80,5,Established,PASS
+2526,west_ham,38,aerial_orientation,30.526315789473685,31.589473684210525,45.0,Balanced Aerial Volume,<=20 / >=80,5,Established,PASS
+2526,wolverhampton_wanderers,38,territorial_activity,20.189757123899128,23.456619269146366,7.5,Deep Attacking Activity,<=20 / >=80,5,Established,PASS
+2526,wolverhampton_wanderers,38,width,77.26387926493852,76.72764962515251,55.0,Balanced Attacking Width,<=20 / >=80,5,Established,PASS
+2526,wolverhampton_wanderers,38,crossing_tendency,18.36842105263158,18.06184210526316,79.0,Balanced Crossing,<=20 / >=80,5,Established,PASS
+2526,wolverhampton_wanderers,38,central_creation,59.84040040587036,62.15894598785305,20.0,Wide Creation,<=20 / >=80,5,Established,PASS
+2526,wolverhampton_wanderers,38,dribbling_tendency,16.973684210526315,17.777631578947368,53.0,Balanced 1v1 Activity,<=20 / >=80,5,Established,PASS
+2526,wolverhampton_wanderers,38,box_penetration,9.263157894736842,10.326315789473684,16.0,Low Box Penetration,<=20 / >=80,5,Established,PASS
+2526,wolverhampton_wanderers,38,chance_creation,6.894736842105263,9.121052631578946,7.0,Low Chance Creation,<=20 / >=80,5,Established,PASS
+2526,wolverhampton_wanderers,38,defensive_activity_height,30.251991304981217,32.59568293468708,8.0,Deep Defensive Activity,<=20 / >=80,5,Established,PASS
+2526,wolverhampton_wanderers,38,defensive_disruption,11.18421052631579,9.892105263157896,68.60000000000001,Typical Defensive Disruption,<=20 / >=80,5,Established,PASS
+2526,wolverhampton_wanderers,38,aerial_orientation,31.263157894736842,31.589473684210525,50.0,Balanced Aerial Volume,<=20 / >=80,5,Established,PASS
+2627,afc_bournemouth,1,territorial_activity,12.195121951219512,22.97559478644464,10.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,afc_bournemouth,1,width,78.84615384615384,76.39020469423596,75.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,afc_bournemouth,1,crossing_tendency,8.0,16.55,35.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,afc_bournemouth,1,central_creation,44.44444444444444,61.25063053524151,10.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,afc_bournemouth,1,dribbling_tendency,9.0,16.65,35.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,afc_bournemouth,1,box_penetration,2.0,9.75,10.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,afc_bournemouth,1,chance_creation,4.0,10.2,16.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,afc_bournemouth,1,defensive_activity_height,29.572277227722772,33.5257066615538,25.5,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,afc_bournemouth,1,defensive_disruption,8.0,9.75,58.150000000000006,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,afc_bournemouth,1,aerial_orientation,26.0,30.8,40.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,arsenal,1,territorial_activity,30.14460511679644,22.97559478644464,80.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,arsenal,1,width,76.78571428571429,76.39020469423596,65.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,arsenal,1,crossing_tendency,19.0,16.55,52.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,arsenal,1,central_creation,55.55555555555556,61.25063053524151,35.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,arsenal,1,dribbling_tendency,9.0,16.65,15.5,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,arsenal,1,box_penetration,15.0,9.75,79.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,arsenal,1,chance_creation,17.0,10.2,82.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,arsenal,1,defensive_activity_height,35.87142857142857,33.5257066615538,69.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,arsenal,1,defensive_disruption,6.0,9.75,29.900000000000002,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,arsenal,1,aerial_orientation,28.0,30.8,60.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,aston_villa,1,territorial_activity,15.0390625,22.97559478644464,10.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,aston_villa,1,width,80.3921568627451,76.39020469423596,80.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,aston_villa,1,crossing_tendency,4.0,16.55,5.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,aston_villa,1,central_creation,66.66666666666667,61.25063053524151,75.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,aston_villa,1,dribbling_tendency,17.0,16.65,68.5,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,aston_villa,1,box_penetration,2.0,9.75,12.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,aston_villa,1,chance_creation,5.0,10.2,17.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,aston_villa,1,defensive_activity_height,26.17702702702703,33.5257066615538,22.5,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,aston_villa,1,defensive_disruption,10.0,9.75,40.2,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,aston_villa,1,aerial_orientation,23.0,30.8,20.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,brentford,1,territorial_activity,28.176795580110497,22.97559478644464,57.5,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,brentford,1,width,73.13432835820896,76.39020469423596,35.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,brentford,1,crossing_tendency,21.0,16.55,78.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,brentford,1,central_creation,52.27272727272727,61.25063053524151,30.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,brentford,1,dribbling_tendency,20.0,16.65,67.5,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,brentford,1,box_penetration,19.0,9.75,97.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,brentford,1,chance_creation,19.0,10.2,100.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,brentford,1,defensive_activity_height,36.18070175438597,33.5257066615538,67.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,brentford,1,defensive_disruption,10.0,9.75,86.4,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,brentford,1,aerial_orientation,36.0,30.8,80.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,brighton_hove_albion,1,territorial_activity,30.89171974522293,22.97559478644464,95.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,brighton_hove_albion,1,width,73.02325581395348,76.39020469423596,30.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,brighton_hove_albion,1,crossing_tendency,23.0,16.55,74.5,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,brighton_hove_albion,1,central_creation,72.22222222222223,61.25063053524151,90.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,brighton_hove_albion,1,dribbling_tendency,11.0,16.65,24.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,brighton_hove_albion,1,box_penetration,13.0,9.75,69.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,brighton_hove_albion,1,chance_creation,15.0,10.2,86.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,brighton_hove_albion,1,defensive_activity_height,45.31609195402299,33.5257066615538,100.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,brighton_hove_albion,1,defensive_disruption,13.0,9.75,60.2,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,brighton_hove_albion,1,aerial_orientation,23.0,30.8,20.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,chelsea,1,territorial_activity,21.57676348547718,22.97559478644464,42.5,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,chelsea,1,width,71.81818181818181,76.39020469423596,20.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,chelsea,1,crossing_tendency,11.0,16.55,33.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,chelsea,1,central_creation,66.66666666666667,61.25063053524151,75.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,chelsea,1,dribbling_tendency,20.0,16.65,75.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,chelsea,1,box_penetration,11.0,9.75,70.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,chelsea,1,chance_creation,16.0,10.2,85.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,chelsea,1,defensive_activity_height,36.41651376146789,33.5257066615538,73.5,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,chelsea,1,defensive_disruption,14.0,9.75,70.15,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,chelsea,1,aerial_orientation,22.0,30.8,10.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,coventry_city,1,territorial_activity,22.818791946308725,22.97559478644464,55.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,coventry_city,1,width,90.0,76.39020469423596,100.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,coventry_city,1,crossing_tendency,10.0,16.55,29.5,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,coventry_city,1,central_creation,83.33333333333333,61.25063053524151,100.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,coventry_city,1,dribbling_tendency,10.0,16.65,26.5,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,coventry_city,1,box_penetration,3.0,9.75,11.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,coventry_city,1,chance_creation,3.0,10.2,9.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,coventry_city,1,defensive_activity_height,24.63058823529412,33.5257066615538,17.5,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,coventry_city,1,defensive_disruption,2.0,9.75,34.7,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,coventry_city,1,aerial_orientation,28.0,30.8,60.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,crystal_palace,1,territorial_activity,21.281216069489684,22.97559478644464,52.5,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,crystal_palace,1,width,70.50359712230215,76.39020469423596,10.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,crystal_palace,1,crossing_tendency,12.0,16.55,30.5,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,crystal_palace,1,central_creation,65.0,61.25063053524151,55.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,crystal_palace,1,dribbling_tendency,9.0,16.65,20.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,crystal_palace,1,box_penetration,7.0,9.75,38.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,crystal_palace,1,chance_creation,10.0,10.2,69.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,crystal_palace,1,defensive_activity_height,35.312903225806444,33.5257066615538,62.5,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,crystal_palace,1,defensive_disruption,16.0,9.75,86.8,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,crystal_palace,1,aerial_orientation,30.0,30.8,70.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,everton,1,territorial_activity,28.03129074315515,22.97559478644464,62.5,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,everton,1,width,77.07006369426752,76.39020469423596,70.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,everton,1,crossing_tendency,14.0,16.55,39.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,everton,1,central_creation,44.44444444444444,61.25063053524151,10.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,everton,1,dribbling_tendency,25.0,16.65,84.5,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,everton,1,box_penetration,14.0,9.75,84.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,everton,1,chance_creation,13.0,10.2,60.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,everton,1,defensive_activity_height,36.02689075630252,33.5257066615538,65.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,everton,1,defensive_disruption,10.0,9.75,69.9,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,everton,1,aerial_orientation,30.0,30.8,70.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,fulham,1,territorial_activity,22.756410256410252,22.97559478644464,65.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,fulham,1,width,82.94117647058823,76.39020469423596,90.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,fulham,1,crossing_tendency,17.0,16.55,54.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,fulham,1,central_creation,66.66666666666667,61.25063053524151,75.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,fulham,1,dribbling_tendency,23.0,16.65,76.5,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,fulham,1,box_penetration,7.0,9.75,48.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,fulham,1,chance_creation,10.0,10.2,55.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,fulham,1,defensive_activity_height,32.84252873563219,33.5257066615538,45.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,fulham,1,defensive_disruption,15.0,9.75,71.9,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,fulham,1,aerial_orientation,22.0,30.8,10.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,hull_city,1,territorial_activity,14.334470989761092,22.97559478644464,17.5,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,hull_city,1,width,76.27118644067797,76.39020469423596,60.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,hull_city,1,crossing_tendency,15.0,16.55,68.5,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,hull_city,1,central_creation,50.0,61.25063053524151,25.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,hull_city,1,dribbling_tendency,9.0,16.65,30.5,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,hull_city,1,box_penetration,6.0,9.75,36.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,hull_city,1,chance_creation,5.0,10.2,35.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,hull_city,1,defensive_activity_height,22.02327586206896,33.5257066615538,5.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,hull_city,1,defensive_disruption,11.0,9.75,35.3,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,hull_city,1,aerial_orientation,38.0,30.8,90.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,ipswich_town,1,territorial_activity,17.894736842105264,22.97559478644464,30.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,ipswich_town,1,width,72.09302325581395,76.39020469423596,25.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,ipswich_town,1,crossing_tendency,15.0,16.55,67.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,ipswich_town,1,central_creation,72.22222222222223,61.25063053524151,90.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,ipswich_town,1,dribbling_tendency,21.0,16.65,84.5,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,ipswich_town,1,box_penetration,6.0,9.75,46.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,ipswich_town,1,chance_creation,9.0,10.2,52.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,ipswich_town,1,defensive_activity_height,29.645132743362836,33.5257066615538,32.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,ipswich_town,1,defensive_disruption,15.0,9.75,80.15,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,ipswich_town,1,aerial_orientation,27.0,30.8,50.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,leeds_united,1,territorial_activity,20.09273570324575,22.97559478644464,25.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,leeds_united,1,width,75.0,76.39020469423596,45.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,leeds_united,1,crossing_tendency,8.0,16.55,30.5,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,leeds_united,1,central_creation,46.666666666666664,61.25063053524151,15.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,leeds_united,1,dribbling_tendency,12.0,16.65,44.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,leeds_united,1,box_penetration,6.0,9.75,44.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,leeds_united,1,chance_creation,5.0,10.2,19.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,leeds_united,1,defensive_activity_height,37.15277777777778,33.5257066615538,82.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,leeds_united,1,defensive_disruption,12.0,9.75,66.75000000000001,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,leeds_united,1,aerial_orientation,54.0,30.8,100.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,liverpool,1,territorial_activity,29.70550576184379,22.97559478644464,87.5,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,liverpool,1,width,69.14285714285714,76.39020469423596,5.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,liverpool,1,crossing_tendency,27.0,16.55,89.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,liverpool,1,central_creation,60.526315789473685,61.25063053524151,45.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,liverpool,1,dribbling_tendency,19.0,16.65,56.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,liverpool,1,box_penetration,12.0,9.75,77.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,liverpool,1,chance_creation,14.0,10.2,81.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,liverpool,1,defensive_activity_height,38.88068181818182,33.5257066615538,79.5,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,liverpool,1,defensive_disruption,9.0,9.75,56.550000000000004,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,liverpool,1,aerial_orientation,24.0,30.8,30.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,manchester_city,1,territorial_activity,27.157894736842103,22.97559478644464,77.5,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,manchester_city,1,width,71.56862745098039,76.39020469423596,15.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,manchester_city,1,crossing_tendency,24.0,16.55,81.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,manchester_city,1,central_creation,65.21739130434783,61.25063053524151,60.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,manchester_city,1,dribbling_tendency,17.0,16.65,46.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,manchester_city,1,box_penetration,18.0,9.75,84.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,manchester_city,1,chance_creation,10.0,10.2,71.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,manchester_city,1,defensive_activity_height,43.897619047619045,33.5257066615538,95.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,manchester_city,1,defensive_disruption,8.0,9.75,61.45,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,manchester_city,1,aerial_orientation,26.0,30.8,40.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,manchester_united,1,territorial_activity,35.121457489878544,22.97559478644464,100.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,manchester_united,1,width,75.68493150684931,76.39020469423596,50.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,manchester_united,1,crossing_tendency,39.0,16.55,89.5,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,manchester_united,1,central_creation,47.36842105263158,61.25063053524151,20.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,manchester_united,1,dribbling_tendency,17.0,16.65,43.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,manchester_united,1,box_penetration,20.0,9.75,92.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,manchester_united,1,chance_creation,19.0,10.2,86.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,manchester_united,1,defensive_activity_height,32.366197183098585,33.5257066615538,34.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,manchester_united,1,defensive_disruption,4.0,9.75,33.1,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,manchester_united,1,aerial_orientation,38.0,30.8,90.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,newcastle_united,1,territorial_activity,16.323296354992078,22.97559478644464,15.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,newcastle_united,1,width,76.0,76.39020469423596,55.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,newcastle_united,1,crossing_tendency,8.0,16.55,27.5,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,newcastle_united,1,central_creation,62.5,61.25063053524151,50.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,newcastle_united,1,dribbling_tendency,15.0,16.65,55.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,newcastle_united,1,box_penetration,6.0,9.75,38.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,newcastle_united,1,chance_creation,6.0,10.2,45.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,newcastle_united,1,defensive_activity_height,27.689719626168227,33.5257066615538,17.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,newcastle_united,1,defensive_disruption,8.0,9.75,28.450000000000003,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,newcastle_united,1,aerial_orientation,24.0,30.8,30.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,nottingham_forest,1,territorial_activity,20.59585492227979,22.97559478644464,45.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,nottingham_forest,1,width,81.25,76.39020469423596,85.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,nottingham_forest,1,crossing_tendency,19.0,16.55,76.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,nottingham_forest,1,central_creation,68.42105263157895,61.25063053524151,80.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,nottingham_forest,1,dribbling_tendency,22.0,16.65,85.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,nottingham_forest,1,box_penetration,13.0,9.75,71.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,nottingham_forest,1,chance_creation,9.0,10.2,38.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,nottingham_forest,1,defensive_activity_height,28.916091954022992,33.5257066615538,26.5,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,nottingham_forest,1,defensive_disruption,5.0,9.75,23.25,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,nottingham_forest,1,aerial_orientation,54.0,30.8,100.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,sunderland,1,territorial_activity,21.71945701357466,22.97559478644464,57.5,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,sunderland,1,width,83.10810810810811,76.39020469423596,95.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,sunderland,1,crossing_tendency,23.0,16.55,83.5,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,sunderland,1,central_creation,57.89473684210526,61.25063053524151,40.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,sunderland,1,dribbling_tendency,18.0,16.65,54.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,sunderland,1,box_penetration,5.0,9.75,28.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,sunderland,1,chance_creation,9.0,10.2,44.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,sunderland,1,defensive_activity_height,35.0698795180723,33.5257066615538,50.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,sunderland,1,defensive_disruption,7.0,9.75,53.05,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,sunderland,1,aerial_orientation,27.0,30.8,50.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,tottenham_hotspur,1,territorial_activity,23.654708520179373,22.97559478644464,72.5,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,tottenham_hotspur,1,width,73.17073170731707,76.39020469423596,40.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,tottenham_hotspur,1,crossing_tendency,14.0,16.55,36.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,tottenham_hotspur,1,central_creation,76.92307692307692,61.25063053524151,95.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,tottenham_hotspur,1,dribbling_tendency,30.0,16.65,94.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,tottenham_hotspur,1,box_penetration,10.0,9.75,43.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,tottenham_hotspur,1,chance_creation,6.0,10.2,33.0,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,tottenham_hotspur,1,defensive_activity_height,36.5258064516129,33.5257066615538,81.5,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,tottenham_hotspur,1,defensive_disruption,12.0,9.75,50.25,Observation only,<=20 / >=80,5,Very Early,PASS
+2627,tottenham_hotspur,1,aerial_orientation,36.0,30.8,80.0,Observation only,<=20 / >=80,5,Very Early,PASS

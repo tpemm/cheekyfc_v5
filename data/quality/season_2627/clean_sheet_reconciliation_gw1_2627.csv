@@ -1,0 +1,321 @@
+fantrax_player_id,player_name,fantrax_position,minutes,club_id,team_goals_against,weekly_clean_sheets,clean_sheets,clean_sheet_source,exact_agreement
+05tqx,David Raya Martín,G,90.0,arsenal,0,1.0,1.0,FANTRAX_DETAILED,True
+04e1e,Benjamin White,D,90.0,arsenal,0,1.0,1.0,FANTRAX_DETAILED,True
+05nzu,Gabriel dos Santos Magalhães,D,90.0,arsenal,0,1.0,1.0,FANTRAX_DETAILED,True
+06zbm,Cristhian Mosquera,D,90.0,arsenal,0,1.0,1.0,FANTRAX_DETAILED,True
+06nu7,Riccardo Calafiori,D,80.0,arsenal,0,1.0,1.0,FANTRAX_DETAILED,True
+04agz,Declan Rice,M,67.0,arsenal,0,1.0,1.0,FANTRAX_DETAILED,True
+066sd,Myles Lewis-Skelly,"D,M",90.0,arsenal,0,1.0,1.0,FANTRAX_DETAILED,True
+04y92,Bukayo Saka,"M,F",67.0,arsenal,0,1.0,1.0,FANTRAX_DETAILED,True
+05r9b,Martin Ødegaard,M,75.0,arsenal,0,1.0,1.0,FANTRAX_DETAILED,True
+05uox,Christos Tzolis,F,75.0,arsenal,0,1.0,1.0,FANTRAX_DETAILED,True
+05o6h,Kai Havertz,F,90.0,arsenal,0,1.0,1.0,FANTRAX_DETAILED,True
+05nt6,Eberechi Eze,"M,F",14.0,arsenal,0,0.0,0.0,FANTRAX_DETAILED,True
+076d0,Milan van Ewijk,D,90.0,coventry_city,3,0.0,0.0,FANTRAX_DETAILED,True
+05l2z,Bobby Thomas,D,90.0,coventry_city,3,0.0,0.0,FANTRAX_DETAILED,True
+03mfe,Matt Grimes,M,90.0,coventry_city,3,0.0,0.0,FANTRAX_DETAILED,True
+076d3,Jack Rudoni,M,20.0,coventry_city,3,0.0,0.0,FANTRAX_DETAILED,True
+05oz3,James Trafford,G,90.0,leeds_united,0,1.0,1.0,FANTRAX_DETAILED,True
+0784y,Tarik Muharemovic,D,90.0,leeds_united,0,1.0,1.0,FANTRAX_DETAILED,True
+0521z,James Justin,"D,M",90.0,leeds_united,0,1.0,1.0,FANTRAX_DETAILED,True
+06zbx,Anton Stach,M,90.0,leeds_united,0,1.0,1.0,FANTRAX_DETAILED,True
+04lav,Ethan Ampadu,"D,M",90.0,leeds_united,0,1.0,1.0,FANTRAX_DETAILED,True
+03rxs,Harry Wilson,"M,F",65.0,leeds_united,0,1.0,1.0,FANTRAX_DETAILED,True
+049tq,Dominic Calvert-Lewin,F,90.0,leeds_united,0,1.0,1.0,FANTRAX_DETAILED,True
+070cj,Noah Okafor,F,24.0,leeds_united,0,0.0,0.0,FANTRAX_DETAILED,True
+04f6h,Matz Sels,G,90.0,nottingham_forest,1,0.0,0.0,FANTRAX_DETAILED,True
+06fwz,Murillo Costa dos Santos,D,88.0,nottingham_forest,1,0.0,0.0,FANTRAX_DETAILED,True
+06mw0,Nikola Milenković,D,90.0,nottingham_forest,1,0.0,0.0,FANTRAX_DETAILED,True
+03frx,Ola Aina,D,73.0,nottingham_forest,1,1.0,1.0,FANTRAX_DETAILED,True
+05a6e,Neco Williams,D,90.0,nottingham_forest,1,0.0,0.0,FANTRAX_DETAILED,True
+04qr9,Morgan Gibbs-White,M,90.0,nottingham_forest,1,0.0,0.0,FANTRAX_DETAILED,True
+06y9o,Igor Jesus Maciel da Cruz,F,90.0,nottingham_forest,1,0.0,0.0,FANTRAX_DETAILED,True
+045ob,Caoimhín Kelleher,G,90.0,brentford,0,1.0,1.0,FANTRAX_DETAILED,True
+06rgg,Michael Kayode,D,75.0,brentford,0,1.0,1.0,FANTRAX_DETAILED,True
+05u1m,Nathan Collins,D,90.0,brentford,0,1.0,1.0,FANTRAX_DETAILED,True
+07877,Mamadou Sangare,M,75.0,brentford,0,1.0,1.0,FANTRAX_DETAILED,True
+068lx,Dango Ouattara,"M,F",66.0,brentford,0,1.0,1.0,FANTRAX_DETAILED,True
+067zv,Kevin Schade,"M,F",90.0,brentford,0,1.0,1.0,FANTRAX_DETAILED,True
+06mn0,Igor Thiago Nascimento Rodrigues,F,82.0,brentford,0,1.0,1.0,FANTRAX_DETAILED,True
+063q8,Mikkel Damsgaard,M,14.0,brentford,0,0.0,0.0,FANTRAX_DETAILED,True
+061vk,Jaidon Anthony,"M,F",23.0,brentford,0,0.0,0.0,FANTRAX_DETAILED,True
+06r6s,Antonín Kinský,G,90.0,tottenham_hotspur,3,0.0,0.0,FANTRAX_DETAILED,True
+063e7,Marcos Senesi Barón,D,90.0,tottenham_hotspur,3,0.0,0.0,FANTRAX_DETAILED,True
+05oh0,Jan Paul van Hecke,D,90.0,tottenham_hotspur,3,0.0,0.0,FANTRAX_DETAILED,True
+06cms,Sandro Tonali,M,90.0,tottenham_hotspur,3,0.0,0.0,FANTRAX_DETAILED,True
+06rm8,Mathys Tel,"M,F",90.0,tottenham_hotspur,3,0.0,0.0,FANTRAX_DETAILED,True
+04io4,Richarlison de Andrade,F,67.0,tottenham_hotspur,3,0.0,0.0,FANTRAX_DETAILED,True
+06pe1,Mateus Fernandes,M,45.0,tottenham_hotspur,3,0.0,0.0,FANTRAX_DETAILED,True
+0414o,James Maddison,M,22.0,tottenham_hotspur,3,0.0,0.0,FANTRAX_DETAILED,True
+076dq,Mohamed Belloumi,"M,F",90.0,hull_city,0,1.0,1.0,FANTRAX_DETAILED,True
+0477b,Oliver McBurnie,F,90.0,hull_city,0,1.0,1.0,FANTRAX_DETAILED,True
+070hl,Senne Lammens,G,90.0,manchester_united,2,0.0,0.0,FANTRAX_DETAILED,True
+03gu4,Harry Maguire,D,90.0,manchester_united,2,0.0,0.0,FANTRAX_DETAILED,True
+02oq6,Luke Shaw,D,90.0,manchester_united,2,0.0,0.0,FANTRAX_DETAILED,True
+04yo7,Youri Tielemans,M,66.0,manchester_united,2,0.0,0.0,FANTRAX_DETAILED,True
+05trb,Bryan Mbeumo,"M,F",90.0,manchester_united,2,0.0,0.0,FANTRAX_DETAILED,True
+05gcr,Bruno Borges Fernandes,M,90.0,manchester_united,2,0.0,0.0,FANTRAX_DETAILED,True
+06rlj,Patrick Dorgu,"D,M",45.0,manchester_united,2,0.0,0.0,FANTRAX_DETAILED,True
+067yz,Matheus Santos Carneiro da Cunha,"M,F",79.0,manchester_united,2,0.0,0.0,FANTRAX_DETAILED,True
+04qfz,Diogo Dalot Teixeira,"D,M",10.0,manchester_united,2,0.0,0.0,FANTRAX_DETAILED,True
+06zxy,Benjamin Sesko,F,23.0,manchester_united,2,0.0,0.0,FANTRAX_DETAILED,True
+03ybi,Marcus Rashford,F,45.0,manchester_united,2,0.0,0.0,FANTRAX_DETAILED,True
+0666p,Kobbie Mainoo,M,23.0,manchester_united,2,0.0,0.0,FANTRAX_DETAILED,True
+03yww,Dean Henderson,G,90.0,crystal_palace,2,0.0,0.0,FANTRAX_DETAILED,True
+0635j,Chris Richards,D,90.0,crystal_palace,2,0.0,0.0,FANTRAX_DETAILED,True
+070hb,Jaydee Canvot,D,90.0,crystal_palace,2,0.0,0.0,FANTRAX_DETAILED,True
+06jgi,Daniel Muñoz Mejía,"D,M",54.0,crystal_palace,2,0.0,0.0,FANTRAX_DETAILED,True
+05akv,Tyrick Mitchell,"D,M",90.0,crystal_palace,2,0.0,0.0,FANTRAX_DETAILED,True
+06jgs,Adam Wharton,M,90.0,crystal_palace,2,0.0,0.0,FANTRAX_DETAILED,True
+04p0d,Dwight McNeil,"M,F",62.0,crystal_palace,2,0.0,0.0,FANTRAX_DETAILED,True
+05r8o,Jean-Philippe Mateta,F,62.0,crystal_palace,2,0.0,0.0,FANTRAX_DETAILED,True
+070f9,Yéremy Pino Santos,"M,F",35.0,crystal_palace,2,0.0,0.0,FANTRAX_DETAILED,True
+032f9,Jordan Pickford,G,90.0,everton,0,1.0,1.0,FANTRAX_DETAILED,True
+05l27,Jarrad Branthwaite,D,90.0,everton,0,1.0,1.0,FANTRAX_DETAILED,True
+0427d,James Tarkowski,D,90.0,everton,0,1.0,1.0,FANTRAX_DETAILED,True
+0784p,Hayden Hackney,M,78.0,everton,0,1.0,1.0,FANTRAX_DETAILED,True
+05r94,Iliman Ndiaye,"M,F",90.0,everton,0,1.0,1.0,FANTRAX_DETAILED,True
+05gcc,Kiernan Dewsbury-Hall,M,88.0,everton,0,1.0,1.0,FANTRAX_DETAILED,True
+04spw,James Garner,"D,M",11.0,everton,0,0.0,0.0,FANTRAX_DETAILED,True
+061ya,Brennan Johnson,"M,F",6.0,everton,0,0.0,0.0,FANTRAX_DETAILED,True
+05nil,Leif Davis,D,90.0,ipswich_town,1,0.0,0.0,FANTRAX_DETAILED,True
+06mgd,Abdul Fatawu,F,65.0,ipswich_town,1,0.0,0.0,FANTRAX_DETAILED,True
+0784x,Daizen Maeda,F,79.0,ipswich_town,1,0.0,0.0,FANTRAX_DETAILED,True
+06znb,Robin Roefs,G,90.0,sunderland,2,0.0,0.0,FANTRAX_DETAILED,True
+05nns,Daniel Ballard,D,90.0,sunderland,2,0.0,0.0,FANTRAX_DETAILED,True
+06yb9,Reinildo Mandava,D,90.0,sunderland,2,0.0,0.0,FANTRAX_DETAILED,True
+0435m,Granit Xhaka,M,90.0,sunderland,2,0.0,0.0,FANTRAX_DETAILED,True
+06v0g,Trai Hume,"D,M",79.0,sunderland,2,0.0,0.0,FANTRAX_DETAILED,True
+06v0p,Enzo Le Fée,"M,F",79.0,sunderland,2,0.0,0.0,FANTRAX_DETAILED,True
+072zs,Nilson Angulo,"M,F",58.0,sunderland,2,0.0,0.0,FANTRAX_DETAILED,True
+070hc,Brian Brobbey,F,66.0,sunderland,2,0.0,0.0,FANTRAX_DETAILED,True
+05o4b,Matty Cash,D,90.0,aston_villa,4,0.0,0.0,FANTRAX_DETAILED,True
+052cb,Ian Maatsen,D,81.0,aston_villa,4,0.0,0.0,FANTRAX_DETAILED,True
+061va,Boubacar Kamara,M,90.0,aston_villa,4,0.0,0.0,FANTRAX_DETAILED,True
+051k0,John McGinn,M,81.0,aston_villa,4,0.0,0.0,FANTRAX_DETAILED,True
+051kl,Emiliano Buendía Stati,M,85.0,aston_villa,4,0.0,0.0,FANTRAX_DETAILED,True
+06cmu,Bart Verbruggen,G,90.0,brighton_hove_albion,0,1.0,1.0,FANTRAX_DETAILED,True
+06mpp,Mats Wieffer,"D,M",77.0,brighton_hove_albion,0,1.0,1.0,FANTRAX_DETAILED,True
+06v0y,Luka Vušković,D,90.0,brighton_hove_albion,0,1.0,1.0,FANTRAX_DETAILED,True
+04fk1,Pascal Groß,M,90.0,brighton_hove_albion,0,1.0,1.0,FANTRAX_DETAILED,True
+06r5b,Diego Gómez Amarilla,"M,F",85.0,brighton_hove_albion,0,1.0,1.0,FANTRAX_DETAILED,True
+06y9m,Maxim De Cuyper,"D,M",77.0,brighton_hove_albion,0,1.0,1.0,FANTRAX_DETAILED,True
+0689w,Georginio Rutter,"M,F",90.0,brighton_hove_albion,0,1.0,1.0,FANTRAX_DETAILED,True
+06fuw,Đorđe Petrović,G,90.0,afc_bournemouth,2,0.0,0.0,FANTRAX_DETAILED,True
+0787y,Antonio Silva,D,90.0,afc_bournemouth,2,0.0,0.0,FANTRAX_DETAILED,True
+061vb,James Hill,D,90.0,afc_bournemouth,2,0.0,0.0,FANTRAX_DETAILED,True
+06uyc,Adrien Truffert,D,90.0,afc_bournemouth,2,0.0,0.0,FANTRAX_DETAILED,True
+06f8y,Alex Scott,M,90.0,afc_bournemouth,2,0.0,0.0,FANTRAX_DETAILED,True
+072wq,Rayan Vitor Simplício Rocha,"M,F",88.0,afc_bournemouth,2,0.0,0.0,FANTRAX_DETAILED,True
+06clt,Justin Kluivert,"M,F",74.0,afc_bournemouth,2,1.0,1.0,FANTRAX_DETAILED,True
+0639x,Marcus Tavernier,M,90.0,afc_bournemouth,2,0.0,0.0,FANTRAX_DETAILED,True
+06p6j,Francisco Evanilson de Lima Barbosa,F,74.0,afc_bournemouth,2,1.0,1.0,FANTRAX_DETAILED,True
+070hs,Gianluigi Donnarumma,G,90.0,manchester_city,1,0.0,0.0,FANTRAX_DETAILED,True
+05omu,Rúben dos Santos Gato Alves Dias,D,90.0,manchester_city,1,0.0,0.0,FANTRAX_DETAILED,True
+06r9w,Abdukodir Khusanov,D,90.0,manchester_city,1,0.0,0.0,FANTRAX_DETAILED,True
+06ex4,Joško Gvardiol,D,90.0,manchester_city,1,0.0,0.0,FANTRAX_DETAILED,True
+050jq,Marc Guéhi,D,90.0,manchester_city,1,0.0,0.0,FANTRAX_DETAILED,True
+05opj,Elliot Anderson,M,62.0,manchester_city,1,0.0,0.0,FANTRAX_DETAILED,True
+04abb,Phil Foden,M,81.0,manchester_city,1,0.0,0.0,FANTRAX_DETAILED,True
+067x8,Nico O'Reilly,"D,M",62.0,manchester_city,1,0.0,0.0,FANTRAX_DETAILED,True
+068y0,Antoine Semenyo,"M,F",90.0,manchester_city,1,0.0,0.0,FANTRAX_DETAILED,True
+061vq,Erling Haaland,F,90.0,manchester_city,1,0.0,0.0,FANTRAX_DETAILED,True
+06v07,Rayan Cherki,M,27.0,manchester_city,1,0.0,0.0,FANTRAX_DETAILED,True
+063zi,Matheus Nunes,"D,M",33.0,manchester_city,1,0.0,0.0,FANTRAX_DETAILED,True
+04sjt,Alisson Becker,G,90.0,liverpool,2,0.0,0.0,FANTRAX_DETAILED,True
+06v05,Jeremie Frimpong,"D,M",90.0,liverpool,2,0.0,0.0,FANTRAX_DETAILED,True
+0784z,Jeremy Jacquet,D,69.0,liverpool,2,0.0,0.0,FANTRAX_DETAILED,True
+03vlj,Virgil van Dijk,D,90.0,liverpool,2,0.0,0.0,FANTRAX_DETAILED,True
+06do9,Milos Kerkez,D,90.0,liverpool,2,0.0,0.0,FANTRAX_DETAILED,True
+06cmm,Dominik Szoboszlai,"D,M",90.0,liverpool,2,0.0,0.0,FANTRAX_DETAILED,True
+06fxe,Ryan Gravenberch,M,77.0,liverpool,2,0.0,0.0,FANTRAX_DETAILED,True
+06r2g,Rio Ngumoha,"M,F",62.0,liverpool,2,0.0,0.0,FANTRAX_DETAILED,True
+06v21,Florian Wirtz,M,62.0,liverpool,2,0.0,0.0,FANTRAX_DETAILED,True
+067yv,Cody Gakpo,"M,F",90.0,liverpool,2,0.0,0.0,FANTRAX_DETAILED,True
+0646f,Alexander Isak,F,90.0,liverpool,2,0.0,0.0,FANTRAX_DETAILED,True
+078i7,Ronald Araujo,D,20.0,liverpool,2,0.0,0.0,FANTRAX_DETAILED,True
+076qg,Victor Munoz,F,27.0,liverpool,2,0.0,0.0,FANTRAX_DETAILED,True
+078ud,Amar Dedic,D,90.0,newcastle_united,2,0.0,0.0,FANTRAX_DETAILED,True
+0700p,Malick Thiaw,D,90.0,newcastle_united,2,0.0,0.0,FANTRAX_DETAILED,True
+05y9n,Lewis Hall,D,90.0,newcastle_united,2,0.0,0.0,FANTRAX_DETAILED,True
+06ab3,Lewis Miley,"D,M",75.0,newcastle_united,2,0.0,0.0,FANTRAX_DETAILED,True
+05uor,Yoane Wissa,F,88.0,newcastle_united,2,0.0,0.0,FANTRAX_DETAILED,True
+04abn,Harvey Barnes,"M,F",90.0,newcastle_united,2,0.0,0.0,FANTRAX_DETAILED,True
+05t6x,William Osula,F,55.0,newcastle_united,2,0.0,0.0,FANTRAX_DETAILED,True
+06pia,Maxence Lacroix,D,90.0,chelsea,2,0.0,0.0,FANTRAX_DETAILED,True
+062p5,Levi Samuels Colwill,D,90.0,chelsea,2,0.0,0.0,FANTRAX_DETAILED,True
+051k7,Reece James,"D,M",90.0,chelsea,2,0.0,0.0,FANTRAX_DETAILED,True
+05uht,Morgan Rogers,"M,F",81.0,chelsea,2,0.0,0.0,FANTRAX_DETAILED,True
+05l8q,Cole Palmer,M,82.0,chelsea,2,0.0,0.0,FANTRAX_DETAILED,True
+05g2o,João Pedro Junqueira de Jesus,"M,F",90.0,chelsea,2,0.0,0.0,FANTRAX_DETAILED,True
+068ym,Enzo Fernández,M,25.0,chelsea,2,0.0,0.0,FANTRAX_DETAILED,True
+056iy,Pedro Lomba Neto,"M,F",14.0,chelsea,2,0.0,0.0,FANTRAX_DETAILED,True
+06yxe,Estêvão Almeida de Oliveira Gonçalves,"M,F",7.0,chelsea,2,0.0,0.0,FANTRAX_DETAILED,True
+03rzp,Antonee Robinson,D,81.0,fulham,3,0.0,0.0,FANTRAX_DETAILED,True
+038ze,Alex Iwobi,"M,F",90.0,fulham,3,0.0,0.0,FANTRAX_DETAILED,True
+05ye7,Oscar Bobb,M,66.0,fulham,3,0.0,0.0,FANTRAX_DETAILED,True
+07898,Gonzalo Garcia,F,90.0,fulham,3,0.0,0.0,FANTRAX_DETAILED,True
+061vn,Rodrigo Muniz Carvalho,F,8.0,fulham,3,0.0,0.0,FANTRAX_DETAILED,True
+0635j,Chris Richards,D,90.0,crystal_palace,4,0.0,0.0,FANTRAX_DETAILED,True
+05akv,Tyrick Mitchell,"D,M",90.0,crystal_palace,4,0.0,0.0,FANTRAX_DETAILED,True
+06jgs,Adam Wharton,M,90.0,crystal_palace,4,0.0,0.0,FANTRAX_DETAILED,True
+070f9,Yéremy Pino Santos,"M,F",67.0,crystal_palace,4,0.0,0.0,FANTRAX_DETAILED,True
+0784o,Oscar Mingueza,D,15.0,crystal_palace,4,0.0,0.0,FANTRAX_DETAILED,True
+04p0d,Dwight McNeil,"M,F",22.0,crystal_palace,4,0.0,0.0,FANTRAX_DETAILED,True
+070hs,Gianluigi Donnarumma,G,90.0,manchester_city,1,0.0,0.0,FANTRAX_DETAILED,True
+06r9w,Abdukodir Khusanov,D,88.0,manchester_city,1,0.0,0.0,FANTRAX_DETAILED,True
+05omu,Rúben dos Santos Gato Alves Dias,D,90.0,manchester_city,1,0.0,0.0,FANTRAX_DETAILED,True
+050jq,Marc Guéhi,D,90.0,manchester_city,1,0.0,0.0,FANTRAX_DETAILED,True
+06ex4,Joško Gvardiol,D,74.0,manchester_city,1,0.0,0.0,FANTRAX_DETAILED,True
+05opj,Elliot Anderson,M,81.0,manchester_city,1,0.0,0.0,FANTRAX_DETAILED,True
+067x8,Nico O'Reilly,"D,M",88.0,manchester_city,1,0.0,0.0,FANTRAX_DETAILED,True
+04abb,Phil Foden,M,90.0,manchester_city,1,0.0,0.0,FANTRAX_DETAILED,True
+06v07,Rayan Cherki,M,81.0,manchester_city,1,0.0,0.0,FANTRAX_DETAILED,True
+068y0,Antoine Semenyo,"M,F",90.0,manchester_city,1,0.0,0.0,FANTRAX_DETAILED,True
+061vq,Erling Haaland,F,90.0,manchester_city,1,0.0,0.0,FANTRAX_DETAILED,True
+05tqx,David Raya Martín,G,90.0,arsenal,0,1.0,1.0,FANTRAX_DETAILED,True
+04e1e,Benjamin White,D,90.0,arsenal,0,1.0,1.0,FANTRAX_DETAILED,True
+05nzu,Gabriel dos Santos Magalhães,D,90.0,arsenal,0,1.0,1.0,FANTRAX_DETAILED,True
+06zbm,Cristhian Mosquera,D,78.0,arsenal,0,1.0,1.0,FANTRAX_DETAILED,True
+06nu7,Riccardo Calafiori,D,90.0,arsenal,0,1.0,1.0,FANTRAX_DETAILED,True
+04agz,Declan Rice,M,84.0,arsenal,0,1.0,1.0,FANTRAX_DETAILED,True
+066sd,Myles Lewis-Skelly,"D,M",70.0,arsenal,0,1.0,1.0,FANTRAX_DETAILED,True
+04y92,Bukayo Saka,"M,F",90.0,arsenal,0,1.0,1.0,FANTRAX_DETAILED,True
+05r9b,Martin Ødegaard,M,70.0,arsenal,0,1.0,1.0,FANTRAX_DETAILED,True
+05uox,Christos Tzolis,F,45.0,arsenal,0,0.0,0.0,FANTRAX_DETAILED,True
+05o6h,Kai Havertz,F,90.0,arsenal,0,1.0,1.0,FANTRAX_DETAILED,True
+05ylj,Bruno Guimarães Rodriguez Moura,M,19.0,arsenal,0,0.0,0.0,FANTRAX_DETAILED,True
+05nt6,Eberechi Eze,"M,F",45.0,arsenal,0,0.0,0.0,FANTRAX_DETAILED,True
+052ca,Ezri Konsa Ngoyo,D,11.0,arsenal,0,0.0,0.0,FANTRAX_DETAILED,True
+05o4b,Matty Cash,D,77.0,aston_villa,1,0.0,0.0,FANTRAX_DETAILED,True
+052cb,Ian Maatsen,D,90.0,aston_villa,1,0.0,0.0,FANTRAX_DETAILED,True
+061va,Boubacar Kamara,M,90.0,aston_villa,1,0.0,0.0,FANTRAX_DETAILED,True
+051kl,Emiliano Buendía Stati,M,90.0,aston_villa,1,0.0,0.0,FANTRAX_DETAILED,True
+06cm1,Nicolas Jackson,F,70.0,aston_villa,1,0.0,0.0,FANTRAX_DETAILED,True
+06fuw,Đorđe Petrović,G,90.0,afc_bournemouth,1,0.0,0.0,FANTRAX_DETAILED,True
+0787y,Antonio Silva,D,90.0,afc_bournemouth,1,0.0,0.0,FANTRAX_DETAILED,True
+061vb,James Hill,D,90.0,afc_bournemouth,1,0.0,0.0,FANTRAX_DETAILED,True
+06uyc,Adrien Truffert,D,90.0,afc_bournemouth,1,0.0,0.0,FANTRAX_DETAILED,True
+06f8y,Alex Scott,M,86.0,afc_bournemouth,1,1.0,1.0,FANTRAX_DETAILED,True
+072wq,Rayan Vitor Simplício Rocha,"M,F",90.0,afc_bournemouth,1,0.0,0.0,FANTRAX_DETAILED,True
+06clt,Justin Kluivert,"M,F",80.0,afc_bournemouth,1,1.0,1.0,FANTRAX_DETAILED,True
+0639x,Marcus Tavernier,M,90.0,afc_bournemouth,1,0.0,0.0,FANTRAX_DETAILED,True
+06p6j,Francisco Evanilson de Lima Barbosa,F,80.0,afc_bournemouth,1,1.0,1.0,FANTRAX_DETAILED,True
+032f9,Jordan Pickford,G,90.0,everton,1,0.0,0.0,FANTRAX_DETAILED,True
+0427d,James Tarkowski,D,90.0,everton,1,0.0,0.0,FANTRAX_DETAILED,True
+05l27,Jarrad Branthwaite,D,90.0,everton,1,0.0,0.0,FANTRAX_DETAILED,True
+05ybq,Vitalii Mykolenko,D,90.0,everton,1,0.0,0.0,FANTRAX_DETAILED,True
+04spw,James Garner,"D,M",61.0,everton,1,0.0,0.0,FANTRAX_DETAILED,True
+05r94,Iliman Ndiaye,"M,F",90.0,everton,1,0.0,0.0,FANTRAX_DETAILED,True
+05gcc,Kiernan Dewsbury-Hall,M,90.0,everton,1,0.0,0.0,FANTRAX_DETAILED,True
+06l4i,Tyrique George,F,61.0,everton,1,0.0,0.0,FANTRAX_DETAILED,True
+06ybp,Thierno Barry,F,69.0,everton,1,0.0,0.0,FANTRAX_DETAILED,True
+0784p,Hayden Hackney,M,28.0,everton,1,0.0,0.0,FANTRAX_DETAILED,True
+076d0,Milan van Ewijk,D,90.0,coventry_city,1,0.0,0.0,FANTRAX_DETAILED,True
+05l2z,Bobby Thomas,D,77.0,coventry_city,1,1.0,1.0,FANTRAX_DETAILED,True
+03mfe,Matt Grimes,M,90.0,coventry_city,1,0.0,0.0,FANTRAX_DETAILED,True
+076d3,Jack Rudoni,M,70.0,coventry_city,1,1.0,1.0,FANTRAX_DETAILED,True
+078az,Konstantinos Tzolakis,G,90.0,hull_city,0,1.0,1.0,FANTRAX_DETAILED,True
+04sjv,Ryan Giles,D,90.0,hull_city,0,1.0,1.0,FANTRAX_DETAILED,True
+076dq,Mohamed Belloumi,"M,F",82.0,hull_city,0,1.0,1.0,FANTRAX_DETAILED,True
+0477b,Oliver McBurnie,F,90.0,hull_city,0,1.0,1.0,FANTRAX_DETAILED,True
+04sjt,Alisson Becker,G,90.0,liverpool,2,0.0,0.0,FANTRAX_DETAILED,True
+06v05,Jeremie Frimpong,"D,M",70.0,liverpool,2,0.0,0.0,FANTRAX_DETAILED,True
+0784z,Jeremy Jacquet,D,76.0,liverpool,2,0.0,0.0,FANTRAX_DETAILED,True
+03vlj,Virgil van Dijk,D,90.0,liverpool,2,0.0,0.0,FANTRAX_DETAILED,True
+06do9,Milos Kerkez,D,70.0,liverpool,2,0.0,0.0,FANTRAX_DETAILED,True
+06cmm,Dominik Szoboszlai,"D,M",90.0,liverpool,2,0.0,0.0,FANTRAX_DETAILED,True
+067yv,Cody Gakpo,"M,F",70.0,liverpool,2,0.0,0.0,FANTRAX_DETAILED,True
+06v21,Florian Wirtz,M,90.0,liverpool,2,0.0,0.0,FANTRAX_DETAILED,True
+076qg,Victor Munoz,F,90.0,liverpool,2,0.0,0.0,FANTRAX_DETAILED,True
+0646f,Alexander Isak,F,90.0,liverpool,2,0.0,0.0,FANTRAX_DETAILED,True
+06fxe,Ryan Gravenberch,M,19.0,liverpool,2,0.0,0.0,FANTRAX_DETAILED,True
+04f6h,Matz Sels,G,90.0,nottingham_forest,2,0.0,0.0,FANTRAX_DETAILED,True
+06fwz,Murillo Costa dos Santos,D,90.0,nottingham_forest,2,0.0,0.0,FANTRAX_DETAILED,True
+06mw0,Nikola Milenković,D,90.0,nottingham_forest,2,0.0,0.0,FANTRAX_DETAILED,True
+03frx,Ola Aina,D,85.0,nottingham_forest,2,0.0,0.0,FANTRAX_DETAILED,True
+05a6e,Neco Williams,D,90.0,nottingham_forest,2,0.0,0.0,FANTRAX_DETAILED,True
+05uhs,James McAtee,M,88.0,nottingham_forest,2,0.0,0.0,FANTRAX_DETAILED,True
+04qr9,Morgan Gibbs-White,M,90.0,nottingham_forest,2,0.0,0.0,FANTRAX_DETAILED,True
+06y9o,Igor Jesus Maciel da Cruz,F,88.0,nottingham_forest,2,0.0,0.0,FANTRAX_DETAILED,True
+05oig,Liam Delap,F,24.0,nottingham_forest,2,0.0,0.0,FANTRAX_DETAILED,True
+078ud,Amar Dedic,D,90.0,newcastle_united,0,1.0,1.0,FANTRAX_DETAILED,True
+0700p,Malick Thiaw,D,90.0,newcastle_united,0,1.0,1.0,FANTRAX_DETAILED,True
+062a9,Sven Botman,D,90.0,newcastle_united,0,1.0,1.0,FANTRAX_DETAILED,True
+05y9n,Lewis Hall,D,90.0,newcastle_united,0,1.0,1.0,FANTRAX_DETAILED,True
+06ab3,Lewis Miley,"D,M",90.0,newcastle_united,0,1.0,1.0,FANTRAX_DETAILED,True
+05ogb,Anthony Elanga,F,81.0,newcastle_united,0,1.0,1.0,FANTRAX_DETAILED,True
+04ge6,Joe Willock,M,70.0,newcastle_united,0,1.0,1.0,FANTRAX_DETAILED,True
+04abn,Harvey Barnes,"M,F",88.0,newcastle_united,0,1.0,1.0,FANTRAX_DETAILED,True
+05uor,Yoane Wissa,F,81.0,newcastle_united,0,1.0,1.0,FANTRAX_DETAILED,True
+06r6s,Antonín Kinský,G,90.0,tottenham_hotspur,2,0.0,0.0,FANTRAX_DETAILED,True
+05oh0,Jan Paul van Hecke,D,90.0,tottenham_hotspur,2,0.0,0.0,FANTRAX_DETAILED,True
+06ezb,Micky van de Ven,D,90.0,tottenham_hotspur,2,0.0,0.0,FANTRAX_DETAILED,True
+05n07,Pedro Porro Sauceda,D,90.0,tottenham_hotspur,2,0.0,0.0,FANTRAX_DETAILED,True
+06pe1,Mateus Fernandes,M,90.0,tottenham_hotspur,2,0.0,0.0,FANTRAX_DETAILED,True
+06rm8,Mathys Tel,"M,F",67.0,tottenham_hotspur,2,0.0,0.0,FANTRAX_DETAILED,True
+06rf9,Omar Marmoush,F,90.0,tottenham_hotspur,2,0.0,0.0,FANTRAX_DETAILED,True
+06fv8,Mohammed Kudus,"M,F",22.0,tottenham_hotspur,2,0.0,0.0,FANTRAX_DETAILED,True
+06cmu,Bart Verbruggen,G,90.0,brighton_hove_albion,4,0.0,0.0,FANTRAX_DETAILED,True
+06mpp,Mats Wieffer,"D,M",79.0,brighton_hove_albion,4,0.0,0.0,FANTRAX_DETAILED,True
+06v0y,Luka Vušković,D,90.0,brighton_hove_albion,4,0.0,0.0,FANTRAX_DETAILED,True
+06phe,Ferdi Kadıoğlu,"D,M",90.0,brighton_hove_albion,4,0.0,0.0,FANTRAX_DETAILED,True
+04fk1,Pascal Groß,M,90.0,brighton_hove_albion,4,0.0,0.0,FANTRAX_DETAILED,True
+06r5b,Diego Gómez Amarilla,"M,F",90.0,brighton_hove_albion,4,0.0,0.0,FANTRAX_DETAILED,True
+06y9m,Maxim De Cuyper,"D,M",90.0,brighton_hove_albion,4,0.0,0.0,FANTRAX_DETAILED,True
+02lz0,Emiliano Martínez Romero,G,90.0,chelsea,3,0.0,0.0,FANTRAX_DETAILED,True
+06pia,Maxence Lacroix,D,90.0,chelsea,3,0.0,0.0,FANTRAX_DETAILED,True
+05uht,Morgan Rogers,"M,F",90.0,chelsea,3,0.0,0.0,FANTRAX_DETAILED,True
+05l8q,Cole Palmer,M,90.0,chelsea,3,0.0,0.0,FANTRAX_DETAILED,True
+05g2o,João Pedro Junqueira de Jesus,"M,F",90.0,chelsea,3,0.0,0.0,FANTRAX_DETAILED,True
+051k7,Reece James,"D,M",22.0,chelsea,3,0.0,0.0,FANTRAX_DETAILED,True
+06mgd,Abdul Fatawu,F,82.0,ipswich_town,5,0.0,0.0,FANTRAX_DETAILED,True
+061xs,Julio Enciso,M,90.0,ipswich_town,5,0.0,0.0,FANTRAX_DETAILED,True
+0784x,Daizen Maeda,F,72.0,ipswich_town,5,0.0,0.0,FANTRAX_DETAILED,True
+0784w,Emersonn,F,45.0,ipswich_town,5,0.0,0.0,FANTRAX_DETAILED,True
+04qfz,Diogo Dalot Teixeira,"D,M",73.0,manchester_united,2,0.0,0.0,FANTRAX_DETAILED,True
+03gu4,Harry Maguire,D,90.0,manchester_united,2,0.0,0.0,FANTRAX_DETAILED,True
+02oq6,Luke Shaw,D,72.0,manchester_united,2,0.0,0.0,FANTRAX_DETAILED,True
+0666p,Kobbie Mainoo,M,79.0,manchester_united,2,0.0,0.0,FANTRAX_DETAILED,True
+05trb,Bryan Mbeumo,"M,F",90.0,manchester_united,2,0.0,0.0,FANTRAX_DETAILED,True
+05gcr,Bruno Borges Fernandes,M,90.0,manchester_united,2,0.0,0.0,FANTRAX_DETAILED,True
+03ybi,Marcus Rashford,F,79.0,manchester_united,2,0.0,0.0,FANTRAX_DETAILED,True
+067yz,Matheus Santos Carneiro da Cunha,"M,F",79.0,manchester_united,2,0.0,0.0,FANTRAX_DETAILED,True
+06rlj,Patrick Dorgu,"D,M",10.0,manchester_united,2,0.0,0.0,FANTRAX_DETAILED,True
+06zxy,Benjamin Sesko,F,10.0,manchester_united,2,0.0,0.0,FANTRAX_DETAILED,True
+05o4c,Timothy Castagne,"D,M",67.0,fulham,1,1.0,1.0,FANTRAX_DETAILED,True
+05os8,Joachim Andersen,D,90.0,fulham,1,0.0,0.0,FANTRAX_DETAILED,True
+03rzp,Antonee Robinson,D,90.0,fulham,1,0.0,0.0,FANTRAX_DETAILED,True
+038ze,Alex Iwobi,"M,F",90.0,fulham,1,0.0,0.0,FANTRAX_DETAILED,True
+05ye7,Oscar Bobb,M,67.0,fulham,1,1.0,1.0,FANTRAX_DETAILED,True
+06jh3,Josh King,M,90.0,fulham,1,0.0,0.0,FANTRAX_DETAILED,True
+07898,Gonzalo Garcia,F,90.0,fulham,1,0.0,0.0,FANTRAX_DETAILED,True
+06znb,Robin Roefs,G,90.0,sunderland,0,1.0,1.0,FANTRAX_DETAILED,True
+0703c,Nordi Mukiele,D,90.0,sunderland,0,1.0,1.0,FANTRAX_DETAILED,True
+05nns,Daniel Ballard,D,90.0,sunderland,0,1.0,1.0,FANTRAX_DETAILED,True
+0435m,Granit Xhaka,M,90.0,sunderland,0,1.0,1.0,FANTRAX_DETAILED,True
+06v0g,Trai Hume,"D,M",90.0,sunderland,0,1.0,1.0,FANTRAX_DETAILED,True
+06v0p,Enzo Le Fée,"M,F",88.0,sunderland,0,1.0,1.0,FANTRAX_DETAILED,True
+072zs,Nilson Angulo,"M,F",64.0,sunderland,0,1.0,1.0,FANTRAX_DETAILED,True
+070hc,Brian Brobbey,F,63.0,sunderland,0,1.0,1.0,FANTRAX_DETAILED,True
+045ob,Caoimhín Kelleher,G,90.0,brentford,1,0.0,0.0,FANTRAX_DETAILED,True
+06rgg,Michael Kayode,D,87.0,brentford,1,0.0,0.0,FANTRAX_DETAILED,True
+05u1m,Nathan Collins,D,90.0,brentford,1,0.0,0.0,FANTRAX_DETAILED,True
+05uel,Kristoffer Ajer,D,90.0,brentford,1,0.0,0.0,FANTRAX_DETAILED,True
+062p3,Keane Lewis-Potter,"D,M,F",87.0,brentford,1,0.0,0.0,FANTRAX_DETAILED,True
+05tre,Vitaly Janelt,M,90.0,brentford,1,0.0,0.0,FANTRAX_DETAILED,True
+07877,Mamadou Sangare,M,90.0,brentford,1,0.0,0.0,FANTRAX_DETAILED,True
+061vk,Jaidon Anthony,"M,F",60.0,brentford,1,1.0,1.0,FANTRAX_DETAILED,True
+063q8,Mikkel Damsgaard,M,68.0,brentford,1,1.0,1.0,FANTRAX_DETAILED,True
+067zv,Kevin Schade,"M,F",87.0,brentford,1,0.0,0.0,FANTRAX_DETAILED,True
+06mn0,Igor Thiago Nascimento Rodrigues,F,90.0,brentford,1,0.0,0.0,FANTRAX_DETAILED,True
+068lx,Dango Ouattara,"M,F",29.0,brentford,1,0.0,0.0,FANTRAX_DETAILED,True
+05oz3,James Trafford,G,90.0,leeds_united,1,0.0,0.0,FANTRAX_DETAILED,True
+0784y,Tarik Muharemovic,D,90.0,leeds_united,1,0.0,0.0,FANTRAX_DETAILED,True
+06v51,Jaka Bijol,D,45.0,leeds_united,1,0.0,0.0,FANTRAX_DETAILED,True
+0521z,James Justin,"D,M",90.0,leeds_united,1,0.0,0.0,FANTRAX_DETAILED,True
+06zbx,Anton Stach,M,90.0,leeds_united,1,0.0,0.0,FANTRAX_DETAILED,True
+04lav,Ethan Ampadu,"D,M",90.0,leeds_united,1,0.0,0.0,FANTRAX_DETAILED,True
+070cj,Noah Okafor,F,68.0,leeds_united,1,0.0,0.0,FANTRAX_DETAILED,True
+049tq,Dominic Calvert-Lewin,F,90.0,leeds_united,1,0.0,0.0,FANTRAX_DETAILED,True
+03rxs,Harry Wilson,"M,F",45.0,leeds_united,1,0.0,0.0,FANTRAX_DETAILED,True

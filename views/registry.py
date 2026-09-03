@@ -10,6 +10,7 @@ PAGE_REGISTRY:tuple[PageDefinition,...]=(
     PageDefinition("League Hub","League",("2627",),False,"Standings and season overview."),
     PageDefinition("2025/26 Season Archive","Archive",("2526",),False,"Frozen finalized historical season."),
     PageDefinition("Players","Players",("2526","2627"),False,"Historical or live player database."),
+    PageDefinition("Teams","Teams",("2627",),False,"Premier League club profiles and schedules."),
     PageDefinition("Managers","Managers",("2526","2627"),False,"Manager performance and decisions."),
     PageDefinition("Cup Tournament","Cup",("2627",),False,"Cheeky FC Cup bracket and schedule."),
     PageDefinition("Trades","Trades",("2627",),False,"Trade analysis workspace."),

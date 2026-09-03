@@ -149,3 +149,26 @@ Manager draft labels are normalized only for identity matching and resolve to a
 stable manager ID. Frozen draft values and visible team names remain unchanged.
 League Hub is the single user-facing 2026/27 default route; the internal Home
 renderer alias remains available only for routing compatibility.
+# Team fixture foundation
+
+Live fixture context now follows: canonical club registry → one-row-per-match schedule → two-row team perspective → team/player presentation. Views read these registered products through `DataManager` and perform no acquisition.
+
+Fixture acquisition is an explicit cache operation. Current football-data page 1 is always revalidated before its fresh pagination is followed; normal page renders remain network-free.
+
+Schedule precedence is now cached soccerdata Sofascore first, with football-data.io retained as a non-overriding fallback. ClubElo is an independent optional strength layer feeding canonical team fixtures; Understat remains authoritative for expected metrics.
+
+Matchup intelligence preserves Observed → Derived → Predicted boundaries. Sprint 9.1 implements the first two layers and model-ready frames only. Formation, role, lineup, and prediction datasets are not registered without proven observations.
+# Optional advanced match data
+
+WhoScored is an optional cache-first supplement. The app never acquires it on
+render: explicit acquisition precedes immutable raw preservation,
+normalization, canonical identity, and analytical enrichment. Failure leaves
+all Fantrax and Understat paths intact.
+# Historical advanced match acquisition
+
+WhoScored historical acquisition uses a cache-first controller with one process per match, parent-enforced timeout, retry, atomic cache commit, schema/hash validation, and a durable manifest. Canonical player and manager identities are reference-layer concerns; normalized scale-test products remain outside finalized season datasets. See `docs/whoscored_scale_readiness.md` and `docs/manager_identity_architecture.md`.
+# Supplemental advanced descriptive layer
+
+The 2025/26 advanced layer is supplemental and read-only relative to finalized core history. `scripts/build_advanced_descriptive_products.py` consumes cached normalized products and writes UI-sized player, set-piece, formation, Fantasy Allowed, and team-playstyle tables. Shared definitions live in `analytics/advanced_descriptive.py`. Fantrax owns fantasy scoring, Understat owns xG/xA/xGI, and WhoScored owns supplemental event, rating, tactical-role, and set-piece evidence.
+
+Cross-season presentation uses `core.services.historical_advanced`. Finalized core tables default to the immutable snapshot namespace, but supplemental advanced models are registered under `data/models/season_2526/advanced` and are deliberately loaded through the working namespace. The same helper applies the explicit legacy canonical bridge `afc_bournemouth → bournemouth` and `brighton_hove_albion → brighton`; all other eligible clubs use identity mapping.

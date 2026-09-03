@@ -62,3 +62,17 @@ The modern API audit is recorded in `fantrax_player_stats_audit.md`. Only `getLe
 Understat is also an approved supplemental factual source for appearances, minutes, goals, assists, shots, key passes, and cards. Present Fantrax values—including zero—win. Understat never supplies fantasy points, Ghost Points, or Fantrax-only defensive/scoring events.
 
 The 2026/27 weekly source is the proven authenticated Players/team-roster CSV export, now stored transactionally per Fantrax period. Normal refresh is incremental; full missing-period acquisition is an explicit advanced backfill.
+# Fixture-period use
+
+`getLeagueInfo.scoringPeriods` is authoritative for mapping match timestamps into Fantrax periods. Nominal Premier League gameweek is not a substitute. The cached file audited on 2026-08-19 contains 2025/26 dates and is rejected for 2026/27 mapping.
+
+The active source is now the validated live-season cache for league `o1wb36vdmrp1z5t8`, refreshed by `scripts/refresh_live_fantrax.py` and materialized as `data/reference/fantrax_scoring_periods_2627.csv`. The retired `raw_data/fantrax_api/league_info.json` is not used.
+
+Fantrax remains the fantasy and scoring-period authority; it is not the season-schedule authority. Cached soccerdata Sofascore fixtures are mapped into Fantrax periods strictly by kickoff timestamp.
+
+Fantrax completed player-period facts are the sole fantasy input to positional production allowed. Supplemental xG or tactical sources never overwrite Fantrax fantasy points or Ghost values.
+# WhoScored supplemental boundary
+
+WhoScored does not replace Fantrax scoring. Exact match alignment is allowed
+only for a club with one fixture in the Fantrax period; multi-fixture periods
+remain ambiguous unless a match-granular Fantrax source is available.

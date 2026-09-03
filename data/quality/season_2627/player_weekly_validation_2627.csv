@@ -1,5 +1,5 @@
 dataset,rule,status,detail
-current_player_weekly,unique_player_period,pass,0 rows
+current_player_weekly,unique_player_period,pass,1282 rows
 current_player_weekly,stable_player_id,pass,0 missing
 current_player_weekly,nonnegative_minutes,pass,0 negative
-current_player_weekly,preseason_empty_is_valid,pass,No false player-period rows are generated before a proven weekly source exists
+current_player_weekly,preseason_empty_is_valid,pass,Weekly source present

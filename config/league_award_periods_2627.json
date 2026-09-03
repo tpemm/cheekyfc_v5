@@ -1,0 +1,8 @@
+{
+  "season_id": "2627",
+  "manager_of_month": [
+    {"award_period_id": "2627_aug_sep", "label": "August / September", "start_date": "2026-08-01", "end_date": "2026-09-30"},
+    {"award_period_id": "2627_oct", "label": "October", "start_date": "2026-10-01", "end_date": "2026-10-31"},
+    {"award_period_id": "2627_nov", "label": "November", "start_date": "2026-11-01", "end_date": "2026-11-30"}
+  ]
+}

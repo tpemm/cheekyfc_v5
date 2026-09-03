@@ -1,0 +1,20 @@
+{
+  "season": "2627",
+  "period": 1,
+  "status": "ACQUIRED",
+  "maturity": "FINALIZED",
+  "row_count": 617,
+  "all_player_rows": 617,
+  "manager_exports_acquired": 12,
+  "manager_exports_expected": 12,
+  "missing_team_ids": [],
+  "team_failures": {},
+  "checksum": "6812952dab6101c9f18b0b96f663edcb6e997970cc7cb9a300d4c15779b71c8b",
+  "retrieved_at": "2026-08-25T14:54:07+00:00",
+  "finalized": true,
+  "unresolved_players": 0,
+  "validation_status": "valid",
+  "source": "Fantrax authenticated weekly CSV exports",
+  "finalized_at": "2026-08-25T16:27:25.399108+00:00",
+  "finalization_method": "explicit commissioner confirmation after final refresh and reconciliation"
+}

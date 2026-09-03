@@ -1,0 +1,16 @@
+dataset,grain,rows,unique_matches,unique_players,unique_teams,key_fields,source,coverage_pct,status
+raw_whoscored_match,one provider payload per match,380,380,,,match directory; provider identity; checksum,WhoScored/Opta,100.0,VALIDATED_RAW
+advanced_player_match,see dataset key,14677,380,603,20,canonical_match_id; canonical_player_id; club_id; opponent_id; whoscored_player_id; rating; formation; actual_position_standardized,supplemental advanced layer,100.0,VALIDATED
+historical_position_fantasy_allowed,see dataset key,80,,,20,opponent_id; position_group; matches; player_matches; points_allowed; ghost_allowed; goals_allowed; key_passes_allowed,supplemental advanced layer,100.0,VALIDATED
+player_event_data,see dataset key,571844,380,522,20,canonical_match_id; whoscored_match_id; event_id; provider_event_id; provider_sequence_event_id; canonical_player_id; whoscored_player_id; whoscored_team_id,supplemental advanced layer,100.0,VALIDATED
+player_match_roles,see dataset key,8239,380,463,20,canonical_match_id; canonical_player_id; whoscored_player_id; club_id; opponent_id; manager_id; formation; actual_position_raw,supplemental advanced layer,100.0,VALIDATED
+player_role_profile,see dataset key,2079,,463,20,canonical_player_id; club_id; manager_id; formation; actual_position_standardized; starts_at_role; starts_observed; role_share,supplemental advanced layer,100.0,VALIDATED
+team_formation_history,see dataset key,760,380,,20,canonical_match_id; whoscored_match_id; date; club_id; opponent_id; venue; goals_for; goals_against,supplemental advanced layer,100.0,VALIDATED
+team_formation_profile,see dataset key,188,,,20,club_id; manager_id; formation; venue; matches; formation_share,supplemental advanced layer,100.0,VALIDATED
+team_match_features,see dataset key,760,380,,20,canonical_match_id; whoscored_match_id; date; club_id; opponent_id; venue; goals_for; goals_against,supplemental advanced layer,100.0,VALIDATED
+whoscored_event,see dataset key,577884,380,522,20,canonical_match_id; whoscored_match_id; event_id; provider_event_id; provider_sequence_event_id; canonical_player_id; whoscored_player_id; whoscored_team_id,supplemental advanced layer,100.0,VALIDATED
+whoscored_lineup,see dataset key,15189,380,603,20,canonical_match_id; whoscored_player_id; whoscored_player_name; canonical_player_id; club_id; opponent_id; whoscored_team_id; started,supplemental advanced layer,100.0,VALIDATED
+whoscored_match,see dataset key,380,380,,20,canonical_match_id; whoscored_match_id; date; home_club_id; away_club_id; whoscored_home_team_id; whoscored_away_team_id; home_score,supplemental advanced layer,100.0,VALIDATED
+manager_registry,one canonical manager,31,,,,manager_id; manager_name; first_observed_date; last_observed_date; observed_clubs; normalized_name; source; source_manager_id,WhoScored observed identity,100.0,VALIDATED
+manager_tenures,one observed manager-club range,33,,,20,club_id; manager_id; manager_name; start_date; end_date; first_observed_match; last_observed_match; matches_observed,WhoScored observations,100.0,USABLE_WITH_CAVEAT
+player_identity,one WhoScored player ID,677,,603,,whoscored_player_id; whoscored_player_name; canonical_player_id; fantrax_player_id; understat_player_id; canonical_club_id; season; mapping_method,WhoScored/Fantrax/Understat,100.0,VALIDATED

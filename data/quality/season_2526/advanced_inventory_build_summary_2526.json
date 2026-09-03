@@ -1,0 +1,75 @@
+{
+  "raw_event_qualifier_inventory_seconds": 34.72,
+  "normalized_dictionary_seconds": 7.941,
+  "metric_coverage_seconds": 0.559,
+  "complete_seconds": 43.327,
+  "datasets": 15,
+  "event_types": 39,
+  "qualifiers": 114,
+  "roles": 17,
+  "formations": 19,
+  "metrics": 60,
+  "rating": {
+    "all": {
+      "observations": 15189,
+      "rated": 11492,
+      "coverage_pct": 75.66,
+      "min": 4.07,
+      "median": 6.5,
+      "max": 10.0,
+      "missing": 3697
+    },
+    "starters": {
+      "observations": 8360,
+      "rated": 8360,
+      "coverage_pct": 100.0,
+      "min": 4.07,
+      "median": 6.7,
+      "max": 10.0,
+      "missing": 0
+    },
+    "used_substitutes": {
+      "observations": 3132,
+      "rated": 3132,
+      "coverage_pct": 100.0,
+      "min": 4.98,
+      "median": 6.14,
+      "max": 8.34,
+      "missing": 0
+    },
+    "unused_substitutes": {
+      "observations": 3697,
+      "rated": 0,
+      "coverage_pct": 0.0,
+      "min": null,
+      "median": null,
+      "max": null,
+      "missing": 3697
+    },
+    "goalkeepers": {
+      "observations": 760,
+      "rated": 760,
+      "coverage_pct": 100.0,
+      "min": 4.33,
+      "median": 6.595,
+      "max": 9.14,
+      "missing": 0
+    },
+    "subbed_off": {
+      "observations": 3132,
+      "rated": 3132,
+      "coverage_pct": 100.0,
+      "min": 4.33,
+      "median": 6.52,
+      "max": 10.0,
+      "missing": 0
+    }
+  },
+  "substitutions": {
+    "on_events": 3132,
+    "off_events": 3132,
+    "on_with_expanded": 3132,
+    "off_with_expanded": 3132,
+    "paired_related": 3132
+  }
+}

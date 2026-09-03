@@ -1,0 +1,12 @@
+{
+  "matches": 30,
+  "teams": 20,
+  "players": 459,
+  "meaningful_players": 380,
+  "mapped_meaningful": 369,
+  "understat_exact": 879,
+  "understat_rate": 0.7545064377682403,
+  "fantrax_comparable": 1085,
+  "fantrax_exact_points": 1085,
+  "all_gates_passed": true
+}

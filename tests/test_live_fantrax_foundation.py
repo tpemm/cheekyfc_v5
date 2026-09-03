@@ -10,7 +10,7 @@ import pytest
 from fantrax.live.acquisition import FantraxAccessError, fetch_json
 from urllib.error import HTTPError
 from fantrax.live.cache import cache_filename, cache_path, refresh_json, write_validated_json
-from fantrax.live.config import load_live_season_config
+from fantrax.live.config import load_live_season_config,resolve_live_league_id
 from fantrax.live.normalization import normalize_transactions
 from fantrax.live.pipeline import build_live_season
 from fantrax.live.validation import (
@@ -59,7 +59,7 @@ def seed_cache(cfg):
 
 
 def test_configuration_centralizes_2627_and_requires_external_league_id(project_path):
-    missing=load_live_season_config(environ={},project_root=project_path)
+    missing=load_live_season_config(environ={},secrets={},secrets_path=project_path/"missing.toml",project_root=project_path)
     assert missing.season_id=="2627" and missing.manager_count==12 and missing.league_id is None
     with pytest.raises(RuntimeError,match="FANTRAX_LEAGUE_ID_2627"): missing.require_league_id()
     assert config(project_path).require_league_id()=="live-league"
@@ -69,6 +69,20 @@ def test_configuration_centralizes_2627_and_requires_external_league_id(project_
     inventory=(ROOT/"docs/fantrax_data_sources.md").read_text(encoding="utf-8")
     for component in ("fetch_fantrax_api_data.py","transform_fantrax_api_json.py","fetch_fantrax_api_player_ids_epl.py","scrape_allplayers_weekly_fantrax.py","scrape_team_rosters_weekly_fantrax.py","refresh_all_fantrax_data.py","merge_master_with_api_rosters_v2.py"):
         assert component in inventory
+
+
+def test_league_id_resolution_supports_environment_streamlit_and_local_toml(project_path):
+    path=project_path/".streamlit"/"secrets.toml";path.parent.mkdir(parents=True)
+    path.write_text('FANTRAX_LEAGUE_ID_2627 = "local-league"\n',encoding="utf-8")
+    assert resolve_live_league_id("FANTRAX_LEAGUE_ID_2627",environ={"FANTRAX_LEAGUE_ID_2627":"env-league"},secrets={"FANTRAX_LEAGUE_ID_2627":"cloud-league"},project_root=project_path)=="env-league"
+    assert resolve_live_league_id("FANTRAX_LEAGUE_ID_2627",environ={},secrets={"FANTRAX_LEAGUE_ID_2627":"cloud-league"},project_root=project_path)=="cloud-league"
+    assert resolve_live_league_id("FANTRAX_LEAGUE_ID_2627",environ={},secrets={},project_root=project_path)=="local-league"
+    assert resolve_live_league_id("FANTRAX_LEAGUE_ID_2627",environ={},secrets={},secrets_path=project_path/"absent.toml",project_root=project_path) is None
+
+
+def test_retired_league_id_is_rejected_from_every_source(project_path):
+    with pytest.raises(ValueError,match="retired 2025/26"):
+        resolve_live_league_id("FANTRAX_LEAGUE_ID_2627",environ={"FANTRAX_LEAGUE_ID_2627":"rg1i70pfmdhjhvn3"},secrets={},project_root=project_path)
 
 
 def test_cache_names_metadata_and_failed_refresh_preserve_valid_artifact(project_path):
@@ -121,7 +135,7 @@ def test_cache_only_build_normalizes_registry_quality_and_manifest(project_path,
     assert len(result["datasets"]["weekly_matchups"])==6
     assert len(result["datasets"]["manager_week_summary"])==12
     assert len(result["datasets"]["player_ownership"])==12
-    manifest=json.loads(result["manifest_path"].read_text()); assert len(manifest["datasets"])==19
+    manifest=json.loads(result["manifest_path"].read_text()); assert len(manifest["datasets"])==20
     assert "live_league_summary" in result["datasets"]
     assert all(item["sha256"] and item["validation_result"]=="valid" for item in manifest["datasets"])
     assert (cfg.quality_root/"live_season_quality_summary.csv").exists()

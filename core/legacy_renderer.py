@@ -31,6 +31,7 @@ from views.live_league_hub import render as render_live_league_hub
 from views.live_managers import render as render_live_managers
 from views.managers import render as render_managers
 from views.players import render as render_players
+from views.teams import render as render_teams
 from views.historical_players import render as render_historical_players
 from views.coming_soon import render as render_coming_soon
 from views.cup_tournament import render as render_cup_tournament
@@ -52,7 +53,7 @@ _GLOBAL_CSS = """
 .block-container { max-width: 1600px; padding-top: 3.75rem; padding-bottom: 3rem; }
 .compact-header {
     display: flex; justify-content: space-between; align-items: center;
-    gap: 18px; margin: -1.25rem 0 1.4rem; padding: 14px 18px;
+    gap: 18px; margin: 0 0 1.4rem; padding: 14px 18px;
     border: 1px solid var(--border); border-radius: 18px;
     background: var(--surface); box-shadow: var(--shadow);
 }
@@ -220,6 +221,8 @@ def render_application(ui: Any = st, season_manager: SeasonManager | None = None
             render_historical_players(CURRENT_SEASON_ID)
         else:
             render_players(CURRENT_SEASON_ID)
+    elif page == "Teams":
+        render_teams(CURRENT_SEASON_ID)
     elif page == "Award Detail":
         render_awards(CURRENT_SEASON_ID)
     elif page == "Managers":

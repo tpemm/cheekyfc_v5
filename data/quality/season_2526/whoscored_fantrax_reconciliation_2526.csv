@@ -1,0 +1,9 @@
+metric,whoscored_field,fantrax_field,observations,exact_agreement,near_agreement_abs_le_1,mean_difference,median_difference,classification,definition_note
+key_passes,key_passes,mgr_kp,5872,0.9935286103542235,0.9974455040871935,-0.0008514986376021798,0.0,COMPARABLE_SAME_CONCEPT,same event concept
+successful_dribbles,dribbles_successful,,0,,,,,NOT_COMPARABLE_FIELD_UNAVAILABLE,Fantrax export has no legitimate successful-dribble field
+aerial_wins,aerials_won,mgr_aer,5872,0.9705381471389646,0.9948910081743869,-0.02690735694822888,0.0,COMPARABLE_SAME_CONCEPT,same outcome concept
+interceptions,interceptions,mgr_int,5872,0.9935286103542235,0.997275204359673,-0.0023841961852861036,0.0,COMPARABLE_SAME_CONCEPT,same event concept
+clearances,clearances,mgr_clr,5872,0.8637602179836512,0.9717302452316077,0.03763623978201635,0.0,EXPECTED_DEFINITION_MISMATCH,provider definition may differ
+shots_on_target,shots_on_target,mgr_sot,5872,0.7654972752043597,0.9460149863760218,0.2954700272479564,0.0,EXPECTED_DEFINITION_MISMATCH,provider definition may differ
+tackles_vs_tackles_won,tackles,mgr_tkw,5872,0.6662125340599455,0.892200272479564,0.4655994550408719,0.0,EXPECTED_DEFINITION_MISMATCH,attempt/event versus won-only definition
+crosses_vs_accurate_crosses,crosses,mgr_ac,5337,0.46861532696271313,0.6702267191305977,1.3897320592092937,1.0,EXPECTED_DEFINITION_MISMATCH,attempt versus accurate-only definition

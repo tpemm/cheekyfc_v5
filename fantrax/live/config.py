@@ -5,6 +5,8 @@ from __future__ import annotations
 from dataclasses import dataclass
 import json
 import os
+import tomllib
+from collections.abc import Mapping
 from pathlib import Path
 from typing import Any
 
@@ -12,6 +14,45 @@ from config.project_paths import PROJECT_ROOT
 
 
 CONFIG_PATH = PROJECT_ROOT / "config" / "live_season_2627.json"
+RETIRED_LEAGUE_IDS = frozenset({"rg1i70pfmdhjhvn3"})
+
+
+def _mapping_value(values: Mapping[str, Any] | None, name: str) -> str | None:
+    if not values:return None
+    direct=str(values.get(name,"")).strip()
+    if direct:return direct
+    fantrax=values.get("fantrax",{})
+    return str(fantrax.get(name,"")).strip() or None if isinstance(fantrax,Mapping) else None
+
+
+def _runtime_streamlit_secrets() -> Mapping[str, Any] | None:
+    """Read deployed/local Streamlit secrets when a Streamlit runtime is available."""
+    try:
+        import streamlit as st
+        return st.secrets
+    except Exception:
+        return None
+
+
+def resolve_live_league_id(
+    name: str,
+    *,
+    environ: Mapping[str, str] | None = None,
+    secrets: Mapping[str, Any] | None = None,
+    secrets_path: str | Path | None = None,
+    project_root: str | Path = PROJECT_ROOT,
+) -> str | None:
+    """Resolve environment, Streamlit secrets, then local TOML—never retired IDs."""
+    environment=os.environ if environ is None else environ
+    value=str(environment.get(name,"")).strip() or None
+    path=Path(secrets_path) if secrets_path is not None else Path(project_root)/".streamlit"/"secrets.toml"
+    if value is None and secrets is not None:value=_mapping_value(secrets,name)
+    if value is None and path.exists():
+        with path.open("rb") as handle:value=_mapping_value(tomllib.load(handle),name)
+    if value is None and secrets is None:value=_mapping_value(_runtime_streamlit_secrets(),name)
+    if value in RETIRED_LEAGUE_IDS:
+        raise ValueError("The retired 2025/26 Fantrax league ID cannot be used for season 2627")
+    return value
 
 
 @dataclass(frozen=True, slots=True)
@@ -52,16 +93,17 @@ def load_live_season_config(
     path: str | Path = CONFIG_PATH,
     *,
     environ: dict[str, str] | None = None,
+    secrets: Mapping[str, Any] | None = None,
+    secrets_path: str | Path | None = None,
     project_root: str | Path = PROJECT_ROOT,
 ) -> LiveSeasonConfig:
     payload = json.loads(Path(path).read_text(encoding="utf-8"))
-    environment = os.environ if environ is None else environ
     season_id = str(payload["season_id"])
     if season_id != "2627":
         raise ValueError("Live-season configuration must target season 2627")
     env_name = str(payload["league_id_env"])
-    league_id = str(environment.get(env_name, "")).strip() or None
     root = Path(project_root)
+    league_id=resolve_live_league_id(env_name,environ=environ,secrets=secrets,secrets_path=secrets_path,project_root=root)
     periods = payload["scoring_periods"]
     return LiveSeasonConfig(
         season_id=season_id,

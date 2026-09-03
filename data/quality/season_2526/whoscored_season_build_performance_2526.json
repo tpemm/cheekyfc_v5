@@ -1,0 +1,23 @@
+{
+  "season": "2526",
+  "rows": {
+    "whoscored_match": 380,
+    "whoscored_lineup": 15189,
+    "whoscored_event": 577884,
+    "advanced_player_match": 14677,
+    "player_match_roles": 8239,
+    "player_role_profile": 2079,
+    "team_formation_history": 760,
+    "team_formation_profile": 188,
+    "team_match_features": 760,
+    "player_event_data": 571844,
+    "historical_position_fantasy_allowed": 80
+  },
+  "timings": {
+    "normalized_identity_manager_team_build_seconds": 36.73,
+    "role_formation_build_seconds": 0.028,
+    "positional_build_seconds": 0.031,
+    "atomic_product_write_seconds": 13.61,
+    "complete_build_seconds": 56.966
+  }
+}

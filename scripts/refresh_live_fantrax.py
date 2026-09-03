@@ -16,19 +16,25 @@ from fantrax.live.cache import cache_path, refresh_json
 from fantrax.live.config import load_live_season_config
 from fantrax.live.normalization import load_cached_json
 from fantrax.live.pipeline import _explicit_period
+from fantrax.live.season_state import resolve_scoring_period_state
+from fantrax.live.understat_live import scoring_periods_from_league
 from fantrax.live.weekly_acquisition import refresh_weekly_stats
+from fantrax.live.matchup_acquisition import refresh_live_scoring
 from fantrax.utils.cli import configure_unicode_console
+from core.services.machine_role import require_commissioner_writer
 
 
-SUPPORTED = ("league_metadata", "standings", "rosters", "weekly_stats")
+SUPPORTED = ("league_metadata", "standings", "rosters", "weekly_stats", "matchup_scores")
 
 
-def roster_periods(config, *, explicit=None, full_history=False, league_payload=None):
+def roster_periods(config, *, explicit=None, full_history=False, league_payload=None, now=None):
     if explicit:
         return (config.validate_period(explicit),)
     if full_history:
         return tuple(range(config.period_minimum, config.period_maximum + 1))
     current = _explicit_period(league_payload) if league_payload else None
+    if current is None and league_payload:
+        current=resolve_scoring_period_state(scoring_periods_from_league(league_payload),league_payload=league_payload,now=now).current_period
     return (config.validate_period(current or config.period_minimum),)
 
 
@@ -40,6 +46,7 @@ def _stdin_parameters() -> dict:
 
 def main() -> int:
     configure_unicode_console()
+    require_commissioner_writer("Fantrax live acquisition")
     stage="configuration"
     try:
         parser=argparse.ArgumentParser(); parser.add_argument("--source",choices=(*SUPPORTED,"all"),default=None); parser.add_argument("--period",type=int,default=None); parser.add_argument("--full-history",action="store_true"); parser.add_argument("--weekly-mode",choices=("normal","backfill","force_current"),default=None); parser.add_argument("--force",action="store_true")
@@ -48,11 +55,19 @@ def main() -> int:
     except Exception as exc:
         print(f"REFRESH_FAILURE stage={stage} exception_type={type(exc).__name__} message={exc}",file=sys.stderr); return 1
     period=args.period or supplied.get("period"); full_history=args.full_history or bool(supplied.get("full_history",False))
-    sources=("league_metadata","standings","rosters","weekly_stats") if source=="all" else (source,)
+    sources=("league_metadata","standings","rosters","weekly_stats","matchup_scores") if source=="all" else (source,)
     results=[]
     try:
       for item in sources:
-        if item=="weekly_stats":
+        if item=="matchup_scores":
+            stage="getLiveScoringStats"
+            league_path=cache_path(config,"league","league_metadata")
+            if not league_path.exists(): raise FileNotFoundError("Matchup acquisition requires cached league metadata")
+            targets=roster_periods(config,explicit=period,league_payload=load_cached_json(league_path))
+            for value in targets:
+                metadata=refresh_live_scoring(league_id=league_id,raw_root=config.raw_root,model_root=config.model_root,season_id=config.season_id,period=value,project_root=PROJECT_ROOT)
+                results.append({"source":item,**metadata})
+        elif item=="weekly_stats":
             stage="weekly_player_stats"
             league_path=cache_path(config,"league","league_metadata")
             if not league_path.exists(): raise FileNotFoundError("Weekly acquisition requires cached league metadata")

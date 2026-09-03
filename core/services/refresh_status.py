@@ -1,0 +1,47 @@
+"""Evidence-derived refresh status for the Operations Center."""
+from __future__ import annotations
+import json
+from datetime import datetime,timezone
+from pathlib import Path
+import pandas as pd
+
+def _mtime(path:Path):return datetime.fromtimestamp(path.stat().st_mtime,timezone.utc).isoformat() if path.exists() else None
+def _json(path:Path)->dict:
+    try:return json.loads(path.read_text(encoding='utf-8')) if path.exists() else {}
+    except (OSError,json.JSONDecodeError):return {}
+def derive_refresh_status(root:Path|None=None,season:str='2627')->pd.DataFrame:
+    root=root or Path(__file__).resolve().parents[2]
+    rows=[];live=root/f'data/models/season_{season}/live_season_manifest_{season}.json'
+    rows.append({'area':'Core Data','state':'Current' if live.exists() else 'Unavailable','last_successful_refresh':_mtime(live),'coverage':pd.NA,'detail':'Registered Fantrax/API build manifest' if live.exists() else 'No live build manifest'})
+    weekly_root=root/f'data/raw/fantrax/{season}/player_stats';period_meta=sorted(weekly_root.glob('period_*/metadata.json')) if weekly_root.exists() else [];weekly_meta=_json(period_meta[-1]) if period_meta else {};acquired=int(weekly_meta.get('manager_exports_acquired',0));expected=int(weekly_meta.get('manager_exports_expected',0));period=weekly_meta.get('period');maturity=weekly_meta.get('maturity','MISSING');all_rows=int(weekly_meta.get('all_player_rows',0));weekly_state='Current' if acquired and acquired==expected and all_rows else ('Partial' if acquired or all_rows else 'Unavailable')
+    expected_display=expected or 12;missing_count=len(weekly_meta.get('missing_team_ids',[])) if weekly_meta else expected_display
+    rows.append({'area':'Fantrax Weekly Exports','state':weekly_state,'last_successful_refresh':_mtime(period_meta[-1]) if period_meta else None,'coverage':f'{acquired}/{expected_display} managers','detail':f"GW{period or '—'} {maturity} · all-player {all_rows} rows · {missing_count} manager exports missing"})
+    matchup_meta_path=root/f'data/raw/fantrax/{season}/matchups/period_{int(period or 1):02d}/metadata.json';matchup_meta=_json(matchup_meta_path);matchup_rows=int(matchup_meta.get('matchup_rows',0));matchup_teams=int(matchup_meta.get('team_coverage',0));matchup_current=matchup_meta.get('validation_status')=='valid' and matchup_rows==6 and matchup_teams==12
+    rows.append({'area':'Fantrax Matchup Scores','state':'Current' if matchup_current else 'Unavailable','last_successful_refresh':matchup_meta.get('acquired_at'),'coverage':f'{matchup_teams}/12 teams · {matchup_rows}/6 matchups','detail':f"GW{matchup_meta.get('period',period or 1)} authoritative getLiveScoringStats" if matchup_current else 'No validated matchup authority cache'})
+    recon_path=root/f'data/quality/season_{season}/fantrax_matchup_three_way_reconciliation_{season}.csv';recon=pd.read_csv(recon_path) if recon_path.exists() else pd.DataFrame();exact_live=int(pd.to_numeric(recon.get('diff_matchup_vs_live'),errors='coerce').abs().le(.01).sum()) if not recon.empty else 0;exact_all=int(recon.get('status',pd.Series(dtype=str)).eq('EXACT_ALL').sum()) if not recon.empty else 0
+    rows.append({'area':'Player / Matchup Reconciliation','state':'Current' if len(recon)==12 and exact_live==12 else ('Partial' if len(recon) else 'Unavailable'),'last_successful_refresh':_mtime(recon_path),'coverage':f'{exact_live}/12 live exact','detail':f'{exact_all} all-source exact · {len(recon)-exact_all} documented CSV source-state differences'})
+    unified_manifest=root/f'data/quality/season_{season}/weekly_unified_latest_{season}.json';unified=_json(unified_manifest);unified_rows=int(unified.get('unified_rows',0));waiver_rows=int(unified.get('waiver_rows',0));fantasy_allowed_rows=int(unified.get('fantasy_allowed_rows',0));unified_state='Current' if unified_rows else ('Blocked' if unified.get('status') else 'Unavailable')
+    rows.append({'area':'Unified Player-Week','state':unified_state,'last_successful_refresh':_mtime(unified_manifest),'coverage':f'{unified_rows} players · {waiver_rows} waivers','detail':f"{fantasy_allowed_rows} Fantasy Allowed rows · {unified.get('status','no build manifest')}"})
+    schedule_path=root/f'data/reference/whoscored_season_manifest_{season}.csv';schedule=pd.read_csv(schedule_path) if schedule_path.exists() else pd.DataFrame();expected=int(schedule.is_completed.sum()) if not schedule.empty and 'is_completed' in schedule else int(schedule.planner_status.isin(['ELIGIBLE_MISSING','ELIGIBLE_PRELIMINARY','FAILED_RETRYABLE','STABLE']).sum()) if 'planner_status' in schedule else 0
+    validation=root/f'data/quality/season_{season}/whoscored_raw_cache_validation_{season}.csv'
+    candidates=[validation,root/f'data/quality/season_{season}/whoscored_season_acquisition_manifest_{season}.csv',root/f'data/quality/season_{season}/whoscored_weekly_acquisition_manifest_{season}.csv',root/f'data/quality/season_{season}/whoscored_acquisition_manifest_{season}.csv'];acq_path=next((p for p in candidates if p.exists()),candidates[-1]);acq=pd.read_csv(acq_path) if acq_path.exists() else pd.DataFrame();valid=int(acq.classification.eq('VALID').sum()) if 'classification' in acq else (int(acq.cache_valid.eq(True).sum()) if not acq.empty else 0);failed=int(acq.status.isin(['FAILED','TIMEOUT']).sum()) if 'status' in acq else int(acq.classification.eq('INVALID').sum()) if 'classification' in acq else 0
+    if 'cache_status' in schedule:
+        valid=int(schedule.cache_status.isin(['PRELIMINARY','STABLE']).sum());failed=int(schedule.acquisition_status.isin(['FAILED','TIMEOUT']).sum()) if 'acquisition_status' in schedule else 0;preliminary=int(schedule.cache_status.eq('PRELIMINARY').sum());stable=int(schedule.cache_status.eq('STABLE').sum())
+    else:preliminary=stable=0
+    state='Unavailable' if not expected else ('Complete' if valid==expected and not failed else ('Partial' if valid else 'Stale'))
+    valid_mask=acq.classification.eq('VALID') if 'classification' in acq else acq.cache_valid.eq(True) if 'cache_valid' in acq else pd.Series(False,index=acq.index)
+    latest=acq.loc[valid_mask,'date'].max() if valid and 'date' in acq else pd.NA
+    rows.append({'area':'WhoScored Advanced','state':state,'last_successful_refresh':_mtime(schedule_path),'coverage':f'{valid}/{expected}','detail':f'{preliminary} preliminary · {stable} stable · {expected-valid} missing · {failed} failed · latest {latest}'})
+    understat=root/f'data/raw/understat/{season}/understat_schedule_{season}_ENG-Premier_League.csv';us=pd.read_csv(understat) if understat.exists() else pd.DataFrame();represented=int(us.loc[us.is_result.eq(True),'gameweek'].max()) if not us.empty and us.is_result.any() else pd.NA
+    us_report=_json(root/f'data/quality/season_{season}/understat_live_latest_{season}.json');matches=int(us_report.get('matches',0));team_rows=int(us_report.get('team_rows',0));player_rows=int(us_report.get('player_rows',0));unresolved=int(us_report.get('unresolved_players',0));us_state='Current' if matches and team_rows==matches*2 else ('Partial' if len(us) else 'Unavailable')
+    rows.append({'area':'Schedule / Understat','state':us_state,'last_successful_refresh':_mtime(understat),'coverage':f'{matches} matches · {team_rows} team · {player_rows} player','detail':f'Latest completed GW {represented} · {unresolved} unresolved player identities' if pd.notna(represented) else 'No completed match evidence'})
+    canonical=root/f'data/models/season_{season}/advanced';advanced=canonical/f'advanced_player_match_{season}.csv';events=canonical/f'whoscored_event_{season}.csv'
+    if not advanced.exists():advanced=root/f'data/models/season_{season}/advanced_player_match_scale_{season}.csv'
+    if not events.exists():events=root/f'data/models/season_{season}/whoscored_event_scale_{season}.csv'
+    identity=root/'data/reference/whoscored_player_identity.csv'
+    ar=len(pd.read_csv(advanced)) if advanced.exists() else 0;er=len(pd.read_csv(events)) if events.exists() else 0;unresolved=int(pd.read_csv(identity).mapping_status.ne('PROVEN').sum()) if identity.exists() else 0
+    managers=root/f'data/reference/manager_observations_{season}.csv';managers=managers if managers.exists() else root/'data/reference/manager_registry.csv';manager_count=pd.read_csv(managers).manager_id.nunique() if managers.exists() else 0
+    rows.append({'area':'Advanced Models','state':'Current' if ar and er else 'Unavailable','last_successful_refresh':max(filter(None,[_mtime(advanced),_mtime(events)]),default=None),'coverage':f'{ar} player-match · {er} events','detail':f'{unresolved} unresolved players · {manager_count} managers'})
+    season_gates=root/f'data/quality/season_{season}/whoscored_season_quality_gates_{season}.csv';scale_gates=root/f'data/quality/season_{season}/whoscored_scale_readiness_gates_{season}.csv';understat_gates=root/f'data/quality/season_{season}/understat_gw1_quality_gates_{season}.csv';gates=next((p for p in (season_gates,scale_gates,understat_gates) if p.exists()),season_gates);g=pd.read_csv(gates) if gates.exists() else pd.DataFrame();fail=int(g.passed.eq(False).sum()) if not g.empty else 0
+    rows.append({'area':'Quality','state':'Current' if not g.empty and fail==0 else ('Failed' if fail else 'Unavailable'),'last_successful_refresh':_mtime(gates),'coverage':f'{len(g)-fail}/{len(g)} gates' if len(g) else pd.NA,'detail':f'{fail} failed validation gates'})
+    return pd.DataFrame(rows)

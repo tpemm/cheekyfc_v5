@@ -1,0 +1,13 @@
+club_id,formation,formation_count,matches_observed,formation_share,scope
+aston_villa,4231,2,2,1.0,POC_SAMPLE_ONLY
+brighton,4231,2,2,1.0,POC_SAMPLE_ONLY
+chelsea,4231,1,1,1.0,POC_SAMPLE_ONLY
+leeds_united,352,2,2,1.0,POC_SAMPLE_ONLY
+liverpool,4231,1,1,1.0,POC_SAMPLE_ONLY
+manchester_city,4222,1,1,1.0,POC_SAMPLE_ONLY
+manchester_united,4231,2,2,1.0,POC_SAMPLE_ONLY
+newcastle_united,4231,1,1,1.0,POC_SAMPLE_ONLY
+nottingham_forest,442,1,1,1.0,POC_SAMPLE_ONLY
+tottenham_hotspur,4231,1,1,1.0,POC_SAMPLE_ONLY
+west_ham,3421,1,1,0.5,POC_SAMPLE_ONLY
+west_ham,4231,1,1,0.5,POC_SAMPLE_ONLY

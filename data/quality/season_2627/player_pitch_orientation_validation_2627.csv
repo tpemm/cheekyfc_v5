@@ -1,0 +1,7 @@
+player,event_id,match,raw_x,raw_y,old_plot_x,old_plot_y,new_plot_x,new_plot_y,expected_side,observed_side,validation_status
+David Raya,ws:2957448647:1,soccerdata:sofascore:16363633,5.3,26.6,26.6,5.3,73.4,5.3,RIGHT,RIGHT,PASS
+Bukayo Saka,ws:2957436499:1,soccerdata:sofascore:16363633,60.0,6.7,6.7,60.0,93.3,60.0,RIGHT,RIGHT,PASS
+Piero Hincapié,ws:2957534385:1,soccerdata:sofascore:16363633,0.0,0.0,0.0,0.0,100.0,0.0,RIGHT,RIGHT,PASS
+Vitaly Janelt,ws:2958042931:1,soccerdata:sofascore:16363242,60.7,92.2,92.2,60.7,7.799999999999997,60.7,LEFT,LEFT,PASS
+Maxim De Cuyper,ws:2958753307:1,soccerdata:sofascore:16363236,61.1,89.6,89.6,61.1,10.400000000000006,61.1,LEFT,LEFT,PASS
+Cole Palmer,ws:2959574243:1,soccerdata:sofascore:16363244,96.9,65.0,65.0,96.9,35.0,96.9,LEFT,LEFT,PASS

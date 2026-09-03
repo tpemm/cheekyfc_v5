@@ -1,0 +1,5 @@
+metric,actual,expected,status,detail
+acquisition_status,timeout,success,blocked,soccerdata ClubElo HTTP endpoint and HTTPS diagnostic both timed out
+current_club_coverage,0,20,blocked,no valid rating response cached
+history_club_coverage,0,20,blocked,history was not requested after current endpoint failed
+runtime_fuzzy_matching,False,False,passed,normalizer accepts explicit provider-name mappings only

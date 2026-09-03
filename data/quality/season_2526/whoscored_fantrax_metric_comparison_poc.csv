@@ -1,0 +1,1030 @@
+canonical_match_id,canonical_player_id,metric,comparison_basis,whoscored_value,fantrax_value,difference,exact_match
+understat:29140,FTX-02LZ0,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29140,FTX-04TM0,key_passes,direct key passes,1.0,1.0,0.0,True
+understat:29140,FTX-04YO7,key_passes,direct key passes,1.0,1.0,0.0,True
+understat:29140,FTX-051K0,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29140,FTX-05UHT,key_passes,direct key passes,4.0,4.0,0.0,True
+understat:29140,FTX-051KL,key_passes,direct key passes,2.0,2.0,0.0,True
+understat:29140,FTX-05OCL,key_passes,direct key passes,1.0,1.0,0.0,True
+understat:29140,FTX-05U7F,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29140,FTX-03VLJ,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29140,FTX-06DO9,key_passes,direct key passes,1.0,1.0,0.0,True
+understat:29140,FTX-06FXE,key_passes,direct key passes,1.0,1.0,0.0,True
+understat:29140,FTX-06CMM,key_passes,direct key passes,6.0,6.0,0.0,True
+understat:29140,FTX-06R2G,key_passes,direct key passes,2.0,2.0,0.0,True
+understat:29140,FTX-067YV,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29140,FTX-03AQP,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29140,FTX-06V21,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29145,FTX-070HL,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29145,FTX-04QFZ,key_passes,direct key passes,2.0,2.0,0.0,True
+understat:29145,FTX-03GU4,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29145,FTX-02OQ6,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29145,FTX-0642L,key_passes,direct key passes,2.0,2.0,0.0,True
+understat:29145,FTX-0666P,key_passes,direct key passes,3.0,3.0,0.0,True
+understat:29145,FTX-05GCR,key_passes,direct key passes,8.0,8.0,0.0,True
+understat:29145,FTX-067YZ,key_passes,direct key passes,4.0,4.0,0.0,True
+understat:29145,FTX-05TRB,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29145,FTX-06RLJ,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29145,FTX-06KQY,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29145,FTX-04F6H,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29145,FTX-05A6E,key_passes,direct key passes,1.0,1.0,0.0,True
+understat:29145,FTX-06MW0,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29145,FTX-05OPJ,key_passes,direct key passes,3.0,3.0,0.0,True
+understat:29145,FTX-04QR9,key_passes,direct key passes,1.0,1.0,0.0,True
+understat:29144,FTX-06V51,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29144,FTX-03YQZ,key_passes,direct key passes,1.0,1.0,0.0,True
+understat:29144,FTX-0521Z,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29144,FTX-06ZBX,key_passes,direct key passes,1.0,1.0,0.0,True
+understat:29144,FTX-04LAV,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29144,FTX-061VP,key_passes,direct key passes,1.0,1.0,0.0,True
+understat:29144,FTX-049TQ,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29144,FTX-04UG0,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29144,FTX-06CMU,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29144,FTX-05OH0,key_passes,direct key passes,1.0,1.0,0.0,True
+understat:29144,FTX-04E1C,key_passes,direct key passes,1.0,1.0,0.0,True
+understat:29144,FTX-06Y9M,key_passes,direct key passes,2.0,2.0,0.0,True
+understat:29144,FTX-04FK1,key_passes,direct key passes,4.0,4.0,0.0,True
+understat:29144,FTX-06PHE,key_passes,direct key passes,3.0,3.0,0.0,True
+understat:29144,FTX-067YS,key_passes,direct key passes,2.0,2.0,0.0,True
+understat:29144,FTX-06C6G,key_passes,direct key passes,1.0,1.0,0.0,True
+understat:29144,FTX-02LNX,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29144,FTX-06R5B,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29146,FTX-044EI,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29146,FTX-0700P,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29146,FTX-062A9,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29146,FTX-05Y9N,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29146,FTX-05YLJ,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29146,FTX-06CMS,key_passes,direct key passes,1.0,1.0,0.0,True
+understat:29146,FTX-02LSA,key_passes,direct key passes,1.0,1.0,0.0,True
+understat:29146,FTX-04MDN,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29146,FTX-06MGA,key_passes,direct key passes,1.0,1.0,0.0,True
+understat:29146,FTX-04ML6,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29146,FTX-04ADP,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29146,FTX-06YMU,key_passes,direct key passes,3.0,3.0,0.0,True
+understat:29146,FTX-05GCP,key_passes,direct key passes,1.0,1.0,0.0,True
+understat:29146,FTX-06PE1,key_passes,direct key passes,1.0,1.0,0.0,True
+understat:29146,FTX-05RL4,key_passes,direct key passes,1.0,1.0,0.0,True
+understat:29146,FTX-046C5,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29142,FTX-04YME,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29142,FTX-05W9I,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29142,FTX-05RB8,key_passes,direct key passes,1.0,1.0,0.0,True
+understat:29142,FTX-056IY,key_passes,direct key passes,1.0,1.0,0.0,True
+understat:29142,FTX-05L8Q,key_passes,direct key passes,1.0,1.0,0.0,True
+understat:29142,FTX-068YM,key_passes,direct key passes,2.0,2.0,0.0,True
+understat:29142,FTX-04MUP,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29142,FTX-051K7,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29142,FTX-05N07,key_passes,direct key passes,3.0,3.0,0.0,True
+understat:29142,FTX-06EZB,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29142,FTX-062DT,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29142,FTX-05YLW,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29142,FTX-051K8,key_passes,direct key passes,1.0,1.0,0.0,True
+understat:29142,FTX-06RM8,key_passes,direct key passes,1.0,1.0,0.0,True
+understat:29142,FTX-04IO4,key_passes,direct key passes,1.0,1.0,0.0,True
+understat:29148,FTX-06CMU,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29148,FTX-06MPP,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29148,FTX-05OH0,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29148,FTX-04E1C,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29148,FTX-06PHE,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29148,FTX-04FK1,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29148,FTX-06R5B,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29148,FTX-067YS,key_passes,direct key passes,1.0,1.0,0.0,True
+understat:29148,FTX-06Y9M,key_passes,direct key passes,3.0,3.0,0.0,True
+understat:29148,FTX-02LNX,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29148,FTX-06C6G,key_passes,direct key passes,1.0,1.0,0.0,True
+understat:29148,FTX-070HL,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29148,FTX-03GU4,key_passes,direct key passes,1.0,1.0,0.0,True
+understat:29148,FTX-02OQ6,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29148,FTX-0666P,key_passes,direct key passes,1.0,1.0,0.0,True
+understat:29148,FTX-052CD,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29148,FTX-05GCR,key_passes,direct key passes,4.0,4.0,0.0,True
+understat:29148,FTX-06RLJ,key_passes,direct key passes,2.0,2.0,0.0,True
+understat:29148,FTX-05TRB,key_passes,direct key passes,1.0,1.0,0.0,True
+understat:29148,FTX-067YZ,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29148,FTX-06KQY,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29153,FTX-05OZ3,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29153,FTX-05OMU,key_passes,direct key passes,1.0,1.0,0.0,True
+understat:29153,FTX-02Y6O,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29153,FTX-04FK6,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29153,FTX-04ABB,key_passes,direct key passes,3.0,3.0,0.0,True
+understat:29153,FTX-06FUP,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29153,FTX-06EX4,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29153,FTX-051KL,key_passes,direct key passes,3.0,3.0,0.0,True
+understat:29153,FTX-05OCL,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29153,FTX-04YO7,key_passes,direct key passes,2.0,2.0,0.0,True
+understat:29153,FTX-051K0,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29153,FTX-04TM0,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29157,FTX-06MGA,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29157,FTX-06EW2,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29157,FTX-04ML6,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29157,FTX-06YMU,key_passes,direct key passes,1.0,1.0,0.0,True
+understat:29157,FTX-05GCP,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29157,FTX-06PE1,key_passes,direct key passes,2.0,2.0,0.0,True
+understat:29157,FTX-046C5,key_passes,direct key passes,2.0,2.0,0.0,True
+understat:29157,FTX-05RL4,key_passes,direct key passes,2.0,2.0,0.0,True
+understat:29157,FTX-04ADP,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29157,FTX-05MZZ,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29157,FTX-06V51,key_passes,direct key passes,0.0,0.0,0.0,True
+understat:29157,FTX-03YQZ,key_passes,direct key passes,1.0,1.0,0.0,True
+understat:29157,FTX-0521Z,key_passes,direct key passes,1.0,1.0,0.0,True
+understat:29157,FTX-061VP,key_passes,direct key passes,1.0,1.0,0.0,True
+understat:29157,FTX-04LAV,key_passes,direct key passes,1.0,1.0,0.0,True
+understat:29157,FTX-049TQ,key_passes,direct key passes,2.0,2.0,0.0,True
+understat:29140,FTX-02LZ0,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29140,FTX-04TM0,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29140,FTX-04YO7,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29140,FTX-051K0,dribbles_successful,direct successful TakeOns,2.0,2.0,0.0,True
+understat:29140,FTX-05UHT,dribbles_successful,direct successful TakeOns,1.0,1.0,0.0,True
+understat:29140,FTX-051KL,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29140,FTX-05OCL,dribbles_successful,direct successful TakeOns,1.0,1.0,0.0,True
+understat:29140,FTX-05U7F,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29140,FTX-03VLJ,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29140,FTX-06DO9,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29140,FTX-06FXE,dribbles_successful,direct successful TakeOns,1.0,1.0,0.0,True
+understat:29140,FTX-06CMM,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29140,FTX-06R2G,dribbles_successful,direct successful TakeOns,3.0,3.0,0.0,True
+understat:29140,FTX-067YV,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29140,FTX-03AQP,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29140,FTX-06V21,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29145,FTX-070HL,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29145,FTX-04QFZ,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29145,FTX-03GU4,dribbles_successful,direct successful TakeOns,1.0,1.0,0.0,True
+understat:29145,FTX-02OQ6,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29145,FTX-0642L,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29145,FTX-0666P,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29145,FTX-05GCR,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29145,FTX-067YZ,dribbles_successful,direct successful TakeOns,3.0,3.0,0.0,True
+understat:29145,FTX-05TRB,dribbles_successful,direct successful TakeOns,1.0,1.0,0.0,True
+understat:29145,FTX-06RLJ,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29145,FTX-06KQY,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29145,FTX-04F6H,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29145,FTX-05A6E,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29145,FTX-06MW0,dribbles_successful,direct successful TakeOns,1.0,1.0,0.0,True
+understat:29145,FTX-05OPJ,dribbles_successful,direct successful TakeOns,3.0,3.0,0.0,True
+understat:29145,FTX-04QR9,dribbles_successful,direct successful TakeOns,3.0,3.0,0.0,True
+understat:29144,FTX-06V51,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29144,FTX-03YQZ,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29144,FTX-0521Z,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29144,FTX-06ZBX,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29144,FTX-04LAV,dribbles_successful,direct successful TakeOns,1.0,1.0,0.0,True
+understat:29144,FTX-061VP,dribbles_successful,direct successful TakeOns,2.0,2.0,0.0,True
+understat:29144,FTX-049TQ,dribbles_successful,direct successful TakeOns,2.0,2.0,0.0,True
+understat:29144,FTX-04UG0,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29144,FTX-06CMU,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29144,FTX-05OH0,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29144,FTX-04E1C,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29144,FTX-06Y9M,dribbles_successful,direct successful TakeOns,1.0,1.0,0.0,True
+understat:29144,FTX-04FK1,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29144,FTX-06PHE,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29144,FTX-067YS,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29144,FTX-06C6G,dribbles_successful,direct successful TakeOns,3.0,3.0,0.0,True
+understat:29144,FTX-02LNX,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29144,FTX-06R5B,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29146,FTX-044EI,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29146,FTX-0700P,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29146,FTX-062A9,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29146,FTX-05Y9N,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29146,FTX-05YLJ,dribbles_successful,direct successful TakeOns,2.0,2.0,0.0,True
+understat:29146,FTX-06CMS,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29146,FTX-02LSA,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29146,FTX-04MDN,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29146,FTX-06MGA,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29146,FTX-04ML6,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29146,FTX-04ADP,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29146,FTX-06YMU,dribbles_successful,direct successful TakeOns,1.0,1.0,0.0,True
+understat:29146,FTX-05GCP,dribbles_successful,direct successful TakeOns,1.0,1.0,0.0,True
+understat:29146,FTX-06PE1,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29146,FTX-05RL4,dribbles_successful,direct successful TakeOns,6.0,6.0,0.0,True
+understat:29146,FTX-046C5,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29142,FTX-04YME,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29142,FTX-05W9I,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29142,FTX-05RB8,dribbles_successful,direct successful TakeOns,1.0,1.0,0.0,True
+understat:29142,FTX-056IY,dribbles_successful,direct successful TakeOns,2.0,2.0,0.0,True
+understat:29142,FTX-05L8Q,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29142,FTX-068YM,dribbles_successful,direct successful TakeOns,1.0,1.0,0.0,True
+understat:29142,FTX-04MUP,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29142,FTX-051K7,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29142,FTX-05N07,dribbles_successful,direct successful TakeOns,1.0,1.0,0.0,True
+understat:29142,FTX-06EZB,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29142,FTX-062DT,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29142,FTX-05YLW,dribbles_successful,direct successful TakeOns,4.0,4.0,0.0,True
+understat:29142,FTX-051K8,dribbles_successful,direct successful TakeOns,1.0,1.0,0.0,True
+understat:29142,FTX-06RM8,dribbles_successful,direct successful TakeOns,1.0,1.0,0.0,True
+understat:29142,FTX-04IO4,dribbles_successful,direct successful TakeOns,1.0,1.0,0.0,True
+understat:29148,FTX-06CMU,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29148,FTX-06MPP,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29148,FTX-05OH0,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29148,FTX-04E1C,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29148,FTX-06PHE,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29148,FTX-04FK1,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29148,FTX-06R5B,dribbles_successful,direct successful TakeOns,1.0,1.0,0.0,True
+understat:29148,FTX-067YS,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29148,FTX-06Y9M,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29148,FTX-02LNX,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29148,FTX-06C6G,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29148,FTX-070HL,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29148,FTX-03GU4,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29148,FTX-02OQ6,dribbles_successful,direct successful TakeOns,1.0,1.0,0.0,True
+understat:29148,FTX-0666P,dribbles_successful,direct successful TakeOns,3.0,3.0,0.0,True
+understat:29148,FTX-052CD,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29148,FTX-05GCR,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29148,FTX-06RLJ,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29148,FTX-05TRB,dribbles_successful,direct successful TakeOns,1.0,1.0,0.0,True
+understat:29148,FTX-067YZ,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29148,FTX-06KQY,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29153,FTX-05OZ3,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29153,FTX-05OMU,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29153,FTX-02Y6O,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29153,FTX-04FK6,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29153,FTX-04ABB,dribbles_successful,direct successful TakeOns,1.0,1.0,0.0,True
+understat:29153,FTX-06FUP,dribbles_successful,direct successful TakeOns,1.0,1.0,0.0,True
+understat:29153,FTX-06EX4,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29153,FTX-051KL,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29153,FTX-05OCL,dribbles_successful,direct successful TakeOns,2.0,2.0,0.0,True
+understat:29153,FTX-04YO7,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29153,FTX-051K0,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29153,FTX-04TM0,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29157,FTX-06MGA,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29157,FTX-06EW2,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29157,FTX-04ML6,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29157,FTX-06YMU,dribbles_successful,direct successful TakeOns,1.0,1.0,0.0,True
+understat:29157,FTX-05GCP,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29157,FTX-06PE1,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29157,FTX-046C5,dribbles_successful,direct successful TakeOns,1.0,1.0,0.0,True
+understat:29157,FTX-05RL4,dribbles_successful,direct successful TakeOns,3.0,3.0,0.0,True
+understat:29157,FTX-04ADP,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29157,FTX-05MZZ,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29157,FTX-06V51,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29157,FTX-03YQZ,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29157,FTX-0521Z,dribbles_successful,direct successful TakeOns,1.0,1.0,0.0,True
+understat:29157,FTX-061VP,dribbles_successful,direct successful TakeOns,1.0,1.0,0.0,True
+understat:29157,FTX-04LAV,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29157,FTX-049TQ,dribbles_successful,direct successful TakeOns,0.0,0.0,0.0,True
+understat:29140,FTX-02LZ0,aerials_won,successful aerial player-events,2.0,2.0,0.0,True
+understat:29140,FTX-04TM0,aerials_won,successful aerial player-events,3.0,3.0,0.0,True
+understat:29140,FTX-04YO7,aerials_won,successful aerial player-events,1.0,1.0,0.0,True
+understat:29140,FTX-051K0,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29140,FTX-05UHT,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29140,FTX-051KL,aerials_won,successful aerial player-events,1.0,1.0,0.0,True
+understat:29140,FTX-05OCL,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29140,FTX-05U7F,aerials_won,successful aerial player-events,4.0,4.0,0.0,True
+understat:29140,FTX-03VLJ,aerials_won,successful aerial player-events,6.0,6.0,0.0,True
+understat:29140,FTX-06DO9,aerials_won,successful aerial player-events,1.0,1.0,0.0,True
+understat:29140,FTX-06FXE,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29140,FTX-06CMM,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29140,FTX-06R2G,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29140,FTX-067YV,aerials_won,successful aerial player-events,1.0,1.0,0.0,True
+understat:29140,FTX-03AQP,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29140,FTX-06V21,aerials_won,successful aerial player-events,1.0,1.0,0.0,True
+understat:29145,FTX-070HL,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29145,FTX-04QFZ,aerials_won,successful aerial player-events,3.0,3.0,0.0,True
+understat:29145,FTX-03GU4,aerials_won,successful aerial player-events,4.0,4.0,0.0,True
+understat:29145,FTX-02OQ6,aerials_won,successful aerial player-events,1.0,1.0,0.0,True
+understat:29145,FTX-0642L,aerials_won,successful aerial player-events,1.0,1.0,0.0,True
+understat:29145,FTX-0666P,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29145,FTX-05GCR,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29145,FTX-067YZ,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29145,FTX-05TRB,aerials_won,successful aerial player-events,1.0,1.0,0.0,True
+understat:29145,FTX-06RLJ,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29145,FTX-06KQY,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29145,FTX-04F6H,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29145,FTX-05A6E,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29145,FTX-06MW0,aerials_won,successful aerial player-events,1.0,1.0,0.0,True
+understat:29145,FTX-05OPJ,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29145,FTX-04QR9,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29144,FTX-06V51,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29144,FTX-03YQZ,aerials_won,successful aerial player-events,3.0,3.0,0.0,True
+understat:29144,FTX-0521Z,aerials_won,successful aerial player-events,1.0,1.0,0.0,True
+understat:29144,FTX-06ZBX,aerials_won,successful aerial player-events,2.0,2.0,0.0,True
+understat:29144,FTX-04LAV,aerials_won,successful aerial player-events,1.0,1.0,0.0,True
+understat:29144,FTX-061VP,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29144,FTX-049TQ,aerials_won,successful aerial player-events,5.0,5.0,0.0,True
+understat:29144,FTX-04UG0,aerials_won,successful aerial player-events,1.0,1.0,0.0,True
+understat:29144,FTX-06CMU,aerials_won,successful aerial player-events,1.0,1.0,0.0,True
+understat:29144,FTX-05OH0,aerials_won,successful aerial player-events,5.0,5.0,0.0,True
+understat:29144,FTX-04E1C,aerials_won,successful aerial player-events,3.0,3.0,0.0,True
+understat:29144,FTX-06Y9M,aerials_won,successful aerial player-events,1.0,1.0,0.0,True
+understat:29144,FTX-04FK1,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29144,FTX-06PHE,aerials_won,successful aerial player-events,2.0,2.0,0.0,True
+understat:29144,FTX-067YS,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29144,FTX-06C6G,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29144,FTX-02LNX,aerials_won,successful aerial player-events,2.0,2.0,0.0,True
+understat:29144,FTX-06R5B,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29146,FTX-044EI,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29146,FTX-0700P,aerials_won,successful aerial player-events,1.0,1.0,0.0,True
+understat:29146,FTX-062A9,aerials_won,successful aerial player-events,3.0,3.0,0.0,True
+understat:29146,FTX-05Y9N,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29146,FTX-05YLJ,aerials_won,successful aerial player-events,1.0,1.0,0.0,True
+understat:29146,FTX-06CMS,aerials_won,successful aerial player-events,1.0,1.0,0.0,True
+understat:29146,FTX-02LSA,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29146,FTX-04MDN,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29146,FTX-06MGA,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29146,FTX-04ML6,aerials_won,successful aerial player-events,4.0,4.0,0.0,True
+understat:29146,FTX-04ADP,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29146,FTX-06YMU,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29146,FTX-05GCP,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29146,FTX-06PE1,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29146,FTX-05RL4,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29146,FTX-046C5,aerials_won,successful aerial player-events,2.0,2.0,0.0,True
+understat:29142,FTX-04YME,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29142,FTX-05W9I,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29142,FTX-05RB8,aerials_won,successful aerial player-events,1.0,1.0,0.0,True
+understat:29142,FTX-056IY,aerials_won,successful aerial player-events,1.0,1.0,0.0,True
+understat:29142,FTX-05L8Q,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29142,FTX-068YM,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29142,FTX-04MUP,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29142,FTX-051K7,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29142,FTX-05N07,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29142,FTX-06EZB,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29142,FTX-062DT,aerials_won,successful aerial player-events,1.0,1.0,0.0,True
+understat:29142,FTX-05YLW,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29142,FTX-051K8,aerials_won,successful aerial player-events,1.0,1.0,0.0,True
+understat:29142,FTX-06RM8,aerials_won,successful aerial player-events,1.0,1.0,0.0,True
+understat:29142,FTX-04IO4,aerials_won,successful aerial player-events,4.0,4.0,0.0,True
+understat:29148,FTX-06CMU,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29148,FTX-06MPP,aerials_won,successful aerial player-events,3.0,3.0,0.0,True
+understat:29148,FTX-05OH0,aerials_won,successful aerial player-events,4.0,4.0,0.0,True
+understat:29148,FTX-04E1C,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29148,FTX-06PHE,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29148,FTX-04FK1,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29148,FTX-06R5B,aerials_won,successful aerial player-events,3.0,3.0,0.0,True
+understat:29148,FTX-067YS,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29148,FTX-06Y9M,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29148,FTX-02LNX,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29148,FTX-06C6G,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29148,FTX-070HL,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29148,FTX-03GU4,aerials_won,successful aerial player-events,1.0,1.0,0.0,True
+understat:29148,FTX-02OQ6,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29148,FTX-0666P,aerials_won,successful aerial player-events,1.0,1.0,0.0,True
+understat:29148,FTX-052CD,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29148,FTX-05GCR,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29148,FTX-06RLJ,aerials_won,successful aerial player-events,2.0,2.0,0.0,True
+understat:29148,FTX-05TRB,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29148,FTX-067YZ,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29148,FTX-06KQY,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29153,FTX-05OZ3,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29153,FTX-05OMU,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29153,FTX-02Y6O,aerials_won,successful aerial player-events,1.0,1.0,0.0,True
+understat:29153,FTX-04FK6,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29153,FTX-04ABB,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29153,FTX-06FUP,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29153,FTX-06EX4,aerials_won,successful aerial player-events,1.0,1.0,0.0,True
+understat:29153,FTX-051KL,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29153,FTX-05OCL,aerials_won,successful aerial player-events,3.0,3.0,0.0,True
+understat:29153,FTX-04YO7,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29153,FTX-051K0,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29153,FTX-04TM0,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29157,FTX-06MGA,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29157,FTX-06EW2,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29157,FTX-04ML6,aerials_won,successful aerial player-events,4.0,4.0,0.0,True
+understat:29157,FTX-06YMU,aerials_won,successful aerial player-events,1.0,1.0,0.0,True
+understat:29157,FTX-05GCP,aerials_won,successful aerial player-events,2.0,2.0,0.0,True
+understat:29157,FTX-06PE1,aerials_won,successful aerial player-events,1.0,1.0,0.0,True
+understat:29157,FTX-046C5,aerials_won,successful aerial player-events,1.0,1.0,0.0,True
+understat:29157,FTX-05RL4,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29157,FTX-04ADP,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29157,FTX-05MZZ,aerials_won,successful aerial player-events,2.0,2.0,0.0,True
+understat:29157,FTX-06V51,aerials_won,successful aerial player-events,3.0,3.0,0.0,True
+understat:29157,FTX-03YQZ,aerials_won,successful aerial player-events,0.0,0.0,0.0,True
+understat:29157,FTX-0521Z,aerials_won,successful aerial player-events,1.0,2.0,-1.0,False
+understat:29157,FTX-061VP,aerials_won,successful aerial player-events,1.0,1.0,0.0,True
+understat:29157,FTX-04LAV,aerials_won,successful aerial player-events,3.0,3.0,0.0,True
+understat:29157,FTX-049TQ,aerials_won,successful aerial player-events,1.0,1.0,0.0,True
+understat:29140,FTX-02LZ0,tackles,WhoScored tackle events versus Fantrax tackles won,0.0,0.0,0.0,True
+understat:29140,FTX-04TM0,tackles,WhoScored tackle events versus Fantrax tackles won,1.0,1.0,0.0,True
+understat:29140,FTX-04YO7,tackles,WhoScored tackle events versus Fantrax tackles won,2.0,2.0,0.0,True
+understat:29140,FTX-051K0,tackles,WhoScored tackle events versus Fantrax tackles won,1.0,1.0,0.0,True
+understat:29140,FTX-05UHT,tackles,WhoScored tackle events versus Fantrax tackles won,2.0,1.0,1.0,False
+understat:29140,FTX-051KL,tackles,WhoScored tackle events versus Fantrax tackles won,1.0,1.0,0.0,True
+understat:29140,FTX-05OCL,tackles,WhoScored tackle events versus Fantrax tackles won,0.0,0.0,0.0,True
+understat:29140,FTX-05U7F,tackles,WhoScored tackle events versus Fantrax tackles won,0.0,0.0,0.0,True
+understat:29140,FTX-03VLJ,tackles,WhoScored tackle events versus Fantrax tackles won,0.0,0.0,0.0,True
+understat:29140,FTX-06DO9,tackles,WhoScored tackle events versus Fantrax tackles won,0.0,0.0,0.0,True
+understat:29140,FTX-06FXE,tackles,WhoScored tackle events versus Fantrax tackles won,1.0,1.0,0.0,True
+understat:29140,FTX-06CMM,tackles,WhoScored tackle events versus Fantrax tackles won,1.0,0.0,1.0,False
+understat:29140,FTX-06R2G,tackles,WhoScored tackle events versus Fantrax tackles won,1.0,1.0,0.0,True
+understat:29140,FTX-067YV,tackles,WhoScored tackle events versus Fantrax tackles won,0.0,0.0,0.0,True
+understat:29140,FTX-03AQP,tackles,WhoScored tackle events versus Fantrax tackles won,0.0,0.0,0.0,True
+understat:29140,FTX-06V21,tackles,WhoScored tackle events versus Fantrax tackles won,1.0,0.0,1.0,False
+understat:29145,FTX-070HL,tackles,WhoScored tackle events versus Fantrax tackles won,0.0,0.0,0.0,True
+understat:29145,FTX-04QFZ,tackles,WhoScored tackle events versus Fantrax tackles won,4.0,1.0,3.0,False
+understat:29145,FTX-03GU4,tackles,WhoScored tackle events versus Fantrax tackles won,2.0,2.0,0.0,True
+understat:29145,FTX-02OQ6,tackles,WhoScored tackle events versus Fantrax tackles won,0.0,0.0,0.0,True
+understat:29145,FTX-0642L,tackles,WhoScored tackle events versus Fantrax tackles won,2.0,0.0,2.0,False
+understat:29145,FTX-0666P,tackles,WhoScored tackle events versus Fantrax tackles won,0.0,0.0,0.0,True
+understat:29145,FTX-05GCR,tackles,WhoScored tackle events versus Fantrax tackles won,2.0,2.0,0.0,True
+understat:29145,FTX-067YZ,tackles,WhoScored tackle events versus Fantrax tackles won,1.0,1.0,0.0,True
+understat:29145,FTX-05TRB,tackles,WhoScored tackle events versus Fantrax tackles won,0.0,0.0,0.0,True
+understat:29145,FTX-06RLJ,tackles,WhoScored tackle events versus Fantrax tackles won,0.0,0.0,0.0,True
+understat:29145,FTX-06KQY,tackles,WhoScored tackle events versus Fantrax tackles won,0.0,0.0,0.0,True
+understat:29145,FTX-04F6H,tackles,WhoScored tackle events versus Fantrax tackles won,0.0,0.0,0.0,True
+understat:29145,FTX-05A6E,tackles,WhoScored tackle events versus Fantrax tackles won,3.0,3.0,0.0,True
+understat:29145,FTX-06MW0,tackles,WhoScored tackle events versus Fantrax tackles won,1.0,1.0,0.0,True
+understat:29145,FTX-05OPJ,tackles,WhoScored tackle events versus Fantrax tackles won,3.0,2.0,1.0,False
+understat:29145,FTX-04QR9,tackles,WhoScored tackle events versus Fantrax tackles won,1.0,1.0,0.0,True
+understat:29144,FTX-06V51,tackles,WhoScored tackle events versus Fantrax tackles won,0.0,0.0,0.0,True
+understat:29144,FTX-03YQZ,tackles,WhoScored tackle events versus Fantrax tackles won,0.0,0.0,0.0,True
+understat:29144,FTX-0521Z,tackles,WhoScored tackle events versus Fantrax tackles won,2.0,0.0,2.0,False
+understat:29144,FTX-06ZBX,tackles,WhoScored tackle events versus Fantrax tackles won,3.0,1.0,2.0,False
+understat:29144,FTX-04LAV,tackles,WhoScored tackle events versus Fantrax tackles won,1.0,1.0,0.0,True
+understat:29144,FTX-061VP,tackles,WhoScored tackle events versus Fantrax tackles won,0.0,0.0,0.0,True
+understat:29144,FTX-049TQ,tackles,WhoScored tackle events versus Fantrax tackles won,0.0,0.0,0.0,True
+understat:29144,FTX-04UG0,tackles,WhoScored tackle events versus Fantrax tackles won,1.0,1.0,0.0,True
+understat:29144,FTX-06CMU,tackles,WhoScored tackle events versus Fantrax tackles won,0.0,0.0,0.0,True
+understat:29144,FTX-05OH0,tackles,WhoScored tackle events versus Fantrax tackles won,0.0,0.0,0.0,True
+understat:29144,FTX-04E1C,tackles,WhoScored tackle events versus Fantrax tackles won,0.0,0.0,0.0,True
+understat:29144,FTX-06Y9M,tackles,WhoScored tackle events versus Fantrax tackles won,0.0,0.0,0.0,True
+understat:29144,FTX-04FK1,tackles,WhoScored tackle events versus Fantrax tackles won,1.0,1.0,0.0,True
+understat:29144,FTX-06PHE,tackles,WhoScored tackle events versus Fantrax tackles won,0.0,0.0,0.0,True
+understat:29144,FTX-067YS,tackles,WhoScored tackle events versus Fantrax tackles won,1.0,1.0,0.0,True
+understat:29144,FTX-06C6G,tackles,WhoScored tackle events versus Fantrax tackles won,0.0,0.0,0.0,True
+understat:29144,FTX-02LNX,tackles,WhoScored tackle events versus Fantrax tackles won,1.0,0.0,1.0,False
+understat:29144,FTX-06R5B,tackles,WhoScored tackle events versus Fantrax tackles won,0.0,0.0,0.0,True
+understat:29146,FTX-044EI,tackles,WhoScored tackle events versus Fantrax tackles won,0.0,0.0,0.0,True
+understat:29146,FTX-0700P,tackles,WhoScored tackle events versus Fantrax tackles won,3.0,2.0,1.0,False
+understat:29146,FTX-062A9,tackles,WhoScored tackle events versus Fantrax tackles won,2.0,1.0,1.0,False
+understat:29146,FTX-05Y9N,tackles,WhoScored tackle events versus Fantrax tackles won,2.0,2.0,0.0,True
+understat:29146,FTX-05YLJ,tackles,WhoScored tackle events versus Fantrax tackles won,5.0,3.0,2.0,False
+understat:29146,FTX-06CMS,tackles,WhoScored tackle events versus Fantrax tackles won,1.0,1.0,0.0,True
+understat:29146,FTX-02LSA,tackles,WhoScored tackle events versus Fantrax tackles won,1.0,0.0,1.0,False
+understat:29146,FTX-04MDN,tackles,WhoScored tackle events versus Fantrax tackles won,0.0,0.0,0.0,True
+understat:29146,FTX-06MGA,tackles,WhoScored tackle events versus Fantrax tackles won,0.0,0.0,0.0,True
+understat:29146,FTX-04ML6,tackles,WhoScored tackle events versus Fantrax tackles won,3.0,3.0,0.0,True
+understat:29146,FTX-04ADP,tackles,WhoScored tackle events versus Fantrax tackles won,2.0,2.0,0.0,True
+understat:29146,FTX-06YMU,tackles,WhoScored tackle events versus Fantrax tackles won,1.0,0.0,1.0,False
+understat:29146,FTX-05GCP,tackles,WhoScored tackle events versus Fantrax tackles won,4.0,1.0,3.0,False
+understat:29146,FTX-06PE1,tackles,WhoScored tackle events versus Fantrax tackles won,1.0,1.0,0.0,True
+understat:29146,FTX-05RL4,tackles,WhoScored tackle events versus Fantrax tackles won,1.0,1.0,0.0,True
+understat:29146,FTX-046C5,tackles,WhoScored tackle events versus Fantrax tackles won,2.0,1.0,1.0,False
+understat:29142,FTX-04YME,tackles,WhoScored tackle events versus Fantrax tackles won,0.0,0.0,0.0,True
+understat:29142,FTX-05W9I,tackles,WhoScored tackle events versus Fantrax tackles won,3.0,2.0,1.0,False
+understat:29142,FTX-05RB8,tackles,WhoScored tackle events versus Fantrax tackles won,0.0,0.0,0.0,True
+understat:29142,FTX-056IY,tackles,WhoScored tackle events versus Fantrax tackles won,3.0,1.0,2.0,False
+understat:29142,FTX-05L8Q,tackles,WhoScored tackle events versus Fantrax tackles won,1.0,1.0,0.0,True
+understat:29142,FTX-068YM,tackles,WhoScored tackle events versus Fantrax tackles won,1.0,1.0,0.0,True
+understat:29142,FTX-04MUP,tackles,WhoScored tackle events versus Fantrax tackles won,0.0,0.0,0.0,True
+understat:29142,FTX-051K7,tackles,WhoScored tackle events versus Fantrax tackles won,0.0,0.0,0.0,True
+understat:29142,FTX-05N07,tackles,WhoScored tackle events versus Fantrax tackles won,1.0,1.0,0.0,True
+understat:29142,FTX-06EZB,tackles,WhoScored tackle events versus Fantrax tackles won,1.0,1.0,0.0,True
+understat:29142,FTX-062DT,tackles,WhoScored tackle events versus Fantrax tackles won,2.0,2.0,0.0,True
+understat:29142,FTX-05YLW,tackles,WhoScored tackle events versus Fantrax tackles won,2.0,2.0,0.0,True
+understat:29142,FTX-051K8,tackles,WhoScored tackle events versus Fantrax tackles won,2.0,1.0,1.0,False
+understat:29142,FTX-06RM8,tackles,WhoScored tackle events versus Fantrax tackles won,0.0,0.0,0.0,True
+understat:29142,FTX-04IO4,tackles,WhoScored tackle events versus Fantrax tackles won,2.0,1.0,1.0,False
+understat:29148,FTX-06CMU,tackles,WhoScored tackle events versus Fantrax tackles won,0.0,0.0,0.0,True
+understat:29148,FTX-06MPP,tackles,WhoScored tackle events versus Fantrax tackles won,2.0,2.0,0.0,True
+understat:29148,FTX-05OH0,tackles,WhoScored tackle events versus Fantrax tackles won,1.0,1.0,0.0,True
+understat:29148,FTX-04E1C,tackles,WhoScored tackle events versus Fantrax tackles won,2.0,1.0,1.0,False
+understat:29148,FTX-06PHE,tackles,WhoScored tackle events versus Fantrax tackles won,1.0,1.0,0.0,True
+understat:29148,FTX-04FK1,tackles,WhoScored tackle events versus Fantrax tackles won,0.0,0.0,0.0,True
+understat:29148,FTX-06R5B,tackles,WhoScored tackle events versus Fantrax tackles won,1.0,1.0,0.0,True
+understat:29148,FTX-067YS,tackles,WhoScored tackle events versus Fantrax tackles won,1.0,1.0,0.0,True
+understat:29148,FTX-06Y9M,tackles,WhoScored tackle events versus Fantrax tackles won,1.0,0.0,1.0,False
+understat:29148,FTX-02LNX,tackles,WhoScored tackle events versus Fantrax tackles won,0.0,0.0,0.0,True
+understat:29148,FTX-06C6G,tackles,WhoScored tackle events versus Fantrax tackles won,3.0,2.0,1.0,False
+understat:29148,FTX-070HL,tackles,WhoScored tackle events versus Fantrax tackles won,0.0,0.0,0.0,True
+understat:29148,FTX-03GU4,tackles,WhoScored tackle events versus Fantrax tackles won,1.0,1.0,0.0,True
+understat:29148,FTX-02OQ6,tackles,WhoScored tackle events versus Fantrax tackles won,2.0,2.0,0.0,True
+understat:29148,FTX-0666P,tackles,WhoScored tackle events versus Fantrax tackles won,2.0,2.0,0.0,True
+understat:29148,FTX-052CD,tackles,WhoScored tackle events versus Fantrax tackles won,4.0,2.0,2.0,False
+understat:29148,FTX-05GCR,tackles,WhoScored tackle events versus Fantrax tackles won,2.0,1.0,1.0,False
+understat:29148,FTX-06RLJ,tackles,WhoScored tackle events versus Fantrax tackles won,1.0,0.0,1.0,False
+understat:29148,FTX-05TRB,tackles,WhoScored tackle events versus Fantrax tackles won,0.0,0.0,0.0,True
+understat:29148,FTX-067YZ,tackles,WhoScored tackle events versus Fantrax tackles won,0.0,0.0,0.0,True
+understat:29148,FTX-06KQY,tackles,WhoScored tackle events versus Fantrax tackles won,0.0,0.0,0.0,True
+understat:29153,FTX-05OZ3,tackles,WhoScored tackle events versus Fantrax tackles won,0.0,0.0,0.0,True
+understat:29153,FTX-05OMU,tackles,WhoScored tackle events versus Fantrax tackles won,0.0,0.0,0.0,True
+understat:29153,FTX-02Y6O,tackles,WhoScored tackle events versus Fantrax tackles won,0.0,0.0,0.0,True
+understat:29153,FTX-04FK6,tackles,WhoScored tackle events versus Fantrax tackles won,4.0,3.0,1.0,False
+understat:29153,FTX-04ABB,tackles,WhoScored tackle events versus Fantrax tackles won,0.0,0.0,0.0,True
+understat:29153,FTX-06FUP,tackles,WhoScored tackle events versus Fantrax tackles won,0.0,0.0,0.0,True
+understat:29153,FTX-06EX4,tackles,WhoScored tackle events versus Fantrax tackles won,0.0,0.0,0.0,True
+understat:29153,FTX-051KL,tackles,WhoScored tackle events versus Fantrax tackles won,8.0,5.0,3.0,False
+understat:29153,FTX-05OCL,tackles,WhoScored tackle events versus Fantrax tackles won,1.0,1.0,0.0,True
+understat:29153,FTX-04YO7,tackles,WhoScored tackle events versus Fantrax tackles won,2.0,2.0,0.0,True
+understat:29153,FTX-051K0,tackles,WhoScored tackle events versus Fantrax tackles won,1.0,1.0,0.0,True
+understat:29153,FTX-04TM0,tackles,WhoScored tackle events versus Fantrax tackles won,0.0,0.0,0.0,True
+understat:29157,FTX-06MGA,tackles,WhoScored tackle events versus Fantrax tackles won,0.0,0.0,0.0,True
+understat:29157,FTX-06EW2,tackles,WhoScored tackle events versus Fantrax tackles won,0.0,0.0,0.0,True
+understat:29157,FTX-04ML6,tackles,WhoScored tackle events versus Fantrax tackles won,1.0,1.0,0.0,True
+understat:29157,FTX-06YMU,tackles,WhoScored tackle events versus Fantrax tackles won,1.0,0.0,1.0,False
+understat:29157,FTX-05GCP,tackles,WhoScored tackle events versus Fantrax tackles won,0.0,0.0,0.0,True
+understat:29157,FTX-06PE1,tackles,WhoScored tackle events versus Fantrax tackles won,5.0,5.0,0.0,True
+understat:29157,FTX-046C5,tackles,WhoScored tackle events versus Fantrax tackles won,1.0,0.0,1.0,False
+understat:29157,FTX-05RL4,tackles,WhoScored tackle events versus Fantrax tackles won,4.0,2.0,2.0,False
+understat:29157,FTX-04ADP,tackles,WhoScored tackle events versus Fantrax tackles won,0.0,0.0,0.0,True
+understat:29157,FTX-05MZZ,tackles,WhoScored tackle events versus Fantrax tackles won,2.0,0.0,2.0,False
+understat:29157,FTX-06V51,tackles,WhoScored tackle events versus Fantrax tackles won,1.0,0.0,1.0,False
+understat:29157,FTX-03YQZ,tackles,WhoScored tackle events versus Fantrax tackles won,2.0,1.0,1.0,False
+understat:29157,FTX-0521Z,tackles,WhoScored tackle events versus Fantrax tackles won,3.0,3.0,0.0,True
+understat:29157,FTX-061VP,tackles,WhoScored tackle events versus Fantrax tackles won,1.0,1.0,0.0,True
+understat:29157,FTX-04LAV,tackles,WhoScored tackle events versus Fantrax tackles won,2.0,0.0,2.0,False
+understat:29157,FTX-049TQ,tackles,WhoScored tackle events versus Fantrax tackles won,0.0,0.0,0.0,True
+understat:29140,FTX-02LZ0,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29140,FTX-04TM0,interceptions,direct interceptions,1.0,1.0,0.0,True
+understat:29140,FTX-04YO7,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29140,FTX-051K0,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29140,FTX-05UHT,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29140,FTX-051KL,interceptions,direct interceptions,2.0,2.0,0.0,True
+understat:29140,FTX-05OCL,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29140,FTX-05U7F,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29140,FTX-03VLJ,interceptions,direct interceptions,3.0,3.0,0.0,True
+understat:29140,FTX-06DO9,interceptions,direct interceptions,1.0,1.0,0.0,True
+understat:29140,FTX-06FXE,interceptions,direct interceptions,1.0,1.0,0.0,True
+understat:29140,FTX-06CMM,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29140,FTX-06R2G,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29140,FTX-067YV,interceptions,direct interceptions,1.0,1.0,0.0,True
+understat:29140,FTX-03AQP,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29140,FTX-06V21,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29145,FTX-070HL,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29145,FTX-04QFZ,interceptions,direct interceptions,1.0,1.0,0.0,True
+understat:29145,FTX-03GU4,interceptions,direct interceptions,1.0,1.0,0.0,True
+understat:29145,FTX-02OQ6,interceptions,direct interceptions,1.0,1.0,0.0,True
+understat:29145,FTX-0642L,interceptions,direct interceptions,1.0,1.0,0.0,True
+understat:29145,FTX-0666P,interceptions,direct interceptions,3.0,3.0,0.0,True
+understat:29145,FTX-05GCR,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29145,FTX-067YZ,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29145,FTX-05TRB,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29145,FTX-06RLJ,interceptions,direct interceptions,1.0,1.0,0.0,True
+understat:29145,FTX-06KQY,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29145,FTX-04F6H,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29145,FTX-05A6E,interceptions,direct interceptions,2.0,2.0,0.0,True
+understat:29145,FTX-06MW0,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29145,FTX-05OPJ,interceptions,direct interceptions,4.0,4.0,0.0,True
+understat:29145,FTX-04QR9,interceptions,direct interceptions,2.0,2.0,0.0,True
+understat:29144,FTX-06V51,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29144,FTX-03YQZ,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29144,FTX-0521Z,interceptions,direct interceptions,2.0,2.0,0.0,True
+understat:29144,FTX-06ZBX,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29144,FTX-04LAV,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29144,FTX-061VP,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29144,FTX-049TQ,interceptions,direct interceptions,1.0,1.0,0.0,True
+understat:29144,FTX-04UG0,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29144,FTX-06CMU,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29144,FTX-05OH0,interceptions,direct interceptions,1.0,1.0,0.0,True
+understat:29144,FTX-04E1C,interceptions,direct interceptions,1.0,1.0,0.0,True
+understat:29144,FTX-06Y9M,interceptions,direct interceptions,2.0,2.0,0.0,True
+understat:29144,FTX-04FK1,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29144,FTX-06PHE,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29144,FTX-067YS,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29144,FTX-06C6G,interceptions,direct interceptions,1.0,1.0,0.0,True
+understat:29144,FTX-02LNX,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29144,FTX-06R5B,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29146,FTX-044EI,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29146,FTX-0700P,interceptions,direct interceptions,2.0,2.0,0.0,True
+understat:29146,FTX-062A9,interceptions,direct interceptions,4.0,4.0,0.0,True
+understat:29146,FTX-05Y9N,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29146,FTX-05YLJ,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29146,FTX-06CMS,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29146,FTX-02LSA,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29146,FTX-04MDN,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29146,FTX-06MGA,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29146,FTX-04ML6,interceptions,direct interceptions,3.0,3.0,0.0,True
+understat:29146,FTX-04ADP,interceptions,direct interceptions,1.0,1.0,0.0,True
+understat:29146,FTX-06YMU,interceptions,direct interceptions,1.0,1.0,0.0,True
+understat:29146,FTX-05GCP,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29146,FTX-06PE1,interceptions,direct interceptions,1.0,1.0,0.0,True
+understat:29146,FTX-05RL4,interceptions,direct interceptions,1.0,1.0,0.0,True
+understat:29146,FTX-046C5,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29142,FTX-04YME,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29142,FTX-05W9I,interceptions,direct interceptions,1.0,1.0,0.0,True
+understat:29142,FTX-05RB8,interceptions,direct interceptions,1.0,1.0,0.0,True
+understat:29142,FTX-056IY,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29142,FTX-05L8Q,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29142,FTX-068YM,interceptions,direct interceptions,1.0,1.0,0.0,True
+understat:29142,FTX-04MUP,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29142,FTX-051K7,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29142,FTX-05N07,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29142,FTX-06EZB,interceptions,direct interceptions,1.0,1.0,0.0,True
+understat:29142,FTX-062DT,interceptions,direct interceptions,1.0,1.0,0.0,True
+understat:29142,FTX-05YLW,interceptions,direct interceptions,1.0,1.0,0.0,True
+understat:29142,FTX-051K8,interceptions,direct interceptions,2.0,2.0,0.0,True
+understat:29142,FTX-06RM8,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29142,FTX-04IO4,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29148,FTX-06CMU,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29148,FTX-06MPP,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29148,FTX-05OH0,interceptions,direct interceptions,2.0,2.0,0.0,True
+understat:29148,FTX-04E1C,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29148,FTX-06PHE,interceptions,direct interceptions,1.0,1.0,0.0,True
+understat:29148,FTX-04FK1,interceptions,direct interceptions,1.0,1.0,0.0,True
+understat:29148,FTX-06R5B,interceptions,direct interceptions,2.0,2.0,0.0,True
+understat:29148,FTX-067YS,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29148,FTX-06Y9M,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29148,FTX-02LNX,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29148,FTX-06C6G,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29148,FTX-070HL,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29148,FTX-03GU4,interceptions,direct interceptions,1.0,1.0,0.0,True
+understat:29148,FTX-02OQ6,interceptions,direct interceptions,3.0,3.0,0.0,True
+understat:29148,FTX-0666P,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29148,FTX-052CD,interceptions,direct interceptions,1.0,1.0,0.0,True
+understat:29148,FTX-05GCR,interceptions,direct interceptions,1.0,1.0,0.0,True
+understat:29148,FTX-06RLJ,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29148,FTX-05TRB,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29148,FTX-067YZ,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29148,FTX-06KQY,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29153,FTX-05OZ3,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29153,FTX-05OMU,interceptions,direct interceptions,1.0,1.0,0.0,True
+understat:29153,FTX-02Y6O,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29153,FTX-04FK6,interceptions,direct interceptions,1.0,1.0,0.0,True
+understat:29153,FTX-04ABB,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29153,FTX-06FUP,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29153,FTX-06EX4,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29153,FTX-051KL,interceptions,direct interceptions,3.0,3.0,0.0,True
+understat:29153,FTX-05OCL,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29153,FTX-04YO7,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29153,FTX-051K0,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29153,FTX-04TM0,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29157,FTX-06MGA,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29157,FTX-06EW2,interceptions,direct interceptions,2.0,2.0,0.0,True
+understat:29157,FTX-04ML6,interceptions,direct interceptions,1.0,1.0,0.0,True
+understat:29157,FTX-06YMU,interceptions,direct interceptions,2.0,2.0,0.0,True
+understat:29157,FTX-05GCP,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29157,FTX-06PE1,interceptions,direct interceptions,1.0,1.0,0.0,True
+understat:29157,FTX-046C5,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29157,FTX-05RL4,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29157,FTX-04ADP,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29157,FTX-05MZZ,interceptions,direct interceptions,2.0,2.0,0.0,True
+understat:29157,FTX-06V51,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29157,FTX-03YQZ,interceptions,direct interceptions,1.0,1.0,0.0,True
+understat:29157,FTX-0521Z,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29157,FTX-061VP,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29157,FTX-04LAV,interceptions,direct interceptions,0.0,0.0,0.0,True
+understat:29157,FTX-049TQ,interceptions,direct interceptions,1.0,1.0,0.0,True
+understat:29140,FTX-02LZ0,clearances,direct clearances,0.0,1.0,-1.0,False
+understat:29140,FTX-04TM0,clearances,direct clearances,4.0,4.0,0.0,True
+understat:29140,FTX-04YO7,clearances,direct clearances,1.0,1.0,0.0,True
+understat:29140,FTX-051K0,clearances,direct clearances,1.0,1.0,0.0,True
+understat:29140,FTX-05UHT,clearances,direct clearances,2.0,2.0,0.0,True
+understat:29140,FTX-051KL,clearances,direct clearances,2.0,2.0,0.0,True
+understat:29140,FTX-05OCL,clearances,direct clearances,1.0,1.0,0.0,True
+understat:29140,FTX-05U7F,clearances,direct clearances,5.0,5.0,0.0,True
+understat:29140,FTX-03VLJ,clearances,direct clearances,6.0,6.0,0.0,True
+understat:29140,FTX-06DO9,clearances,direct clearances,1.0,1.0,0.0,True
+understat:29140,FTX-06FXE,clearances,direct clearances,0.0,0.0,0.0,True
+understat:29140,FTX-06CMM,clearances,direct clearances,1.0,1.0,0.0,True
+understat:29140,FTX-06R2G,clearances,direct clearances,0.0,0.0,0.0,True
+understat:29140,FTX-067YV,clearances,direct clearances,1.0,1.0,0.0,True
+understat:29140,FTX-03AQP,clearances,direct clearances,0.0,0.0,0.0,True
+understat:29140,FTX-06V21,clearances,direct clearances,0.0,0.0,0.0,True
+understat:29145,FTX-070HL,clearances,direct clearances,1.0,1.0,0.0,True
+understat:29145,FTX-04QFZ,clearances,direct clearances,2.0,2.0,0.0,True
+understat:29145,FTX-03GU4,clearances,direct clearances,11.0,11.0,0.0,True
+understat:29145,FTX-02OQ6,clearances,direct clearances,7.0,4.0,3.0,False
+understat:29145,FTX-0642L,clearances,direct clearances,1.0,0.0,1.0,False
+understat:29145,FTX-0666P,clearances,direct clearances,3.0,3.0,0.0,True
+understat:29145,FTX-05GCR,clearances,direct clearances,0.0,0.0,0.0,True
+understat:29145,FTX-067YZ,clearances,direct clearances,2.0,2.0,0.0,True
+understat:29145,FTX-05TRB,clearances,direct clearances,0.0,0.0,0.0,True
+understat:29145,FTX-06RLJ,clearances,direct clearances,1.0,1.0,0.0,True
+understat:29145,FTX-06KQY,clearances,direct clearances,0.0,0.0,0.0,True
+understat:29145,FTX-04F6H,clearances,direct clearances,0.0,1.0,-1.0,False
+understat:29145,FTX-05A6E,clearances,direct clearances,1.0,1.0,0.0,True
+understat:29145,FTX-06MW0,clearances,direct clearances,1.0,1.0,0.0,True
+understat:29145,FTX-05OPJ,clearances,direct clearances,2.0,2.0,0.0,True
+understat:29145,FTX-04QR9,clearances,direct clearances,0.0,0.0,0.0,True
+understat:29144,FTX-06V51,clearances,direct clearances,12.0,12.0,0.0,True
+understat:29144,FTX-03YQZ,clearances,direct clearances,7.0,5.0,2.0,False
+understat:29144,FTX-0521Z,clearances,direct clearances,2.0,2.0,0.0,True
+understat:29144,FTX-06ZBX,clearances,direct clearances,1.0,1.0,0.0,True
+understat:29144,FTX-04LAV,clearances,direct clearances,3.0,2.0,1.0,False
+understat:29144,FTX-061VP,clearances,direct clearances,0.0,0.0,0.0,True
+understat:29144,FTX-049TQ,clearances,direct clearances,1.0,1.0,0.0,True
+understat:29144,FTX-04UG0,clearances,direct clearances,0.0,0.0,0.0,True
+understat:29144,FTX-06CMU,clearances,direct clearances,0.0,1.0,-1.0,False
+understat:29144,FTX-05OH0,clearances,direct clearances,8.0,8.0,0.0,True
+understat:29144,FTX-04E1C,clearances,direct clearances,5.0,5.0,0.0,True
+understat:29144,FTX-06Y9M,clearances,direct clearances,4.0,3.0,1.0,False
+understat:29144,FTX-04FK1,clearances,direct clearances,1.0,1.0,0.0,True
+understat:29144,FTX-06PHE,clearances,direct clearances,3.0,3.0,0.0,True
+understat:29144,FTX-067YS,clearances,direct clearances,2.0,2.0,0.0,True
+understat:29144,FTX-06C6G,clearances,direct clearances,2.0,2.0,0.0,True
+understat:29144,FTX-02LNX,clearances,direct clearances,2.0,2.0,0.0,True
+understat:29144,FTX-06R5B,clearances,direct clearances,1.0,1.0,0.0,True
+understat:29146,FTX-044EI,clearances,direct clearances,0.0,0.0,0.0,True
+understat:29146,FTX-0700P,clearances,direct clearances,3.0,3.0,0.0,True
+understat:29146,FTX-062A9,clearances,direct clearances,6.0,6.0,0.0,True
+understat:29146,FTX-05Y9N,clearances,direct clearances,1.0,1.0,0.0,True
+understat:29146,FTX-05YLJ,clearances,direct clearances,1.0,1.0,0.0,True
+understat:29146,FTX-06CMS,clearances,direct clearances,0.0,0.0,0.0,True
+understat:29146,FTX-02LSA,clearances,direct clearances,0.0,0.0,0.0,True
+understat:29146,FTX-04MDN,clearances,direct clearances,0.0,0.0,0.0,True
+understat:29146,FTX-06MGA,clearances,direct clearances,1.0,1.0,0.0,True
+understat:29146,FTX-04ML6,clearances,direct clearances,5.0,5.0,0.0,True
+understat:29146,FTX-04ADP,clearances,direct clearances,1.0,1.0,0.0,True
+understat:29146,FTX-06YMU,clearances,direct clearances,0.0,0.0,0.0,True
+understat:29146,FTX-05GCP,clearances,direct clearances,1.0,1.0,0.0,True
+understat:29146,FTX-06PE1,clearances,direct clearances,3.0,3.0,0.0,True
+understat:29146,FTX-05RL4,clearances,direct clearances,0.0,0.0,0.0,True
+understat:29146,FTX-046C5,clearances,direct clearances,1.0,1.0,0.0,True
+understat:29142,FTX-04YME,clearances,direct clearances,0.0,0.0,0.0,True
+understat:29142,FTX-05W9I,clearances,direct clearances,2.0,1.0,1.0,False
+understat:29142,FTX-05RB8,clearances,direct clearances,1.0,0.0,1.0,False
+understat:29142,FTX-056IY,clearances,direct clearances,0.0,0.0,0.0,True
+understat:29142,FTX-05L8Q,clearances,direct clearances,0.0,0.0,0.0,True
+understat:29142,FTX-068YM,clearances,direct clearances,0.0,0.0,0.0,True
+understat:29142,FTX-04MUP,clearances,direct clearances,2.0,2.0,0.0,True
+understat:29142,FTX-051K7,clearances,direct clearances,0.0,0.0,0.0,True
+understat:29142,FTX-05N07,clearances,direct clearances,3.0,1.0,2.0,False
+understat:29142,FTX-06EZB,clearances,direct clearances,1.0,1.0,0.0,True
+understat:29142,FTX-062DT,clearances,direct clearances,2.0,2.0,0.0,True
+understat:29142,FTX-05YLW,clearances,direct clearances,0.0,0.0,0.0,True
+understat:29142,FTX-051K8,clearances,direct clearances,1.0,1.0,0.0,True
+understat:29142,FTX-06RM8,clearances,direct clearances,2.0,2.0,0.0,True
+understat:29142,FTX-04IO4,clearances,direct clearances,2.0,2.0,0.0,True
+understat:29148,FTX-06CMU,clearances,direct clearances,1.0,1.0,0.0,True
+understat:29148,FTX-06MPP,clearances,direct clearances,0.0,0.0,0.0,True
+understat:29148,FTX-05OH0,clearances,direct clearances,4.0,4.0,0.0,True
+understat:29148,FTX-04E1C,clearances,direct clearances,3.0,3.0,0.0,True
+understat:29148,FTX-06PHE,clearances,direct clearances,2.0,2.0,0.0,True
+understat:29148,FTX-04FK1,clearances,direct clearances,1.0,1.0,0.0,True
+understat:29148,FTX-06R5B,clearances,direct clearances,0.0,0.0,0.0,True
+understat:29148,FTX-067YS,clearances,direct clearances,0.0,0.0,0.0,True
+understat:29148,FTX-06Y9M,clearances,direct clearances,0.0,0.0,0.0,True
+understat:29148,FTX-02LNX,clearances,direct clearances,0.0,0.0,0.0,True
+understat:29148,FTX-06C6G,clearances,direct clearances,0.0,0.0,0.0,True
+understat:29148,FTX-070HL,clearances,direct clearances,0.0,0.0,0.0,True
+understat:29148,FTX-03GU4,clearances,direct clearances,4.0,4.0,0.0,True
+understat:29148,FTX-02OQ6,clearances,direct clearances,1.0,1.0,0.0,True
+understat:29148,FTX-0666P,clearances,direct clearances,1.0,1.0,0.0,True
+understat:29148,FTX-052CD,clearances,direct clearances,1.0,1.0,0.0,True
+understat:29148,FTX-05GCR,clearances,direct clearances,0.0,0.0,0.0,True
+understat:29148,FTX-06RLJ,clearances,direct clearances,0.0,0.0,0.0,True
+understat:29148,FTX-05TRB,clearances,direct clearances,0.0,0.0,0.0,True
+understat:29148,FTX-067YZ,clearances,direct clearances,0.0,0.0,0.0,True
+understat:29148,FTX-06KQY,clearances,direct clearances,0.0,0.0,0.0,True
+understat:29153,FTX-05OZ3,clearances,direct clearances,0.0,0.0,0.0,True
+understat:29153,FTX-05OMU,clearances,direct clearances,2.0,2.0,0.0,True
+understat:29153,FTX-02Y6O,clearances,direct clearances,1.0,0.0,1.0,False
+understat:29153,FTX-04FK6,clearances,direct clearances,1.0,1.0,0.0,True
+understat:29153,FTX-04ABB,clearances,direct clearances,0.0,0.0,0.0,True
+understat:29153,FTX-06FUP,clearances,direct clearances,0.0,0.0,0.0,True
+understat:29153,FTX-06EX4,clearances,direct clearances,1.0,1.0,0.0,True
+understat:29153,FTX-051KL,clearances,direct clearances,0.0,0.0,0.0,True
+understat:29153,FTX-05OCL,clearances,direct clearances,0.0,0.0,0.0,True
+understat:29153,FTX-04YO7,clearances,direct clearances,1.0,1.0,0.0,True
+understat:29153,FTX-051K0,clearances,direct clearances,0.0,0.0,0.0,True
+understat:29153,FTX-04TM0,clearances,direct clearances,0.0,0.0,0.0,True
+understat:29157,FTX-06MGA,clearances,direct clearances,0.0,0.0,0.0,True
+understat:29157,FTX-06EW2,clearances,direct clearances,0.0,0.0,0.0,True
+understat:29157,FTX-04ML6,clearances,direct clearances,9.0,9.0,0.0,True
+understat:29157,FTX-06YMU,clearances,direct clearances,4.0,4.0,0.0,True
+understat:29157,FTX-05GCP,clearances,direct clearances,3.0,3.0,0.0,True
+understat:29157,FTX-06PE1,clearances,direct clearances,1.0,1.0,0.0,True
+understat:29157,FTX-046C5,clearances,direct clearances,1.0,1.0,0.0,True
+understat:29157,FTX-05RL4,clearances,direct clearances,0.0,0.0,0.0,True
+understat:29157,FTX-04ADP,clearances,direct clearances,0.0,0.0,0.0,True
+understat:29157,FTX-05MZZ,clearances,direct clearances,2.0,2.0,0.0,True
+understat:29157,FTX-06V51,clearances,direct clearances,7.0,7.0,0.0,True
+understat:29157,FTX-03YQZ,clearances,direct clearances,5.0,5.0,0.0,True
+understat:29157,FTX-0521Z,clearances,direct clearances,6.0,5.0,1.0,False
+understat:29157,FTX-061VP,clearances,direct clearances,3.0,1.0,2.0,False
+understat:29157,FTX-04LAV,clearances,direct clearances,3.0,3.0,0.0,True
+understat:29157,FTX-049TQ,clearances,direct clearances,0.0,0.0,0.0,True
+understat:29140,FTX-04TM0,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,2.0,1.0,1.0,False
+understat:29140,FTX-04YO7,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,0.0,0.0,0.0,True
+understat:29140,FTX-051K0,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,4.0,0.0,4.0,False
+understat:29140,FTX-05UHT,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,3.0,0.0,3.0,False
+understat:29140,FTX-051KL,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,0.0,0.0,0.0,True
+understat:29140,FTX-05OCL,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,0.0,0.0,0.0,True
+understat:29140,FTX-05U7F,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,0.0,0.0,0.0,True
+understat:29140,FTX-03VLJ,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,0.0,0.0,0.0,True
+understat:29140,FTX-06DO9,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,1.0,0.0,1.0,False
+understat:29140,FTX-06FXE,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,1.0,0.0,1.0,False
+understat:29140,FTX-06CMM,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,12.0,5.0,7.0,False
+understat:29140,FTX-06R2G,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,3.0,2.0,1.0,False
+understat:29140,FTX-067YV,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,0.0,0.0,0.0,True
+understat:29140,FTX-03AQP,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,3.0,1.0,2.0,False
+understat:29140,FTX-06V21,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,0.0,0.0,0.0,True
+understat:29145,FTX-04QFZ,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,3.0,2.0,1.0,False
+understat:29145,FTX-03GU4,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,0.0,0.0,0.0,True
+understat:29145,FTX-02OQ6,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,3.0,0.0,3.0,False
+understat:29145,FTX-0642L,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,1.0,0.0,1.0,False
+understat:29145,FTX-0666P,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,0.0,0.0,0.0,True
+understat:29145,FTX-05GCR,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,9.0,3.0,6.0,False
+understat:29145,FTX-067YZ,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,2.0,2.0,0.0,True
+understat:29145,FTX-05TRB,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,2.0,0.0,2.0,False
+understat:29145,FTX-06RLJ,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,0.0,0.0,0.0,True
+understat:29145,FTX-06KQY,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,0.0,0.0,0.0,True
+understat:29145,FTX-05A6E,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,6.0,1.0,5.0,False
+understat:29145,FTX-06MW0,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,0.0,0.0,0.0,True
+understat:29145,FTX-05OPJ,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,5.0,4.0,1.0,False
+understat:29145,FTX-04QR9,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,2.0,0.0,2.0,False
+understat:29144,FTX-06V51,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,0.0,0.0,0.0,True
+understat:29144,FTX-03YQZ,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,2.0,0.0,2.0,False
+understat:29144,FTX-0521Z,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,1.0,0.0,1.0,False
+understat:29144,FTX-06ZBX,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,12.0,2.0,10.0,False
+understat:29144,FTX-04LAV,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,1.0,0.0,1.0,False
+understat:29144,FTX-061VP,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,0.0,0.0,0.0,True
+understat:29144,FTX-049TQ,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,0.0,0.0,0.0,True
+understat:29144,FTX-04UG0,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,0.0,0.0,0.0,True
+understat:29144,FTX-05OH0,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,0.0,0.0,0.0,True
+understat:29144,FTX-04E1C,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,0.0,0.0,0.0,True
+understat:29144,FTX-06Y9M,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,7.0,6.0,1.0,False
+understat:29144,FTX-04FK1,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,11.0,3.0,8.0,False
+understat:29144,FTX-06PHE,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,4.0,1.0,3.0,False
+understat:29144,FTX-067YS,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,0.0,0.0,0.0,True
+understat:29144,FTX-06C6G,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,11.0,3.0,8.0,False
+understat:29144,FTX-02LNX,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,0.0,0.0,0.0,True
+understat:29144,FTX-06R5B,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,1.0,0.0,1.0,False
+understat:29146,FTX-0700P,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,0.0,0.0,0.0,True
+understat:29146,FTX-062A9,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,0.0,0.0,0.0,True
+understat:29146,FTX-05Y9N,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,3.0,1.0,2.0,False
+understat:29146,FTX-05YLJ,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,6.0,0.0,6.0,False
+understat:29146,FTX-06CMS,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,2.0,0.0,2.0,False
+understat:29146,FTX-02LSA,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,1.0,0.0,1.0,False
+understat:29146,FTX-04MDN,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,0.0,0.0,0.0,True
+understat:29146,FTX-04ML6,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,0.0,0.0,0.0,True
+understat:29146,FTX-04ADP,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,2.0,0.0,2.0,False
+understat:29146,FTX-06YMU,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,8.0,4.0,4.0,False
+understat:29146,FTX-05GCP,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,1.0,0.0,1.0,False
+understat:29146,FTX-06PE1,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,0.0,0.0,0.0,True
+understat:29146,FTX-05RL4,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,1.0,1.0,0.0,True
+understat:29146,FTX-046C5,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,4.0,0.0,4.0,False
+understat:29142,FTX-05W9I,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,4.0,0.0,4.0,False
+understat:29142,FTX-05RB8,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,1.0,0.0,1.0,False
+understat:29142,FTX-056IY,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,4.0,1.0,3.0,False
+understat:29142,FTX-05L8Q,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,0.0,0.0,0.0,True
+understat:29142,FTX-068YM,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,3.0,0.0,3.0,False
+understat:29142,FTX-04MUP,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,0.0,0.0,0.0,True
+understat:29142,FTX-051K7,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,0.0,0.0,0.0,True
+understat:29142,FTX-05N07,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,5.0,2.0,3.0,False
+understat:29142,FTX-06EZB,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,0.0,0.0,0.0,True
+understat:29142,FTX-062DT,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,0.0,0.0,0.0,True
+understat:29142,FTX-05YLW,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,0.0,0.0,0.0,True
+understat:29142,FTX-051K8,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,0.0,0.0,0.0,True
+understat:29142,FTX-06RM8,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,3.0,1.0,2.0,False
+understat:29142,FTX-04IO4,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,0.0,0.0,0.0,True
+understat:29148,FTX-06MPP,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,1.0,0.0,1.0,False
+understat:29148,FTX-05OH0,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,2.0,0.0,2.0,False
+understat:29148,FTX-04E1C,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,0.0,0.0,0.0,True
+understat:29148,FTX-06PHE,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,0.0,0.0,0.0,True
+understat:29148,FTX-04FK1,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,2.0,0.0,2.0,False
+understat:29148,FTX-06R5B,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,0.0,0.0,0.0,True
+understat:29148,FTX-067YS,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,0.0,0.0,0.0,True
+understat:29148,FTX-06Y9M,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,5.0,3.0,2.0,False
+understat:29148,FTX-02LNX,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,0.0,0.0,0.0,True
+understat:29148,FTX-06C6G,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,6.0,1.0,5.0,False
+understat:29148,FTX-03GU4,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,1.0,0.0,1.0,False
+understat:29148,FTX-02OQ6,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,0.0,0.0,0.0,True
+understat:29148,FTX-0666P,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,0.0,0.0,0.0,True
+understat:29148,FTX-052CD,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,3.0,0.0,3.0,False
+understat:29148,FTX-05GCR,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,4.0,1.0,3.0,False
+understat:29148,FTX-06RLJ,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,1.0,0.0,1.0,False
+understat:29148,FTX-05TRB,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,1.0,0.0,1.0,False
+understat:29148,FTX-067YZ,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,0.0,0.0,0.0,True
+understat:29148,FTX-06KQY,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,0.0,0.0,0.0,True
+understat:29153,FTX-05OMU,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,0.0,0.0,0.0,True
+understat:29153,FTX-02Y6O,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,1.0,0.0,1.0,False
+understat:29153,FTX-04FK6,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,0.0,0.0,0.0,True
+understat:29153,FTX-04ABB,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,4.0,1.0,3.0,False
+understat:29153,FTX-06FUP,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,1.0,0.0,1.0,False
+understat:29153,FTX-06EX4,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,0.0,0.0,0.0,True
+understat:29153,FTX-051KL,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,1.0,0.0,1.0,False
+understat:29153,FTX-05OCL,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,0.0,0.0,0.0,True
+understat:29153,FTX-04YO7,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,2.0,2.0,0.0,True
+understat:29153,FTX-051K0,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,0.0,0.0,0.0,True
+understat:29153,FTX-04TM0,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,0.0,0.0,0.0,True
+understat:29157,FTX-06EW2,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,0.0,0.0,0.0,True
+understat:29157,FTX-04ML6,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,1.0,0.0,1.0,False
+understat:29157,FTX-06YMU,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,7.0,1.0,6.0,False
+understat:29157,FTX-05GCP,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,0.0,0.0,0.0,True
+understat:29157,FTX-06PE1,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,2.0,0.0,2.0,False
+understat:29157,FTX-046C5,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,5.0,1.0,4.0,False
+understat:29157,FTX-05RL4,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,4.0,1.0,3.0,False
+understat:29157,FTX-04ADP,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,0.0,0.0,0.0,True
+understat:29157,FTX-05MZZ,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,0.0,0.0,0.0,True
+understat:29157,FTX-06V51,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,0.0,0.0,0.0,True
+understat:29157,FTX-03YQZ,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,0.0,0.0,0.0,True
+understat:29157,FTX-0521Z,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,5.0,0.0,5.0,False
+understat:29157,FTX-061VP,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,2.0,0.0,2.0,False
+understat:29157,FTX-04LAV,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,1.0,1.0,0.0,True
+understat:29157,FTX-049TQ,crosses,all explicit Cross qualifiers versus Fantrax accurate crosses,0.0,0.0,0.0,True
+understat:29140,FTX-02LZ0,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29140,FTX-04TM0,shots_on_target,SavedShot plus Goal,1.0,0.0,1.0,False
+understat:29140,FTX-04YO7,shots_on_target,SavedShot plus Goal,1.0,1.0,0.0,True
+understat:29140,FTX-051K0,shots_on_target,SavedShot plus Goal,1.0,1.0,0.0,True
+understat:29140,FTX-05UHT,shots_on_target,SavedShot plus Goal,1.0,1.0,0.0,True
+understat:29140,FTX-051KL,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29140,FTX-05OCL,shots_on_target,SavedShot plus Goal,5.0,5.0,0.0,True
+understat:29140,FTX-05U7F,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29140,FTX-03VLJ,shots_on_target,SavedShot plus Goal,2.0,2.0,0.0,True
+understat:29140,FTX-06DO9,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29140,FTX-06FXE,shots_on_target,SavedShot plus Goal,1.0,1.0,0.0,True
+understat:29140,FTX-06CMM,shots_on_target,SavedShot plus Goal,1.0,1.0,0.0,True
+understat:29140,FTX-06R2G,shots_on_target,SavedShot plus Goal,1.0,0.0,1.0,False
+understat:29140,FTX-067YV,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29140,FTX-03AQP,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29140,FTX-06V21,shots_on_target,SavedShot plus Goal,1.0,0.0,1.0,False
+understat:29145,FTX-070HL,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29145,FTX-04QFZ,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29145,FTX-03GU4,shots_on_target,SavedShot plus Goal,1.0,0.0,1.0,False
+understat:29145,FTX-02OQ6,shots_on_target,SavedShot plus Goal,1.0,1.0,0.0,True
+understat:29145,FTX-0642L,shots_on_target,SavedShot plus Goal,2.0,0.0,2.0,False
+understat:29145,FTX-0666P,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29145,FTX-05GCR,shots_on_target,SavedShot plus Goal,3.0,1.0,2.0,False
+understat:29145,FTX-067YZ,shots_on_target,SavedShot plus Goal,4.0,1.0,3.0,False
+understat:29145,FTX-05TRB,shots_on_target,SavedShot plus Goal,3.0,1.0,2.0,False
+understat:29145,FTX-06RLJ,shots_on_target,SavedShot plus Goal,1.0,1.0,0.0,True
+understat:29145,FTX-06KQY,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29145,FTX-04F6H,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29145,FTX-05A6E,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29145,FTX-06MW0,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29145,FTX-05OPJ,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29145,FTX-04QR9,shots_on_target,SavedShot plus Goal,5.0,3.0,2.0,False
+understat:29144,FTX-06V51,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29144,FTX-03YQZ,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29144,FTX-0521Z,shots_on_target,SavedShot plus Goal,1.0,0.0,1.0,False
+understat:29144,FTX-06ZBX,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29144,FTX-04LAV,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29144,FTX-061VP,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29144,FTX-049TQ,shots_on_target,SavedShot plus Goal,1.0,1.0,0.0,True
+understat:29144,FTX-04UG0,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29144,FTX-06CMU,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29144,FTX-05OH0,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29144,FTX-04E1C,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29144,FTX-06Y9M,shots_on_target,SavedShot plus Goal,1.0,0.0,1.0,False
+understat:29144,FTX-04FK1,shots_on_target,SavedShot plus Goal,2.0,2.0,0.0,True
+understat:29144,FTX-06PHE,shots_on_target,SavedShot plus Goal,1.0,1.0,0.0,True
+understat:29144,FTX-067YS,shots_on_target,SavedShot plus Goal,1.0,1.0,0.0,True
+understat:29144,FTX-06C6G,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29144,FTX-02LNX,shots_on_target,SavedShot plus Goal,2.0,1.0,1.0,False
+understat:29144,FTX-06R5B,shots_on_target,SavedShot plus Goal,2.0,0.0,2.0,False
+understat:29146,FTX-044EI,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29146,FTX-0700P,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29146,FTX-062A9,shots_on_target,SavedShot plus Goal,1.0,0.0,1.0,False
+understat:29146,FTX-05Y9N,shots_on_target,SavedShot plus Goal,2.0,1.0,1.0,False
+understat:29146,FTX-05YLJ,shots_on_target,SavedShot plus Goal,1.0,1.0,0.0,True
+understat:29146,FTX-06CMS,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29146,FTX-02LSA,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29146,FTX-04MDN,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29146,FTX-06MGA,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29146,FTX-04ML6,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29146,FTX-04ADP,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29146,FTX-06YMU,shots_on_target,SavedShot plus Goal,1.0,1.0,0.0,True
+understat:29146,FTX-05GCP,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29146,FTX-06PE1,shots_on_target,SavedShot plus Goal,2.0,1.0,1.0,False
+understat:29146,FTX-05RL4,shots_on_target,SavedShot plus Goal,1.0,0.0,1.0,False
+understat:29146,FTX-046C5,shots_on_target,SavedShot plus Goal,1.0,1.0,0.0,True
+understat:29142,FTX-04YME,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29142,FTX-05W9I,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29142,FTX-05RB8,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29142,FTX-056IY,shots_on_target,SavedShot plus Goal,2.0,1.0,1.0,False
+understat:29142,FTX-05L8Q,shots_on_target,SavedShot plus Goal,2.0,1.0,1.0,False
+understat:29142,FTX-068YM,shots_on_target,SavedShot plus Goal,1.0,1.0,0.0,True
+understat:29142,FTX-04MUP,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29142,FTX-051K7,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29142,FTX-05N07,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29142,FTX-06EZB,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29142,FTX-062DT,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29142,FTX-05YLW,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29142,FTX-051K8,shots_on_target,SavedShot plus Goal,1.0,1.0,0.0,True
+understat:29142,FTX-06RM8,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29142,FTX-04IO4,shots_on_target,SavedShot plus Goal,2.0,2.0,0.0,True
+understat:29148,FTX-06CMU,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29148,FTX-06MPP,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29148,FTX-05OH0,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29148,FTX-04E1C,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29148,FTX-06PHE,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29148,FTX-04FK1,shots_on_target,SavedShot plus Goal,2.0,1.0,1.0,False
+understat:29148,FTX-06R5B,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29148,FTX-067YS,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29148,FTX-06Y9M,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29148,FTX-02LNX,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29148,FTX-06C6G,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29148,FTX-070HL,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29148,FTX-03GU4,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29148,FTX-02OQ6,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29148,FTX-0666P,shots_on_target,SavedShot plus Goal,1.0,0.0,1.0,False
+understat:29148,FTX-052CD,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29148,FTX-05GCR,shots_on_target,SavedShot plus Goal,1.0,1.0,0.0,True
+understat:29148,FTX-06RLJ,shots_on_target,SavedShot plus Goal,3.0,3.0,0.0,True
+understat:29148,FTX-05TRB,shots_on_target,SavedShot plus Goal,1.0,1.0,0.0,True
+understat:29148,FTX-067YZ,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29148,FTX-06KQY,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29153,FTX-05OZ3,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29153,FTX-05OMU,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29153,FTX-02Y6O,shots_on_target,SavedShot plus Goal,1.0,0.0,1.0,False
+understat:29153,FTX-04FK6,shots_on_target,SavedShot plus Goal,1.0,1.0,0.0,True
+understat:29153,FTX-04ABB,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29153,FTX-06FUP,shots_on_target,SavedShot plus Goal,1.0,0.0,1.0,False
+understat:29153,FTX-06EX4,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29153,FTX-051KL,shots_on_target,SavedShot plus Goal,1.0,1.0,0.0,True
+understat:29153,FTX-05OCL,shots_on_target,SavedShot plus Goal,3.0,2.0,1.0,False
+understat:29153,FTX-04YO7,shots_on_target,SavedShot plus Goal,1.0,1.0,0.0,True
+understat:29153,FTX-051K0,shots_on_target,SavedShot plus Goal,1.0,1.0,0.0,True
+understat:29153,FTX-04TM0,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29157,FTX-06MGA,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29157,FTX-06EW2,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29157,FTX-04ML6,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29157,FTX-06YMU,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29157,FTX-05GCP,shots_on_target,SavedShot plus Goal,2.0,2.0,0.0,True
+understat:29157,FTX-06PE1,shots_on_target,SavedShot plus Goal,1.0,1.0,0.0,True
+understat:29157,FTX-046C5,shots_on_target,SavedShot plus Goal,2.0,1.0,1.0,False
+understat:29157,FTX-05RL4,shots_on_target,SavedShot plus Goal,1.0,0.0,1.0,False
+understat:29157,FTX-04ADP,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29157,FTX-05MZZ,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29157,FTX-06V51,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29157,FTX-03YQZ,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29157,FTX-0521Z,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29157,FTX-061VP,shots_on_target,SavedShot plus Goal,3.0,1.0,2.0,False
+understat:29157,FTX-04LAV,shots_on_target,SavedShot plus Goal,0.0,0.0,0.0,True
+understat:29157,FTX-049TQ,shots_on_target,SavedShot plus Goal,2.0,1.0,1.0,False

@@ -1,0 +1,11 @@
+metric,classification
+Goals,SAFE_SUPPLEMENT
+Fantasy Assists,SOURCE_SPECIFIC
+Official Assists,SOURCE_SPECIFIC
+Key Passes,SAFE_SUPPLEMENT
+Shots on Target,NEEDS_MORE_SAMPLE
+Tackles Won,SAFE_SUPPLEMENT
+Interceptions,SAFE_SUPPLEMENT
+Clearances,CAVEAT_SUPPLEMENT
+Aerial Wins,SAFE_SUPPLEMENT
+Accurate Crosses,SAFE_SUPPLEMENT

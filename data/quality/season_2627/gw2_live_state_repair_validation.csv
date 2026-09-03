@@ -1,0 +1,13 @@
+check,expected,actual,status,source,notes
+player universe count,640,640,PASS,cached post-GW2 canonical models,
+rostered player count,190,190,PASS,cached post-GW2 canonical models,
+available player count,450,450,PASS,cached post-GW2 canonical models,
+IR ownership,all unavailable,True,PASS,cached post-GW2 canonical models,
+league rank order,1..12,True,PASS,cached post-GW2 canonical models,
+rank uniqueness,12,12,PASS,cached post-GW2 canonical models,
+movement coverage,12,12,PASS,cached post-GW2 canonical models,
+manager rename consistency,GVand35,GVand35,PASS,cached post-GW2 canonical models,
+MOTM period label,August / September,August / September,PASS,cached post-GW2 canonical models,
+MOTM completion state,in progress,in progress,PASS,cached post-GW2 canonical models,
+GW1 immutable state,12,12,PASS,cached post-GW2 canonical models,
+GW2 official matchup state,12,12,PASS,cached post-GW2 canonical models,

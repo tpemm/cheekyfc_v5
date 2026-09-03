@@ -1,0 +1,32 @@
+manager_id,manager_name,first_observed_date,last_observed_date,observed_clubs,normalized_name,source,source_manager_id,mapping_status
+mgr:1058459b93f2,Oliver Glasner,2025-08-17,2026-05-24,crystal_palace,oliverglasner,WhoScored observed match payload,,INTERNAL_CANONICAL_NO_PROVIDER_ID
+mgr:182deb7ae6a3,Graham Potter,2025-08-16,2025-09-20,west_ham,grahampotter,WhoScored observed match payload,,INTERNAL_CANONICAL_NO_PROVIDER_ID
+mgr:1a031e232e88,Régis Le Bris,2025-08-16,2026-05-24,sunderland,regislebris,WhoScored observed match payload,,INTERNAL_CANONICAL_NO_PROVIDER_ID
+mgr:1e78f2997997,Thomas Frank,2025-08-16,2026-02-10,tottenham_hotspur,thomasfrank,WhoScored observed match payload,,INTERNAL_CANONICAL_NO_PROVIDER_ID
+mgr:224591e666ec,Sean Dyche,2025-10-26,2026-02-11,nottingham_forest,seandyche,WhoScored observed match payload,,INTERNAL_CANONICAL_NO_PROVIDER_ID
+mgr:26dfbbc164aa,Pep Guardiola,2025-08-16,2026-05-24,manchester_city,pepguardiola,WhoScored observed match payload,,INTERNAL_CANONICAL_NO_PROVIDER_ID
+mgr:328a5fafed26,Arne Slot,2025-08-15,2026-05-24,liverpool,arneslot,WhoScored observed match payload,,INTERNAL_CANONICAL_NO_PROVIDER_ID
+mgr:3aa905054daf,Michael Carrick,2026-01-17,2026-05-24,manchester_united,michaelcarrick,WhoScored observed match payload,,INTERNAL_CANONICAL_NO_PROVIDER_ID
+mgr:3b963ae58719,Calum McFarlane,2026-01-04,2026-05-24,chelsea,calummcfarlane,WhoScored observed match payload,,INTERNAL_CANONICAL_NO_PROVIDER_ID
+mgr:434bf1b2b6dc,Rob Edwards,2025-11-22,2026-05-24,wolverhampton_wanderers,robedwards,WhoScored observed match payload,,INTERNAL_CANONICAL_NO_PROVIDER_ID
+mgr:4fed4e69ba04,Liam Rosenior,2026-01-17,2026-04-21,chelsea,liamrosenior,WhoScored observed match payload,,INTERNAL_CANONICAL_NO_PROVIDER_ID
+mgr:5f487ee40c90,Keith Andrews,2025-08-17,2026-05-24,brentford,keithandrews,WhoScored observed match payload,,INTERNAL_CANONICAL_NO_PROVIDER_ID
+mgr:5fdd2f365fdc,Mikel Arteta,2025-08-17,2026-05-24,arsenal,mikelarteta,WhoScored observed match payload,,INTERNAL_CANONICAL_NO_PROVIDER_ID
+mgr:65451ab24622,Eddie Howe,2025-08-16,2026-05-24,newcastle_united,eddiehowe,WhoScored observed match payload,,INTERNAL_CANONICAL_NO_PROVIDER_ID
+mgr:662d1720cf8b,Ruben Filipe Marques Diogo Amorim,2025-08-17,2026-01-04,manchester_united,rubenfilipemarquesdiogoamorim,WhoScored observed match payload,,INTERNAL_CANONICAL_NO_PROVIDER_ID
+mgr:7670d95f755e,Michael Jackson,2026-05-01,2026-05-24,burnley,michaeljackson,WhoScored observed match payload,,INTERNAL_CANONICAL_NO_PROVIDER_ID
+mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,2025-08-16,2026-05-24,nottingham_forest|wolverhampton_wanderers,vitormanueldeoliveiralopespereira,WhoScored observed match payload,,INTERNAL_CANONICAL_NO_PROVIDER_ID
+mgr:84316c036a2d,David Moyes,2025-08-18,2026-05-24,everton,davidmoyes,WhoScored observed match payload,,INTERNAL_CANONICAL_NO_PROVIDER_ID
+mgr:98dfad21cc80,Darren Fletcher,2026-01-07,2026-01-07,manchester_united,darrenfletcher,WhoScored observed match payload,,INTERNAL_CANONICAL_NO_PROVIDER_ID
+mgr:b283d24885e5,Roberto De Zerbi,2026-04-12,2026-05-24,tottenham_hotspur,robertodezerbi,WhoScored observed match payload,,INTERNAL_CANONICAL_NO_PROVIDER_ID
+mgr:b4b8eecb310f,Andoni Iraola,2025-08-15,2026-05-24,bournemouth,andoniiraola,WhoScored observed match payload,,INTERNAL_CANONICAL_NO_PROVIDER_ID
+mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,2025-08-17,2026-05-24,nottingham_forest|west_ham,nunoherlandersimoesespiritosanto,WhoScored observed match payload,,INTERNAL_CANONICAL_NO_PROVIDER_ID
+mgr:b72337fa641c,James Collins,2025-11-08,2025-11-08,wolverhampton_wanderers,jamescollins,WhoScored observed match payload,,INTERNAL_CANONICAL_NO_PROVIDER_ID
+mgr:baf747465a0d,Ange Postecoglou,2025-09-13,2025-10-18,nottingham_forest,angepostecoglou,WhoScored observed match payload,,INTERNAL_CANONICAL_NO_PROVIDER_ID
+mgr:c49e040048ca,Scott Parker,2025-08-16,2026-04-22,burnley,scottparker,WhoScored observed match payload,,INTERNAL_CANONICAL_NO_PROVIDER_ID
+mgr:d242da40969a,Marco Alexandre Saraiva da Silva,2025-08-16,2026-05-24,fulham,marcoalexandresaraivadasilva,WhoScored observed match payload,,INTERNAL_CANONICAL_NO_PROVIDER_ID
+mgr:dc01d928d84f,Enzo Maresca,2025-08-17,2025-12-30,chelsea,enzomaresca,WhoScored observed match payload,,INTERNAL_CANONICAL_NO_PROVIDER_ID
+mgr:dcdf2dffc0c2,Unai Emery,2025-08-16,2026-05-24,aston_villa,unaiemery,WhoScored observed match payload,,INTERNAL_CANONICAL_NO_PROVIDER_ID
+mgr:dfda8206a0e2,Fabian Hürzeler,2025-08-16,2026-05-24,brighton,fabianhurzeler,WhoScored observed match payload,,INTERNAL_CANONICAL_NO_PROVIDER_ID
+mgr:e99dd67f9cac,Igor Tudor,2026-02-22,2026-03-22,tottenham_hotspur,igortudor,WhoScored observed match payload,,INTERNAL_CANONICAL_NO_PROVIDER_ID
+mgr:fa5d385e34dc,Daniel Farke,2025-08-18,2026-05-24,leeds_united,danielfarke,WhoScored observed match payload,,INTERNAL_CANONICAL_NO_PROVIDER_ID

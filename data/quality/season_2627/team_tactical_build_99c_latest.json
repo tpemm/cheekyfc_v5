@@ -1,0 +1,13 @@
+{
+  "methodology_version": "team_tactical_v1",
+  "mode": "WEEKLY_APPLICATION",
+  "historical_baseline_available": true,
+  "historical_rows": 760,
+  "historical_clubs": 20,
+  "current_rows": 40,
+  "current_clubs": 20,
+  "current_match_count": 20,
+  "trait_confidence_state": "Very Early",
+  "products_status": "CURRENT",
+  "elapsed_seconds": 0.604
+}

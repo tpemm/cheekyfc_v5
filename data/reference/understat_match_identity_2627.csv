@@ -1,0 +1,21 @@
+canonical_match_id,understat_match_id,date,home_club_id,away_club_id,resolution_status,resolution_method
+soccerdata:sofascore:16363633,31180,2026-08-21,arsenal,coventry_city,RESOLVED_EXACT,exact UTC date + canonical home/away
+soccerdata:sofascore:16363242,31185,2026-08-22,brentford,tottenham_hotspur,RESOLVED_EXACT,exact UTC date + canonical home/away
+soccerdata:sofascore:16363635,31182,2026-08-22,everton,crystal_palace,RESOLVED_EXACT,exact UTC date + canonical home/away
+soccerdata:sofascore:16363634,31181,2026-08-22,hull_city,manchester_united,RESOLVED_EXACT,exact UTC date + canonical home/away
+soccerdata:sofascore:16363636,31183,2026-08-22,ipswich_town,sunderland,RESOLVED_EXACT,exact UTC date + canonical home/away
+soccerdata:sofascore:16363238,31184,2026-08-22,nottingham_forest,leeds_united,RESOLVED_EXACT,exact UTC date + canonical home/away
+soccerdata:sofascore:16363236,31186,2026-08-23,brighton_hove_albion,aston_villa,RESOLVED_EXACT,exact UTC date + canonical home/away
+soccerdata:sofascore:16363243,31187,2026-08-23,manchester_city,afc_bournemouth,RESOLVED_EXACT,exact UTC date + canonical home/away
+soccerdata:sofascore:16363246,31188,2026-08-23,newcastle_united,liverpool,RESOLVED_EXACT,exact UTC date + canonical home/away
+soccerdata:sofascore:16363244,31189,2026-08-24,fulham,chelsea,RESOLVED_EXACT,exact UTC date + canonical home/away
+soccerdata:sofascore:16363252,31190,2026-08-28,crystal_palace,manchester_city,RESOLVED_EXACT,exact UTC date + canonical home/away
+soccerdata:sofascore:16363247,31193,2026-08-29,afc_bournemouth,everton,RESOLVED_EXACT,exact UTC date + canonical home/away
+soccerdata:sofascore:16363250,31192,2026-08-29,coventry_city,hull_city,RESOLVED_EXACT,exact UTC date + canonical home/away
+soccerdata:sofascore:16363254,31191,2026-08-29,liverpool,nottingham_forest,RESOLVED_EXACT,exact UTC date + canonical home/away
+soccerdata:sofascore:16363256,31194,2026-08-29,tottenham_hotspur,newcastle_united,RESOLVED_EXACT,exact UTC date + canonical home/away
+soccerdata:sofascore:16363249,31196,2026-08-30,chelsea,brighton_hove_albion,RESOLVED_EXACT,exact UTC date + canonical home/away
+soccerdata:sofascore:16363266,31197,2026-08-30,leeds_united,brentford,RESOLVED_EXACT,exact UTC date + canonical home/away
+soccerdata:sofascore:16363253,31198,2026-08-30,manchester_united,ipswich_town,RESOLVED_EXACT,exact UTC date + canonical home/away
+soccerdata:sofascore:16363255,31195,2026-08-30,sunderland,fulham,RESOLVED_EXACT,exact UTC date + canonical home/away
+soccerdata:sofascore:16363245,31199,2026-08-31,aston_villa,arsenal,RESOLVED_EXACT_PAIR,unique canonical home/away pair (provider kickoff rescheduled)

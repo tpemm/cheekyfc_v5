@@ -1,0 +1,5 @@
+provider,method,status,rows,fields,cache_path
+Sofascore 1.9.1,read_schedule,available,380,date|home_team|away_team|scores|round|game_id,data/raw/soccerdata/coverage_2627/sofascore
+Sofascore 1.9.1,read_team_match_stats,method unavailable,0,,
+Sofascore 1.9.1,read_player_match_stats,method unavailable,0,,
+Sofascore 1.9.1,read_lineups/formations/events,methods unavailable,0,,

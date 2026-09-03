@@ -14,6 +14,7 @@ EXPECTED_NAVIGATION = (
     "League Hub",
     "2025/26 Season Archive",
     "Players",
+    "Teams",
     "Managers",
     "Cup Tournament",
     "Trades",

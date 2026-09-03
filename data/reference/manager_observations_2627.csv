@@ -1,0 +1,41 @@
+manager_id,manager_name,club_id,canonical_match_id,date,source
+mgr:5fdd2f365fdc,Mikel Arteta,arsenal,soccerdata:sofascore:16363633,2026-08-21,WhoScored observed match payload
+mgr:fb84c76f2aab,Frank Lampard,coventry_city,soccerdata:sofascore:16363633,2026-08-21,WhoScored observed match payload
+mgr:9f4440ec2ca8,Sergej Jakirovic,hull_city,soccerdata:sofascore:16363634,2026-08-22,WhoScored observed match payload
+mgr:3aa905054daf,Michael Carrick,manchester_united,soccerdata:sofascore:16363634,2026-08-22,WhoScored observed match payload
+mgr:1058459b93f2,Oliver Glasner,nottingham_forest,soccerdata:sofascore:16363238,2026-08-22,WhoScored observed match payload
+mgr:fa5d385e34dc,Daniel Farke,leeds_united,soccerdata:sofascore:16363238,2026-08-22,WhoScored observed match payload
+mgr:84316c036a2d,David Moyes,everton,soccerdata:sofascore:16363635,2026-08-22,WhoScored observed match payload
+mgr:698607e509b7,Pierre Sage,crystal_palace,soccerdata:sofascore:16363635,2026-08-22,WhoScored observed match payload
+mgr:2e016582b3f8,Gary O'Neil,ipswich_town,soccerdata:sofascore:16363636,2026-08-22,WhoScored observed match payload
+mgr:1a031e232e88,Régis Le Bris,sunderland,soccerdata:sofascore:16363636,2026-08-22,WhoScored observed match payload
+mgr:5f487ee40c90,Keith Andrews,brentford,soccerdata:sofascore:16363242,2026-08-22,WhoScored observed match payload
+mgr:b283d24885e5,Roberto De Zerbi,tottenham_hotspur,soccerdata:sofascore:16363242,2026-08-22,WhoScored observed match payload
+mgr:dfda8206a0e2,Fabian Hürzeler,brighton_hove_albion,soccerdata:sofascore:16363236,2026-08-23,WhoScored observed match payload
+mgr:dcdf2dffc0c2,Unai Emery,aston_villa,soccerdata:sofascore:16363236,2026-08-23,WhoScored observed match payload
+mgr:dc01d928d84f,Enzo Maresca,manchester_city,soccerdata:sofascore:16363243,2026-08-23,WhoScored observed match payload
+mgr:6fe0e0af19e4,Marco Rose,afc_bournemouth,soccerdata:sofascore:16363243,2026-08-23,WhoScored observed match payload
+mgr:bdab23b1e545,Matthias Jaissle,newcastle_united,soccerdata:sofascore:16363246,2026-08-23,WhoScored observed match payload
+mgr:b4b8eecb310f,Andoni Iraola,liverpool,soccerdata:sofascore:16363246,2026-08-23,WhoScored observed match payload
+mgr:c4ccacd3c126,Álvaro Arbeloa,fulham,soccerdata:sofascore:16363244,2026-08-24,WhoScored observed match payload
+mgr:84bddcc0c0d7,Xabi Alonso,chelsea,soccerdata:sofascore:16363244,2026-08-24,WhoScored observed match payload
+mgr:698607e509b7,Pierre Sage,crystal_palace,soccerdata:sofascore:16363252,2026-08-28,WhoScored observed match payload
+mgr:dc01d928d84f,Enzo Maresca,manchester_city,soccerdata:sofascore:16363252,2026-08-28,WhoScored observed match payload
+mgr:b4b8eecb310f,Andoni Iraola,liverpool,soccerdata:sofascore:16363254,2026-08-29,WhoScored observed match payload
+mgr:1058459b93f2,Oliver Glasner,nottingham_forest,soccerdata:sofascore:16363254,2026-08-29,WhoScored observed match payload
+mgr:dcdf2dffc0c2,Unai Emery,aston_villa,soccerdata:sofascore:16363245,2026-08-29,WhoScored observed match payload
+mgr:5fdd2f365fdc,Mikel Arteta,arsenal,soccerdata:sofascore:16363245,2026-08-29,WhoScored observed match payload
+mgr:6fe0e0af19e4,Marco Rose,afc_bournemouth,soccerdata:sofascore:16363247,2026-08-29,WhoScored observed match payload
+mgr:84316c036a2d,David Moyes,everton,soccerdata:sofascore:16363247,2026-08-29,WhoScored observed match payload
+mgr:fb84c76f2aab,Frank Lampard,coventry_city,soccerdata:sofascore:16363250,2026-08-29,WhoScored observed match payload
+mgr:9f4440ec2ca8,Sergej Jakirovic,hull_city,soccerdata:sofascore:16363250,2026-08-29,WhoScored observed match payload
+mgr:b283d24885e5,Roberto De Zerbi,tottenham_hotspur,soccerdata:sofascore:16363256,2026-08-29,WhoScored observed match payload
+mgr:bdab23b1e545,Matthias Jaissle,newcastle_united,soccerdata:sofascore:16363256,2026-08-29,WhoScored observed match payload
+mgr:84bddcc0c0d7,Xabi Alonso,chelsea,soccerdata:sofascore:16363249,2026-08-30,WhoScored observed match payload
+mgr:dfda8206a0e2,Fabian Hürzeler,brighton_hove_albion,soccerdata:sofascore:16363249,2026-08-30,WhoScored observed match payload
+mgr:1a031e232e88,Régis Le Bris,sunderland,soccerdata:sofascore:16363255,2026-08-30,WhoScored observed match payload
+mgr:c4ccacd3c126,Álvaro Arbeloa,fulham,soccerdata:sofascore:16363255,2026-08-30,WhoScored observed match payload
+mgr:fa5d385e34dc,Daniel Farke,leeds_united,soccerdata:sofascore:16363266,2026-08-30,WhoScored observed match payload
+mgr:5f487ee40c90,Keith Andrews,brentford,soccerdata:sofascore:16363266,2026-08-30,WhoScored observed match payload
+mgr:3aa905054daf,Michael Carrick,manchester_united,soccerdata:sofascore:16363253,2026-08-30,WhoScored observed match payload
+mgr:2e016582b3f8,Gary O'Neil,ipswich_town,soccerdata:sofascore:16363253,2026-08-30,WhoScored observed match payload

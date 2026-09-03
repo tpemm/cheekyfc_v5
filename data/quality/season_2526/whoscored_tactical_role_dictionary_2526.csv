@@ -1,0 +1,18 @@
+raw_role,standardized_role,count,players,matches,mapping_status,notes
+Sub,,6829,636,380,UNMAPPED,Observed tactical role; separate from Fantrax eligibility.
+DC,CB,1688,105,380,MAPPED,Observed tactical role; separate from Fantrax eligibility.
+DMC,DM,862,90,328,MAPPED,Observed tactical role; separate from Fantrax eligibility.
+MC,CM,854,108,276,MAPPED,Observed tactical role; separate from Fantrax eligibility.
+FW,ST,836,83,380,MAPPED,Observed tactical role; separate from Fantrax eligibility.
+GK,GK,760,39,380,MAPPED,Observed tactical role; separate from Fantrax eligibility.
+AMC,CAM,640,105,346,MAPPED,Observed tactical role; separate from Fantrax eligibility.
+DR,RB,622,72,370,MAPPED,Observed tactical role; separate from Fantrax eligibility.
+DL,LB,622,58,370,MAPPED,Observed tactical role; separate from Fantrax eligibility.
+AMR,RW,408,76,309,MAPPED,Observed tactical role; separate from Fantrax eligibility.
+AML,LW,408,76,309,MAPPED,Observed tactical role; separate from Fantrax eligibility.
+DMR,RWB,130,30,121,MAPPED,Observed tactical role; separate from Fantrax eligibility.
+DML,LWB,130,24,121,MAPPED,Observed tactical role; separate from Fantrax eligibility.
+FWR,,119,33,109,UNMAPPED,Observed tactical role; separate from Fantrax eligibility.
+FWL,,119,39,109,UNMAPPED,Observed tactical role; separate from Fantrax eligibility.
+ML,LM,81,34,77,MAPPED,Observed tactical role; separate from Fantrax eligibility.
+MR,RM,81,37,77,MAPPED,Observed tactical role; separate from Fantrax eligibility.

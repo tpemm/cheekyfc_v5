@@ -1,0 +1,381 @@
+canonical_match_id,understat_match_id,whoscored_match_id,date,kickoff_datetime,home_club_id,away_club_id,home_team,away_team,pl_gameweek,fantrax_period,is_completed,resolution_status,resolution_method
+understat:28778,28778,1903117,2025-08-15,2025-08-15 19:00:00,liverpool,bournemouth,Liverpool,Bournemouth,1,1,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28779,28779,1903118,2025-08-16,2025-08-16 11:30:00,aston_villa,newcastle_united,Aston Villa,Newcastle United,1,1,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28780,28780,1903119,2025-08-16,2025-08-16 14:00:00,brighton,fulham,Brighton,Fulham,1,1,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28781,28781,1903121,2025-08-16,2025-08-16 14:00:00,sunderland,west_ham,Sunderland,West Ham,1,1,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28782,28782,1903122,2025-08-16,2025-08-16 14:00:00,tottenham_hotspur,burnley,Tottenham,Burnley,1,1,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28783,28783,1903123,2025-08-16,2025-08-16 16:30:00,wolverhampton_wanderers,manchester_city,Wolverhampton Wanderers,Manchester City,1,1,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28784,28784,1903124,2025-08-17,2025-08-17 13:00:00,chelsea,crystal_palace,Chelsea,Crystal Palace,1,1,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28785,28785,1903120,2025-08-17,2025-08-17 13:00:00,nottingham_forest,brentford,Nottingham Forest,Brentford,1,1,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28786,28786,1903125,2025-08-17,2025-08-17 15:30:00,manchester_united,arsenal,Manchester United,Arsenal,1,1,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28787,28787,1903126,2025-08-18,2025-08-18 19:00:00,leeds_united,everton,Leeds,Everton,1,1,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28788,28788,1903136,2025-08-22,2025-08-22 19:00:00,west_ham,chelsea,West Ham,Chelsea,2,2,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28789,28789,1903134,2025-08-23,2025-08-23 11:30:00,manchester_city,tottenham_hotspur,Manchester City,Tottenham,2,2,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28790,28790,1903129,2025-08-23,2025-08-23 14:00:00,brentford,aston_villa,Brentford,Aston Villa,2,2,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28791,28791,1903130,2025-08-23,2025-08-23 14:00:00,burnley,sunderland,Burnley,Sunderland,2,2,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28792,28792,1903127,2025-08-23,2025-08-23 14:00:00,bournemouth,wolverhampton_wanderers,Bournemouth,Wolverhampton Wanderers,2,2,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28793,28793,1903128,2025-08-23,2025-08-23 16:30:00,arsenal,leeds_united,Arsenal,Leeds,2,2,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28794,28794,1903131,2025-08-24,2025-08-24 13:00:00,crystal_palace,nottingham_forest,Crystal Palace,Nottingham Forest,2,2,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28795,28795,1903132,2025-08-24,2025-08-24 13:00:00,everton,brighton,Everton,Brighton,2,2,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28796,28796,1903133,2025-08-24,2025-08-24 15:30:00,fulham,manchester_united,Fulham,Manchester United,2,2,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28797,28797,1903135,2025-08-25,2025-08-25 19:00:00,newcastle_united,liverpool,Newcastle United,Liverpool,2,2,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28798,28798,1903141,2025-08-30,2025-08-30 11:30:00,chelsea,fulham,Chelsea,Fulham,3,3,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28799,28799,1903142,2025-08-30,2025-08-30 14:00:00,tottenham_hotspur,bournemouth,Tottenham,Bournemouth,3,3,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28800,28800,1903144,2025-08-30,2025-08-30 14:00:00,wolverhampton_wanderers,everton,Wolverhampton Wanderers,Everton,3,3,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28801,28801,1903140,2025-08-30,2025-08-30 14:00:00,sunderland,brentford,Sunderland,Brentford,3,3,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28802,28802,1903146,2025-08-30,2025-08-30 14:00:00,manchester_united,burnley,Manchester United,Burnley,3,3,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28803,28803,1903143,2025-08-30,2025-08-30 16:30:00,leeds_united,newcastle_united,Leeds,Newcastle United,3,3,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28804,28804,1903138,2025-08-31,2025-08-31 13:00:00,nottingham_forest,west_ham,Nottingham Forest,West Ham,3,3,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28805,28805,1903139,2025-08-31,2025-08-31 13:00:00,brighton,manchester_city,Brighton,Manchester City,3,3,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28806,28806,1903145,2025-08-31,2025-08-31 15:30:00,liverpool,arsenal,Liverpool,Arsenal,3,3,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28807,28807,1903137,2025-08-31,2025-08-31 18:00:00,aston_villa,crystal_palace,Aston Villa,Crystal Palace,3,3,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28808,28808,1903148,2025-09-13,2025-09-13 11:30:00,arsenal,nottingham_forest,Arsenal,Nottingham Forest,4,4,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28809,28809,1903155,2025-09-13,2025-09-13 14:00:00,newcastle_united,wolverhampton_wanderers,Newcastle United,Wolverhampton Wanderers,4,4,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28810,28810,1903147,2025-09-13,2025-09-13 14:00:00,bournemouth,brighton,Bournemouth,Brighton,4,4,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28811,28811,1903151,2025-09-13,2025-09-13 14:00:00,crystal_palace,sunderland,Crystal Palace,Sunderland,4,4,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28812,28812,1903152,2025-09-13,2025-09-13 14:00:00,everton,aston_villa,Everton,Aston Villa,4,4,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28813,28813,1903153,2025-09-13,2025-09-13 14:00:00,fulham,leeds_united,Fulham,Leeds,4,4,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28814,28814,1903156,2025-09-13,2025-09-13 16:30:00,west_ham,tottenham_hotspur,West Ham,Tottenham,4,4,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28815,28815,1903149,2025-09-13,2025-09-13 19:00:00,brentford,chelsea,Brentford,Chelsea,4,4,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28816,28816,1903150,2025-09-14,2025-09-14 13:00:00,burnley,liverpool,Burnley,Liverpool,4,4,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28817,28817,1903154,2025-09-14,2025-09-14 15:30:00,manchester_city,manchester_united,Manchester City,Manchester United,4,4,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28818,28818,1903164,2025-09-20,2025-09-20 11:30:00,liverpool,everton,Liverpool,Everton,5,5,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28819,28819,1903171,2025-09-20,2025-09-20 14:00:00,west_ham,crystal_palace,West Ham,Crystal Palace,5,5,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28820,28820,1903173,2025-09-20,2025-09-20 14:00:00,wolverhampton_wanderers,leeds_united,Wolverhampton Wanderers,Leeds,5,5,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28821,28821,1903159,2025-09-20,2025-09-20 14:00:00,brighton,tottenham_hotspur,Brighton,Tottenham,5,5,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28822,28822,1903160,2025-09-20,2025-09-20 14:00:00,burnley,nottingham_forest,Burnley,Nottingham Forest,5,5,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28824,28824,1903167,2025-09-20,2025-09-20 16:30:00,manchester_united,chelsea,Manchester United,Chelsea,5,5,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28825,28825,1903162,2025-09-20,2025-09-20 19:00:00,fulham,brentford,Fulham,Brentford,5,5,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28823,28823,1903157,2025-09-21,2025-09-21 13:00:00,bournemouth,newcastle_united,Bournemouth,Newcastle United,5,5,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28826,28826,1903169,2025-09-21,2025-09-21 13:00:00,sunderland,aston_villa,Sunderland,Aston Villa,5,5,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28827,28827,1903158,2025-09-21,2025-09-21 15:30:00,arsenal,manchester_city,Arsenal,Manchester City,5,5,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28828,28828,1903177,2025-09-27,2025-09-27 11:30:00,brentford,manchester_united,Brentford,Manchester United,6,6,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28829,28829,1903178,2025-09-27,2025-09-27 14:00:00,chelsea,brighton,Chelsea,Brighton,6,6,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28830,28830,1903179,2025-09-27,2025-09-27 14:00:00,crystal_palace,liverpool,Crystal Palace,Liverpool,6,6,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28832,28832,1903183,2025-09-27,2025-09-27 14:00:00,leeds_united,bournemouth,Leeds,Bournemouth,6,6,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28833,28833,1903185,2025-09-27,2025-09-27 14:00:00,manchester_city,burnley,Manchester City,Burnley,6,6,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28834,28834,1903188,2025-09-27,2025-09-27 16:30:00,nottingham_forest,sunderland,Nottingham Forest,Sunderland,6,6,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28835,28835,1903161,2025-09-27,2025-09-27 19:00:00,tottenham_hotspur,wolverhampton_wanderers,Tottenham,Wolverhampton Wanderers,6,6,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28831,28831,1903175,2025-09-28,2025-09-28 13:00:00,aston_villa,fulham,Aston Villa,Fulham,6,6,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28836,28836,1903186,2025-09-28,2025-09-28 15:30:00,newcastle_united,arsenal,Newcastle United,Arsenal,6,6,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28837,28837,1903181,2025-09-29,2025-09-29 19:00:00,everton,west_ham,Everton,West Ham,6,6,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28838,28838,1903163,2025-10-03,2025-10-03 19:00:00,bournemouth,fulham,Bournemouth,Fulham,7,7,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28839,28839,1903165,2025-10-04,2025-10-04 14:00:00,arsenal,west_ham,Arsenal,West Ham,7,7,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28842,28842,1903170,2025-10-04,2025-10-04 16:30:00,chelsea,liverpool,Chelsea,Liverpool,7,7,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28844,28844,1903174,2025-10-04,2025-10-04 11:30:00,leeds_united,tottenham_hotspur,Leeds,Tottenham,7,7,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28845,28845,1903176,2025-10-04,2025-10-04 14:00:00,manchester_united,sunderland,Manchester United,Sunderland,7,7,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28840,28840,1903166,2025-10-05,2025-10-05 13:00:00,aston_villa,burnley,Aston Villa,Burnley,7,7,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28841,28841,1903168,2025-10-05,2025-10-05 15:30:00,brentford,manchester_city,Brentford,Manchester City,7,7,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28843,28843,1903172,2025-10-05,2025-10-05 13:00:00,everton,crystal_palace,Everton,Crystal Palace,7,7,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28846,28846,1903180,2025-10-05,2025-10-05 13:00:00,newcastle_united,nottingham_forest,Newcastle United,Nottingham Forest,7,7,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28847,28847,1903182,2025-10-05,2025-10-05 13:00:00,wolverhampton_wanderers,brighton,Wolverhampton Wanderers,Brighton,7,7,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28848,28848,1903184,2025-10-18,2025-10-18 14:00:00,brighton,newcastle_united,Brighton,Newcastle United,8,8,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28849,28849,1903187,2025-10-18,2025-10-18 14:00:00,burnley,leeds_united,Burnley,Leeds,8,8,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28850,28850,1903189,2025-10-18,2025-10-18 14:00:00,crystal_palace,bournemouth,Crystal Palace,Bournemouth,8,8,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28851,28851,1903190,2025-10-18,2025-10-18 16:30:00,fulham,arsenal,Fulham,Arsenal,8,8,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28853,28853,1903192,2025-10-18,2025-10-18 14:00:00,manchester_city,everton,Manchester City,Everton,8,8,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28854,28854,1903193,2025-10-18,2025-10-18 11:30:00,nottingham_forest,chelsea,Nottingham Forest,Chelsea,8,8,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28855,28855,1903194,2025-10-18,2025-10-18 14:00:00,sunderland,wolverhampton_wanderers,Sunderland,Wolverhampton Wanderers,8,8,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28852,28852,1903191,2025-10-19,2025-10-19 15:30:00,liverpool,manchester_united,Liverpool,Manchester United,8,8,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28856,28856,1903195,2025-10-19,2025-10-19 13:00:00,tottenham_hotspur,aston_villa,Tottenham,Aston Villa,8,8,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28857,28857,1903196,2025-10-20,2025-10-20 19:00:00,west_ham,brentford,West Ham,Brentford,8,8,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28864,28864,1903203,2025-10-24,2025-10-24 19:00:00,leeds_united,west_ham,Leeds,West Ham,9,9,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28861,28861,1903200,2025-10-25,2025-10-25 19:00:00,brentford,liverpool,Brentford,Liverpool,9,9,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28862,28862,1903201,2025-10-25,2025-10-25 14:00:00,chelsea,sunderland,Chelsea,Sunderland,9,9,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28865,28865,1903204,2025-10-25,2025-10-25 16:30:00,manchester_united,brighton,Manchester United,Brighton,9,9,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28866,28866,1903205,2025-10-25,2025-10-25 14:00:00,newcastle_united,fulham,Newcastle United,Fulham,9,9,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28858,28858,1903197,2025-10-26,2025-10-26 13:00:00,bournemouth,nottingham_forest,Bournemouth,Nottingham Forest,9,9,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28859,28859,1903198,2025-10-26,2025-10-26 13:00:00,arsenal,crystal_palace,Arsenal,Crystal Palace,9,9,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28860,28860,1903199,2025-10-26,2025-10-26 13:00:00,aston_villa,manchester_city,Aston Villa,Manchester City,9,9,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28863,28863,1903202,2025-10-26,2025-10-26 15:30:00,everton,tottenham_hotspur,Everton,Tottenham,9,9,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28867,28867,1903206,2025-10-26,2025-10-26 13:00:00,wolverhampton_wanderers,burnley,Wolverhampton Wanderers,Burnley,9,9,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28868,28868,1903207,2025-11-01,2025-11-01 15:00:00,brighton,leeds_united,Brighton,Leeds,10,10,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28869,28869,1903208,2025-11-01,2025-11-01 15:00:00,burnley,arsenal,Burnley,Arsenal,10,10,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28870,28870,1903209,2025-11-01,2025-11-01 15:00:00,crystal_palace,brentford,Crystal Palace,Brentford,10,10,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28871,28871,1903210,2025-11-01,2025-11-01 15:00:00,fulham,wolverhampton_wanderers,Fulham,Wolverhampton Wanderers,10,10,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28872,28872,1903211,2025-11-01,2025-11-01 20:00:00,liverpool,aston_villa,Liverpool,Aston Villa,10,10,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28874,28874,1903213,2025-11-01,2025-11-01 15:00:00,nottingham_forest,manchester_united,Nottingham Forest,Manchester United,10,10,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28876,28876,1903215,2025-11-01,2025-11-01 17:30:00,tottenham_hotspur,chelsea,Tottenham,Chelsea,10,10,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28873,28873,1903212,2025-11-02,2025-11-02 16:30:00,manchester_city,bournemouth,Manchester City,Bournemouth,10,10,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28877,28877,1903216,2025-11-02,2025-11-02 14:00:00,west_ham,newcastle_united,West Ham,Newcastle United,10,10,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28875,28875,1903214,2025-11-03,2025-11-03 20:00:00,sunderland,everton,Sunderland,Everton,10,10,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28880,28880,1903219,2025-11-08,2025-11-08 20:00:00,chelsea,wolverhampton_wanderers,Chelsea,Wolverhampton Wanderers,11,11,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28882,28882,1903221,2025-11-08,2025-11-08 15:00:00,everton,fulham,Everton,Fulham,11,11,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28885,28885,1903224,2025-11-08,2025-11-08 17:30:00,sunderland,arsenal,Sunderland,Arsenal,11,11,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28886,28886,1903225,2025-11-08,2025-11-08 12:30:00,tottenham_hotspur,manchester_united,Tottenham,Manchester United,11,11,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28887,28887,1903226,2025-11-08,2025-11-08 15:00:00,west_ham,burnley,West Ham,Burnley,11,11,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28878,28878,1903217,2025-11-09,2025-11-09 14:00:00,aston_villa,bournemouth,Aston Villa,Bournemouth,11,11,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28879,28879,1903218,2025-11-09,2025-11-09 14:00:00,brentford,newcastle_united,Brentford,Newcastle United,11,11,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28881,28881,1903220,2025-11-09,2025-11-09 14:00:00,crystal_palace,brighton,Crystal Palace,Brighton,11,11,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28883,28883,1903222,2025-11-09,2025-11-09 16:30:00,manchester_city,liverpool,Manchester City,Liverpool,11,11,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28884,28884,1903223,2025-11-09,2025-11-09 14:00:00,nottingham_forest,leeds_united,Nottingham Forest,Leeds,11,11,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28888,28888,1903227,2025-11-22,2025-11-22 15:00:00,bournemouth,west_ham,Bournemouth,West Ham,12,12,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28890,28890,1903229,2025-11-22,2025-11-22 15:00:00,brighton,brentford,Brighton,Brentford,12,12,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28891,28891,1903230,2025-11-22,2025-11-22 12:30:00,burnley,chelsea,Burnley,Chelsea,12,12,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28892,28892,1903231,2025-11-22,2025-11-22 15:00:00,fulham,sunderland,Fulham,Sunderland,12,12,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28894,28894,1903233,2025-11-22,2025-11-22 15:00:00,liverpool,nottingham_forest,Liverpool,Nottingham Forest,12,12,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28896,28896,1903235,2025-11-22,2025-11-22 17:30:00,newcastle_united,manchester_city,Newcastle United,Manchester City,12,12,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28897,28897,1903236,2025-11-22,2025-11-22 15:00:00,wolverhampton_wanderers,crystal_palace,Wolverhampton Wanderers,Crystal Palace,12,12,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28889,28889,1903228,2025-11-23,2025-11-23 16:30:00,arsenal,tottenham_hotspur,Arsenal,Tottenham,12,12,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28893,28893,1903232,2025-11-23,2025-11-23 14:00:00,leeds_united,aston_villa,Leeds,Aston Villa,12,12,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28895,28895,1903234,2025-11-24,2025-11-24 20:00:00,manchester_united,everton,Manchester United,Everton,12,12,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28899,28899,1903238,2025-11-29,2025-11-29 15:00:00,brentford,burnley,Brentford,Burnley,13,13,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28902,28902,1903241,2025-11-29,2025-11-29 17:30:00,everton,newcastle_united,Everton,Newcastle United,13,13,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28903,28903,1903242,2025-11-29,2025-11-29 15:00:00,manchester_city,leeds_united,Manchester City,Leeds,13,13,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28905,28905,1903244,2025-11-29,2025-11-29 15:00:00,sunderland,bournemouth,Sunderland,Bournemouth,13,13,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28906,28906,1903245,2025-11-29,2025-11-29 20:00:00,tottenham_hotspur,fulham,Tottenham,Fulham,13,13,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28898,28898,1903237,2025-11-30,2025-11-30 14:05:00,aston_villa,wolverhampton_wanderers,Aston Villa,Wolverhampton Wanderers,13,13,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28900,28900,1903239,2025-11-30,2025-11-30 16:30:00,chelsea,arsenal,Chelsea,Arsenal,13,13,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28901,28901,1903240,2025-11-30,2025-11-30 12:00:00,crystal_palace,manchester_united,Crystal Palace,Manchester United,13,13,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28904,28904,1903243,2025-11-30,2025-11-30 14:05:00,nottingham_forest,brighton,Nottingham Forest,Brighton,13,13,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28907,28907,1903246,2025-11-30,2025-11-30 14:05:00,west_ham,liverpool,West Ham,Liverpool,13,13,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28908,28908,1903247,2025-12-02,2025-12-02 19:30:00,bournemouth,everton,Bournemouth,Everton,14,14,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28912,28912,1903251,2025-12-02,2025-12-02 19:30:00,fulham,manchester_city,Fulham,Manchester City,14,14,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28916,28916,1903255,2025-12-02,2025-12-02 20:15:00,newcastle_united,tottenham_hotspur,Newcastle United,Tottenham,14,14,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28909,28909,1903248,2025-12-03,2025-12-03 19:30:00,arsenal,brentford,Arsenal,Brentford,14,14,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28910,28910,1903249,2025-12-03,2025-12-03 19:30:00,brighton,aston_villa,Brighton,Aston Villa,14,14,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28911,28911,1903250,2025-12-03,2025-12-03 19:30:00,burnley,crystal_palace,Burnley,Crystal Palace,14,14,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28913,28913,1903252,2025-12-03,2025-12-03 20:15:00,leeds_united,chelsea,Leeds,Chelsea,14,14,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28914,28914,1903253,2025-12-03,2025-12-03 20:15:00,liverpool,sunderland,Liverpool,Sunderland,14,14,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28917,28917,1903256,2025-12-03,2025-12-03 19:30:00,wolverhampton_wanderers,nottingham_forest,Wolverhampton Wanderers,Nottingham Forest,14,14,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28915,28915,1903254,2025-12-04,2025-12-04 20:00:00,manchester_united,west_ham,Manchester United,West Ham,14,14,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28918,28918,1903257,2025-12-06,2025-12-06 15:00:00,bournemouth,chelsea,Bournemouth,Chelsea,15,15,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28919,28919,1903258,2025-12-06,2025-12-06 12:30:00,aston_villa,arsenal,Aston Villa,Arsenal,15,15,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28921,28921,1903477,2025-12-06,2025-12-06 15:00:00,everton,nottingham_forest,Everton,Nottingham Forest,15,15,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28923,28923,1903479,2025-12-06,2025-12-06 17:30:00,leeds_united,liverpool,Leeds,Liverpool,15,15,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28924,28924,1903480,2025-12-06,2025-12-06 15:00:00,manchester_city,sunderland,Manchester City,Sunderland,15,15,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28925,28925,1903481,2025-12-06,2025-12-06 15:00:00,newcastle_united,burnley,Newcastle United,Burnley,15,15,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28926,28926,1903482,2025-12-06,2025-12-06 15:00:00,tottenham_hotspur,brentford,Tottenham,Brentford,15,15,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28920,28920,1903476,2025-12-07,2025-12-07 14:00:00,brighton,west_ham,Brighton,West Ham,15,15,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28922,28922,1903478,2025-12-07,2025-12-07 16:30:00,fulham,crystal_palace,Fulham,Crystal Palace,15,15,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28927,28927,1903483,2025-12-08,2025-12-08 20:00:00,wolverhampton_wanderers,manchester_united,Wolverhampton Wanderers,Manchester United,15,15,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28928,28928,1903484,2025-12-13,2025-12-13 20:00:00,arsenal,wolverhampton_wanderers,Arsenal,Wolverhampton Wanderers,16,16,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28930,28930,1903486,2025-12-13,2025-12-13 17:30:00,burnley,fulham,Burnley,Fulham,16,16,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28931,28931,1903487,2025-12-13,2025-12-13 15:00:00,chelsea,everton,Chelsea,Everton,16,16,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28933,28933,1903489,2025-12-13,2025-12-13 15:00:00,liverpool,brighton,Liverpool,Brighton,16,16,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28929,28929,1903485,2025-12-14,2025-12-14 16:30:00,brentford,leeds_united,Brentford,Leeds,16,16,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28932,28932,1903488,2025-12-14,2025-12-14 14:00:00,crystal_palace,manchester_city,Crystal Palace,Manchester City,16,16,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28935,28935,1903491,2025-12-14,2025-12-14 14:00:00,nottingham_forest,tottenham_hotspur,Nottingham Forest,Tottenham,16,16,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28936,28936,1903492,2025-12-14,2025-12-14 14:00:00,sunderland,newcastle_united,Sunderland,Newcastle United,16,16,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28937,28937,1903493,2025-12-14,2025-12-14 14:00:00,west_ham,aston_villa,West Ham,Aston Villa,16,16,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28934,28934,1903490,2025-12-15,2025-12-15 20:00:00,manchester_united,bournemouth,Manchester United,Bournemouth,16,16,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28938,28938,1903494,2025-12-20,2025-12-20 15:00:00,bournemouth,burnley,Bournemouth,Burnley,17,17,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28940,28940,1903496,2025-12-20,2025-12-20 15:00:00,brighton,sunderland,Brighton,Sunderland,17,17,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28941,28941,1903281,2025-12-20,2025-12-20 20:00:00,everton,arsenal,Everton,Arsenal,17,17,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28943,28943,1903287,2025-12-20,2025-12-20 20:00:00,leeds_united,crystal_palace,Leeds,Crystal Palace,17,17,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28944,28944,1903290,2025-12-20,2025-12-20 15:00:00,manchester_city,west_ham,Manchester City,West Ham,17,17,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28945,28945,1903293,2025-12-20,2025-12-20 12:30:00,newcastle_united,chelsea,Newcastle United,Chelsea,17,17,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28946,28946,1903296,2025-12-20,2025-12-20 17:30:00,tottenham_hotspur,liverpool,Tottenham,Liverpool,17,17,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28947,28947,1903299,2025-12-20,2025-12-20 15:00:00,wolverhampton_wanderers,brentford,Wolverhampton Wanderers,Brentford,17,17,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28939,28939,1903495,2025-12-21,2025-12-21 16:30:00,aston_villa,manchester_united,Aston Villa,Manchester United,17,17,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28942,28942,1903284,2025-12-22,2025-12-22 20:00:00,fulham,nottingham_forest,Fulham,Nottingham Forest,17,17,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28954,28954,1903319,2025-12-26,2025-12-26 20:00:00,manchester_united,newcastle_united,Manchester United,Newcastle United,18,18,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28948,28948,1903302,2025-12-27,2025-12-27 15:00:00,arsenal,brighton,Arsenal,Brighton,18,18,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28949,28949,1903305,2025-12-27,2025-12-27 15:00:00,brentford,bournemouth,Brentford,Bournemouth,18,18,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28950,28950,1903308,2025-12-27,2025-12-27 15:00:00,burnley,everton,Burnley,Everton,18,18,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28951,28951,1903311,2025-12-27,2025-12-27 17:30:00,chelsea,aston_villa,Chelsea,Aston Villa,18,18,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28953,28953,1903316,2025-12-27,2025-12-27 15:00:00,liverpool,wolverhampton_wanderers,Liverpool,Wolverhampton Wanderers,18,18,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28955,28955,1903323,2025-12-27,2025-12-27 12:30:00,nottingham_forest,manchester_city,Nottingham Forest,Manchester City,18,18,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28957,28957,1903330,2025-12-27,2025-12-27 15:00:00,west_ham,fulham,West Ham,Fulham,18,18,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28952,28952,1903314,2025-12-28,2025-12-28 16:30:00,crystal_palace,tottenham_hotspur,Crystal Palace,Tottenham,18,18,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28956,28956,1903326,2025-12-28,2025-12-28 14:00:00,sunderland,leeds_united,Sunderland,Leeds,18,18,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28958,28958,1903333,2025-12-30,2025-12-30 20:15:00,arsenal,aston_villa,Arsenal,Aston Villa,19,19,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28960,28960,1903339,2025-12-30,2025-12-30 19:30:00,burnley,newcastle_united,Burnley,Newcastle United,19,19,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28961,28961,1903342,2025-12-30,2025-12-30 19:30:00,chelsea,bournemouth,Chelsea,Bournemouth,19,19,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28964,28964,1903351,2025-12-30,2025-12-30 20:15:00,manchester_united,wolverhampton_wanderers,Manchester United,Wolverhampton Wanderers,19,19,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28965,28965,1903354,2025-12-30,2025-12-30 19:30:00,nottingham_forest,everton,Nottingham Forest,Everton,19,19,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28967,28967,1903360,2025-12-30,2025-12-30 19:30:00,west_ham,brighton,West Ham,Brighton,19,19,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28959,28959,1903336,2026-01-01,2026-01-01 20:00:00,brentford,tottenham_hotspur,Brentford,Tottenham,19,19,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28962,28962,1903345,2026-01-01,2026-01-01 17:30:00,crystal_palace,fulham,Crystal Palace,Fulham,19,19,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28963,28963,1903348,2026-01-01,2026-01-01 17:30:00,liverpool,leeds_united,Liverpool,Leeds,19,19,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28966,28966,1903357,2026-01-01,2026-01-01 20:00:00,sunderland,manchester_city,Sunderland,Manchester City,19,19,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28970,28970,1903263,2026-01-03,2026-01-03 15:00:00,wolverhampton_wanderers,west_ham,Wolverhampton Wanderers,West Ham,20,20,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28971,28971,1903363,2026-01-03,2026-01-03 17:30:00,bournemouth,arsenal,Bournemouth,Arsenal,20,20,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28972,28972,1903366,2026-01-03,2026-01-03 12:30:00,aston_villa,nottingham_forest,Aston Villa,Nottingham Forest,20,20,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28973,28973,1903369,2026-01-03,2026-01-03 15:00:00,brighton,burnley,Brighton,Burnley,20,20,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28968,28968,1903259,2026-01-04,2026-01-04 15:00:00,newcastle_united,crystal_palace,Newcastle United,Crystal Palace,20,20,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28969,28969,1903261,2026-01-04,2026-01-04 15:00:00,tottenham_hotspur,sunderland,Tottenham,Sunderland,20,20,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28974,28974,1903371,2026-01-04,2026-01-04 15:00:00,everton,brentford,Everton,Brentford,20,20,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28975,28975,1903374,2026-01-04,2026-01-04 15:00:00,fulham,liverpool,Fulham,Liverpool,20,20,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28976,28976,1903375,2026-01-04,2026-01-04 12:30:00,leeds_united,manchester_united,Leeds,Manchester United,20,20,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28977,28977,1903376,2026-01-04,2026-01-04 17:30:00,manchester_city,chelsea,Manchester City,Chelsea,20,20,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28987,28987,1903288,2026-01-06,2026-01-06 20:00:00,west_ham,nottingham_forest,West Ham,Nottingham Forest,21,21,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28978,28978,1903276,2026-01-07,2026-01-07 19:30:00,everton,wolverhampton_wanderers,Everton,Wolverhampton Wanderers,21,21,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28979,28979,1903265,2026-01-07,2026-01-07 19:30:00,bournemouth,tottenham_hotspur,Bournemouth,Tottenham,21,21,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28981,28981,1903269,2026-01-07,2026-01-07 19:30:00,brentford,sunderland,Brentford,Sunderland,21,21,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28982,28982,1903271,2026-01-07,2026-01-07 20:15:00,burnley,manchester_united,Burnley,Manchester United,21,21,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28983,28983,1903274,2026-01-07,2026-01-07 19:30:00,crystal_palace,aston_villa,Crystal Palace,Aston Villa,21,21,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28984,28984,1903279,2026-01-07,2026-01-07 19:30:00,fulham,chelsea,Fulham,Chelsea,21,21,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28985,28985,1903282,2026-01-07,2026-01-07 19:30:00,manchester_city,brighton,Manchester City,Brighton,21,21,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28986,28986,1903285,2026-01-07,2026-01-07 20:15:00,newcastle_united,leeds_united,Newcastle United,Leeds,21,21,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28980,28980,1903267,2026-01-08,2026-01-08 20:00:00,arsenal,liverpool,Arsenal,Liverpool,21,21,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28990,28990,1903297,2026-01-17,2026-01-17 15:00:00,chelsea,brentford,Chelsea,Brentford,22,22,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28991,28991,1903300,2026-01-17,2026-01-17 15:00:00,leeds_united,fulham,Leeds,Fulham,22,22,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28992,28992,1903303,2026-01-17,2026-01-17 15:00:00,liverpool,burnley,Liverpool,Burnley,22,22,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28993,28993,1903304,2026-01-17,2026-01-17 12:30:00,manchester_united,manchester_city,Manchester United,Manchester City,22,22,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28994,28994,1903307,2026-01-17,2026-01-17 17:30:00,nottingham_forest,arsenal,Nottingham Forest,Arsenal,22,22,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28995,28995,1903310,2026-01-17,2026-01-17 15:00:00,sunderland,crystal_palace,Sunderland,Crystal Palace,22,22,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28996,28996,1903313,2026-01-17,2026-01-17 15:00:00,tottenham_hotspur,west_ham,Tottenham,West Ham,22,22,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28988,28988,1903291,2026-01-18,2026-01-18 16:30:00,aston_villa,everton,Aston Villa,Everton,22,22,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28997,28997,1903317,2026-01-18,2026-01-18 14:00:00,wolverhampton_wanderers,newcastle_united,Wolverhampton Wanderers,Newcastle United,22,22,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28989,28989,1903294,2026-01-19,2026-01-19 20:00:00,brighton,bournemouth,Brighton,Bournemouth,22,22,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28998,28998,1903320,2026-01-24,2026-01-24 17:30:00,bournemouth,liverpool,Bournemouth,Liverpool,23,23,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29001,29001,1903328,2026-01-24,2026-01-24 15:00:00,burnley,tottenham_hotspur,Burnley,Tottenham,23,23,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29004,29004,1903337,2026-01-24,2026-01-24 15:00:00,fulham,brighton,Fulham,Brighton,23,23,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29005,29005,1903340,2026-01-24,2026-01-24 15:00:00,manchester_city,wolverhampton_wanderers,Manchester City,Wolverhampton Wanderers,23,23,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29007,29007,1903260,2026-01-24,2026-01-24 12:30:00,west_ham,sunderland,West Ham,Sunderland,23,23,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:28999,28999,1903322,2026-01-25,2026-01-25 16:30:00,arsenal,manchester_united,Arsenal,Manchester United,23,23,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29000,29000,1903325,2026-01-25,2026-01-25 14:00:00,brentford,nottingham_forest,Brentford,Nottingham Forest,23,23,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29002,29002,1903331,2026-01-25,2026-01-25 14:00:00,crystal_palace,chelsea,Crystal Palace,Chelsea,23,23,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29006,29006,1903343,2026-01-25,2026-01-25 14:00:00,newcastle_united,aston_villa,Newcastle United,Aston Villa,23,23,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29003,29003,1903334,2026-01-26,2026-01-26 20:00:00,everton,leeds_united,Everton,Leeds,23,23,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29009,29009,1903266,2026-01-31,2026-01-31 17:30:00,chelsea,west_ham,Chelsea,West Ham,24,24,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29010,29010,1903264,2026-01-31,2026-01-31 15:00:00,brighton,everton,Brighton,Everton,24,24,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29014,29014,1903270,2026-01-31,2026-01-31 20:00:00,liverpool,newcastle_united,Liverpool,Newcastle United,24,24,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29015,29015,1903268,2026-01-31,2026-01-31 15:00:00,leeds_united,arsenal,Leeds,Arsenal,24,24,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29017,29017,1903278,2026-01-31,2026-01-31 15:00:00,wolverhampton_wanderers,bournemouth,Wolverhampton Wanderers,Bournemouth,24,24,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29008,29008,1903262,2026-02-01,2026-02-01 14:00:00,aston_villa,brentford,Aston Villa,Brentford,24,24,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29012,29012,1903272,2026-02-01,2026-02-01 14:00:00,manchester_united,fulham,Manchester United,Fulham,24,24,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29013,29013,1903273,2026-02-01,2026-02-01 14:00:00,nottingham_forest,crystal_palace,Nottingham Forest,Crystal Palace,24,24,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29016,29016,1903277,2026-02-01,2026-02-01 16:30:00,tottenham_hotspur,manchester_city,Tottenham,Manchester City,24,24,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29011,29011,1903275,2026-02-02,2026-02-02 20:00:00,sunderland,burnley,Sunderland,Burnley,24,24,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29023,29023,1903295,2026-02-06,2026-02-06 20:00:00,leeds_united,nottingham_forest,Leeds,Nottingham Forest,25,25,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29018,29018,1903280,2026-02-07,2026-02-07 15:00:00,bournemouth,aston_villa,Bournemouth,Aston Villa,25,25,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29019,29019,1903283,2026-02-07,2026-02-07 15:00:00,arsenal,sunderland,Arsenal,Sunderland,25,25,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29021,29021,1903289,2026-02-07,2026-02-07 15:00:00,burnley,west_ham,Burnley,West Ham,25,25,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29022,29022,1903292,2026-02-07,2026-02-07 15:00:00,fulham,everton,Fulham,Everton,25,25,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29025,29025,1903301,2026-02-07,2026-02-07 12:30:00,manchester_united,tottenham_hotspur,Manchester United,Tottenham,25,25,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29026,29026,1903306,2026-02-07,2026-02-07 17:30:00,newcastle_united,brentford,Newcastle United,Brentford,25,25,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29027,29027,1903309,2026-02-07,2026-02-07 15:00:00,wolverhampton_wanderers,chelsea,Wolverhampton Wanderers,Chelsea,25,25,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29020,29020,1903286,2026-02-08,2026-02-08 14:00:00,brighton,crystal_palace,Brighton,Crystal Palace,25,25,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29024,29024,1903298,2026-02-08,2026-02-08 16:30:00,liverpool,manchester_city,Liverpool,Manchester City,25,25,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29030,29030,1903318,2026-02-10,2026-02-10 19:30:00,chelsea,leeds_united,Chelsea,Leeds,26,26,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29032,29032,1903324,2026-02-10,2026-02-10 19:30:00,everton,bournemouth,Everton,Bournemouth,26,26,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29036,29036,1903335,2026-02-10,2026-02-10 19:30:00,tottenham_hotspur,newcastle_united,Tottenham,Newcastle United,26,26,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29037,29037,1903338,2026-02-10,2026-02-10 20:15:00,west_ham,manchester_united,West Ham,Manchester United,26,26,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29028,29028,1903312,2026-02-11,2026-02-11 19:30:00,aston_villa,brighton,Aston Villa,Brighton,26,26,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29031,29031,1903321,2026-02-11,2026-02-11 19:30:00,crystal_palace,burnley,Crystal Palace,Burnley,26,26,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29033,29033,1903327,2026-02-11,2026-02-11 19:30:00,manchester_city,fulham,Manchester City,Fulham,26,26,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29034,29034,1903329,2026-02-11,2026-02-11 19:30:00,nottingham_forest,wolverhampton_wanderers,Nottingham Forest,Wolverhampton Wanderers,26,26,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29035,29035,1903332,2026-02-11,2026-02-11 20:15:00,sunderland,liverpool,Sunderland,Liverpool,26,26,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29029,29029,1903315,2026-02-12,2026-02-12 20:00:00,brentford,arsenal,Brentford,Arsenal,26,26,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29087,29087,1903469,2026-02-18,2026-02-18 20:00:00,wolverhampton_wanderers,arsenal,Wolverhampton Wanderers,Arsenal,27,27,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29038,29038,1903341,2026-02-21,2026-02-21 15:00:00,aston_villa,leeds_united,Aston Villa,Leeds,27,27,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29039,29039,1903344,2026-02-21,2026-02-21 15:00:00,brentford,brighton,Brentford,Brighton,27,27,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29040,29040,1903347,2026-02-21,2026-02-21 15:00:00,chelsea,burnley,Chelsea,Burnley,27,27,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29043,29043,1903385,2026-02-21,2026-02-21 20:00:00,manchester_city,newcastle_united,Manchester City,Newcastle United,27,27,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29047,29047,1903394,2026-02-21,2026-02-21 17:30:00,west_ham,bournemouth,West Ham,Bournemouth,27,27,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29041,29041,1903380,2026-02-22,2026-02-22 14:00:00,crystal_palace,wolverhampton_wanderers,Crystal Palace,Wolverhampton Wanderers,27,27,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29044,29044,1903386,2026-02-22,2026-02-22 14:00:00,nottingham_forest,liverpool,Nottingham Forest,Liverpool,27,27,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29045,29045,1903390,2026-02-22,2026-02-22 14:00:00,sunderland,fulham,Sunderland,Fulham,27,27,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29046,29046,1903393,2026-02-22,2026-02-22 16:30:00,tottenham_hotspur,arsenal,Tottenham,Arsenal,27,27,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29042,29042,1903383,2026-02-23,2026-02-23 20:00:00,everton,manchester_united,Everton,Manchester United,28,28,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29057,29057,1903414,2026-02-27,2026-02-27 20:00:00,wolverhampton_wanderers,aston_villa,Wolverhampton Wanderers,Aston Villa,28,28,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29048,29048,1903396,2026-02-28,2026-02-28 12:30:00,bournemouth,sunderland,Bournemouth,Sunderland,28,28,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29051,29051,1903402,2026-02-28,2026-02-28 15:00:00,burnley,brentford,Burnley,Brentford,28,28,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29053,29053,1903406,2026-02-28,2026-02-28 17:30:00,leeds_united,manchester_city,Leeds,Manchester City,28,28,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29054,29054,1903408,2026-02-28,2026-02-28 15:00:00,liverpool,west_ham,Liverpool,West Ham,28,28,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29056,29056,1903412,2026-02-28,2026-02-28 15:00:00,newcastle_united,everton,Newcastle United,Everton,28,28,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29049,29049,1903399,2026-03-01,2026-03-01 16:30:00,arsenal,chelsea,Arsenal,Chelsea,29,29,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29050,29050,1903400,2026-03-01,2026-03-01 14:00:00,brighton,nottingham_forest,Brighton,Nottingham Forest,28,28,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29052,29052,1903404,2026-03-01,2026-03-01 14:00:00,fulham,tottenham_hotspur,Fulham,Tottenham,28,28,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29055,29055,1903410,2026-03-01,2026-03-01 14:00:00,manchester_united,crystal_palace,Manchester United,Crystal Palace,28,28,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29058,29058,1903416,2026-03-03,2026-03-03 19:30:00,bournemouth,brentford,Bournemouth,Brentford,29,29,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29061,29061,1903423,2026-03-03,2026-03-03 19:30:00,everton,burnley,Everton,Burnley,29,29,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29063,29063,1903427,2026-03-03,2026-03-03 19:30:00,leeds_united,sunderland,Leeds,Sunderland,29,29,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29067,29067,1903435,2026-03-03,2026-03-03 20:15:00,wolverhampton_wanderers,liverpool,Wolverhampton Wanderers,Liverpool,29,29,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29059,29059,1903418,2026-03-04,2026-03-04 19:30:00,aston_villa,chelsea,Aston Villa,Chelsea,29,29,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29060,29060,1903421,2026-03-04,2026-03-04 19:30:00,brighton,arsenal,Brighton,Arsenal,29,29,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29062,29062,1903425,2026-03-04,2026-03-04 19:30:00,fulham,west_ham,Fulham,West Ham,29,29,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29064,29064,1903429,2026-03-04,2026-03-04 19:30:00,manchester_city,nottingham_forest,Manchester City,Nottingham Forest,29,29,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29065,29065,1903431,2026-03-04,2026-03-04 20:15:00,newcastle_united,manchester_united,Newcastle United,Manchester United,29,29,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29066,29066,1903433,2026-03-05,2026-03-05 20:00:00,tottenham_hotspur,crystal_palace,Tottenham,Crystal Palace,30,30,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29068,29068,1903437,2026-03-14,2026-03-14 17:30:00,arsenal,everton,Arsenal,Everton,30,30,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29070,29070,1903441,2026-03-14,2026-03-14 15:00:00,burnley,bournemouth,Burnley,Bournemouth,30,30,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29071,29071,1903443,2026-03-14,2026-03-14 17:30:00,chelsea,newcastle_united,Chelsea,Newcastle United,30,30,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29076,29076,1903456,2026-03-14,2026-03-14 15:00:00,sunderland,brighton,Sunderland,Brighton,30,30,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29077,29077,1903459,2026-03-14,2026-03-14 20:00:00,west_ham,manchester_city,West Ham,Manchester City,30,30,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29072,29072,1903445,2026-03-15,2026-03-15 14:00:00,crystal_palace,leeds_united,Crystal Palace,Leeds,30,30,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29073,29073,1903447,2026-03-15,2026-03-15 16:30:00,liverpool,tottenham_hotspur,Liverpool,Tottenham,30,30,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29074,29074,1903450,2026-03-15,2026-03-15 14:00:00,manchester_united,aston_villa,Manchester United,Aston Villa,30,30,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29075,29075,1903452,2026-03-15,2026-03-15 14:00:00,nottingham_forest,fulham,Nottingham Forest,Fulham,30,30,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29069,29069,1903439,2026-03-16,2026-03-16 20:00:00,brentford,wolverhampton_wanderers,Brentford,Wolverhampton Wanderers,31,31,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29078,29078,1903460,2026-03-20,2026-03-20 20:00:00,bournemouth,manchester_united,Bournemouth,Manchester United,31,31,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29080,29080,1903462,2026-03-21,2026-03-21 12:30:00,brighton,liverpool,Brighton,Liverpool,31,31,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29081,29081,1903463,2026-03-21,2026-03-21 17:30:00,everton,chelsea,Everton,Chelsea,31,31,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29082,29082,1903464,2026-03-21,2026-03-21 15:00:00,fulham,burnley,Fulham,Burnley,31,31,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29083,29083,1903465,2026-03-21,2026-03-21 20:00:00,leeds_united,brentford,Leeds,Brentford,31,31,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29079,29079,1903461,2026-03-22,2026-03-22 14:15:00,aston_villa,west_ham,Aston Villa,West Ham,31,31,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29085,29085,1903467,2026-03-22,2026-03-22 12:00:00,newcastle_united,sunderland,Newcastle United,Sunderland,31,31,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29086,29086,1903468,2026-03-22,2026-03-22 14:15:00,tottenham_hotspur,nottingham_forest,Tottenham,Nottingham Forest,31,31,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29091,29091,1903355,2026-04-10,2026-04-10 19:00:00,west_ham,wolverhampton_wanderers,West Ham,Wolverhampton Wanderers,31,31,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29092,29092,1903470,2026-04-11,2026-04-11 11:30:00,arsenal,bournemouth,Arsenal,Bournemouth,32,32,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29093,29093,1903471,2026-04-11,2026-04-11 14:00:00,brentford,everton,Brentford,Everton,32,32,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29094,29094,1903472,2026-04-11,2026-04-11 14:00:00,burnley,brighton,Burnley,Brighton,32,32,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29097,29097,1903475,2026-04-11,2026-04-11 16:30:00,liverpool,fulham,Liverpool,Fulham,32,32,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29089,29089,1903349,2026-04-12,2026-04-12 13:00:00,nottingham_forest,aston_villa,Nottingham Forest,Aston Villa,32,32,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29090,29090,1903352,2026-04-12,2026-04-12 13:00:00,sunderland,tottenham_hotspur,Sunderland,Tottenham,32,32,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29095,29095,1903473,2026-04-12,2026-04-12 15:30:00,chelsea,manchester_city,Chelsea,Manchester City,32,32,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29096,29096,1903474,2026-04-12,2026-04-12 13:00:00,crystal_palace,newcastle_united,Crystal Palace,Newcastle United,32,32,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29088,29088,1903346,2026-04-13,2026-04-13 19:00:00,manchester_united,leeds_united,Manchester United,Leeds,32,32,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29099,29099,1903362,2026-04-18,2026-04-18 11:30:00,brentford,fulham,Brentford,Fulham,32,32,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29100,29100,1903365,2026-04-18,2026-04-18 19:00:00,chelsea,manchester_united,Chelsea,Manchester United,33,33,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29103,29103,1903377,2026-04-18,2026-04-18 14:00:00,leeds_united,wolverhampton_wanderers,Leeds,Wolverhampton Wanderers,33,33,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29105,29105,1903379,2026-04-18,2026-04-18 14:00:00,newcastle_united,bournemouth,Newcastle United,Bournemouth,33,33,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29107,29107,1903382,2026-04-18,2026-04-18 16:30:00,tottenham_hotspur,brighton,Tottenham,Brighton,33,33,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29098,29098,1903358,2026-04-19,2026-04-19 13:00:00,aston_villa,sunderland,Aston Villa,Sunderland,33,33,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29102,29102,1903372,2026-04-19,2026-04-19 13:00:00,everton,liverpool,Everton,Liverpool,33,33,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29104,29104,1903378,2026-04-19,2026-04-19 15:30:00,manchester_city,arsenal,Manchester City,Arsenal,33,33,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29106,29106,1903381,2026-04-19,2026-04-19 13:00:00,nottingham_forest,burnley,Nottingham Forest,Burnley,33,33,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29101,29101,1903368,2026-04-20,2026-04-20 19:00:00,crystal_palace,west_ham,Crystal Palace,West Ham,33,33,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29110,29110,1903388,2026-04-21,2026-04-21 19:00:00,brighton,chelsea,Brighton,Chelsea,33,33,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29108,29108,1903384,2026-04-22,2026-04-22 19:00:00,bournemouth,leeds_united,Bournemouth,Leeds,34,34,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29111,29111,1903389,2026-04-22,2026-04-22 19:00:00,burnley,manchester_city,Burnley,Manchester City,34,34,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29115,29115,1903397,2026-04-24,2026-04-24 19:00:00,sunderland,nottingham_forest,Sunderland,Nottingham Forest,34,34,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29109,29109,1903387,2026-04-25,2026-04-25 16:30:00,arsenal,newcastle_united,Arsenal,Newcastle United,34,34,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29112,29112,1903391,2026-04-25,2026-04-25 11:30:00,fulham,aston_villa,Fulham,Aston Villa,34,34,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29113,29113,1903392,2026-04-25,2026-04-25 14:00:00,liverpool,crystal_palace,Liverpool,Crystal Palace,34,34,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29116,29116,1903398,2026-04-25,2026-04-25 14:00:00,west_ham,everton,West Ham,Everton,34,34,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29117,29117,1903401,2026-04-25,2026-04-25 14:00:00,wolverhampton_wanderers,tottenham_hotspur,Wolverhampton Wanderers,Tottenham,34,34,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29114,29114,1903395,2026-04-27,2026-04-27 19:00:00,manchester_united,brentford,Manchester United,Brentford,34,34,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29124,29124,1903415,2026-05-01,2026-05-01 20:00:00,leeds_united,burnley,Leeds,Burnley,34,34,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29119,29119,1903405,2026-05-02,2026-05-02 17:30:00,arsenal,fulham,Arsenal,Fulham,35,35,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29121,29121,1903409,2026-05-02,2026-05-02 15:00:00,brentford,west_ham,Brentford,West Ham,35,35,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29126,29126,1903419,2026-05-02,2026-05-02 15:00:00,newcastle_united,brighton,Newcastle United,Brighton,35,35,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29127,29127,1903420,2026-05-02,2026-05-02 15:00:00,wolverhampton_wanderers,sunderland,Wolverhampton Wanderers,Sunderland,35,35,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29118,29118,1903403,2026-05-03,2026-05-03 14:00:00,bournemouth,crystal_palace,Bournemouth,Crystal Palace,35,35,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29120,29120,1903407,2026-05-03,2026-05-03 19:00:00,aston_villa,tottenham_hotspur,Aston Villa,Tottenham,35,35,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29125,29125,1903417,2026-05-03,2026-05-03 15:30:00,manchester_united,liverpool,Manchester United,Liverpool,35,35,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29122,29122,1903411,2026-05-04,2026-05-04 15:00:00,chelsea,nottingham_forest,Chelsea,Nottingham Forest,35,35,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29123,29123,1903413,2026-05-04,2026-05-04 20:00:00,everton,manchester_city,Everton,Manchester City,35,35,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29128,29128,1903422,2026-05-09,2026-05-09 15:00:00,brighton,wolverhampton_wanderers,Brighton,Wolverhampton Wanderers,36,36,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29131,29131,1903428,2026-05-09,2026-05-09 15:00:00,fulham,bournemouth,Fulham,Bournemouth,36,36,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29132,29132,1903430,2026-05-09,2026-05-09 12:30:00,liverpool,chelsea,Liverpool,Chelsea,35,35,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29133,29133,1903432,2026-05-09,2026-05-09 17:30:00,manchester_city,brentford,Manchester City,Brentford,36,36,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29135,29135,1903436,2026-05-09,2026-05-09 15:00:00,sunderland,manchester_united,Sunderland,Manchester United,36,36,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29129,29129,1903424,2026-05-10,2026-05-10 14:00:00,burnley,aston_villa,Burnley,Aston Villa,36,36,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29130,29130,1903426,2026-05-10,2026-05-10 14:00:00,crystal_palace,everton,Crystal Palace,Everton,36,36,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29134,29134,1903434,2026-05-10,2026-05-10 14:00:00,nottingham_forest,newcastle_united,Nottingham Forest,Newcastle United,36,36,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29137,29137,1903440,2026-05-10,2026-05-10 16:30:00,west_ham,arsenal,West Ham,Arsenal,36,36,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29136,29136,1903438,2026-05-11,2026-05-11 20:00:00,tottenham_hotspur,leeds_united,Tottenham,Leeds,36,36,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29084,29084,1903466,2026-05-13,2026-05-13 20:00:00,manchester_city,crystal_palace,Manchester City,Crystal Palace,36,36,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29140,29140,1903446,2026-05-15,2026-05-15 20:00:00,aston_villa,liverpool,Aston Villa,Liverpool,37,37,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29141,29141,1903448,2026-05-17,2026-05-17 15:00:00,brentford,crystal_palace,Brentford,Crystal Palace,37,37,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29143,29143,1903451,2026-05-17,2026-05-17 15:00:00,everton,sunderland,Everton,Sunderland,37,37,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29144,29144,1903453,2026-05-17,2026-05-17 15:00:00,leeds_united,brighton,Leeds,Brighton,37,37,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29145,29145,1903454,2026-05-17,2026-05-17 12:30:00,manchester_united,nottingham_forest,Manchester United,Nottingham Forest,37,37,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29146,29146,1903455,2026-05-17,2026-05-17 17:30:00,newcastle_united,west_ham,Newcastle United,West Ham,37,37,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29147,29147,1903457,2026-05-17,2026-05-17 15:00:00,wolverhampton_wanderers,fulham,Wolverhampton Wanderers,Fulham,37,37,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29139,29139,1903444,2026-05-18,2026-05-18 20:00:00,arsenal,burnley,Arsenal,Burnley,37,37,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29138,29138,1903442,2026-05-19,2026-05-19 19:30:00,bournemouth,manchester_city,Bournemouth,Manchester City,37,37,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29142,29142,1903449,2026-05-19,2026-05-19 20:15:00,chelsea,tottenham_hotspur,Chelsea,Tottenham,37,37,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29148,29148,1903458,2026-05-24,2026-05-24 15:00:00,brighton,manchester_united,Brighton,Manchester United,38,38,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29149,29149,1903350,2026-05-24,2026-05-24 15:00:00,burnley,wolverhampton_wanderers,Burnley,Wolverhampton Wanderers,38,38,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29150,29150,1903353,2026-05-24,2026-05-24 15:00:00,crystal_palace,arsenal,Crystal Palace,Arsenal,38,38,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29151,29151,1903356,2026-05-24,2026-05-24 15:00:00,fulham,newcastle_united,Fulham,Newcastle United,38,38,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29152,29152,1903359,2026-05-24,2026-05-24 15:00:00,liverpool,brentford,Liverpool,Brentford,38,38,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29153,29153,1903361,2026-05-24,2026-05-24 15:00:00,manchester_city,aston_villa,Manchester City,Aston Villa,38,38,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29154,29154,1903364,2026-05-24,2026-05-24 15:00:00,nottingham_forest,bournemouth,Nottingham Forest,Bournemouth,38,38,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29155,29155,1903367,2026-05-24,2026-05-24 15:00:00,sunderland,chelsea,Sunderland,Chelsea,38,38,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29156,29156,1903370,2026-05-24,2026-05-24 15:00:00,tottenham_hotspur,everton,Tottenham,Everton,38,38,True,RESOLVED,cached schedule exact date plus canonical home/away IDs
+understat:29157,29157,1903373,2026-05-24,2026-05-24 15:00:00,west_ham,leeds_united,West Ham,Leeds,38,38,True,RESOLVED,cached schedule exact date plus canonical home/away IDs

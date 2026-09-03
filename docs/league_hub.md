@@ -36,3 +36,10 @@ The four top cards are Latest Jester, Jester Leader, Latest Manager of the Month
 and Cup Status. The live table defaults exactly to Rank, Team, Movement, Record,
 Form, Pts / GW, Ghost / GW, Efficiency, and Lineup Changes. Unsupported live
 fields remain blank. The duplicate manager-card grid was removed from the Hub.
+## Sprint 8.8 approved live hierarchy
+
+The 2026/27 Hub now stops after: League Hub title; four compact headline cards;
+the compact League Table; four weekly highlights; Weekly Scoring and League
+Position History; and four top-three player leaderboards. Roster activity,
+projections, position-strength, available-player and manager-directory content
+belongs to the specialized pages and is no longer repeated here.

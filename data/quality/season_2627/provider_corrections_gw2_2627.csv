@@ -1,0 +1,18 @@
+provider,period,match,canonical_player_id,player,club,field,old_value,new_value,difference,old_snapshot,new_snapshot,active_starter,manager_affected,downstream_impact
+Fantrax,2,,,Cristhian Mosquera,,Fantasy Points,7.5,8.0,0.5,20260901T0016340000,20260902T2353220000,,acjx0vg4mrp1z5vo,full source rebuild
+Fantrax,2,,,Cristhian Mosquera,,Average Fantasy Points per Game,7.5,8.0,0.5,20260901T0016340000,20260902T2353220000,,acjx0vg4mrp1z5vo,full source rebuild
+Fantrax,2,,,Cristhian Mosquera,,G,2.0,3.0,1.0,20260901T0016340000,20260902T2353220000,,acjx0vg4mrp1z5vo,full source rebuild
+Fantrax,2,,,Declan Rice,,Fantasy Points,9.5,10.5,1.0,20260901T0016340000,20260902T2353220000,,aup99ojzmrp1z5vp,full source rebuild
+Fantrax,2,,,Declan Rice,,Average Fantasy Points per Game,9.5,10.5,1.0,20260901T0016340000,20260902T2353220000,,aup99ojzmrp1z5vp,full source rebuild
+Fantrax,2,,,Declan Rice,,DIS,0.0,1.0,1.0,20260901T0016340000,20260902T2353220000,,aup99ojzmrp1z5vp,full source rebuild
+Fantrax,2,,,Ian Maatsen,,Fantasy Points,0.5,2.5,2.0,20260901T0016340000,20260902T2353220000,,ayk8m85amrp1z5vo,full source rebuild
+Fantrax,2,,,Ian Maatsen,,Average Fantasy Points per Game,0.5,2.5,2.0,20260901T0016340000,20260902T2353220000,,ayk8m85amrp1z5vo,full source rebuild
+Fantrax,2,,,Ian Maatsen,,DIS,1.0,2.0,1.0,20260901T0016340000,20260902T2353220000,,ayk8m85amrp1z5vo,full source rebuild
+Fantrax,2,,,Ian Maatsen,,G,1.0,3.0,2.0,20260901T0016340000,20260902T2353220000,,ayk8m85amrp1z5vo,full source rebuild
+Fantrax,2,,,Boubacar Kamara,,Fantasy Points,5.0,6.5,1.5,20260901T0016340000,20260902T2353220000,,h1vdt8ynmrp1z5vp,full source rebuild
+Fantrax,2,,,Boubacar Kamara,,Average Fantasy Points per Game,5.0,6.5,1.5,20260901T0016340000,20260902T2353220000,,h1vdt8ynmrp1z5vp,full source rebuild
+Fantrax,2,,,Boubacar Kamara,,KP,0.0,1.0,1.0,20260901T0016340000,20260902T2353220000,,h1vdt8ynmrp1z5vp,full source rebuild
+Fantrax,2,,,Boubacar Kamara,,Int,1.0,2.0,1.0,20260901T0016340000,20260902T2353220000,,h1vdt8ynmrp1z5vp,full source rebuild
+Fantrax,2,,,Gabriel Magalhaes,,Fantasy Points,12.0,13.0,1.0,20260901T0016340000,20260902T2353220000,,rx9bjhp3mrp1z5vo,full source rebuild
+Fantrax,2,,,Gabriel Magalhaes,,Average Fantasy Points per Game,12.0,13.0,1.0,20260901T0016340000,20260902T2353220000,,rx9bjhp3mrp1z5vo,full source rebuild
+Fantrax,2,,,Gabriel Magalhaes,,KP,0.0,1.0,1.0,20260901T0016340000,20260902T2353220000,,rx9bjhp3mrp1z5vo,full source rebuild

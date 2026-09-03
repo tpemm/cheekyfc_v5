@@ -1,0 +1,265 @@
+season_id,period,manager_id,manager_name,fantasy_team_id,fantasy_team_name,registry_player_id,fantrax_player_id,player_name,active_start,position_started,fantrax_points,goals,assists,clean_sheets,ghost_points,period_complete
+2627,1,2dxfjlk0mrp1z5vo,nhauptma,2dxfjlk0mrp1z5vo,nhauptma,pr_bcba710d6cc43263,03rzp,Antonee Robinson,True,D,6.5,0.0,0.0,0.0,6.5,True
+2627,1,2dxfjlk0mrp1z5vo,nhauptma,2dxfjlk0mrp1z5vo,nhauptma,pr_d1e57b4a1b01e197,05akv,Tyrick Mitchell,True,"D,M",3.5,0.0,0.0,0.0,3.5,True
+2627,1,2dxfjlk0mrp1z5vo,nhauptma,2dxfjlk0mrp1z5vo,nhauptma,pr_cd2d216755538e53,05l2z,Bobby Thomas,True,D,6.5,0.0,0.0,0.0,6.5,True
+2627,1,2dxfjlk0mrp1z5vo,nhauptma,2dxfjlk0mrp1z5vo,nhauptma,pr_fc59d9697d9a94cf,0689w,Georginio Rutter,True,"M,F",9.0,0.0,1.0,1.0,2.0,True
+2627,1,2dxfjlk0mrp1z5vo,nhauptma,2dxfjlk0mrp1z5vo,nhauptma,pr_95a5f1d8265b3eb6,06cmu,Bart Verbruggen,True,G,6.0,0.0,0.0,1.0,0.0,True
+2627,1,2dxfjlk0mrp1z5vo,nhauptma,2dxfjlk0mrp1z5vo,nhauptma,pr_7fc5fe0598e32d38,06uyc,Adrien Truffert,True,D,3.5,0.0,0.0,0.0,3.5,True
+2627,1,2dxfjlk0mrp1z5vo,nhauptma,2dxfjlk0mrp1z5vo,nhauptma,pr_523827882c94cabf,06v0g,Trai Hume,True,"D,M",9.5,0.0,0.0,0.0,9.5,True
+2627,1,2dxfjlk0mrp1z5vo,nhauptma,2dxfjlk0mrp1z5vo,nhauptma,pr_4f015cdefe445308,06zbx,Anton Stach,True,M,20.5,1.0,0.0,1.0,10.5,True
+2627,1,2dxfjlk0mrp1z5vo,nhauptma,2dxfjlk0mrp1z5vo,nhauptma,pr_76368ffff4df9a38,0700p,Malick Thiaw,True,D,11.5,0.0,0.0,0.0,11.5,True
+2627,1,2dxfjlk0mrp1z5vo,nhauptma,2dxfjlk0mrp1z5vo,nhauptma,pr_a8e4a64c8e7e0880,070f9,Yéremy Pino Santos,True,"M,F",0.5,0.0,0.0,0.0,0.5,True
+2627,1,2dxfjlk0mrp1z5vo,nhauptma,2dxfjlk0mrp1z5vo,nhauptma,pr_57dcdf49fa6ad0c0,072zs,Nilson Angulo,True,"M,F",10.5,1.0,0.0,0.0,1.5,True
+2627,1,61fz0pmkmrp1z5vo,wmuck1,61fz0pmkmrp1z5vo,wmuck1,pr_9c2e53f366f2cf26,03rxs,Harry Wilson,True,"M,F",5.0,0.0,0.0,1.0,4.0,True
+2627,1,61fz0pmkmrp1z5vo,wmuck1,61fz0pmkmrp1z5vo,wmuck1,pr_d22ad43e3232f497,03vlj,Virgil van Dijk,True,D,6.5,0.0,0.0,0.0,6.5,True
+2627,1,61fz0pmkmrp1z5vo,wmuck1,61fz0pmkmrp1z5vo,wmuck1,pr_ff824cbc8613648d,0521z,James Justin,True,"D,M",17.0,0.0,0.0,1.0,11.0,True
+2627,1,61fz0pmkmrp1z5vo,wmuck1,61fz0pmkmrp1z5vo,wmuck1,pr_47680bd841752bac,05r94,Iliman Ndiaye,True,"M,F",17.0,0.0,1.0,1.0,10.0,True
+2627,1,61fz0pmkmrp1z5vo,wmuck1,61fz0pmkmrp1z5vo,wmuck1,pr_8dd827936e2d9efa,061ya,Brennan Johnson,True,"M,F",1.0,0.0,0.0,0.0,1.0,True
+2627,1,61fz0pmkmrp1z5vo,wmuck1,61fz0pmkmrp1z5vo,wmuck1,pr_00d39bc2f5988f3a,062p5,Levi Samuels Colwill,True,D,0.0,0.0,0.0,0.0,0.0,True
+2627,1,61fz0pmkmrp1z5vo,wmuck1,61fz0pmkmrp1z5vo,wmuck1,pr_2cfd54c576f1853d,06clt,Justin Kluivert,True,"M,F",8.0,0.0,0.0,1.0,7.0,True
+2627,1,61fz0pmkmrp1z5vo,wmuck1,61fz0pmkmrp1z5vo,wmuck1,pr_d97faf00cf6a46e9,06jgi,Daniel Muñoz Mejía,True,"D,M",5.0,0.0,0.0,0.0,5.0,True
+2627,1,61fz0pmkmrp1z5vo,wmuck1,61fz0pmkmrp1z5vo,wmuck1,pr_b8e7051f339683f0,06v0p,Enzo Le Fée,True,"M,F",1.0,0.0,0.0,0.0,1.0,True
+2627,1,61fz0pmkmrp1z5vo,wmuck1,61fz0pmkmrp1z5vo,wmuck1,pr_53de7c40b6b43722,06znb,Robin Roefs,True,G,4.5,0.0,0.0,0.0,4.5,True
+2627,1,61fz0pmkmrp1z5vo,wmuck1,61fz0pmkmrp1z5vo,wmuck1,pr_2c7017dec4583e0b,070g7,Nick Woltemade,True,"M,F",0.0,0.0,0.0,0.0,,True
+2627,1,acjx0vg4mrp1z5vo,yudesh,acjx0vg4mrp1z5vo,yudesh,pr_d6bde77cc34cf0fb,051k0,John McGinn,True,M,1.0,0.0,0.0,0.0,1.0,True
+2627,1,acjx0vg4mrp1z5vo,yudesh,acjx0vg4mrp1z5vo,yudesh,pr_2713ca67fce06b42,05l8q,Cole Palmer,True,M,31.0,1.0,1.0,0.0,16.0,True
+2627,1,acjx0vg4mrp1z5vo,yudesh,acjx0vg4mrp1z5vo,yudesh,pr_55592e1b99371400,05opj,Elliot Anderson,True,M,3.5,0.0,0.0,0.0,3.5,True
+2627,1,acjx0vg4mrp1z5vo,yudesh,acjx0vg4mrp1z5vo,yudesh,pr_3027067dcd49893e,05t6x,William Osula,True,F,10.5,0.0,1.0,0.0,4.5,True
+2627,1,acjx0vg4mrp1z5vo,yudesh,acjx0vg4mrp1z5vo,yudesh,pr_b1a257b2771e2715,0635j,Chris Richards,True,D,11.5,0.0,0.0,0.0,11.5,True
+2627,1,acjx0vg4mrp1z5vo,yudesh,acjx0vg4mrp1z5vo,yudesh,pr_832cdd6809a3b44d,068ym,Enzo Fernández,True,M,1.5,0.0,0.0,0.0,1.5,True
+2627,1,acjx0vg4mrp1z5vo,yudesh,acjx0vg4mrp1z5vo,yudesh,pr_9012ceb6fec27970,06jgs,Adam Wharton,True,M,6.5,0.0,0.0,0.0,6.5,True
+2627,1,acjx0vg4mrp1z5vo,yudesh,acjx0vg4mrp1z5vo,yudesh,pr_3c47bf23d6df03cb,06r9w,Abdukodir Khusanov,True,D,5.5,0.0,0.0,0.0,5.5,True
+2627,1,acjx0vg4mrp1z5vo,yudesh,acjx0vg4mrp1z5vo,yudesh,pr_1e3bcfa8d017dca2,06zbm,Cristhian Mosquera,True,D,11.5,0.0,0.0,1.0,5.5,True
+2627,1,acjx0vg4mrp1z5vo,yudesh,acjx0vg4mrp1z5vo,yudesh,pr_e682a76c8f952a69,070hl,Senne Lammens,True,G,3.0,0.0,0.0,0.0,3.0,True
+2627,1,acjx0vg4mrp1z5vo,yudesh,acjx0vg4mrp1z5vo,yudesh,FTX-078UD,078ud,Amar Dedic,True,D,3.0,0.0,0.0,0.0,3.0,True
+2627,1,aup99ojzmrp1z5vp,The Facerockers,aup99ojzmrp1z5vp,The Facerockers,pr_ee05e4712e802da3,032f9,Jordan Pickford,True,G,14.0,0.0,0.0,1.0,8.0,True
+2627,1,aup99ojzmrp1z5vp,The Facerockers,aup99ojzmrp1z5vp,The Facerockers,pr_96f69665edfaf67f,0435m,Granit Xhaka,True,M,14.0,0.0,1.0,0.0,8.0,True
+2627,1,aup99ojzmrp1z5vp,The Facerockers,aup99ojzmrp1z5vp,The Facerockers,pr_750d10429982dc3b,049tq,Dominic Calvert-Lewin,True,F,0.0,0.0,0.0,1.0,0.0,True
+2627,1,aup99ojzmrp1z5vp,The Facerockers,aup99ojzmrp1z5vp,The Facerockers,pr_45805a2b75c1e96f,04agz,Declan Rice,True,M,3.0,0.0,0.0,1.0,2.0,True
+2627,1,aup99ojzmrp1z5vp,The Facerockers,aup99ojzmrp1z5vp,The Facerockers,pr_101440a1c8f3673b,051kl,Emiliano Buendía Stati,True,M,6.5,0.0,0.0,0.0,6.5,True
+2627,1,aup99ojzmrp1z5vp,The Facerockers,aup99ojzmrp1z5vp,The Facerockers,pr_2fd3c5759a893d42,056iy,Pedro Lomba Neto,True,"M,F",5.0,0.0,0.0,0.0,5.0,True
+2627,1,aup99ojzmrp1z5vp,The Facerockers,aup99ojzmrp1z5vp,The Facerockers,pr_9648b8844d3d1944,0646f,Alexander Isak,True,F,8.0,0.0,0.0,0.0,8.0,True
+2627,1,aup99ojzmrp1z5vp,The Facerockers,aup99ojzmrp1z5vp,The Facerockers,pr_1c86486bec2ca92c,067zv,Kevin Schade,True,"M,F",13.0,0.0,0.0,1.0,12.0,True
+2627,1,aup99ojzmrp1z5vp,The Facerockers,aup99ojzmrp1z5vp,The Facerockers,pr_36eceed8b3fb4486,06do9,Milos Kerkez,True,D,4.5,0.0,0.0,0.0,4.5,True
+2627,1,aup99ojzmrp1z5vp,The Facerockers,aup99ojzmrp1z5vp,The Facerockers,pr_35c335984a878d48,06yb9,Reinildo Mandava,True,D,11.5,0.0,0.0,0.0,11.5,True
+2627,1,aup99ojzmrp1z5vp,The Facerockers,aup99ojzmrp1z5vp,The Facerockers,FTX-0784Z,0784z,Jeremy Jacquet,True,D,4.5,0.0,0.0,0.0,4.5,True
+2627,1,ayk8m85amrp1z5vo,Up the Arse-nal,ayk8m85amrp1z5vo,Up the Arse-nal,pr_8248fe15613eed8e,052cb,Ian Maatsen,True,D,-2.5,0.0,0.0,0.0,-2.5,True
+2627,1,ayk8m85amrp1z5vo,Up the Arse-nal,ayk8m85amrp1z5vo,Up the Arse-nal,pr_66c262bd266b1535,05748,Ismaïla Sarr,True,"M,F",0.0,0.0,0.0,0.0,,True
+2627,1,ayk8m85amrp1z5vo,Up the Arse-nal,ayk8m85amrp1z5vo,Up the Arse-nal,pr_095fc765499cd3c7,05l27,Jarrad Branthwaite,True,D,15.0,0.0,0.0,1.0,9.0,True
+2627,1,ayk8m85amrp1z5vo,Up the Arse-nal,ayk8m85amrp1z5vo,Up the Arse-nal,pr_c5a6107808050916,05r8o,Jean-Philippe Mateta,True,F,2.5,0.0,0.0,0.0,2.5,True
+2627,1,ayk8m85amrp1z5vo,Up the Arse-nal,ayk8m85amrp1z5vo,Up the Arse-nal,pr_41ec866daf042593,05r9b,Martin Ødegaard,True,M,20.5,1.0,0.0,1.0,10.5,True
+2627,1,ayk8m85amrp1z5vo,Up the Arse-nal,ayk8m85amrp1z5vo,Up the Arse-nal,pr_3b1295b024803db9,05tqx,David Raya Martín,True,G,8.5,0.0,0.0,1.0,2.5,True
+2627,1,ayk8m85amrp1z5vo,Up the Arse-nal,ayk8m85amrp1z5vo,Up the Arse-nal,pr_5806465caac71606,061vb,James Hill,True,D,2.5,0.0,0.0,0.0,2.5,True
+2627,1,ayk8m85amrp1z5vo,Up the Arse-nal,ayk8m85amrp1z5vo,Up the Arse-nal,pr_fa8b9f746047b676,067yv,Cody Gakpo,True,"M,F",24.0,1.0,0.0,0.0,15.0,True
+2627,1,ayk8m85amrp1z5vo,Up the Arse-nal,ayk8m85amrp1z5vo,Up the Arse-nal,pr_9b970c3006765d1d,067yz,Matheus Santos Carneiro da Cunha,True,"M,F",5.5,0.0,0.0,0.0,5.5,True
+2627,1,ayk8m85amrp1z5vo,Up the Arse-nal,ayk8m85amrp1z5vo,Up the Arse-nal,pr_acaab790210f98b9,06mw0,Nikola Milenković,True,D,9.5,0.0,0.0,0.0,9.5,True
+2627,1,ayk8m85amrp1z5vo,Up the Arse-nal,ayk8m85amrp1z5vo,Up the Arse-nal,pr_2d7f985dd7974e87,06v21,Florian Wirtz,True,M,5.0,0.0,0.0,0.0,5.0,True
+2627,1,cjn4stydmrp1z5vp,Robertske,cjn4stydmrp1z5vp,Robertske,pr_250a525c8fb0b806,03mfe,Matt Grimes,True,M,4.0,0.0,0.0,0.0,4.0,True
+2627,1,cjn4stydmrp1z5vp,Robertske,cjn4stydmrp1z5vp,Robertske,pr_92087132e2564427,044ei,Nick Pope,True,G,0.0,0.0,0.0,0.0,,True
+2627,1,cjn4stydmrp1z5vp,Robertske,cjn4stydmrp1z5vp,Robertske,pr_349e8b56152838e2,04y92,Bukayo Saka,True,"M,F",18.0,1.0,0.0,1.0,8.0,True
+2627,1,cjn4stydmrp1z5vp,Robertske,cjn4stydmrp1z5vp,Robertske,pr_329aa4ed110ef47e,051k7,Reece James,True,"D,M",6.0,0.0,0.0,0.0,6.0,True
+2627,1,cjn4stydmrp1z5vp,Robertske,cjn4stydmrp1z5vp,Robertske,pr_16e9fdda80585024,05nns,Daniel Ballard,True,D,3.5,0.0,0.0,0.0,3.5,True
+2627,1,cjn4stydmrp1z5vp,Robertske,cjn4stydmrp1z5vp,Robertske,pr_3155624400344969,05y9n,Lewis Hall,True,D,8.5,0.0,0.0,0.0,8.5,True
+2627,1,cjn4stydmrp1z5vp,Robertske,cjn4stydmrp1z5vp,Robertske,pr_851c3d1908eb110a,063q8,Mikkel Damsgaard,True,M,4.5,0.0,0.0,0.0,4.5,True
+2627,1,cjn4stydmrp1z5vp,Robertske,cjn4stydmrp1z5vp,Robertske,pr_7b6fd7a0b2028e59,06v07,Rayan Cherki,True,M,21.0,0.0,2.0,0.0,9.0,True
+2627,1,cjn4stydmrp1z5vp,Robertske,cjn4stydmrp1z5vp,Robertske,pr_8423ecb420e3995f,076d3,Jack Rudoni,True,M,3.0,0.0,0.0,0.0,3.0,True
+2627,1,cjn4stydmrp1z5vp,Robertske,cjn4stydmrp1z5vp,Robertske,FTX-0784O,0784o,Oscar Mingueza,True,D,0.0,0.0,0.0,0.0,,True
+2627,1,cjn4stydmrp1z5vp,Robertske,cjn4stydmrp1z5vp,Robertske,FTX-0784Y,0784y,Tarik Muharemovic,True,D,14.5,0.0,0.0,1.0,8.5,True
+2627,1,h1vdt8ynmrp1z5vp,Pot Splashers,h1vdt8ynmrp1z5vp,Pot Splashers,FTX-03YBI,03ybi,Marcus Rashford,True,F,10.0,0.0,0.0,0.0,10.0,True
+2627,1,h1vdt8ynmrp1z5vp,Pot Splashers,h1vdt8ynmrp1z5vp,Pot Splashers,pr_883ca333cedd9e1d,04sjt,Alisson Becker,True,G,5.0,0.0,0.0,0.0,5.0,True
+2627,1,h1vdt8ynmrp1z5vp,Pot Splashers,h1vdt8ynmrp1z5vp,Pot Splashers,pr_f442ad7acde27aaf,05gcr,Bruno Borges Fernandes,True,M,11.5,0.0,0.0,0.0,11.5,True
+2627,1,h1vdt8ynmrp1z5vp,Pot Splashers,h1vdt8ynmrp1z5vp,Pot Splashers,pr_1b8baf71e0d74529,05omu,Rúben dos Santos Gato Alves Dias,True,D,9.0,0.0,0.0,0.0,9.0,True
+2627,1,h1vdt8ynmrp1z5vp,Pot Splashers,h1vdt8ynmrp1z5vp,Pot Splashers,pr_a0da41ebcb83456b,05ye7,Oscar Bobb,True,M,4.5,0.0,0.0,0.0,4.5,True
+2627,1,h1vdt8ynmrp1z5vp,Pot Splashers,h1vdt8ynmrp1z5vp,Pot Splashers,pr_b016316c46da3681,061va,Boubacar Kamara,True,M,2.5,0.0,0.0,0.0,2.5,True
+2627,1,h1vdt8ynmrp1z5vp,Pot Splashers,h1vdt8ynmrp1z5vp,Pot Splashers,pr_3159310931b8d8cf,066sd,Myles Lewis-Skelly,True,"D,M",10.0,0.0,0.0,1.0,4.0,True
+2627,1,h1vdt8ynmrp1z5vp,Pot Splashers,h1vdt8ynmrp1z5vp,Pot Splashers,pr_16794967f48eec62,06ex4,Joško Gvardiol,True,D,21.5,1.0,0.0,0.0,12.5,True
+2627,1,h1vdt8ynmrp1z5vp,Pot Splashers,h1vdt8ynmrp1z5vp,Pot Splashers,pr_de41a73cc01c496b,06pe1,Mateus Fernandes,True,M,5.5,0.0,0.0,0.0,5.5,True
+2627,1,h1vdt8ynmrp1z5vp,Pot Splashers,h1vdt8ynmrp1z5vp,Pot Splashers,pr_e6fa6336bdf71149,06y9m,Maxim De Cuyper,True,"D,M",36.0,1.0,1.0,1.0,14.0,True
+2627,1,h1vdt8ynmrp1z5vp,Pot Splashers,h1vdt8ynmrp1z5vp,Pot Splashers,pr_1148d763174dd2d5,072wq,Rayan Vitor Simplício Rocha,True,"M,F",6.0,0.0,0.0,0.0,6.0,True
+2627,1,h2e8dn5dmrp1z5vp,Berkshire’s Club,h2e8dn5dmrp1z5vp,Berkshire’s Club,pr_42d1605ae412cfed,0427d,James Tarkowski,True,D,16.0,0.0,0.0,1.0,10.0,True
+2627,1,h2e8dn5dmrp1z5vp,Berkshire’s Club,h2e8dn5dmrp1z5vp,Berkshire’s Club,pr_fbbd830b88c1b3fd,04f6h,Matz Sels,True,G,5.0,0.0,0.0,0.0,5.0,True
+2627,1,h2e8dn5dmrp1z5vp,Berkshire’s Club,h2e8dn5dmrp1z5vp,Berkshire’s Club,pr_a93d9abe9b42f58d,04io4,Richarlison de Andrade,True,F,1.0,0.0,0.0,0.0,1.0,True
+2627,1,h2e8dn5dmrp1z5vp,Berkshire’s Club,h2e8dn5dmrp1z5vp,Berkshire’s Club,pr_883d69414747a1f0,04qr9,Morgan Gibbs-White,True,M,3.0,0.0,0.0,0.0,3.0,True
+2627,1,h2e8dn5dmrp1z5vp,Berkshire’s Club,h2e8dn5dmrp1z5vp,Berkshire’s Club,pr_749464ce11d88f9b,04yo7,Youri Tielemans,True,M,0.0,0.0,0.0,0.0,0.0,True
+2627,1,h2e8dn5dmrp1z5vp,Berkshire’s Club,h2e8dn5dmrp1z5vp,Berkshire’s Club,pr_dbcdba8fad114b8d,05nil,Leif Davis,True,D,6.0,0.0,0.0,0.0,6.0,True
+2627,1,h2e8dn5dmrp1z5vp,Berkshire’s Club,h2e8dn5dmrp1z5vp,Berkshire’s Club,pr_c4956b95bac62985,05uor,Yoane Wissa,True,F,9.0,0.0,1.0,0.0,3.0,True
+2627,1,h2e8dn5dmrp1z5vp,Berkshire’s Club,h2e8dn5dmrp1z5vp,Berkshire’s Club,pr_bbe3dd6e230317d6,068lx,Dango Ouattara,True,"M,F",7.0,0.0,0.0,1.0,6.0,True
+2627,1,h2e8dn5dmrp1z5vp,Berkshire’s Club,h2e8dn5dmrp1z5vp,Berkshire’s Club,pr_2f7c27f2b2c014e9,06fwz,Murillo Costa dos Santos,True,D,13.0,0.0,0.0,0.0,13.0,True
+2627,1,h2e8dn5dmrp1z5vp,Berkshire’s Club,h2e8dn5dmrp1z5vp,Berkshire’s Club,pr_87c7f1ee97a99a55,06mpp,Mats Wieffer,True,"D,M",11.0,0.0,0.0,1.0,5.0,True
+2627,1,h2e8dn5dmrp1z5vp,Berkshire’s Club,h2e8dn5dmrp1z5vp,Berkshire’s Club,FTX-07898,07898,Gonzalo Garcia,True,F,13.0,1.0,0.0,0.0,4.0,True
+2627,1,hpsurdtbmrp1z5vo,Count Doku,hpsurdtbmrp1z5vo,Count Doku,pr_33a323c4c90c95ab,03gu4,Harry Maguire,True,D,12.0,0.0,0.0,0.0,12.0,True
+2627,1,hpsurdtbmrp1z5vo,Count Doku,hpsurdtbmrp1z5vo,Count Doku,pr_251f689ab7952402,04p0d,Dwight McNeil,True,"M,F",1.5,0.0,0.0,0.0,1.5,True
+2627,1,hpsurdtbmrp1z5vo,Count Doku,hpsurdtbmrp1z5vo,Count Doku,pr_92ce298de8737367,050jq,Marc Guéhi,True,D,20.0,1.0,0.0,0.0,11.0,True
+2627,1,hpsurdtbmrp1z5vo,Count Doku,hpsurdtbmrp1z5vo,Count Doku,pr_7f5a0cea401fb374,05a6e,Neco Williams,True,D,8.0,0.0,0.0,0.0,8.0,True
+2627,1,hpsurdtbmrp1z5vo,Count Doku,hpsurdtbmrp1z5vo,Count Doku,pr_e57c0d25a5f267f6,05oh0,Jan Paul van Hecke,True,D,4.5,0.0,0.0,0.0,4.5,True
+2627,1,hpsurdtbmrp1z5vo,Count Doku,hpsurdtbmrp1z5vo,Count Doku,pr_639909e4130562ea,05os4,Rayan Aït-Nouri,True,D,0.0,0.0,0.0,0.0,,True
+2627,1,hpsurdtbmrp1z5vo,Count Doku,hpsurdtbmrp1z5vo,Count Doku,pr_529ab49d43c3e6a7,05uht,Morgan Rogers,True,"M,F",25.5,1.0,0.0,0.0,16.5,True
+2627,1,hpsurdtbmrp1z5vo,Count Doku,hpsurdtbmrp1z5vo,Count Doku,pr_3983246d44ca60b7,068y0,Antoine Semenyo,True,"M,F",5.5,0.0,0.0,0.0,5.5,True
+2627,1,hpsurdtbmrp1z5vo,Count Doku,hpsurdtbmrp1z5vo,Count Doku,pr_338677b0fe674e21,06r6s,Antonín Kinský,True,G,9.0,0.0,0.0,0.0,9.0,True
+2627,1,hpsurdtbmrp1z5vo,Count Doku,hpsurdtbmrp1z5vo,Count Doku,pr_f6e29d19a4729fe2,06rm8,Mathys Tel,True,"M,F",9.5,0.0,0.0,0.0,9.5,True
+2627,1,hpsurdtbmrp1z5vo,Count Doku,hpsurdtbmrp1z5vo,Count Doku,FTX-0784X,0784x,Daizen Maeda,True,F,5.0,0.0,0.0,0.0,5.0,True
+2627,1,qwkltl98mrp1z5vp,epatel3,qwkltl98mrp1z5vp,epatel3,pr_52921f64927bcbe4,038ze,Alex Iwobi,True,"M,F",4.5,0.0,0.0,0.0,4.5,True
+2627,1,qwkltl98mrp1z5vp,epatel3,qwkltl98mrp1z5vp,epatel3,pr_cfe4cc43db7d7a00,05g2o,João Pedro Junqueira de Jesus,True,"M,F",22.5,1.0,1.0,0.0,7.5,True
+2627,1,qwkltl98mrp1z5vp,epatel3,qwkltl98mrp1z5vp,epatel3,pr_d8513955615ea805,05gcc,Kiernan Dewsbury-Hall,True,M,18.5,1.0,0.0,1.0,8.5,True
+2627,1,qwkltl98mrp1z5vp,epatel3,qwkltl98mrp1z5vp,epatel3,pr_2c91b2e08c6b2552,05o4b,Matty Cash,True,D,-2.5,0.0,0.0,0.0,-2.5,True
+2627,1,qwkltl98mrp1z5vp,epatel3,qwkltl98mrp1z5vp,epatel3,pr_b1371608f0db5c93,06mn0,Igor Thiago Nascimento Rodrigues,True,F,-1.5,0.0,0.0,1.0,-1.5,True
+2627,1,qwkltl98mrp1z5vp,epatel3,qwkltl98mrp1z5vp,epatel3,pr_32c23aa00c15ac35,06nu7,Riccardo Calafiori,True,D,19.0,0.0,1.0,1.0,6.0,True
+2627,1,qwkltl98mrp1z5vp,epatel3,qwkltl98mrp1z5vp,epatel3,pr_4dc99d3d6580cf12,06phe,Ferdi Kadıoğlu,True,"D,M",0.0,0.0,0.0,0.0,,True
+2627,1,qwkltl98mrp1z5vp,epatel3,qwkltl98mrp1z5vp,epatel3,pr_13aa175b61be9d3d,06pia,Maxence Lacroix,True,D,16.0,0.0,1.0,0.0,9.0,True
+2627,1,qwkltl98mrp1z5vp,epatel3,qwkltl98mrp1z5vp,epatel3,pr_a36ef466ba952a14,06rlj,Patrick Dorgu,True,"D,M",-1.0,0.0,0.0,0.0,-1.0,True
+2627,1,qwkltl98mrp1z5vp,epatel3,qwkltl98mrp1z5vp,epatel3,pr_ecfdf1e807e2fe63,06y9o,Igor Jesus Maciel da Cruz,True,F,7.0,0.0,0.0,0.0,7.0,True
+2627,1,qwkltl98mrp1z5vp,epatel3,qwkltl98mrp1z5vp,epatel3,pr_b31960aff73505b2,070hs,Gianluigi Donnarumma,True,G,8.5,0.0,0.0,0.0,8.5,True
+2627,1,rx9bjhp3mrp1z5vo,KindComet,rx9bjhp3mrp1z5vo,KindComet,pr_356e3da30e713a37,03frx,Ola Aina,True,D,18.5,0.0,0.0,1.0,12.5,True
+2627,1,rx9bjhp3mrp1z5vo,KindComet,rx9bjhp3mrp1z5vo,KindComet,pr_45275615e21639d9,04lav,Ethan Ampadu,True,"D,M",16.5,0.0,0.0,1.0,10.5,True
+2627,1,rx9bjhp3mrp1z5vo,KindComet,rx9bjhp3mrp1z5vo,KindComet,pr_244b54d86191f031,05nzu,Gabriel dos Santos Magalhães,True,D,6.0,0.0,0.0,1.0,0.0,True
+2627,1,rx9bjhp3mrp1z5vo,KindComet,rx9bjhp3mrp1z5vo,KindComet,pr_1ec88f42f81a6a3a,05rb8,Moisés Caicedo Corozo,True,M,0.0,0.0,0.0,0.0,,True
+2627,1,rx9bjhp3mrp1z5vo,KindComet,rx9bjhp3mrp1z5vo,KindComet,pr_975edca78e5e06f1,05uox,Christos Tzolis,True,F,19.5,0.0,1.0,1.0,13.5,True
+2627,1,rx9bjhp3mrp1z5vo,KindComet,rx9bjhp3mrp1z5vo,KindComet,pr_fcf2af15118d7978,0639x,Marcus Tavernier,True,M,15.5,1.0,0.0,0.0,6.5,True
+2627,1,rx9bjhp3mrp1z5vo,KindComet,rx9bjhp3mrp1z5vo,KindComet,pr_9c2114f0defd99b8,067x8,Nico O'Reilly,True,"D,M",5.0,0.0,0.0,0.0,5.0,True
+2627,1,rx9bjhp3mrp1z5vo,KindComet,rx9bjhp3mrp1z5vo,KindComet,pr_fab432a2d50fcc13,06cmm,Dominik Szoboszlai,True,"D,M",22.5,1.0,0.0,0.0,13.5,True
+2627,1,rx9bjhp3mrp1z5vo,KindComet,rx9bjhp3mrp1z5vo,KindComet,pr_b03c7ea777cad526,06fuw,Đorđe Petrović,True,G,9.0,0.0,0.0,0.0,9.0,True
+2627,1,rx9bjhp3mrp1z5vo,KindComet,rx9bjhp3mrp1z5vo,KindComet,pr_5b05eed522d404e7,06v0y,Luka Vušković,True,D,12.0,0.0,0.0,1.0,6.0,True
+2627,1,rx9bjhp3mrp1z5vo,KindComet,rx9bjhp3mrp1z5vo,KindComet,FTX-0784P,0784p,Hayden Hackney,True,M,5.0,0.0,0.0,1.0,4.0,True
+2627,1,w2mnqywumrp1z5vp,tpem,w2mnqywumrp1z5vp,tpem,pr_2c235dc85cd697f4,04abb,Phil Foden,True,M,6.5,0.0,0.0,0.0,6.5,True
+2627,1,w2mnqywumrp1z5vp,tpem,w2mnqywumrp1z5vp,tpem,pr_d021188524f00bf9,04e1e,Benjamin White,True,D,23.5,0.0,1.0,1.0,10.5,True
+2627,1,w2mnqywumrp1z5vp,tpem,w2mnqywumrp1z5vp,tpem,pr_9bde7d9c1f7c1b22,04fk1,Pascal Groß,True,M,10.5,0.0,0.0,1.0,9.5,True
+2627,1,w2mnqywumrp1z5vp,tpem,w2mnqywumrp1z5vp,tpem,pr_7d1542772dab63c1,05oz3,James Trafford,True,G,13.0,0.0,0.0,1.0,7.0,True
+2627,1,w2mnqywumrp1z5vp,tpem,w2mnqywumrp1z5vp,tpem,pr_13d2678f20f4b4d8,05trb,Bryan Mbeumo,True,"M,F",9.0,0.0,0.0,0.0,9.0,True
+2627,1,w2mnqywumrp1z5vp,tpem,w2mnqywumrp1z5vp,tpem,pr_64e2084ca1afac52,061vq,Erling Haaland,True,F,5.5,0.0,0.0,0.0,5.5,True
+2627,1,w2mnqywumrp1z5vp,tpem,w2mnqywumrp1z5vp,tpem,pr_98558274a438f7b0,06r2g,Rio Ngumoha,True,"M,F",1.5,0.0,0.0,0.0,1.5,True
+2627,1,w2mnqywumrp1z5vp,tpem,w2mnqywumrp1z5vp,tpem,pr_b927ef5c035c5997,06rgg,Michael Kayode,True,D,26.5,1.0,0.0,1.0,11.5,True
+2627,1,w2mnqywumrp1z5vp,tpem,w2mnqywumrp1z5vp,tpem,pr_d5c0984bfd9b4550,06v05,Jeremie Frimpong,True,"D,M",4.5,0.0,0.0,0.0,4.5,True
+2627,1,w2mnqywumrp1z5vp,tpem,w2mnqywumrp1z5vp,tpem,pr_3d7f59e97baad57a,070hc,Brian Brobbey,True,F,1.0,0.0,0.0,0.0,1.0,True
+2627,1,w2mnqywumrp1z5vp,tpem,w2mnqywumrp1z5vp,tpem,,0784b,Marco Palestra,True,D,0.0,0.0,0.0,0.0,,True
+2627,2,2dxfjlk0mrp1z5vo,nhauptma,2dxfjlk0mrp1z5vo,nhauptma,pr_bcba710d6cc43263,03rzp,Antonee Robinson,True,D,3.0,0.0,0.0,0.0,3.0,True
+2627,2,2dxfjlk0mrp1z5vo,nhauptma,2dxfjlk0mrp1z5vo,nhauptma,pr_cd2d216755538e53,05l2z,Bobby Thomas,True,D,12.5,0.0,0.0,1.0,6.5,True
+2627,2,2dxfjlk0mrp1z5vo,nhauptma,2dxfjlk0mrp1z5vo,nhauptma,pr_afc982e21b7a6055,062p3,Keane Lewis-Potter,True,"D,M,F",16.0,0.0,1.0,0.0,9.0,True
+2627,2,2dxfjlk0mrp1z5vo,nhauptma,2dxfjlk0mrp1z5vo,nhauptma,pr_95a5f1d8265b3eb6,06cmu,Bart Verbruggen,True,G,-4.0,0.0,0.0,0.0,-4.0,True
+2627,2,2dxfjlk0mrp1z5vo,nhauptma,2dxfjlk0mrp1z5vo,nhauptma,pr_7fc5fe0598e32d38,06uyc,Adrien Truffert,True,D,11.0,0.0,0.0,0.0,11.0,True
+2627,2,2dxfjlk0mrp1z5vo,nhauptma,2dxfjlk0mrp1z5vo,nhauptma,pr_523827882c94cabf,06v0g,Trai Hume,True,"D,M",16.0,0.0,0.0,1.0,10.0,True
+2627,2,2dxfjlk0mrp1z5vo,nhauptma,2dxfjlk0mrp1z5vo,nhauptma,pr_44d82933280b962d,06ybp,Thierno Barry,True,F,9.0,0.0,0.0,0.0,9.0,True
+2627,2,2dxfjlk0mrp1z5vo,nhauptma,2dxfjlk0mrp1z5vo,nhauptma,pr_4f015cdefe445308,06zbx,Anton Stach,True,M,9.0,0.0,0.0,0.0,9.0,True
+2627,2,2dxfjlk0mrp1z5vo,nhauptma,2dxfjlk0mrp1z5vo,nhauptma,pr_76368ffff4df9a38,0700p,Malick Thiaw,True,D,10.5,0.0,0.0,1.0,4.5,True
+2627,2,2dxfjlk0mrp1z5vo,nhauptma,2dxfjlk0mrp1z5vo,nhauptma,pr_57dcdf49fa6ad0c0,072zs,Nilson Angulo,True,"M,F",6.0,0.0,0.0,1.0,5.0,True
+2627,2,2dxfjlk0mrp1z5vo,nhauptma,2dxfjlk0mrp1z5vo,nhauptma,FTX-0784W,0784w,Emersonn,True,F,2.0,0.0,0.0,0.0,2.0,True
+2627,2,61fz0pmkmrp1z5vo,wmuck1 🤡,61fz0pmkmrp1z5vo,wmuck1 🤡,pr_d22ad43e3232f497,03vlj,Virgil van Dijk,True,D,7.0,0.0,0.0,0.0,7.0,True
+2627,2,61fz0pmkmrp1z5vo,wmuck1 🤡,61fz0pmkmrp1z5vo,wmuck1 🤡,pr_0b42d15c74eca788,04sjv,Ryan Giles,True,D,9.5,0.0,0.0,1.0,3.5,True
+2627,2,61fz0pmkmrp1z5vo,wmuck1 🤡,61fz0pmkmrp1z5vo,wmuck1 🤡,pr_ff824cbc8613648d,0521z,James Justin,True,"D,M",11.0,0.0,0.0,0.0,11.0,True
+2627,2,61fz0pmkmrp1z5vo,wmuck1 🤡,61fz0pmkmrp1z5vo,wmuck1 🤡,pr_47680bd841752bac,05r94,Iliman Ndiaye,True,"M,F",8.5,0.0,0.0,0.0,8.5,True
+2627,2,61fz0pmkmrp1z5vo,wmuck1 🤡,61fz0pmkmrp1z5vo,wmuck1 🤡,pr_fa6a10c8eb34ae39,05u1m,Nathan Collins,True,D,12.5,0.0,0.0,0.0,12.5,True
+2627,2,61fz0pmkmrp1z5vo,wmuck1 🤡,61fz0pmkmrp1z5vo,wmuck1 🤡,pr_e53c96fffe89621d,063e7,Marcos Senesi Barón,True,D,0.0,0.0,0.0,0.0,,True
+2627,2,61fz0pmkmrp1z5vo,wmuck1 🤡,61fz0pmkmrp1z5vo,wmuck1 🤡,pr_2cfd54c576f1853d,06clt,Justin Kluivert,True,"M,F",9.5,0.0,0.0,1.0,8.5,True
+2627,2,61fz0pmkmrp1z5vo,wmuck1 🤡,61fz0pmkmrp1z5vo,wmuck1 🤡,pr_19b0f43a1db7e807,06mvz,Sávio Moreira de Oliveira,True,"M,F",0.0,0.0,0.0,0.0,,True
+2627,2,61fz0pmkmrp1z5vo,wmuck1 🤡,61fz0pmkmrp1z5vo,wmuck1 🤡,pr_329559eeac9e3565,06r5b,Diego Gómez Amarilla,True,"M,F",15.0,0.0,1.0,0.0,9.0,True
+2627,2,61fz0pmkmrp1z5vo,wmuck1 🤡,61fz0pmkmrp1z5vo,wmuck1 🤡,pr_b8e7051f339683f0,06v0p,Enzo Le Fée,True,"M,F",10.0,0.0,0.0,1.0,9.0,True
+2627,2,61fz0pmkmrp1z5vo,wmuck1 🤡,61fz0pmkmrp1z5vo,wmuck1 🤡,pr_53de7c40b6b43722,06znb,Robin Roefs,True,G,9.0,0.0,0.0,1.0,3.0,True
+2627,2,acjx0vg4mrp1z5vo,yudesh,acjx0vg4mrp1z5vo,yudesh,pr_a219dfa1209fc4a7,04abn,Harvey Barnes,True,"M,F",6.5,0.0,0.0,1.0,5.5,True
+2627,2,acjx0vg4mrp1z5vo,yudesh,acjx0vg4mrp1z5vo,yudesh,pr_097ebba0bedd1153,04ge6,Joe Willock,True,M,0.5,0.0,0.0,1.0,-0.5,True
+2627,2,acjx0vg4mrp1z5vo,yudesh,acjx0vg4mrp1z5vo,yudesh,pr_2713ca67fce06b42,05l8q,Cole Palmer,True,M,17.0,1.0,0.0,0.0,8.0,True
+2627,2,acjx0vg4mrp1z5vo,yudesh,acjx0vg4mrp1z5vo,yudesh,pr_55592e1b99371400,05opj,Elliot Anderson,True,M,11.0,0.0,0.0,0.0,11.0,True
+2627,2,acjx0vg4mrp1z5vo,yudesh,acjx0vg4mrp1z5vo,yudesh,pr_b1a257b2771e2715,0635j,Chris Richards,True,D,1.0,0.0,0.0,0.0,1.0,True
+2627,2,acjx0vg4mrp1z5vo,yudesh,acjx0vg4mrp1z5vo,yudesh,pr_9012ceb6fec27970,06jgs,Adam Wharton,True,M,8.0,0.0,0.0,0.0,8.0,True
+2627,2,acjx0vg4mrp1z5vo,yudesh,acjx0vg4mrp1z5vo,yudesh,pr_3c47bf23d6df03cb,06r9w,Abdukodir Khusanov,True,D,8.0,0.0,0.0,0.0,8.0,True
+2627,2,acjx0vg4mrp1z5vo,yudesh,acjx0vg4mrp1z5vo,yudesh,pr_c56dfb7c82cbcc0b,06yxe,Estêvão Almeida de Oliveira Gonçalves,True,"M,F",0.0,0.0,0.0,0.0,,True
+2627,2,acjx0vg4mrp1z5vo,yudesh,acjx0vg4mrp1z5vo,yudesh,pr_1e3bcfa8d017dca2,06zbm,Cristhian Mosquera,True,D,8.0,0.0,0.0,1.0,2.0,True
+2627,2,acjx0vg4mrp1z5vo,yudesh,acjx0vg4mrp1z5vo,yudesh,FTX-078AZ,078az,Konstantinos Tzolakis,True,G,15.0,0.0,0.0,1.0,9.0,True
+2627,2,acjx0vg4mrp1z5vo,yudesh,acjx0vg4mrp1z5vo,yudesh,FTX-078UD,078ud,Amar Dedic,True,D,25.0,0.0,1.0,1.0,12.0,True
+2627,2,aup99ojzmrp1z5vp,The Facerockers,aup99ojzmrp1z5vp,The Facerockers,pr_ee05e4712e802da3,032f9,Jordan Pickford,True,G,11.0,0.0,0.0,0.0,11.0,True
+2627,2,aup99ojzmrp1z5vp,The Facerockers,aup99ojzmrp1z5vp,The Facerockers,pr_96f69665edfaf67f,0435m,Granit Xhaka,True,M,13.0,0.0,0.0,1.0,12.0,True
+2627,2,aup99ojzmrp1z5vp,The Facerockers,aup99ojzmrp1z5vp,The Facerockers,pr_750d10429982dc3b,049tq,Dominic Calvert-Lewin,True,F,16.0,1.0,0.0,0.0,7.0,True
+2627,2,aup99ojzmrp1z5vp,The Facerockers,aup99ojzmrp1z5vp,The Facerockers,pr_45805a2b75c1e96f,04agz,Declan Rice,True,M,10.5,0.0,0.0,1.0,9.5,True
+2627,2,aup99ojzmrp1z5vp,The Facerockers,aup99ojzmrp1z5vp,The Facerockers,pr_2d68201754566f69,05uel,Kristoffer Ajer,True,D,15.5,0.0,0.0,0.0,15.5,True
+2627,2,aup99ojzmrp1z5vp,The Facerockers,aup99ojzmrp1z5vp,The Facerockers,pr_8f85fecae7a44d42,05ybq,Vitalii Mykolenko,True,D,13.0,0.0,0.0,0.0,13.0,True
+2627,2,aup99ojzmrp1z5vp,The Facerockers,aup99ojzmrp1z5vp,The Facerockers,pr_6e16f6a4b7ac5665,062a9,Sven Botman,True,D,9.0,0.0,0.0,1.0,3.0,True
+2627,2,aup99ojzmrp1z5vp,The Facerockers,aup99ojzmrp1z5vp,The Facerockers,pr_9648b8844d3d1944,0646f,Alexander Isak,True,F,13.0,1.0,0.0,0.0,4.0,True
+2627,2,aup99ojzmrp1z5vp,The Facerockers,aup99ojzmrp1z5vp,The Facerockers,pr_1c86486bec2ca92c,067zv,Kevin Schade,True,"M,F",17.0,1.0,0.0,0.0,8.0,True
+2627,2,aup99ojzmrp1z5vp,The Facerockers,aup99ojzmrp1z5vp,The Facerockers,pr_36eceed8b3fb4486,06do9,Milos Kerkez,True,D,7.0,0.0,0.0,0.0,7.0,True
+2627,2,aup99ojzmrp1z5vp,The Facerockers,aup99ojzmrp1z5vp,The Facerockers,pr_ce87cfe19ab26a49,0703c,Nordi Mukiele,True,D,20.0,0.0,0.0,1.0,14.0,True
+2627,2,ayk8m85amrp1z5vo,Up the Arse-nal,ayk8m85amrp1z5vo,Up the Arse-nal,pr_7f943b8d8ebf5823,0477b,Oliver McBurnie,True,F,3.5,0.0,0.0,1.0,3.5,True
+2627,2,ayk8m85amrp1z5vo,Up the Arse-nal,ayk8m85amrp1z5vo,Up the Arse-nal,pr_8248fe15613eed8e,052cb,Ian Maatsen,True,D,2.5,0.0,0.0,0.0,2.5,True
+2627,2,ayk8m85amrp1z5vo,Up the Arse-nal,ayk8m85amrp1z5vo,Up the Arse-nal,pr_095fc765499cd3c7,05l27,Jarrad Branthwaite,True,D,11.5,0.0,0.0,0.0,11.5,True
+2627,2,ayk8m85amrp1z5vo,Up the Arse-nal,ayk8m85amrp1z5vo,Up the Arse-nal,pr_41ec866daf042593,05r9b,Martin Ødegaard,True,M,3.0,0.0,0.0,1.0,2.0,True
+2627,2,ayk8m85amrp1z5vo,Up the Arse-nal,ayk8m85amrp1z5vo,Up the Arse-nal,pr_3b1295b024803db9,05tqx,David Raya Martín,True,G,7.5,0.0,0.0,1.0,1.5,True
+2627,2,ayk8m85amrp1z5vo,Up the Arse-nal,ayk8m85amrp1z5vo,Up the Arse-nal,pr_5806465caac71606,061vb,James Hill,True,D,18.5,0.0,0.0,0.0,18.5,True
+2627,2,ayk8m85amrp1z5vo,Up the Arse-nal,ayk8m85amrp1z5vo,Up the Arse-nal,pr_fa8b9f746047b676,067yv,Cody Gakpo,True,"M,F",12.0,0.0,1.0,0.0,6.0,True
+2627,2,ayk8m85amrp1z5vo,Up the Arse-nal,ayk8m85amrp1z5vo,Up the Arse-nal,pr_9b970c3006765d1d,067yz,Matheus Santos Carneiro da Cunha,True,"M,F",19.5,0.0,2.0,0.0,7.5,True
+2627,2,ayk8m85amrp1z5vo,Up the Arse-nal,ayk8m85amrp1z5vo,Up the Arse-nal,pr_acaab790210f98b9,06mw0,Nikola Milenković,True,D,6.5,0.0,0.0,0.0,6.5,True
+2627,2,ayk8m85amrp1z5vo,Up the Arse-nal,ayk8m85amrp1z5vo,Up the Arse-nal,pr_76f14d795dac1626,06p6j,Francisco Evanilson de Lima Barbosa,True,F,12.0,0.0,1.0,1.0,6.0,True
+2627,2,ayk8m85amrp1z5vo,Up the Arse-nal,ayk8m85amrp1z5vo,Up the Arse-nal,pr_2d7f985dd7974e87,06v21,Florian Wirtz,True,M,10.5,0.0,1.0,0.0,4.5,True
+2627,2,cjn4stydmrp1z5vp,Robertske,cjn4stydmrp1z5vp,Robertske,pr_250a525c8fb0b806,03mfe,Matt Grimes,True,M,3.5,0.0,0.0,0.0,3.5,True
+2627,2,cjn4stydmrp1z5vp,Robertske,cjn4stydmrp1z5vp,Robertske,pr_92087132e2564427,044ei,Nick Pope,True,G,0.0,0.0,0.0,0.0,,True
+2627,2,cjn4stydmrp1z5vp,Robertske,cjn4stydmrp1z5vp,Robertske,pr_349e8b56152838e2,04y92,Bukayo Saka,True,"M,F",17.5,1.0,0.0,1.0,7.5,True
+2627,2,cjn4stydmrp1z5vp,Robertske,cjn4stydmrp1z5vp,Robertske,pr_329aa4ed110ef47e,051k7,Reece James,True,"D,M",0.0,0.0,0.0,0.0,0.0,True
+2627,2,cjn4stydmrp1z5vp,Robertske,cjn4stydmrp1z5vp,Robertske,pr_16e9fdda80585024,05nns,Daniel Ballard,True,D,16.5,0.0,0.0,1.0,10.5,True
+2627,2,cjn4stydmrp1z5vp,Robertske,cjn4stydmrp1z5vp,Robertske,pr_3155624400344969,05y9n,Lewis Hall,True,D,23.0,0.0,0.0,1.0,17.0,True
+2627,2,cjn4stydmrp1z5vp,Robertske,cjn4stydmrp1z5vp,Robertske,pr_851c3d1908eb110a,063q8,Mikkel Damsgaard,True,M,11.0,0.0,0.0,1.0,10.0,True
+2627,2,cjn4stydmrp1z5vp,Robertske,cjn4stydmrp1z5vp,Robertske,pr_7b6fd7a0b2028e59,06v07,Rayan Cherki,True,M,30.5,2.0,0.0,0.0,12.5,True
+2627,2,cjn4stydmrp1z5vp,Robertske,cjn4stydmrp1z5vp,Robertske,pr_8423ecb420e3995f,076d3,Jack Rudoni,True,M,5.5,0.0,0.0,1.0,4.5,True
+2627,2,cjn4stydmrp1z5vp,Robertske,cjn4stydmrp1z5vp,Robertske,FTX-0784O,0784o,Oscar Mingueza,True,D,1.0,0.0,0.0,0.0,1.0,True
+2627,2,cjn4stydmrp1z5vp,Robertske,cjn4stydmrp1z5vp,Robertske,FTX-0784Y,0784y,Tarik Muharemovic,True,D,17.0,0.0,0.0,0.0,17.0,True
+2627,2,h1vdt8ynmrp1z5vp,Pot Splashers,h1vdt8ynmrp1z5vp,Pot Splashers,FTX-03YBI,03ybi,Marcus Rashford,True,F,13.0,0.0,0.0,0.0,13.0,True
+2627,2,h1vdt8ynmrp1z5vp,Pot Splashers,h1vdt8ynmrp1z5vp,Pot Splashers,pr_883ca333cedd9e1d,04sjt,Alisson Becker,True,G,-1.0,0.0,0.0,0.0,-1.0,True
+2627,2,h1vdt8ynmrp1z5vp,Pot Splashers,h1vdt8ynmrp1z5vp,Pot Splashers,pr_f442ad7acde27aaf,05gcr,Bruno Borges Fernandes,True,M,55.5,3.0,1.0,0.0,19.5,True
+2627,2,h1vdt8ynmrp1z5vp,Pot Splashers,h1vdt8ynmrp1z5vp,Pot Splashers,pr_1b8baf71e0d74529,05omu,Rúben dos Santos Gato Alves Dias,True,D,12.0,0.0,0.0,0.0,12.0,True
+2627,2,h1vdt8ynmrp1z5vp,Pot Splashers,h1vdt8ynmrp1z5vp,Pot Splashers,pr_a0da41ebcb83456b,05ye7,Oscar Bobb,True,M,3.5,0.0,0.0,1.0,2.5,True
+2627,2,h1vdt8ynmrp1z5vp,Pot Splashers,h1vdt8ynmrp1z5vp,Pot Splashers,pr_3159310931b8d8cf,066sd,Myles Lewis-Skelly,True,"D,M",9.0,0.0,0.0,1.0,3.0,True
+2627,2,h1vdt8ynmrp1z5vp,Pot Splashers,h1vdt8ynmrp1z5vp,Pot Splashers,pr_16794967f48eec62,06ex4,Joško Gvardiol,True,D,16.5,0.0,1.0,0.0,9.5,True
+2627,2,h1vdt8ynmrp1z5vp,Pot Splashers,h1vdt8ynmrp1z5vp,Pot Splashers,pr_ce7b7886879b0739,06ezb,Micky van de Ven,True,D,3.0,0.0,0.0,0.0,3.0,True
+2627,2,h1vdt8ynmrp1z5vp,Pot Splashers,h1vdt8ynmrp1z5vp,Pot Splashers,pr_de41a73cc01c496b,06pe1,Mateus Fernandes,True,M,9.5,0.0,0.0,0.0,9.5,True
+2627,2,h1vdt8ynmrp1z5vp,Pot Splashers,h1vdt8ynmrp1z5vp,Pot Splashers,pr_e6fa6336bdf71149,06y9m,Maxim De Cuyper,True,"D,M",-1.0,0.0,0.0,0.0,-1.0,True
+2627,2,h1vdt8ynmrp1z5vp,Pot Splashers,h1vdt8ynmrp1z5vp,Pot Splashers,pr_1148d763174dd2d5,072wq,Rayan Vitor Simplício Rocha,True,"M,F",5.0,0.0,0.0,0.0,5.0,True
+2627,2,h2e8dn5dmrp1z5vp,Berkshire’s Club,h2e8dn5dmrp1z5vp,Berkshire’s Club,pr_42d1605ae412cfed,0427d,James Tarkowski,True,D,25.5,1.0,0.0,0.0,16.5,True
+2627,2,h2e8dn5dmrp1z5vp,Berkshire’s Club,h2e8dn5dmrp1z5vp,Berkshire’s Club,pr_fbbd830b88c1b3fd,04f6h,Matz Sels,True,G,5.5,0.0,0.0,0.0,5.5,True
+2627,2,h2e8dn5dmrp1z5vp,Berkshire’s Club,h2e8dn5dmrp1z5vp,Berkshire’s Club,pr_883d69414747a1f0,04qr9,Morgan Gibbs-White,True,M,21.5,1.0,1.0,0.0,6.5,True
+2627,2,h2e8dn5dmrp1z5vp,Berkshire’s Club,h2e8dn5dmrp1z5vp,Berkshire’s Club,pr_c4956b95bac62985,05uor,Yoane Wissa,True,F,13.5,1.0,0.0,1.0,4.5,True
+2627,2,h2e8dn5dmrp1z5vp,Berkshire’s Club,h2e8dn5dmrp1z5vp,Berkshire’s Club,pr_bbe3dd6e230317d6,068lx,Dango Ouattara,True,"M,F",11.0,0.0,0.0,0.0,11.0,True
+2627,2,h2e8dn5dmrp1z5vp,Berkshire’s Club,h2e8dn5dmrp1z5vp,Berkshire’s Club,pr_48aea4da65a5a244,06jh3,Josh King,True,M,4.0,0.0,0.0,0.0,4.0,True
+2627,2,h2e8dn5dmrp1z5vp,Berkshire’s Club,h2e8dn5dmrp1z5vp,Berkshire’s Club,pr_87c7f1ee97a99a55,06mpp,Mats Wieffer,True,"D,M",7.5,0.0,0.0,0.0,7.5,True
+2627,2,h2e8dn5dmrp1z5vp,Berkshire’s Club,h2e8dn5dmrp1z5vp,Berkshire’s Club,pr_3d7f59e97baad57a,070hc,Brian Brobbey,True,F,2.5,0.0,0.0,1.0,2.5,True
+2627,2,h2e8dn5dmrp1z5vp,Berkshire’s Club,h2e8dn5dmrp1z5vp,Berkshire’s Club,FTX-07877,07877,Mamadou Sangare,True,M,11.5,0.0,0.0,0.0,11.5,True
+2627,2,h2e8dn5dmrp1z5vp,Berkshire’s Club,h2e8dn5dmrp1z5vp,Berkshire’s Club,FTX-0787Y,0787y,Antonio Silva,True,D,10.0,0.0,0.0,0.0,10.0,True
+2627,2,h2e8dn5dmrp1z5vp,Berkshire’s Club,h2e8dn5dmrp1z5vp,Berkshire’s Club,FTX-07898,07898,Gonzalo Garcia,True,F,3.5,0.0,0.0,0.0,3.5,True
+2627,2,hpsurdtbmrp1z5vo,GVand35,hpsurdtbmrp1z5vo,GVand35,pr_33a323c4c90c95ab,03gu4,Harry Maguire,True,D,12.5,0.0,1.0,0.0,5.5,True
+2627,2,hpsurdtbmrp1z5vo,GVand35,hpsurdtbmrp1z5vo,GVand35,pr_92ce298de8737367,050jq,Marc Guéhi,True,D,9.5,0.0,0.0,0.0,9.5,True
+2627,2,hpsurdtbmrp1z5vo,GVand35,hpsurdtbmrp1z5vo,GVand35,pr_7f5a0cea401fb374,05a6e,Neco Williams,True,D,21.5,0.0,1.0,0.0,14.5,True
+2627,2,hpsurdtbmrp1z5vo,GVand35,hpsurdtbmrp1z5vo,GVand35,pr_56a5972ee75c6679,05o4c,Timothy Castagne,True,"D,M",8.0,0.0,0.0,1.0,2.0,True
+2627,2,hpsurdtbmrp1z5vo,GVand35,hpsurdtbmrp1z5vo,GVand35,pr_24779ba9ae4ae614,05o6h,Kai Havertz,True,F,2.0,0.0,0.0,1.0,2.0,True
+2627,2,hpsurdtbmrp1z5vo,GVand35,hpsurdtbmrp1z5vo,GVand35,pr_e57c0d25a5f267f6,05oh0,Jan Paul van Hecke,True,D,10.0,0.0,0.0,0.0,10.0,True
+2627,2,hpsurdtbmrp1z5vo,GVand35,hpsurdtbmrp1z5vo,GVand35,pr_639909e4130562ea,05os4,Rayan Aït-Nouri,True,D,0.0,0.0,0.0,0.0,,True
+2627,2,hpsurdtbmrp1z5vo,GVand35,hpsurdtbmrp1z5vo,GVand35,pr_529ab49d43c3e6a7,05uht,Morgan Rogers,True,"M,F",16.5,0.0,1.0,0.0,10.5,True
+2627,2,hpsurdtbmrp1z5vo,GVand35,hpsurdtbmrp1z5vo,GVand35,pr_3983246d44ca60b7,068y0,Antoine Semenyo,True,"M,F",15.5,0.0,1.0,0.0,9.5,True
+2627,2,hpsurdtbmrp1z5vo,GVand35,hpsurdtbmrp1z5vo,GVand35,pr_338677b0fe674e21,06r6s,Antonín Kinský,True,G,-1.0,0.0,0.0,0.0,-1.0,True
+2627,2,hpsurdtbmrp1z5vo,GVand35,hpsurdtbmrp1z5vo,GVand35,pr_7fdb04b7b709b28d,06rf9,Omar Marmoush,True,F,13.0,0.0,0.0,0.0,13.0,True
+2627,2,qwkltl98mrp1z5vp,epatel3,qwkltl98mrp1z5vp,epatel3,pr_52921f64927bcbe4,038ze,Alex Iwobi,True,"M,F",7.5,0.0,0.0,0.0,7.5,True
+2627,2,qwkltl98mrp1z5vp,epatel3,qwkltl98mrp1z5vp,epatel3,pr_cfe4cc43db7d7a00,05g2o,João Pedro Junqueira de Jesus,True,"M,F",24.5,1.0,1.0,0.0,9.5,True
+2627,2,qwkltl98mrp1z5vp,epatel3,qwkltl98mrp1z5vp,epatel3,pr_d8513955615ea805,05gcc,Kiernan Dewsbury-Hall,True,M,14.0,0.0,0.0,0.0,14.0,True
+2627,2,qwkltl98mrp1z5vp,epatel3,qwkltl98mrp1z5vp,epatel3,pr_2c91b2e08c6b2552,05o4b,Matty Cash,True,D,4.5,0.0,0.0,0.0,4.5,True
+2627,2,qwkltl98mrp1z5vp,epatel3,qwkltl98mrp1z5vp,epatel3,pr_d3426929b4f91b2e,05os8,Joachim Andersen,True,D,9.5,0.0,0.0,0.0,9.5,True
+2627,2,qwkltl98mrp1z5vp,epatel3,qwkltl98mrp1z5vp,epatel3,FTX-06MGD,06mgd,Abdul Fatawu,True,F,15.5,0.0,1.0,0.0,9.5,True
+2627,2,qwkltl98mrp1z5vp,epatel3,qwkltl98mrp1z5vp,epatel3,pr_32c23aa00c15ac35,06nu7,Riccardo Calafiori,True,D,19.0,0.0,1.0,1.0,6.0,True
+2627,2,qwkltl98mrp1z5vp,epatel3,qwkltl98mrp1z5vp,epatel3,pr_13aa175b61be9d3d,06pia,Maxence Lacroix,True,D,4.0,0.0,0.0,0.0,4.0,True
+2627,2,qwkltl98mrp1z5vp,epatel3,qwkltl98mrp1z5vp,epatel3,pr_a36ef466ba952a14,06rlj,Patrick Dorgu,True,"D,M",6.5,0.0,0.0,0.0,6.5,True
+2627,2,qwkltl98mrp1z5vp,epatel3,qwkltl98mrp1z5vp,epatel3,pr_b31960aff73505b2,070hs,Gianluigi Donnarumma,True,G,-2.0,0.0,0.0,0.0,-2.0,True
+2627,2,qwkltl98mrp1z5vp,epatel3,qwkltl98mrp1z5vp,epatel3,pr_2dc8909ca052885f,076qg,Victor Munoz,True,F,16.5,1.0,0.0,0.0,7.5,True
+2627,2,rx9bjhp3mrp1z5vo,KindComet 🤡,rx9bjhp3mrp1z5vo,KindComet 🤡,pr_356e3da30e713a37,03frx,Ola Aina,True,D,2.5,0.0,0.0,0.0,2.5,True
+2627,2,rx9bjhp3mrp1z5vo,KindComet 🤡,rx9bjhp3mrp1z5vo,KindComet 🤡,pr_45275615e21639d9,04lav,Ethan Ampadu,True,"D,M",8.0,0.0,0.0,0.0,8.0,True
+2627,2,rx9bjhp3mrp1z5vo,KindComet 🤡,rx9bjhp3mrp1z5vo,KindComet 🤡,pr_244b54d86191f031,05nzu,Gabriel dos Santos Magalhães,True,D,13.0,0.0,0.0,1.0,7.0,True
+2627,2,rx9bjhp3mrp1z5vo,KindComet 🤡,rx9bjhp3mrp1z5vo,KindComet 🤡,pr_975edca78e5e06f1,05uox,Christos Tzolis,True,F,0.0,0.0,0.0,0.0,0.0,True
+2627,2,rx9bjhp3mrp1z5vo,KindComet 🤡,rx9bjhp3mrp1z5vo,KindComet 🤡,pr_fcf2af15118d7978,0639x,Marcus Tavernier,True,M,7.5,0.0,0.0,0.0,7.5,True
+2627,2,rx9bjhp3mrp1z5vo,KindComet 🤡,rx9bjhp3mrp1z5vo,KindComet 🤡,pr_9c2114f0defd99b8,067x8,Nico O'Reilly,True,"D,M",3.5,0.0,0.0,0.0,3.5,True
+2627,2,rx9bjhp3mrp1z5vo,KindComet 🤡,rx9bjhp3mrp1z5vo,KindComet 🤡,pr_fab432a2d50fcc13,06cmm,Dominik Szoboszlai,True,"D,M",13.5,0.0,0.0,0.0,13.5,True
+2627,2,rx9bjhp3mrp1z5vo,KindComet 🤡,rx9bjhp3mrp1z5vo,KindComet 🤡,pr_b03c7ea777cad526,06fuw,Đorđe Petrović,True,G,12.5,0.0,0.0,0.0,12.5,True
+2627,2,rx9bjhp3mrp1z5vo,KindComet 🤡,rx9bjhp3mrp1z5vo,KindComet 🤡,pr_fcffb1691d80c346,06l4i,Tyrique George,True,F,5.5,0.0,0.0,0.0,5.5,True
+2627,2,rx9bjhp3mrp1z5vo,KindComet 🤡,rx9bjhp3mrp1z5vo,KindComet 🤡,pr_5b05eed522d404e7,06v0y,Luka Vušković,True,D,3.5,0.0,0.0,0.0,3.5,True
+2627,2,rx9bjhp3mrp1z5vo,KindComet 🤡,rx9bjhp3mrp1z5vo,KindComet 🤡,pr_8fd6ab985ff72339,06v51,Jaka Bijol,True,D,4.0,0.0,0.0,0.0,4.0,True
+2627,2,w2mnqywumrp1z5vp,tpem,w2mnqywumrp1z5vp,tpem,pr_6758ee2f9c6c5ea3,045ob,Caoimhín Kelleher,True,G,4.0,0.0,0.0,0.0,4.0,True
+2627,2,w2mnqywumrp1z5vp,tpem,w2mnqywumrp1z5vp,tpem,pr_2c235dc85cd697f4,04abb,Phil Foden,True,M,22.5,0.0,2.0,0.0,10.5,True
+2627,2,w2mnqywumrp1z5vp,tpem,w2mnqywumrp1z5vp,tpem,pr_d021188524f00bf9,04e1e,Benjamin White,True,D,17.0,0.0,0.0,1.0,11.0,True
+2627,2,w2mnqywumrp1z5vp,tpem,w2mnqywumrp1z5vp,tpem,pr_9bde7d9c1f7c1b22,04fk1,Pascal Groß,True,M,24.5,1.0,1.0,0.0,9.5,True
+2627,2,w2mnqywumrp1z5vp,tpem,w2mnqywumrp1z5vp,tpem,pr_592b6b0e9ba95955,05n07,Pedro Porro Sauceda,True,D,4.0,0.0,0.0,0.0,4.0,True
+2627,2,w2mnqywumrp1z5vp,tpem,w2mnqywumrp1z5vp,tpem,pr_8493b45afe280328,05ogb,Anthony Elanga,True,F,16.0,1.0,0.0,1.0,7.0,True
+2627,2,w2mnqywumrp1z5vp,tpem,w2mnqywumrp1z5vp,tpem,pr_13d2678f20f4b4d8,05trb,Bryan Mbeumo,True,"M,F",25.5,1.0,1.0,0.0,10.5,True
+2627,2,w2mnqywumrp1z5vp,tpem,w2mnqywumrp1z5vp,tpem,pr_47422fce4553de7a,05tre,Vitaly Janelt,True,M,9.5,0.0,0.0,0.0,9.5,True
+2627,2,w2mnqywumrp1z5vp,tpem,w2mnqywumrp1z5vp,tpem,pr_64e2084ca1afac52,061vq,Erling Haaland,True,F,25.0,2.0,0.0,0.0,7.0,True
+2627,2,w2mnqywumrp1z5vp,tpem,w2mnqywumrp1z5vp,tpem,pr_6b1503595658653c,06ab3,Lewis Miley,True,"D,M",6.5,0.0,0.0,1.0,0.5,True
+2627,2,w2mnqywumrp1z5vp,tpem,w2mnqywumrp1z5vp,tpem,pr_b927ef5c035c5997,06rgg,Michael Kayode,True,D,7.5,0.0,0.0,0.0,7.5,True

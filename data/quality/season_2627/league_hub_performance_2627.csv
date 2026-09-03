@@ -1,0 +1,7 @@
+stage,rows,seconds
+active_lineup_preparation,132,0.000777
+efficiency_calculation,617,0.182196
+league_awards,12,0.010704
+manager_award_aggregation,132,0.012498
+manager_award_ranking,12,0.0279
+league_hub_model,12,0.165513

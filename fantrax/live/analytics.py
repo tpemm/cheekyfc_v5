@@ -10,6 +10,7 @@ from typing import Any
 import numpy as np
 import pandas as pd
 from fantrax.live.manager_identity import normalize_manager_alias
+from fantrax.live.current_identity import display_names
 
 
 CURRENT_COLUMNS = (
@@ -74,8 +75,14 @@ def build_live_player_analytics(
     if not own.empty:
         own["fantrax_player_id"] = _id(own)
         own = own.drop_duplicates("fantrax_player_id", keep="last")
-        ownership_columns = [c for c in ("fantrax_player_id", "registry_player_id", "canonical_name", "ownership_status", "current_manager_id", "current_manager_name", "current_fantasy_team", "roster_status", "lineup_status", "available", "ownership_change_count", "last_change_event", "last_change_at", "drafted_manager", "drafted_manager_id", "drafted_round", "drafted_overall_pick", "still_with_drafting_manager", "currently_free_agent") if c in own]
+        ownership_columns = [c for c in ("fantrax_player_id", "registry_player_id", "canonical_name", "player_name", "ownership_status", "current_manager_id", "current_manager_name", "current_fantasy_team", "roster_status", "lineup_status", "available", "ownership_change_count", "last_change_event", "last_change_at", "drafted_manager", "drafted_manager_id", "drafted_round", "drafted_overall_pick", "still_with_drafting_manager", "currently_free_agent") if c in own]
         out = out.merge(own[ownership_columns], on="fantrax_player_id", how="left", suffixes=("", "_ownership"))
+        for target in ("registry_player_id","canonical_name","player_name"):
+            fallback=target+"_ownership"
+            if fallback in out: out[target]=out[target].combine_first(out[fallback])
+    out["player_name"] = display_names(
+        out.get("canonical_name", pd.Series(pd.NA, index=out.index)), out["player_name"]
+    )
 
     drafted = draft_results.copy()
     if not drafted.empty:

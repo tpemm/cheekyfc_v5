@@ -153,3 +153,57 @@ Sprint 8.6 establishes the preseason homepage and automatic post-GW1 League Hub
 activation. Power Rankings and waiver-success grading remain future designs.
 Sprint 8.7 completed stable manager draft-origin reconciliation, compact League
 Hub table/cards, readable position labels, and stable-ID manager-card selection.
+Sprint 8.8 completed the live League Hub hierarchy cleanup and four player
+leaderboards without changing data sources or analytical formulas.
+## Sprint 8.9 — complete
+
+The live Players page now uses one availability-filtered, rate-driven decision database. Profiles include finalized 2025/26 quick comparison and matched-axis current/historical radar modes, while draft context is secondary and existing comparison infrastructure remains intact.
+## Sprint 8.9.2 — complete
+
+Player navigation and preseason historical radar rendering were repaired. The live profile is now a compact seven-tab scouting dashboard with catalog-backed current/historical radar modes, rate comparisons, actual-versus-outlook playing time, advanced events, fixture context, finalized history, and secondary ownership/draft context.
+## Sprint 8.9.3 — complete
+
+The compact live profile now supports registered current/finalized historical match analysis: scoring-period production, recent form, venue splits, safe points composition, and filtered gameweek detail. FDR, historical weekly Ghost, and set-piece roles remain intentionally unavailable until authoritative registered data exists.
+## Sprint 8.9.4 — complete
+
+Player Overview is now a compact radar/stat scouting card with ordered metric editing, explicit polygon closure, five transparent percentile dimensions, and preseason-safe current/historical behavior.
+
+## Sprint 8.9.5 — complete
+
+Player Overview now shares ranking preparation with the live database, uses raw-value/rank-only hover, and ends after the radar and exact-stat panel. The five interim percentile bars were removed without changing performance formulas or the other profile tabs.
+
+## Sprint 8.10 — complete
+
+Player Comparison now presents two-to-five-player selection, compact decision cards, the established editable shared radar, and a direction-aware exact table in one final research surface. Home/Away and fixture context use registered data, tied best values share restrained emphasis, and no overall winner is declared.
+# Sprint 9.1 fixture intelligence
+
+Acquire the remaining authoritative league schedule and current Fantrax scoring-period windows, then activate transparent position-specific opponent production allowed with sample counts and league-average shrinkage. Add cups/Europe only when an existing integration's coverage is proven.
+
+Fantrax periods are complete. Schedule acquisition remains the gate: evaluate one competition-level provider capable of returning the 210 fixtures absent from football-data.io, then pass it through the existing canonical model before Sprint 9.1.
+
+The schedule gate is complete via Sofascore. Before Sprint 9.1 activates Elo-based strength, resolve ClubElo endpoint access and validate explicit 20/20 identity coverage; then combine Elo, venue, and observed positional Fantrax production transparently.
+
+Next prediction work should wait for completed Fantrax periods and reproducible lineup sources. Then validate descriptive distributions and small-sample behavior before introducing shrinkage, positional FDR, lineup probabilities, expected minutes, or player projections.
+# Sprint 9.2 outcome
+
+The cache-safe WhoScored historical POC now proves one real match end to end.
+Resolve the remaining seven once, then acquire directly by provider ID without
+repeating the slow full-calendar traversal.
+
+Sprint 9.2.2 completed the eight-match validation. Decision gate: **B — need a
+small parser/identity fix before scale-up**. Event schemas are stable, but 34
+player identities and the multi-page Selenium stall need resolution before a
+380-match run.
+# Sprint 9.3 scale-readiness note
+
+The bounded WhoScored 2025/26 scale test is complete. Full-season acquisition remains deferred to an explicitly authorized run using the validated resumable, session-backed worker. See `docs/whoscored_scale_readiness.md`.
+
+Sprint 9.4 adopts a dual operating model: hosted Core Refresh and commissioner-only Weekly Advanced Refresh. Visible session-backed Chrome is accepted for the manual workflow. The prepared 380-match command remains plan-only until explicitly authorized. See `docs/dual_refresh_architecture.md`.
+
+Sprint 9.5 executes that authorized acquisition and validates the supplemental full-season advanced layer. Production Player/Teams presentation and analytical modeling remain deferred until the season gates and provider reconciliation are reviewed. See `docs/whoscored_full_season_architecture.md`.
+
+Sprint 9.5 is complete with decision **A**: 380/380 source-correct caches and all 12 analytical gates pass. Sprint 9.6 should promote the validated descriptive Player/Teams features behind supplemental-data boundaries, add manager-regime and sample-size UX, and defer predictive claims until separately modeled and validated.
+
+Sprint 9.6 promotes the audited descriptive layer: Fantrax-first supplemental player matches, advanced player profiles, Event Activity maps, observed set-piece hierarchies, formation-role usage, historical Fantasy Allowed ranks, and manager/formation team event profiles. Sprint 9.7 should validate incremental 2026/27 weekly population and refine current-season empty-to-live transitions before any predictive modeling.
+
+Sprint 9.6.1 repairs and verifies the production cross-season bridge. All 17 current clubs with finalized 2025/26 Premier League participation resolve their historical advanced models; Coventry City, Hull City, and Ipswich Town correctly report no finalized 2025/26 EPL history. No lookup failures remain.

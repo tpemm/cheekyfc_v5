@@ -1,0 +1,7 @@
+player,season,matches,starts,primary_role,primary_role_share,primary_formation,formation_share,events,event_activity_center_x,event_activity_center_y,final_third_event_share,box_event_count,pass_count,key_pass_count,cross_count,dribble_attempts,successful_dribbles,shot_count,defensive_action_count,recovery_count,aerial_count,orientation_valid,historical_available,validation_status
+David Raya,2627,1,1,GK,1.0,4231,1.0,37,57.04594594594595,12.578378378378378,0.0,0,25,0,0,0,0,0,1,1,0,True,True,PASS
+Bukayo Saka,2627,1,1,RW,1.0,4231,1.0,62,82.09354838709679,66.69354838709677,66.12903225806451,9,39,2,5,2,1,3,3,4,1,True,True,PASS
+Piero Hincapié,2627,1,0,,,,,12,27.458333333333332,51.98333333333333,25.0,0,8,0,1,0,0,0,1,0,1,True,True,PASS
+Vitaly Janelt,2627,1,1,DM,1.0,4231,1.0,69,50.2231884057971,46.86666666666666,21.73913043478261,3,42,2,5,0,0,2,10,3,0,True,True,PASS
+Maxim De Cuyper,2627,1,1,LW,1.0,4231,1.0,68,22.989705882352943,65.1514705882353,54.411764705882355,6,46,3,5,0,0,4,5,3,0,True,True,PASS
+Cole Palmer,2627,1,1,CAM,1.0,3421,1.0,70,70.99285714285713,63.34,58.57142857142857,10,34,3,2,8,5,5,4,7,1,True,True,PASS

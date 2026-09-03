@@ -1,0 +1,34 @@
+club_id,manager_id,manager_name,start_date,end_date,first_observed_match,last_observed_match,matches_observed,season,source,confidence_status
+arsenal,mgr:5fdd2f365fdc,Mikel Arteta,2025-08-17,2026-05-24,understat:28786,understat:29150,38,2526,WhoScored observed match payload,OBSERVED_RANGE_NOT_EXACT_TENURE_BOUNDARY
+aston_villa,mgr:dcdf2dffc0c2,Unai Emery,2025-08-16,2026-05-24,understat:28779,understat:29153,38,2526,WhoScored observed match payload,OBSERVED_RANGE_NOT_EXACT_TENURE_BOUNDARY
+bournemouth,mgr:b4b8eecb310f,Andoni Iraola,2025-08-15,2026-05-24,understat:28778,understat:29154,38,2526,WhoScored observed match payload,OBSERVED_RANGE_NOT_EXACT_TENURE_BOUNDARY
+brentford,mgr:5f487ee40c90,Keith Andrews,2025-08-17,2026-05-24,understat:28785,understat:29152,38,2526,WhoScored observed match payload,OBSERVED_RANGE_NOT_EXACT_TENURE_BOUNDARY
+brighton,mgr:dfda8206a0e2,Fabian Hürzeler,2025-08-16,2026-05-24,understat:28780,understat:29148,38,2526,WhoScored observed match payload,OBSERVED_RANGE_NOT_EXACT_TENURE_BOUNDARY
+burnley,mgr:7670d95f755e,Michael Jackson,2026-05-01,2026-05-24,understat:29124,understat:29149,4,2526,WhoScored observed match payload,OBSERVED_RANGE_NOT_EXACT_TENURE_BOUNDARY
+burnley,mgr:c49e040048ca,Scott Parker,2025-08-16,2026-04-22,understat:28782,understat:29111,34,2526,WhoScored observed match payload,OBSERVED_RANGE_NOT_EXACT_TENURE_BOUNDARY
+chelsea,mgr:3b963ae58719,Calum McFarlane,2026-01-04,2026-05-24,understat:28977,understat:29155,6,2526,WhoScored observed match payload,OBSERVED_RANGE_NOT_EXACT_TENURE_BOUNDARY
+chelsea,mgr:4fed4e69ba04,Liam Rosenior,2026-01-17,2026-04-21,understat:28990,understat:29110,13,2526,WhoScored observed match payload,OBSERVED_RANGE_NOT_EXACT_TENURE_BOUNDARY
+chelsea,mgr:dc01d928d84f,Enzo Maresca,2025-08-17,2025-12-30,understat:28784,understat:28961,19,2526,WhoScored observed match payload,OBSERVED_RANGE_NOT_EXACT_TENURE_BOUNDARY
+crystal_palace,mgr:1058459b93f2,Oliver Glasner,2025-08-17,2026-05-24,understat:28784,understat:29150,38,2526,WhoScored observed match payload,OBSERVED_RANGE_NOT_EXACT_TENURE_BOUNDARY
+everton,mgr:84316c036a2d,David Moyes,2025-08-18,2026-05-24,understat:28787,understat:29156,38,2526,WhoScored observed match payload,OBSERVED_RANGE_NOT_EXACT_TENURE_BOUNDARY
+fulham,mgr:d242da40969a,Marco Alexandre Saraiva da Silva,2025-08-16,2026-05-24,understat:28780,understat:29151,38,2526,WhoScored observed match payload,OBSERVED_RANGE_NOT_EXACT_TENURE_BOUNDARY
+leeds_united,mgr:fa5d385e34dc,Daniel Farke,2025-08-18,2026-05-24,understat:28787,understat:29157,38,2526,WhoScored observed match payload,OBSERVED_RANGE_NOT_EXACT_TENURE_BOUNDARY
+liverpool,mgr:328a5fafed26,Arne Slot,2025-08-15,2026-05-24,understat:28778,understat:29152,38,2526,WhoScored observed match payload,OBSERVED_RANGE_NOT_EXACT_TENURE_BOUNDARY
+manchester_city,mgr:26dfbbc164aa,Pep Guardiola,2025-08-16,2026-05-24,understat:28783,understat:29153,38,2526,WhoScored observed match payload,OBSERVED_RANGE_NOT_EXACT_TENURE_BOUNDARY
+manchester_united,mgr:3aa905054daf,Michael Carrick,2026-01-17,2026-05-24,understat:28993,understat:29148,17,2526,WhoScored observed match payload,OBSERVED_RANGE_NOT_EXACT_TENURE_BOUNDARY
+manchester_united,mgr:662d1720cf8b,Ruben Filipe Marques Diogo Amorim,2025-08-17,2026-01-04,understat:28786,understat:28976,20,2526,WhoScored observed match payload,OBSERVED_RANGE_NOT_EXACT_TENURE_BOUNDARY
+manchester_united,mgr:98dfad21cc80,Darren Fletcher,2026-01-07,2026-01-07,understat:28982,understat:28982,1,2526,WhoScored observed match payload,OBSERVED_RANGE_NOT_EXACT_TENURE_BOUNDARY
+newcastle_united,mgr:65451ab24622,Eddie Howe,2025-08-16,2026-05-24,understat:28779,understat:29151,38,2526,WhoScored observed match payload,OBSERVED_RANGE_NOT_EXACT_TENURE_BOUNDARY
+nottingham_forest,mgr:224591e666ec,Sean Dyche,2025-10-26,2026-02-11,understat:28858,understat:29034,18,2526,WhoScored observed match payload,OBSERVED_RANGE_NOT_EXACT_TENURE_BOUNDARY
+nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,2026-02-22,2026-05-24,understat:29044,understat:29154,12,2526,WhoScored observed match payload,OBSERVED_RANGE_NOT_EXACT_TENURE_BOUNDARY
+nottingham_forest,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,2025-08-17,2025-08-31,understat:28785,understat:28804,3,2526,WhoScored observed match payload,OBSERVED_RANGE_NOT_EXACT_TENURE_BOUNDARY
+nottingham_forest,mgr:baf747465a0d,Ange Postecoglou,2025-09-13,2025-10-18,understat:28808,understat:28854,5,2526,WhoScored observed match payload,OBSERVED_RANGE_NOT_EXACT_TENURE_BOUNDARY
+sunderland,mgr:1a031e232e88,Régis Le Bris,2025-08-16,2026-05-24,understat:28781,understat:29155,38,2526,WhoScored observed match payload,OBSERVED_RANGE_NOT_EXACT_TENURE_BOUNDARY
+tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,2025-08-16,2026-02-10,understat:28782,understat:29036,26,2526,WhoScored observed match payload,OBSERVED_RANGE_NOT_EXACT_TENURE_BOUNDARY
+tottenham_hotspur,mgr:b283d24885e5,Roberto De Zerbi,2026-04-12,2026-05-24,understat:29090,understat:29156,7,2526,WhoScored observed match payload,OBSERVED_RANGE_NOT_EXACT_TENURE_BOUNDARY
+tottenham_hotspur,mgr:e99dd67f9cac,Igor Tudor,2026-02-22,2026-03-22,understat:29046,understat:29086,5,2526,WhoScored observed match payload,OBSERVED_RANGE_NOT_EXACT_TENURE_BOUNDARY
+west_ham,mgr:182deb7ae6a3,Graham Potter,2025-08-16,2025-09-20,understat:28781,understat:28819,5,2526,WhoScored observed match payload,OBSERVED_RANGE_NOT_EXACT_TENURE_BOUNDARY
+west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,2025-09-29,2026-05-24,understat:28837,understat:29157,33,2526,WhoScored observed match payload,OBSERVED_RANGE_NOT_EXACT_TENURE_BOUNDARY
+wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,2025-11-22,2026-05-24,understat:28897,understat:29149,27,2526,WhoScored observed match payload,OBSERVED_RANGE_NOT_EXACT_TENURE_BOUNDARY
+wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,2025-08-16,2025-11-01,understat:28783,understat:28871,10,2526,WhoScored observed match payload,OBSERVED_RANGE_NOT_EXACT_TENURE_BOUNDARY
+wolverhampton_wanderers,mgr:b72337fa641c,James Collins,2025-11-08,2025-11-08,understat:28880,understat:28880,1,2526,WhoScored observed match payload,OBSERVED_RANGE_NOT_EXACT_TENURE_BOUNDARY

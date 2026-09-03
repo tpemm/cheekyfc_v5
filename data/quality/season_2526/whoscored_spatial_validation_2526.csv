@@ -1,0 +1,8 @@
+metric,value
+coordinate_in_range_rate,1.0
+coordinate_missing_rate,0.0
+end_coordinate_complete_rate,0.6652182791009961
+shot_average_x,85.77767997485067
+pass_average_x_delta,5.191169683987661
+home_average_event_x,46.45802302986191
+away_average_event_x,44.1729855901748

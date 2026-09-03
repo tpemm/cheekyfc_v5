@@ -1,0 +1,13 @@
+metric_key,required_qualifiers,rule,availability,production_status,notes
+corners_taken,CornerTaken,Pass with CornerTaken,DIRECTLY_OBSERVED,PRODUCTION_READY,Requires every listed explicit qualifier on the relevant event/context.
+corner_crosses,CornerTaken|Cross,Pass containing both qualifiers,SAFELY_DERIVED,PRODUCTION_READY,Requires every listed explicit qualifier on the relevant event/context.
+corner_key_passes,CornerTaken|KeyPass,Pass containing both qualifiers,SAFELY_DERIVED,PRODUCTION_READY,Requires every listed explicit qualifier on the relevant event/context.
+free_kicks_taken,FreekickTaken,Pass with FreekickTaken,DIRECTLY_OBSERVED,PRODUCTION_READY,Requires every listed explicit qualifier on the relevant event/context.
+indirect_free_kicks,IndirectFreekickTaken,event with explicit qualifier,DIRECTLY_OBSERVED,PRODUCTION_READY,Requires every listed explicit qualifier on the relevant event/context.
+direct_free_kick_shots,DirectFreekick,shot with DirectFreekick,DIRECTLY_OBSERVED,PRODUCTION_READY,Requires every listed explicit qualifier on the relevant event/context.
+free_kick_crosses,Cross|FreekickTaken,Pass containing both qualifiers,SAFELY_DERIVED,PRODUCTION_READY,Requires every listed explicit qualifier on the relevant event/context.
+free_kick_key_passes,FreekickTaken|KeyPass,Pass containing both qualifiers,SAFELY_DERIVED,PRODUCTION_READY,Requires every listed explicit qualifier on the relevant event/context.
+penalties,Penalty,shot/goalkeeper/foul event with Penalty context,DIRECTLY_OBSERVED,PRODUCTION_READY,Requires every listed explicit qualifier on the relevant event/context.
+throw_ins,ThrowIn,Pass with ThrowIn,DIRECTLY_OBSERVED,PRODUCTION_READY,Requires every listed explicit qualifier on the relevant event/context.
+set_piece_shots,SetPiece,shot with SetPiece or explicit restart qualifier,SAFELY_DERIVED,PRODUCTION_READY,Requires every listed explicit qualifier on the relevant event/context.
+set_piece_assists,CornerTaken|IntentionalGoalAssist,assist evidence plus explicit restart context,SAFELY_DERIVED,PRODUCTION_READY,Requires every listed explicit qualifier on the relevant event/context.

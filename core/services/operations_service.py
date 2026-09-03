@@ -21,6 +21,8 @@ import pandas as pd
 from core.models.operation_definition import OperationDefinition
 from core.models.operation_result import OperationResult
 from core.services.season_manager import SeasonManager
+from fantrax.live.config import load_live_season_config
+from core.services.machine_role import commissioner_refresh_enabled,require_commissioner_writer,MachineRoleError
 
 
 class OperationsServiceError(RuntimeError):
@@ -37,6 +39,8 @@ class OperationNotAllowedError(OperationsServiceError, PermissionError):
 
 class OperationParameterError(OperationsServiceError, ValueError):
     """Raised when operation parameters are unknown or invalid."""
+
+AUTHORITATIVE_LIVE_OPERATIONS={"refresh_live_fantrax_sources","backfill_live_weekly_stats","force_refresh_live_weekly_stats","refresh_live_league_metadata","refresh_live_standings","refresh_live_rosters","refresh_fantrax_data","refresh_current_squad","build_live_season_datasets","build_roster_tracking"}
 
 
 @dataclass(frozen=True, slots=True)
@@ -396,6 +400,7 @@ class OperationsService:
         return (
             namespace == "working"
             and context.mutable
+            and (operation_id not in AUTHORITATIVE_LIVE_OPERATIONS or commissioner_refresh_enabled())
             and self._seasons.supports_operation(
                 season_id,
                 operation.definition.capability,
@@ -411,6 +416,9 @@ class OperationsService:
         """Validate and synchronously execute one approved operation."""
 
         operation = self._get(operation_id)
+        if operation_id in AUTHORITATIVE_LIVE_OPERATIONS:
+            try:require_commissioner_writer(operation_id)
+            except MachineRoleError as exc:raise OperationNotAllowedError(str(exc)) from exc
         context = self._seasons.context(season_id)
         namespace = self._seasons.resolve_namespace(season_id)
         if namespace != "working" or not context.mutable:
@@ -443,6 +451,10 @@ class OperationsService:
         started_at = datetime.now(timezone.utc)
         started = time.perf_counter()
         try:
+            child_environment=os.environ.copy()
+            if season_id=="2627" and operation.definition.capability=="refresh":
+                resolved=load_live_season_config(project_root=self._project_root).league_id
+                if resolved:child_environment["FANTRAX_LEAGUE_ID_2627"]=resolved
             completed = self._executor(
                 [sys.executable, str(script_path)],
                 input=input_text,
@@ -451,7 +463,7 @@ class OperationsService:
                 capture_output=True,
                 timeout=self._timeout_seconds,
                 shell=False,
-                env=os.environ.copy(),
+                env=child_environment,
             )
             return_code = int(completed.returncode)
             combined=f"{completed.stdout or ''}\n{completed.stderr or ''}"
@@ -493,7 +505,7 @@ class OperationsService:
                 error_type=type(exc).__name__,
                 exception_message=str(exc),
                 season_id=season_id,
-                resolved_league_id=os.environ.get("FANTRAX_LEAGUE_ID_2627") if season_id=="2627" else None,
+                resolved_league_id=child_environment.get("FANTRAX_LEAGUE_ID_2627") if season_id=="2627" else None,
                 failed_stage="subprocess_execution",
                 command=f"{sys.executable} {script_path}",
             )

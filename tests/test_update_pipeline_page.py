@@ -58,6 +58,7 @@ class FakeUI:
         self.spinners = []
         self.dataframes = []
         self.progress_values = []
+        self.captions = []
 
     def markdown(self, value, **kwargs):
         self.markdowns.append(str(value))
@@ -76,6 +77,9 @@ class FakeUI:
 
     def info(self, value):
         self.infos.append(str(value))
+
+    def caption(self,value):
+        self.captions.append(str(value))
 
     def columns(self, spec):
         count = spec if isinstance(spec, int) else len(spec)
@@ -258,11 +262,13 @@ def test_unavailable_operations_disable_both_buttons():
     assert all(button[1]["disabled"] for button in ui.buttons)
 
 
-def test_refresh_league_runs_current_sources_then_live_build_with_progress():
+def test_refresh_league_runs_explicit_core_stages_with_progress():
     ui = FakeUI(values={"Refresh League": True})
     operations = FakeOperationsService(
         results=[
-            operation_result("refresh_live_fantrax_sources"),
+            operation_result("refresh_live_league_metadata"),
+            operation_result("refresh_live_standings"),
+            operation_result("refresh_live_rosters"),
             operation_result("build_live_season_datasets"),
         ]
     )
@@ -273,8 +279,8 @@ def test_refresh_league_runs_current_sources_then_live_build_with_progress():
         operations_service=operations,
         ui=ui,
     )
-    assert operations.run_calls == [("refresh_live_fantrax_sources","2627",{}),("build_live_season_datasets","2627",{})]
-    assert ui.progress_values[0][1]=="Connecting to Fantrax" and ui.progress_values[-1]==(100,"Complete")
+    assert operations.run_calls == [("refresh_live_league_metadata","2627",{}),("refresh_live_standings","2627",{}),("refresh_live_rosters","2627",{}),("build_live_season_datasets","2627",{})]
+    assert ui.progress_values[0][1]=="Connecting to Fantrax" and ui.progress_values[-1]==(100,"Success")
     assert ui.successes == ["Refresh completed successfully"]
 
 
@@ -283,7 +289,7 @@ def test_failed_refresh_does_not_chain_or_show_stack_trace():
     operations = FakeOperationsService(
         results=[
             operation_result(
-                "refresh_live_fantrax_sources",
+                "refresh_live_league_metadata",
                 success=False,
                 stdout="partial",
                 stderr="failure",
@@ -299,9 +305,9 @@ def test_failed_refresh_does_not_chain_or_show_stack_trace():
     )
     assert len(operations.run_calls) == 1
     assert ui.text_areas == []
-    assert ui.errors == ["Refresh could not be completed. Your previous valid data was retained."]
+    assert ui.errors == ["Refresh failed at a required stage. Previous validated data was retained."]
     technical=ui.session_state["_operations_activity"][0]["_technical"]
-    assert technical["operation_name"]=="refresh_live_fantrax_sources"
+    assert technical["operation_name"]=="refresh_live_league_metadata"
     assert technical["stdout"]=="partial" and technical["stderr"]=="failure"
     assert technical["failed_stage"]=="unknown"
 

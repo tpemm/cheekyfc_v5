@@ -1,0 +1,9 @@
+player,position,ownership_status,starts,minutes,fpts,fpts_per_start,ghost,ghost_per_start,return_points,goals,assists,cs,kp,sot,shots,xg,xa,cross_attempts,accurate_crosses,dribble_attempts,successful_dribbles,tackle_attempts,tackles_won,interceptions,clearances,recoveries,aerial_attempts,aerial_wins,rating,fantasy_component_sum,official_fpts,unreconciled_difference,historical_available,historical_starts,validation_status
+Maxim De Cuyper,"D,M",ACTIVE,1.0,77.0,36.0,36.0,13.0,13.0,22.0,1.0,1.0,1.0,3.0,1.0,4.0,1.3795270919799805,0.1410702615976333,5.0,2.0,0.0,0.0,3.0,2.0,1.0,0.0,3.0,0.0,0.0,8.49,35.0,36.0,1.0,True,13.0,PASS
+Jack Hinshelwood,M,,1.0,69.0,28.5,28.5,9.5,9.5,19.0,2.0,0.0,1.0,1.0,3.0,3.0,1.401410698890686,0.100886195898056,0.0,0.0,1.0,1.0,2.0,2.0,0.0,0.0,1.0,1.0,1.0,8.92,30.5,28.5,-2.0,True,6.0,PASS
+Vitaly Janelt,M,,1.0,90.0,26.0,26.0,16.0,16.0,10.0,1.0,0.0,1.0,2.0,2.0,2.0,0.4880397617816925,0.083657830953598,5.0,4.0,0.0,0.0,4.0,3.0,4.0,1.0,3.0,0.0,0.0,8.82,29.5,26.0,-3.5,True,7.0,PASS
+Mamadou Sangare,M,RESERVE,1.0,75.0,23.0,23.0,10.0,10.0,13.0,0.0,2.0,1.0,2.0,1.0,1.0,0.0391997434198856,0.5642412900924683,1.0,0.0,3.0,1.0,2.0,0.0,2.0,2.0,7.0,0.0,0.0,8.03,23.0,23.0,0.0,False,,PASS
+Piero Hincapié,D,,0.0,7.0,0.0,,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,5.99,0.0,0.0,0.0,True,11.0,PASS
+Carl Rushworth,G,,1.0,90.0,3.5,3.5,3.5,3.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,6.17,0.5,3.5,3.0,False,,PASS
+Christos Tzolis,F,ACTIVE,1.0,75.0,19.5,19.5,13.5,13.5,6.0,0.0,1.0,1.0,3.0,2.0,4.0,,,3.0,1.0,0.0,0.0,1.0,1.0,0.0,2.0,3.0,3.0,1.0,7.43,19.5,19.5,0.0,False,,PASS
+Victor Lindelöf,D,,1.0,90.0,-10.0,-10.0,-19.0,-19.0,9.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,3.0,0.0,4.75,12.5,-10.0,-22.5,False,0.0,PASS

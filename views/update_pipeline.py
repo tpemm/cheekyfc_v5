@@ -11,6 +11,9 @@ from core.models.operation_result import OperationResult
 from core.services.data_manager import DataManager, DatasetNotFoundError, DatasetValidationError, UnsupportedFormatError
 from core.services.operations_service import OperationNotAllowedError, OperationParameterError, OperationsService
 from core.services.season_manager import SeasonManager
+from core.services.refresh_status import derive_refresh_status
+from core.services.core_refresh import CoreRefreshResult, run_core_refresh
+from fantrax.live.season_state import live_period_phase,resolve_scoring_period_state
 
 REFRESH_OPERATION="refresh_fantrax_data"
 ANALYTICS_OPERATION="build_league_analytics"
@@ -23,19 +26,35 @@ def render(season_id:str,*,data_manager:DataManager|None=None,season_manager:Sea
     data=data_manager or DataManager(season_manager=seasons); operations=operations_service or OperationsService(season_manager=seasons)
     ui.markdown(SHARED_COMPONENT_CSS,unsafe_allow_html=True)
     page_header(ui,"Operations Center","League health, refresh status, and routine maintenance in one place.",eyebrow="Control room",badge="System operations")
+    _render_data_status(ui,season.season_id)
     if season.finalized or namespace=="snapshot": _render_finalized(ui,data,season,namespace); return
     _render_live(ui,operations,data,season.season_id,namespace)
 
 
 def _render_live(ui:Any,operations:OperationsService,data:DataManager,season_id:str,namespace:str)->None:
     manifest=_load_optional_json(data,"live_season_manifest",season_id,namespace,ui)
+    advanced_status=_load_optional_json(data,"weekly_advanced_refresh_latest",season_id,namespace,ui)
     datasets=manifest.get("datasets",[]) if manifest else []; by_key={item.get("dataset_key"):item for item in datasets}
-    periods=[item.get("period_maximum") for item in datasets if item.get("period_maximum") is not None]
+    scoring_periods=_load_optional_frame(data,"scoring_periods",season_id,namespace,ui);period_state=resolve_scoring_period_state(scoring_periods)
+    team_matches=_load_optional_frame(data,"team_matches",season_id,namespace,ui);period_progress=live_period_phase(team_matches,period_state.current_period)
     healthy=bool(datasets) and all(item.get("validation_result")=="valid" for item in datasets)
     cards=ui.columns(4)
-    values=(("Season","2026/27 Live","Active league","blue"),("Last Refresh",_friendly_time(manifest.get("build_timestamp") if manifest else None),"Latest successful build","green"),("League Status","Healthy" if healthy else "Needs Refresh","Registered data checks","green" if healthy else "gold"),("Current Period",f"GW{max(periods)}" if periods else "—","Authoritative scoring period","blue"))
+    values=(("Season","2026/27 Live","Active league","blue"),("Last Successful Build",_friendly_time(manifest.get("build_timestamp") if manifest else None),"Validated cached datasets","green"),("League Status","Healthy" if healthy else "Needs Refresh","Registered data checks","green" if healthy else "gold"),("Current Period",f"GW{period_state.current_period}" if period_state.current_period else "—",period_state.source.replace("_"," ").title(),"blue"))
     for column,item in zip(cards,values):
         with column: metric_card(ui,*item[:3],tone=item[3])
+
+    section_header(ui,"Core Data",f"GW{period_state.current_period or '—'} · {period_progress['state'].replace('_',' ').title()} · {period_progress['completed']}/{period_progress['total']} fixture results recorded")
+    ui.caption("Current-period player statistics require the separately authenticated Fantrax weekly export; missing observations remain NA.")
+    section_header(ui,"Advanced Data","Commissioner-only incremental WhoScored workflow")
+    if advanced_status:
+        acquired=advanced_status.get('stable',0)+advanced_status.get('preliminary',0);eligible=acquired+advanced_status.get('missing_eligible',0)
+        ui.write(f"Eligible completed: {eligible} · Acquired: {acquired} · Missing eligible: {advanced_status.get('missing_eligible',0)} · Stable: {advanced_status.get('stable',0)} · Preliminary: {advanced_status.get('preliminary',0)} · Provider IDs resolved: {advanced_status.get('provider_ids_resolved',0)}")
+    else:ui.caption("No current-season advanced plan has been recorded.")
+    ui.code("python scripts\\weekly_advanced_refresh.py --season 2627 --session-backed",language="text")
+    section_header(ui,"Provider Lifecycle","Correction-aware current-season evidence")
+    maturity=period_state.current_status if hasattr(period_state,"current_status") else period_progress['state']
+    ui.write(f"Fantrax GW{period_state.current_period or 'â€”'}: {str(maturity).replace('_',' ')} · explicit commissioner finalization required")
+    ui.caption("WhoScored 10/10 · preliminary/stable rechecks are cache-first · Understat 10/10 · SOT monitoring · clearances caveated · fantasy assists source-specific")
 
     section_header(ui,"Refresh League","Downloads the newest Fantrax information and updates the live league.")
     available=operations.can_run(LIVE_REFRESH_OPERATION,season_id) and operations.can_run(LIVE_BUILD_OPERATION,season_id)
@@ -93,10 +112,16 @@ def _render_live(ui:Any,operations:OperationsService,data:DataManager,season_id:
             if ui.button(label,disabled=not operations.can_run(operation,season_id),use_container_width=True):
                 result=_run_once(ui,operations,operation,season_id,{},f"{label}…")
                 if result: _record_activity(ui,label,result); _show_result(ui,[result])
-        with ui.expander("Diagnostics"): ui.json({"health":"healthy" if healthy else "review","datasets":len(datasets),"current_period":max(periods) if periods else None})
+        with ui.expander("Diagnostics"): ui.json({"health":"healthy" if healthy else "review","datasets":len(datasets),"current_period":period_state.current_period,"latest_completed_period":period_state.latest_completed_period,"period_source":period_state.source})
         with ui.expander("View Source Coverage"): ui.write("Player and stat coverage is refreshed in data/quality/season_2627 after every live build.")
         with ui.expander("Manifest and checksum tools"): ui.json(manifest or {"status":"No manifest available"})
         with ui.expander("Developer Tools"): ui.code("OperationsService registered operations",language="text")
+
+def _render_data_status(ui:Any,season_id:str)->None:
+    section_header(ui,"Data Status","Can the current application data be trusted?")
+    status=derive_refresh_status(season=season_id)
+    ui.dataframe(status.rename(columns={'area':'Area','state':'State','last_successful_refresh':'Last successful refresh','coverage':'Coverage','detail':'Detail'}),use_container_width=True,hide_index=True)
+    ui.info("Advanced WhoScored refresh is commissioner-only and is not runnable from the hosted app. Local command: python scripts/weekly_advanced_refresh.py --season 2627 --session-backed")
 
 
 def _friendly_time(value:Any)->str:
@@ -106,9 +131,9 @@ def _friendly_time(value:Any)->str:
 
 
 def _record_activity(ui:Any,label:str,result:OperationResult)->None:
-    entry={"Time":datetime.now().astimezone().strftime("%I:%M %p").lstrip("0"),"Action":label,"Duration":f"{result.duration_seconds:.1f}s","Result":"Success" if result.success else "Needs attention"}
+    entry={"Time":datetime.now().astimezone().strftime("%I:%M %p").lstrip("0"),"Action":label,"Duration":f"{result.duration_seconds:.1f}s","Result":result.status or ("Success" if result.success else "Failed"),"Message":result.message}
     if not result.success:
-        entry["_technical"]={"operation_name":result.operation_key,"failed_stage":result.failed_stage or "unknown","resolved_season_id":result.season_id,"resolved_league_id":result.resolved_league_id,"command_script":result.command,"exit_code":result.return_code,"stdout":result.stdout,"stderr":result.stderr,"exception_type":result.error_type,"exception_message":result.exception_message,"elapsed_seconds":round(result.duration_seconds,3)}
+        entry["_technical"]={"operation_name":result.operation_key,"status":result.status or "FAILED","failed_stage":result.failed_stage or "unknown","source":result.source,"resolved_season_id":result.season_id,"resolved_league_id":result.resolved_league_id,"scoring_period":result.scoring_period,"rows_before":result.rows_before,"rows_after":result.rows_after,"command_script":result.command,"exit_code":result.return_code,"stdout":result.stdout,"stderr":result.stderr,"exception_type":result.error_type,"exception_message":result.exception_message,"elapsed_seconds":round(result.duration_seconds,3)}
     ui.session_state["_operations_activity"]=[entry,*ui.session_state.get("_operations_activity",[])][:20]
 
 
@@ -122,16 +147,25 @@ def _show_result(ui:Any,results:list[OperationResult])->None:
 
 
 def _refresh_league(ui:Any,operations:OperationsService,season_id:str)->None:
-    progress=ui.progress(0,text="Connecting to Fantrax"); started=datetime.now(); results=[]
-    for percent,label,operation in ((20,"Downloading league data",LIVE_REFRESH_OPERATION),(70,"Updating standings, rosters, ownership, players, managers, and analytics",LIVE_BUILD_OPERATION)):
-        progress.progress(percent,text=label); result=_run_once(ui,operations,operation,season_id,{},label)
-        if result is None: break
-        results.append(result)
-        if not result.success: break
-    success=len(results)==2 and all(result.success for result in results); progress.progress(100,text="Complete" if success else "Needs attention")
-    for result,label in zip(results,("League refresh","Live analytics build")): _record_activity(ui,label,result)
-    _show_result(ui,results)
-    if success: ui.write(f"Updated: Standings · Players · Managers · Rosters · Ownership · Analytics · {(datetime.now()-started).total_seconds():.1f}s")
+    running_key="_operation_running_core_refresh"
+    if ui.session_state.get(running_key) or ui.session_state.get("_operation_running_refresh_live_fantrax_sources"):
+        ui.warning("This operation is already running.");return
+    ui.session_state[running_key]=True
+    progress=ui.progress(0,text="Connecting to Fantrax");started=datetime.now()
+    try:
+        with ui.spinner("Refreshing registered core stages…"):run=run_core_refresh(operations,season_id)
+    finally:ui.session_state[running_key]=False
+    for stage in run.stages:_record_activity(ui,stage.label,stage.result)
+    progress.progress(100,text=run.status.title());_show_core_result(ui,run)
+    ui.write(f"Core refresh {run.status.lower()} · {len(run.succeeded)}/{len(run.stages)} stages succeeded · {(datetime.now()-started).total_seconds():.1f}s")
+
+
+def _show_core_result(ui:Any,run:CoreRefreshResult)->None:
+    if run.status=="SUCCESS":_clear_streamlit_cache(ui);ui.success("Refresh completed successfully")
+    elif run.status=="PARTIAL":ui.warning("Refresh completed with attention needed. Previous validated data was retained for failed stages.")
+    else:ui.error("Refresh failed at a required stage. Previous validated data was retained.")
+    if run.attention:
+        ui.write("Needs attention: "+" · ".join(f"{stage.label} — {stage.result.exception_message or stage.result.failed_stage or stage.result.message}" for stage in run.attention))
 
 
 def _render_finalized(ui:Any,data:DataManager,season:Any,namespace:str)->None:
@@ -167,6 +201,17 @@ def _load_optional_text(data:DataManager,key:str,season_id:str,namespace:str,ui:
     except DatasetNotFoundError: return None
     except (DatasetValidationError,UnsupportedFormatError) as exc: ui.warning(str(exc)); return None
     return result.data if result.status not in {DataStatus.MISSING,DataStatus.EMPTY} and isinstance(result.data,str) else None
+
+
+def _load_optional_frame(data:DataManager,key:str,season_id:str,namespace:str,ui:Any):
+    import pandas as pd
+    loader=getattr(data,"load",None)
+    if not callable(loader):return pd.DataFrame()
+    try:result=data.load(key,season_id,namespace)
+    except (DatasetNotFoundError,DatasetValidationError,UnsupportedFormatError) as exc:
+        if not isinstance(exc,DatasetNotFoundError):ui.warning(str(exc))
+        return pd.DataFrame()
+    return result.data
 
 
 def _clear_streamlit_cache(ui:Any)->None:

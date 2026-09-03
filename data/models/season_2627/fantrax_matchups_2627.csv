@@ -1,0 +1,13 @@
+season_id,period,matchup_id,home_manager,away_manager,home_team_id,away_team_id,home_score,away_score,status,winner,margin,source,acquired_at,maturity
+2627,1,01-01,epatel3,Berkshire’s Club,qwkltl98mrp1z5vp,h2e8dn5dmrp1z5vp,91.0,91.5,completed,Berkshire’s Club,0.5,Fantrax Matchups structured DOM fallback,2026-08-25T16:43:13+00:00,FINAL
+2627,1,01-02,Pot Splashers,Up the Arse-nal,h1vdt8ynmrp1z5vp,ayk8m85amrp1z5vo,121.5,90.5,completed,Pot Splashers,31.0,Fantrax Matchups structured DOM fallback,2026-08-25T16:43:13+00:00,FINAL
+2627,1,01-03,wmuck1,tpem,61fz0pmkmrp1z5vo,w2mnqywumrp1z5vp,68.0,101.5,completed,tpem,33.5,Fantrax Matchups structured DOM fallback,2026-08-25T16:43:13+00:00,FINAL
+2627,1,01-04,KindComet,The Facerockers,rx9bjhp3mrp1z5vo,aup99ojzmrp1z5vp,123.5,84.0,completed,KindComet,39.5,Fantrax Matchups structured DOM fallback,2026-08-25T16:43:13+00:00,FINAL
+2627,1,01-05,Robertske,Count Doku,cjn4stydmrp1z5vp,hpsurdtbmrp1z5vo,83.0,100.5,completed,Count Doku,17.5,Fantrax Matchups structured DOM fallback,2026-08-25T16:43:13+00:00,FINAL
+2627,1,01-06,yudesh,nhauptma,acjx0vg4mrp1z5vo,2dxfjlk0mrp1z5vo,88.5,90.5,completed,nhauptma,2.0,Fantrax Matchups structured DOM fallback,2026-08-25T16:43:13+00:00,FINAL
+2627,2,02-01,Up the Arse-nal,epatel3,ayk8m85amrp1z5vo,qwkltl98mrp1z5vp,107.0,119.5,completed,epatel3,12.5,Fantrax Matchups structured DOM fallback,2026-09-02T23:53:32+00:00,FINAL
+2627,2,02-02,tpem,Berkshire’s Club,w2mnqywumrp1z5vp,h2e8dn5dmrp1z5vp,167.5,110.5,completed,tpem,57.0,Fantrax Matchups structured DOM fallback,2026-09-02T23:53:32+00:00,FINAL
+2627,2,02-03,The Facerockers,Pot Splashers,aup99ojzmrp1z5vp,h1vdt8ynmrp1z5vp,145.0,125.0,completed,The Facerockers,20.0,Fantrax Matchups structured DOM fallback,2026-09-02T23:53:32+00:00,FINAL
+2627,2,02-04,GVand35,wmuck1 🤡,hpsurdtbmrp1z5vo,61fz0pmkmrp1z5vo,102.5,93.0,completed,GVand35,9.5,Fantrax Matchups structured DOM fallback,2026-09-02T23:53:32+00:00,FINAL
+2627,2,02-05,nhauptma,KindComet 🤡,2dxfjlk0mrp1z5vo,rx9bjhp3mrp1z5vo,86.0,71.0,completed,nhauptma,15.0,Fantrax Matchups structured DOM fallback,2026-09-02T23:53:32+00:00,FINAL
+2627,2,02-06,yudesh,Robertske,acjx0vg4mrp1z5vo,cjn4stydmrp1z5vp,99.0,125.5,completed,Robertske,26.5,Fantrax Matchups structured DOM fallback,2026-09-02T23:53:32+00:00,FINAL

@@ -1,0 +1,2005 @@
+canonical_player_id,club_id,manager_id,manager_name,formation,actual_tactical_role,role_starts,role_share,role_rank,player_name
+FTX-02LK5,brentford,mgr:5f487ee40c90,Keith Andrews,433,CM,1,0.045454545454545456,3,Jordan Henderson
+FTX-02LK5,brentford,mgr:5f487ee40c90,Keith Andrews,532,CM,4,0.18181818181818182,2,Jordan Henderson
+FTX-02LK5,brentford,mgr:5f487ee40c90,Keith Andrews,4141,DM,1,0.045454545454545456,3,Jordan Henderson
+FTX-02LK5,brentford,mgr:5f487ee40c90,Keith Andrews,4231,DM,16,0.7272727272727273,1,Jordan Henderson
+FTX-02LM7,everton,mgr:84316c036a2d,David Moyes,4231,LW,17,1.0,1,Jack Grealish
+FTX-02LNX,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,433,ST,4,0.15384615384615385,2,Danny Welbeck
+FTX-02LNX,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,4231,ST,22,0.8461538461538461,1,Danny Welbeck
+FTX-02LP5,bournemouth,mgr:b4b8eecb310f,Andoni Iraola,4141,RB,2,0.14285714285714285,2,Adam Smith
+FTX-02LP5,bournemouth,mgr:b4b8eecb310f,Andoni Iraola,4231,RB,12,0.8571428571428571,1,Adam Smith
+FTX-02LP9,burnley,mgr:7670d95f755e,Michael Jackson,541,RB,1,0.25,2,Kyle Walker
+FTX-02LP9,burnley,mgr:7670d95f755e,Michael Jackson,4231,RB,3,0.75,1,Kyle Walker
+FTX-02LP9,burnley,mgr:c49e040048ca,Scott Parker,343,RWB,2,0.06451612903225806,4,Kyle Walker
+FTX-02LP9,burnley,mgr:c49e040048ca,Scott Parker,433,RB,2,0.06451612903225806,4,Kyle Walker
+FTX-02LP9,burnley,mgr:c49e040048ca,Scott Parker,442,RB,1,0.03225806451612903,5,Kyle Walker
+FTX-02LP9,burnley,mgr:c49e040048ca,Scott Parker,442,RM,1,0.03225806451612903,5,Kyle Walker
+FTX-02LP9,burnley,mgr:c49e040048ca,Scott Parker,451,RB,1,0.03225806451612903,5,Kyle Walker
+FTX-02LP9,burnley,mgr:c49e040048ca,Scott Parker,541,CB,1,0.03225806451612903,5,Kyle Walker
+FTX-02LP9,burnley,mgr:c49e040048ca,Scott Parker,541,RB,7,0.22580645161290322,2,Kyle Walker
+FTX-02LP9,burnley,mgr:c49e040048ca,Scott Parker,3421,CB,1,0.03225806451612903,5,Kyle Walker
+FTX-02LP9,burnley,mgr:c49e040048ca,Scott Parker,3421,RWB,6,0.1935483870967742,3,Kyle Walker
+FTX-02LP9,burnley,mgr:c49e040048ca,Scott Parker,4231,RB,9,0.2903225806451613,1,Kyle Walker
+FTX-02LPF,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4231,CAM,5,0.7142857142857143,1,Ross Barkley
+FTX-02LPF,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4231,DM,2,0.2857142857142857,2,Ross Barkley
+FTX-02LPL,everton,mgr:84316c036a2d,David Moyes,4231,RB,1,1.0,1,Séamus Coleman
+FTX-02LSA,newcastle_united,mgr:65451ab24622,Eddie Howe,352,CB,1,0.04,4,Dan Burn
+FTX-02LSA,newcastle_united,mgr:65451ab24622,Eddie Howe,433,CB,10,0.4,1,Dan Burn
+FTX-02LSA,newcastle_united,mgr:65451ab24622,Eddie Howe,433,LB,8,0.32,2,Dan Burn
+FTX-02LSA,newcastle_united,mgr:65451ab24622,Eddie Howe,532,CB,1,0.04,4,Dan Burn
+FTX-02LSA,newcastle_united,mgr:65451ab24622,Eddie Howe,3421,CB,1,0.04,4,Dan Burn
+FTX-02LSA,newcastle_united,mgr:65451ab24622,Eddie Howe,4141,LB,1,0.04,4,Dan Burn
+FTX-02LSA,newcastle_united,mgr:65451ab24622,Eddie Howe,4231,CB,1,0.04,4,Dan Burn
+FTX-02LSA,newcastle_united,mgr:65451ab24622,Eddie Howe,4231,LB,2,0.08,3,Dan Burn
+FTX-02LV9,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,433,CM,1,0.14285714285714285,2,James Milner
+FTX-02LV9,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,4231,DM,6,0.8571428571428571,1,James Milner
+FTX-02LZ0,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,442,GK,3,0.09375,2,Emiliano Martínez
+FTX-02LZ0,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4222,GK,1,0.03125,3,Emiliano Martínez
+FTX-02LZ0,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4231,GK,28,0.875,1,Emiliano Martínez
+FTX-02M11,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,352,CB,2,0.2857142857142857,1,Matt Doherty
+FTX-02M11,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,352,RWB,1,0.14285714285714285,2,Matt Doherty
+FTX-02M11,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,3421,CB,1,0.14285714285714285,2,Matt Doherty
+FTX-02M11,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,3421,RWB,1,0.14285714285714285,2,Matt Doherty
+FTX-02M11,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,3511,CB,1,0.14285714285714285,2,Matt Doherty
+FTX-02M11,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,4231,RB,1,0.14285714285714285,2,Matt Doherty
+FTX-02M11,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,343,CB,2,0.5,1,Matt Doherty
+FTX-02M11,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,433,RB,2,0.5,1,Matt Doherty
+FTX-02M5B,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,442,ST,3,0.75,1,Chris Wood
+FTX-02M5B,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,4231,ST,1,0.25,2,Chris Wood
+FTX-02M5B,nottingham_forest,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4231,ST,3,1.0,1,Chris Wood
+FTX-02M5B,nottingham_forest,mgr:baf747465a0d,Ange Postecoglou,343,ST,1,0.25,2,Chris Wood
+FTX-02M5B,nottingham_forest,mgr:baf747465a0d,Ange Postecoglou,4231,ST,3,0.75,1,Chris Wood
+FTX-02OO1,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,4231,LB,2,1.0,1,Ben Davies
+FTX-02OQ6,manchester_united,mgr:3aa905054daf,Michael Carrick,4231,LB,17,1.0,1,Luke Shaw
+FTX-02OQ6,manchester_united,mgr:662d1720cf8b,Ruben Filipe Marques Diogo Amorim,3421,CB,17,0.85,1,Luke Shaw
+FTX-02OQ6,manchester_united,mgr:662d1720cf8b,Ruben Filipe Marques Diogo Amorim,3421,LWB,1,0.05,3,Luke Shaw
+FTX-02OQ6,manchester_united,mgr:662d1720cf8b,Ruben Filipe Marques Diogo Amorim,4231,LB,2,0.1,2,Luke Shaw
+FTX-02OQ6,manchester_united,mgr:98dfad21cc80,Darren Fletcher,4231,LB,1,1.0,1,Luke Shaw
+FTX-02OQ8,burnley,mgr:7670d95f755e,Michael Jackson,541,CM,1,1.0,1,James Ward-Prowse
+FTX-02OQ8,burnley,mgr:c49e040048ca,Scott Parker,541,CM,1,0.16666666666666666,2,James Ward-Prowse
+FTX-02OQ8,burnley,mgr:c49e040048ca,Scott Parker,3421,CM,1,0.16666666666666666,2,James Ward-Prowse
+FTX-02OQ8,burnley,mgr:c49e040048ca,Scott Parker,4231,DM,4,0.6666666666666666,1,James Ward-Prowse
+FTX-02OQ8,west_ham,mgr:182deb7ae6a3,Graham Potter,433,CM,1,0.2,2,James Ward-Prowse
+FTX-02OQ8,west_ham,mgr:182deb7ae6a3,Graham Potter,3412,CM,2,0.4,1,James Ward-Prowse
+FTX-02OQ8,west_ham,mgr:182deb7ae6a3,Graham Potter,4231,DM,2,0.4,1,James Ward-Prowse
+FTX-02T1K,crystal_palace,mgr:1058459b93f2,Oliver Glasner,3421,CB,1,0.14285714285714285,2,Nathaniel Clyne
+FTX-02T1K,crystal_palace,mgr:1058459b93f2,Oliver Glasner,3421,RWB,6,0.8571428571428571,1,Nathaniel Clyne
+FTX-02XTD,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,343,GK,2,0.4,1,Sam Johnstone
+FTX-02XTD,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,352,GK,1,0.2,2,Sam Johnstone
+FTX-02XTD,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,532,GK,1,0.2,2,Sam Johnstone
+FTX-02XTD,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,3421,GK,1,0.2,2,Sam Johnstone
+FTX-02XTD,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,352,GK,1,0.16666666666666666,2,Sam Johnstone
+FTX-02XTD,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,433,GK,4,0.6666666666666666,1,Sam Johnstone
+FTX-02XTD,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,532,GK,1,0.16666666666666666,2,Sam Johnstone
+FTX-02XTD,wolverhampton_wanderers,mgr:b72337fa641c,James Collins,532,GK,1,1.0,1,Sam Johnstone
+FTX-02Y6O,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4141,CB,1,0.16666666666666666,2,Nathan Aké
+FTX-02Y6O,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4141,LB,2,0.3333333333333333,1,Nathan Aké
+FTX-02Y6O,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4222,LB,1,0.16666666666666666,2,Nathan Aké
+FTX-02Y6O,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4231,CB,1,0.16666666666666666,2,Nathan Aké
+FTX-02Y6O,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4321,CB,1,0.16666666666666666,2,Nathan Aké
+FTX-02YL5,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,433,CB,2,0.4,1,John Stones
+FTX-02YL5,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4141,CB,2,0.4,1,John Stones
+FTX-02YL5,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4222,CB,1,0.2,2,John Stones
+FTX-0327R,everton,mgr:84316c036a2d,David Moyes,433,CB,1,0.034482758620689655,2,Michael Keane
+FTX-0327R,everton,mgr:84316c036a2d,David Moyes,4231,CB,28,0.9655172413793104,1,Michael Keane
+FTX-0328Q,fulham,mgr:d242da40969a,Marco Alexandre Saraiva da Silva,3421,CM,2,0.3333333333333333,2,Tom Cairney
+FTX-0328Q,fulham,mgr:d242da40969a,Marco Alexandre Saraiva da Silva,4231,DM,4,0.6666666666666666,1,Tom Cairney
+FTX-032F9,everton,mgr:84316c036a2d,David Moyes,433,GK,1,0.02631578947368421,2,Jordan Pickford
+FTX-032F9,everton,mgr:84316c036a2d,David Moyes,4231,GK,37,0.9736842105263158,1,Jordan Pickford
+FTX-035N1,sunderland,mgr:1a031e232e88,Régis Le Bris,541,RM,4,0.5,1,Bertrand Traoré
+FTX-035N1,sunderland,mgr:1a031e232e88,Régis Le Bris,4231,RW,4,0.5,1,Bertrand Traoré
+FTX-037MT,fulham,mgr:d242da40969a,Marco Alexandre Saraiva da Silva,4231,DM,1,1.0,1,Harrison Reed
+FTX-038ZE,fulham,mgr:d242da40969a,Marco Alexandre Saraiva da Silva,3421,CAM,1,0.034482758620689655,3,Alex Iwobi
+FTX-038ZE,fulham,mgr:d242da40969a,Marco Alexandre Saraiva da Silva,4231,CAM,1,0.034482758620689655,3,Alex Iwobi
+FTX-038ZE,fulham,mgr:d242da40969a,Marco Alexandre Saraiva da Silva,4231,DM,15,0.5172413793103449,1,Alex Iwobi
+FTX-038ZE,fulham,mgr:d242da40969a,Marco Alexandre Saraiva da Silva,4231,LW,12,0.41379310344827586,2,Alex Iwobi
+FTX-03AM7,newcastle_united,mgr:65451ab24622,Eddie Howe,352,RWB,1,0.125,2,Jacob Murphy
+FTX-03AM7,newcastle_united,mgr:65451ab24622,Eddie Howe,451,RM,1,0.125,2,Jacob Murphy
+FTX-03AM7,newcastle_united,mgr:65451ab24622,Eddie Howe,532,ST,1,0.125,2,Jacob Murphy
+FTX-03AM7,newcastle_united,mgr:65451ab24622,Eddie Howe,3421,CAM,1,0.125,2,Jacob Murphy
+FTX-03AM7,newcastle_united,mgr:65451ab24622,Eddie Howe,4141,RM,1,0.125,2,Jacob Murphy
+FTX-03AM7,newcastle_united,mgr:65451ab24622,Eddie Howe,4231,RW,3,0.375,1,Jacob Murphy
+FTX-03AQP,liverpool,mgr:328a5fafed26,Arne Slot,4222,ST,1,0.045454545454545456,2,Mohamed Salah
+FTX-03AQP,liverpool,mgr:328a5fafed26,Arne Slot,4231,RW,21,0.9545454545454546,1,Mohamed Salah
+FTX-03AR4,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,3412,ST,1,0.07142857142857142,4,Adam Armstrong
+FTX-03AR4,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,3421,CAM,3,0.21428571428571427,2,Adam Armstrong
+FTX-03AR4,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,3421,ST,6,0.42857142857142855,1,Adam Armstrong
+FTX-03AR4,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,3511,ST,2,0.14285714285714285,3,Adam Armstrong
+FTX-03AR4,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,4231,LW,1,0.07142857142857142,4,Adam Armstrong
+FTX-03AR4,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,4231,ST,1,0.07142857142857142,4,Adam Armstrong
+FTX-03DX3,newcastle_united,mgr:65451ab24622,Eddie Howe,433,RB,15,0.8333333333333334,1,Kieran Trippier
+FTX-03DX3,newcastle_united,mgr:65451ab24622,Eddie Howe,532,RB,1,0.05555555555555555,3,Kieran Trippier
+FTX-03DX3,newcastle_united,mgr:65451ab24622,Eddie Howe,4231,RB,2,0.1111111111111111,2,Kieran Trippier
+FTX-03DYX,burnley,mgr:7670d95f755e,Michael Jackson,541,CM,1,1.0,1,Josh Laurent
+FTX-03DYX,burnley,mgr:c49e040048ca,Scott Parker,343,CB,2,0.11764705882352941,2,Josh Laurent
+FTX-03DYX,burnley,mgr:c49e040048ca,Scott Parker,442,RB,1,0.058823529411764705,3,Josh Laurent
+FTX-03DYX,burnley,mgr:c49e040048ca,Scott Parker,541,CB,6,0.35294117647058826,1,Josh Laurent
+FTX-03DYX,burnley,mgr:c49e040048ca,Scott Parker,541,CM,2,0.11764705882352941,2,Josh Laurent
+FTX-03DYX,burnley,mgr:c49e040048ca,Scott Parker,3421,CB,2,0.11764705882352941,2,Josh Laurent
+FTX-03DYX,burnley,mgr:c49e040048ca,Scott Parker,3421,RWB,2,0.11764705882352941,2,Josh Laurent
+FTX-03DYX,burnley,mgr:c49e040048ca,Scott Parker,4231,DM,2,0.11764705882352941,2,Josh Laurent
+FTX-03FGO,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,433,ST,2,0.5,1,Dominic Solanke
+FTX-03FGO,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,3421,ST,2,0.5,1,Dominic Solanke
+FTX-03FGO,tottenham_hotspur,mgr:b283d24885e5,Roberto De Zerbi,433,ST,1,0.3333333333333333,2,Dominic Solanke
+FTX-03FGO,tottenham_hotspur,mgr:b283d24885e5,Roberto De Zerbi,4231,ST,2,0.6666666666666666,1,Dominic Solanke
+FTX-03FGO,tottenham_hotspur,mgr:e99dd67f9cac,Igor Tudor,442,ST,3,0.75,1,Dominic Solanke
+FTX-03FGO,tottenham_hotspur,mgr:e99dd67f9cac,Igor Tudor,3421,ST,1,0.25,2,Dominic Solanke
+FTX-03FRX,nottingham_forest,mgr:224591e666ec,Sean Dyche,451,RB,1,0.14285714285714285,2,Ola Aina
+FTX-03FRX,nottingham_forest,mgr:224591e666ec,Sean Dyche,4231,LB,1,0.14285714285714285,2,Ola Aina
+FTX-03FRX,nottingham_forest,mgr:224591e666ec,Sean Dyche,4231,RB,5,0.7142857142857143,1,Ola Aina
+FTX-03FRX,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,442,RB,1,0.125,2,Ola Aina
+FTX-03FRX,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,532,RB,1,0.125,2,Ola Aina
+FTX-03FRX,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,4231,RB,6,0.75,1,Ola Aina
+FTX-03FRX,nottingham_forest,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4231,RB,3,1.0,1,Ola Aina
+FTX-03GU4,manchester_united,mgr:3aa905054daf,Michael Carrick,4231,CB,15,1.0,1,Harry Maguire
+FTX-03GU4,manchester_united,mgr:662d1720cf8b,Ruben Filipe Marques Diogo Amorim,3421,CB,4,1.0,1,Harry Maguire
+FTX-03GU5,liverpool,mgr:328a5fafed26,Arne Slot,4222,LB,1,0.09090909090909091,2,Andy Robertson
+FTX-03GU5,liverpool,mgr:328a5fafed26,Arne Slot,4231,LB,10,0.9090909090909091,1,Andy Robertson
+FTX-03HFF,burnley,mgr:c49e040048ca,Scott Parker,343,CM,1,0.05555555555555555,4,Josh Cullen
+FTX-03HFF,burnley,mgr:c49e040048ca,Scott Parker,433,CM,3,0.16666666666666666,2,Josh Cullen
+FTX-03HFF,burnley,mgr:c49e040048ca,Scott Parker,442,CM,2,0.1111111111111111,3,Josh Cullen
+FTX-03HFF,burnley,mgr:c49e040048ca,Scott Parker,541,CM,6,0.3333333333333333,1,Josh Cullen
+FTX-03HFF,burnley,mgr:c49e040048ca,Scott Parker,4231,DM,6,0.3333333333333333,1,Josh Cullen
+FTX-03M5I,liverpool,mgr:328a5fafed26,Arne Slot,4222,GK,1,0.5,1,Freddie Woodman
+FTX-03M5I,liverpool,mgr:328a5fafed26,Arne Slot,4231,GK,1,0.5,1,Freddie Woodman
+FTX-03PIF,leeds_united,mgr:fa5d385e34dc,Daniel Farke,352,GK,5,0.22727272727272727,2,Karl Darlow
+FTX-03PIF,leeds_united,mgr:fa5d385e34dc,Daniel Farke,433,GK,5,0.22727272727272727,2,Karl Darlow
+FTX-03PIF,leeds_united,mgr:fa5d385e34dc,Daniel Farke,451,GK,1,0.045454545454545456,5,Karl Darlow
+FTX-03PIF,leeds_united,mgr:fa5d385e34dc,Daniel Farke,541,GK,3,0.13636363636363635,3,Karl Darlow
+FTX-03PIF,leeds_united,mgr:fa5d385e34dc,Daniel Farke,3412,GK,2,0.09090909090909091,4,Karl Darlow
+FTX-03PIF,leeds_united,mgr:fa5d385e34dc,Daniel Farke,3421,GK,6,0.2727272727272727,1,Karl Darlow
+FTX-03R8X,west_ham,mgr:182deb7ae6a3,Graham Potter,433,ST,1,1.0,1,Callum Wilson
+FTX-03R8X,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,343,ST,1,0.1,3,Callum Wilson
+FTX-03R8X,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,433,ST,2,0.2,2,Callum Wilson
+FTX-03R8X,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,442,ST,1,0.1,3,Callum Wilson
+FTX-03R8X,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,3421,ST,1,0.1,3,Callum Wilson
+FTX-03R8X,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4231,ST,4,0.4,1,Callum Wilson
+FTX-03R8X,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4411,CAM,1,0.1,3,Callum Wilson
+FTX-03R93,liverpool,mgr:328a5fafed26,Arne Slot,4222,CB,1,0.14285714285714285,2,Joe Gomez
+FTX-03R93,liverpool,mgr:328a5fafed26,Arne Slot,4231,CB,1,0.14285714285714285,2,Joe Gomez
+FTX-03R93,liverpool,mgr:328a5fafed26,Arne Slot,4231,RB,5,0.7142857142857143,1,Joe Gomez
+FTX-03REC,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4231,CB,15,1.0,1,Tyrone Mings
+FTX-03RXA,everton,mgr:84316c036a2d,David Moyes,4231,DM,25,1.0,1,Idrissa Gueye
+FTX-03RXS,fulham,mgr:d242da40969a,Marco Alexandre Saraiva da Silva,3421,CAM,3,0.09375,2,Harry Wilson
+FTX-03RXS,fulham,mgr:d242da40969a,Marco Alexandre Saraiva da Silva,4231,CAM,1,0.03125,3,Harry Wilson
+FTX-03RXS,fulham,mgr:d242da40969a,Marco Alexandre Saraiva da Silva,4231,RW,28,0.875,1,Harry Wilson
+FTX-03RZP,fulham,mgr:d242da40969a,Marco Alexandre Saraiva da Silva,3421,LWB,2,0.11764705882352941,2,Antonee Robinson
+FTX-03RZP,fulham,mgr:d242da40969a,Marco Alexandre Saraiva da Silva,4231,LB,15,0.8823529411764706,1,Antonee Robinson
+FTX-03U2B,fulham,mgr:d242da40969a,Marco Alexandre Saraiva da Silva,4231,RW,1,1.0,1,Adama Traoré
+FTX-03VLJ,liverpool,mgr:328a5fafed26,Arne Slot,433,CB,1,0.02631578947368421,3,Virgil van Dijk
+FTX-03VLJ,liverpool,mgr:328a5fafed26,Arne Slot,4222,CB,2,0.05263157894736842,2,Virgil van Dijk
+FTX-03VLJ,liverpool,mgr:328a5fafed26,Arne Slot,4231,CB,34,0.8947368421052632,1,Virgil van Dijk
+FTX-03VLJ,liverpool,mgr:328a5fafed26,Arne Slot,41212,CB,1,0.02631578947368421,3,Virgil van Dijk
+FTX-03XRS,burnley,mgr:7670d95f755e,Michael Jackson,4231,CB,3,1.0,1,Axel Tuanzebe
+FTX-03XRS,burnley,mgr:c49e040048ca,Scott Parker,433,CB,1,0.09090909090909091,4,Axel Tuanzebe
+FTX-03XRS,burnley,mgr:c49e040048ca,Scott Parker,433,RB,1,0.09090909090909091,4,Axel Tuanzebe
+FTX-03XRS,burnley,mgr:c49e040048ca,Scott Parker,541,CB,2,0.18181818181818182,3,Axel Tuanzebe
+FTX-03XRS,burnley,mgr:c49e040048ca,Scott Parker,3421,CB,3,0.2727272727272727,2,Axel Tuanzebe
+FTX-03XRS,burnley,mgr:c49e040048ca,Scott Parker,4231,CB,4,0.36363636363636365,1,Axel Tuanzebe
+FTX-03YEG,chelsea,mgr:3b963ae58719,Calum McFarlane,4231,CB,2,1.0,1,Tosin Adarabioyo
+FTX-03YEG,chelsea,mgr:4fed4e69ba04,Liam Rosenior,4231,CB,1,1.0,1,Tosin Adarabioyo
+FTX-03YEG,chelsea,mgr:dc01d928d84f,Enzo Maresca,4231,CB,5,1.0,1,Tosin Adarabioyo
+FTX-03YQZ,leeds_united,mgr:fa5d385e34dc,Daniel Farke,352,CB,10,0.30303030303030304,2,Joe Rodon
+FTX-03YQZ,leeds_united,mgr:fa5d385e34dc,Daniel Farke,433,CB,12,0.36363636363636365,1,Joe Rodon
+FTX-03YQZ,leeds_united,mgr:fa5d385e34dc,Daniel Farke,451,CB,1,0.030303030303030304,5,Joe Rodon
+FTX-03YQZ,leeds_united,mgr:fa5d385e34dc,Daniel Farke,541,CB,3,0.09090909090909091,3,Joe Rodon
+FTX-03YQZ,leeds_united,mgr:fa5d385e34dc,Daniel Farke,3142,CB,1,0.030303030303030304,5,Joe Rodon
+FTX-03YQZ,leeds_united,mgr:fa5d385e34dc,Daniel Farke,3412,CB,2,0.06060606060606061,4,Joe Rodon
+FTX-03YQZ,leeds_united,mgr:fa5d385e34dc,Daniel Farke,3421,CB,3,0.09090909090909091,3,Joe Rodon
+FTX-03YQZ,leeds_united,mgr:fa5d385e34dc,Daniel Farke,4141,CB,1,0.030303030303030304,5,Joe Rodon
+FTX-03YR0,leeds_united,mgr:fa5d385e34dc,Daniel Farke,352,RWB,2,1.0,1,Daniel James
+FTX-03YWW,crystal_palace,mgr:1058459b93f2,Oliver Glasner,343,GK,4,0.10810810810810811,2,Dean Henderson
+FTX-03YWW,crystal_palace,mgr:1058459b93f2,Oliver Glasner,541,GK,1,0.02702702702702703,3,Dean Henderson
+FTX-03YWW,crystal_palace,mgr:1058459b93f2,Oliver Glasner,3421,GK,32,0.8648648648648649,1,Dean Henderson
+FTX-03ZSQ,west_ham,mgr:182deb7ae6a3,Graham Potter,433,RB,1,0.3333333333333333,2,Kyle Walker-Peters
+FTX-03ZSQ,west_ham,mgr:182deb7ae6a3,Graham Potter,4231,RB,2,0.6666666666666666,1,Kyle Walker-Peters
+FTX-03ZSQ,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4141,RB,1,0.08333333333333333,2,Kyle Walker-Peters
+FTX-03ZSQ,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4231,LB,1,0.08333333333333333,2,Kyle Walker-Peters
+FTX-03ZSQ,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4231,RB,4,0.3333333333333333,1,Kyle Walker-Peters
+FTX-03ZSQ,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4312,RB,1,0.08333333333333333,2,Kyle Walker-Peters
+FTX-03ZSQ,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4321,RB,1,0.08333333333333333,2,Kyle Walker-Peters
+FTX-03ZSQ,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4411,RB,4,0.3333333333333333,1,Kyle Walker-Peters
+FTX-0410J,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4231,ST,2,1.0,1,Tammy Abraham
+FTX-0427D,everton,mgr:84316c036a2d,David Moyes,433,CB,1,0.02702702702702703,2,James Tarkowski
+FTX-0427D,everton,mgr:84316c036a2d,David Moyes,4231,CB,36,0.972972972972973,1,James Tarkowski
+FTX-0435M,sunderland,mgr:1a031e232e88,Régis Le Bris,343,CM,1,0.03125,5,Granit Xhaka
+FTX-0435M,sunderland,mgr:1a031e232e88,Régis Le Bris,433,CM,5,0.15625,2,Granit Xhaka
+FTX-0435M,sunderland,mgr:1a031e232e88,Régis Le Bris,442,CM,2,0.0625,4,Granit Xhaka
+FTX-0435M,sunderland,mgr:1a031e232e88,Régis Le Bris,541,CM,4,0.125,3,Granit Xhaka
+FTX-0435M,sunderland,mgr:1a031e232e88,Régis Le Bris,4141,DM,2,0.0625,4,Granit Xhaka
+FTX-0435M,sunderland,mgr:1a031e232e88,Régis Le Bris,4231,DM,18,0.5625,1,Granit Xhaka
+FTX-043C1,nottingham_forest,mgr:224591e666ec,Sean Dyche,4231,LB,1,1.0,1,Oleksandr Zinchenko
+FTX-043C1,nottingham_forest,mgr:baf747465a0d,Ange Postecoglou,532,LB,1,0.3333333333333333,2,Oleksandr Zinchenko
+FTX-043C1,nottingham_forest,mgr:baf747465a0d,Ange Postecoglou,4231,LB,2,0.6666666666666666,1,Oleksandr Zinchenko
+FTX-043QY,bournemouth,mgr:b4b8eecb310f,Andoni Iraola,4231,DM,7,0.875,1,Lewis Cook
+FTX-043QY,bournemouth,mgr:b4b8eecb310f,Andoni Iraola,4231,RB,1,0.125,2,Lewis Cook
+FTX-044EI,newcastle_united,mgr:65451ab24622,Eddie Howe,352,GK,1,0.037037037037037035,3,Nick Pope
+FTX-044EI,newcastle_united,mgr:65451ab24622,Eddie Howe,433,GK,19,0.7037037037037037,1,Nick Pope
+FTX-044EI,newcastle_united,mgr:65451ab24622,Eddie Howe,451,GK,1,0.037037037037037035,3,Nick Pope
+FTX-044EI,newcastle_united,mgr:65451ab24622,Eddie Howe,532,GK,1,0.037037037037037035,3,Nick Pope
+FTX-044EI,newcastle_united,mgr:65451ab24622,Eddie Howe,3421,GK,1,0.037037037037037035,3,Nick Pope
+FTX-044EI,newcastle_united,mgr:65451ab24622,Eddie Howe,4141,GK,1,0.037037037037037035,3,Nick Pope
+FTX-044EI,newcastle_united,mgr:65451ab24622,Eddie Howe,4231,GK,3,0.1111111111111111,2,Nick Pope
+FTX-044W8,burnley,mgr:c49e040048ca,Scott Parker,451,RM,1,0.1111111111111111,3,Marcus Edwards
+FTX-044W8,burnley,mgr:c49e040048ca,Scott Parker,3421,CAM,6,0.6666666666666666,1,Marcus Edwards
+FTX-044W8,burnley,mgr:c49e040048ca,Scott Parker,4231,RW,2,0.2222222222222222,2,Marcus Edwards
+FTX-045C8,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,433,ST,2,0.6666666666666666,1,Gabriel Jesus
+FTX-045C8,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,4231,ST,1,0.3333333333333333,2,Gabriel Jesus
+FTX-045OB,brentford,mgr:5f487ee40c90,Keith Andrews,433,GK,2,0.05405405405405406,3,Caoimhín Kelleher
+FTX-045OB,brentford,mgr:5f487ee40c90,Keith Andrews,442,GK,1,0.02702702702702703,4,Caoimhín Kelleher
+FTX-045OB,brentford,mgr:5f487ee40c90,Keith Andrews,532,GK,5,0.13513513513513514,2,Caoimhín Kelleher
+FTX-045OB,brentford,mgr:5f487ee40c90,Keith Andrews,4141,GK,1,0.02702702702702703,4,Caoimhín Kelleher
+FTX-045OB,brentford,mgr:5f487ee40c90,Keith Andrews,4231,GK,28,0.7567567567567568,1,Caoimhín Kelleher
+FTX-045YY,sunderland,mgr:1a031e232e88,Régis Le Bris,4231,LB,2,1.0,1,Arthur Masuaku
+FTX-046C5,west_ham,mgr:182deb7ae6a3,Graham Potter,3412,ST,2,0.5,1,Jarrod Bowen
+FTX-046C5,west_ham,mgr:182deb7ae6a3,Graham Potter,4231,RW,2,0.5,1,Jarrod Bowen
+FTX-046C5,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,442,RM,1,0.03571428571428571,5,Jarrod Bowen
+FTX-046C5,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,451,RM,2,0.07142857142857142,4,Jarrod Bowen
+FTX-046C5,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,3412,ST,1,0.03571428571428571,5,Jarrod Bowen
+FTX-046C5,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,3421,CAM,3,0.10714285714285714,3,Jarrod Bowen
+FTX-046C5,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4141,RM,2,0.07142857142857142,4,Jarrod Bowen
+FTX-046C5,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4231,CAM,1,0.03571428571428571,5,Jarrod Bowen
+FTX-046C5,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4231,RW,7,0.25,2,Jarrod Bowen
+FTX-046C5,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4312,ST,2,0.07142857142857142,4,Jarrod Bowen
+FTX-046C5,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4321,ST,1,0.03571428571428571,5,Jarrod Bowen
+FTX-046C5,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4411,RM,8,0.2857142857142857,1,Jarrod Bowen
+FTX-049TQ,leeds_united,mgr:fa5d385e34dc,Daniel Farke,352,ST,11,0.36666666666666664,1,Dominic Calvert-Lewin
+FTX-049TQ,leeds_united,mgr:fa5d385e34dc,Daniel Farke,433,ST,6,0.2,2,Dominic Calvert-Lewin
+FTX-049TQ,leeds_united,mgr:fa5d385e34dc,Daniel Farke,451,ST,1,0.03333333333333333,4,Dominic Calvert-Lewin
+FTX-049TQ,leeds_united,mgr:fa5d385e34dc,Daniel Farke,541,ST,2,0.06666666666666667,3,Dominic Calvert-Lewin
+FTX-049TQ,leeds_united,mgr:fa5d385e34dc,Daniel Farke,3142,ST,1,0.03333333333333333,4,Dominic Calvert-Lewin
+FTX-049TQ,leeds_united,mgr:fa5d385e34dc,Daniel Farke,3412,ST,2,0.06666666666666667,3,Dominic Calvert-Lewin
+FTX-049TQ,leeds_united,mgr:fa5d385e34dc,Daniel Farke,3421,ST,6,0.2,2,Dominic Calvert-Lewin
+FTX-049TQ,leeds_united,mgr:fa5d385e34dc,Daniel Farke,4141,ST,1,0.03333333333333333,4,Dominic Calvert-Lewin
+FTX-04ABB,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,433,CM,1,0.045454545454545456,4,Phil Foden
+FTX-04ABB,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4132,CM,2,0.09090909090909091,3,Phil Foden
+FTX-04ABB,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4141,CM,8,0.36363636363636365,1,Phil Foden
+FTX-04ABB,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4141,RM,1,0.045454545454545456,4,Phil Foden
+FTX-04ABB,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4222,DM,1,0.045454545454545456,4,Phil Foden
+FTX-04ABB,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4222,ST,1,0.045454545454545456,4,Phil Foden
+FTX-04ABB,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4321,CAM,4,0.18181818181818182,2,Phil Foden
+FTX-04ABB,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4321,CM,4,0.18181818181818182,2,Phil Foden
+FTX-04ABN,newcastle_united,mgr:65451ab24622,Eddie Howe,451,LM,1,0.25,2,Harvey Barnes
+FTX-04ABN,newcastle_united,mgr:65451ab24622,Eddie Howe,4231,LW,2,0.5,1,Harvey Barnes
+FTX-04ABN,newcastle_united,mgr:65451ab24622,Eddie Howe,4231,RW,1,0.25,2,Harvey Barnes
+FTX-04ADP,west_ham,mgr:182deb7ae6a3,Graham Potter,3412,RM,2,1.0,1,Aaron Wan-Bissaka
+FTX-04ADP,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,343,CB,1,0.047619047619047616,4,Aaron Wan-Bissaka
+FTX-04ADP,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,343,RWB,1,0.047619047619047616,4,Aaron Wan-Bissaka
+FTX-04ADP,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,433,RB,3,0.14285714285714285,2,Aaron Wan-Bissaka
+FTX-04ADP,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,442,RB,1,0.047619047619047616,4,Aaron Wan-Bissaka
+FTX-04ADP,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,451,RB,2,0.09523809523809523,3,Aaron Wan-Bissaka
+FTX-04ADP,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,3412,RM,1,0.047619047619047616,4,Aaron Wan-Bissaka
+FTX-04ADP,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,3421,RWB,3,0.14285714285714285,2,Aaron Wan-Bissaka
+FTX-04ADP,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4141,RB,1,0.047619047619047616,4,Aaron Wan-Bissaka
+FTX-04ADP,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4231,RB,3,0.14285714285714285,2,Aaron Wan-Bissaka
+FTX-04ADP,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4312,RB,1,0.047619047619047616,4,Aaron Wan-Bissaka
+FTX-04ADP,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4411,RB,4,0.19047619047619047,1,Aaron Wan-Bissaka
+FTX-04AGZ,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,433,CM,21,0.6,1,Declan Rice
+FTX-04AGZ,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,433,RB,1,0.02857142857142857,3,Declan Rice
+FTX-04AGZ,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,4231,DM,13,0.37142857142857144,2,Declan Rice
+FTX-04AMH,newcastle_united,mgr:65451ab24622,Eddie Howe,433,GK,9,0.8181818181818182,1,Aaron Ramsdale
+FTX-04AMH,newcastle_united,mgr:65451ab24622,Eddie Howe,4231,GK,2,0.18181818181818182,2,Aaron Ramsdale
+FTX-04D9R,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,3412,CM,1,0.14285714285714285,2,Angel Gomes
+FTX-04D9R,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,3421,CAM,1,0.14285714285714285,2,Angel Gomes
+FTX-04D9R,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,3421,CM,2,0.2857142857142857,1,Angel Gomes
+FTX-04D9R,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,3511,CAM,2,0.2857142857142857,1,Angel Gomes
+FTX-04D9R,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,4231,DM,1,0.14285714285714285,2,Angel Gomes
+FTX-04E1C,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,433,CB,4,0.12903225806451613,2,Lewis Dunk
+FTX-04E1C,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,3421,CB,1,0.03225806451612903,3,Lewis Dunk
+FTX-04E1C,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,4231,CB,26,0.8387096774193549,1,Lewis Dunk
+FTX-04E1E,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,433,RB,6,0.6666666666666666,1,Ben White
+FTX-04E1E,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,4231,RB,3,0.3333333333333333,2,Ben White
+FTX-04F6H,nottingham_forest,mgr:224591e666ec,Sean Dyche,4231,GK,11,1.0,1,Matz Sels
+FTX-04F6H,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,442,GK,4,0.36363636363636365,2,Matz Sels
+FTX-04F6H,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,532,GK,1,0.09090909090909091,3,Matz Sels
+FTX-04F6H,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,3421,GK,1,0.09090909090909091,3,Matz Sels
+FTX-04F6H,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,4231,GK,5,0.45454545454545453,1,Matz Sels
+FTX-04F6H,nottingham_forest,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4231,GK,3,1.0,1,Matz Sels
+FTX-04F6H,nottingham_forest,mgr:baf747465a0d,Ange Postecoglou,343,GK,1,0.2,2,Matz Sels
+FTX-04F6H,nottingham_forest,mgr:baf747465a0d,Ange Postecoglou,532,GK,1,0.2,2,Matz Sels
+FTX-04F6H,nottingham_forest,mgr:baf747465a0d,Ange Postecoglou,4231,GK,3,0.6,1,Matz Sels
+FTX-04F6O,crystal_palace,mgr:1058459b93f2,Oliver Glasner,343,CM,2,0.10526315789473684,2,Will Hughes
+FTX-04F6O,crystal_palace,mgr:1058459b93f2,Oliver Glasner,541,CM,1,0.05263157894736842,3,Will Hughes
+FTX-04F6O,crystal_palace,mgr:1058459b93f2,Oliver Glasner,3421,CM,16,0.8421052631578947,1,Will Hughes
+FTX-04FK1,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,433,CM,4,0.2222222222222222,2,Pascal Groß
+FTX-04FK1,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,4231,DM,14,0.7777777777777778,1,Pascal Groß
+FTX-04FK6,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,433,CM,4,0.11764705882352941,4,Bernardo Silva
+FTX-04FK6,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4132,CM,7,0.20588235294117646,2,Bernardo Silva
+FTX-04FK6,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4141,CM,5,0.14705882352941177,3,Bernardo Silva
+FTX-04FK6,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4141,RM,3,0.08823529411764706,5,Bernardo Silva
+FTX-04FK6,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4222,DM,2,0.058823529411764705,6,Bernardo Silva
+FTX-04FK6,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4231,DM,5,0.14705882352941177,3,Bernardo Silva
+FTX-04FK6,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4321,CM,8,0.23529411764705882,1,Bernardo Silva
+FTX-04FK8,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,442,CB,1,0.09090909090909091,3,Victor Lindelöf
+FTX-04FK8,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4231,CB,8,0.7272727272727273,1,Victor Lindelöf
+FTX-04FK8,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4231,DM,2,0.18181818181818182,2,Victor Lindelöf
+FTX-04GE6,newcastle_united,mgr:65451ab24622,Eddie Howe,352,CM,1,0.1111111111111111,2,Joe Willock
+FTX-04GE6,newcastle_united,mgr:65451ab24622,Eddie Howe,433,CM,4,0.4444444444444444,1,Joe Willock
+FTX-04GE6,newcastle_united,mgr:65451ab24622,Eddie Howe,3421,CAM,1,0.1111111111111111,2,Joe Willock
+FTX-04GE6,newcastle_united,mgr:65451ab24622,Eddie Howe,4141,CM,1,0.1111111111111111,2,Joe Willock
+FTX-04GE6,newcastle_united,mgr:65451ab24622,Eddie Howe,4231,CAM,1,0.1111111111111111,2,Joe Willock
+FTX-04GE6,newcastle_united,mgr:65451ab24622,Eddie Howe,4231,DM,1,0.1111111111111111,2,Joe Willock
+FTX-04GE7,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,442,ST,1,0.2,2,Donyell Malen
+FTX-04GE7,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4222,ST,1,0.2,2,Donyell Malen
+FTX-04GE7,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4231,RW,1,0.2,2,Donyell Malen
+FTX-04GE7,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4231,ST,2,0.4,1,Donyell Malen
+FTX-04GE9,crystal_palace,mgr:1058459b93f2,Oliver Glasner,3421,CAM,2,1.0,1,Eddie Nketiah
+FTX-04GW7,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4231,RW,9,1.0,1,Jadon Sancho
+FTX-04HK9,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,433,CM,5,0.5,1,Mikel Merino
+FTX-04HK9,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,433,ST,3,0.3,2,Mikel Merino
+FTX-04HK9,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,4231,ST,2,0.2,3,Mikel Merino
+FTX-04IO4,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,433,ST,5,0.38461538461538464,1,Richarlison
+FTX-04IO4,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,3421,ST,1,0.07692307692307693,2,Richarlison
+FTX-04IO4,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,4222,ST,1,0.07692307692307693,2,Richarlison
+FTX-04IO4,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,4231,LW,1,0.07692307692307693,2,Richarlison
+FTX-04IO4,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,4231,ST,5,0.38461538461538464,1,Richarlison
+FTX-04IO4,tottenham_hotspur,mgr:b283d24885e5,Roberto De Zerbi,4231,LW,1,0.2,2,Richarlison
+FTX-04IO4,tottenham_hotspur,mgr:b283d24885e5,Roberto De Zerbi,4231,ST,4,0.8,1,Richarlison
+FTX-04IO4,tottenham_hotspur,mgr:e99dd67f9cac,Igor Tudor,442,ST,2,1.0,1,Richarlison
+FTX-04LAV,leeds_united,mgr:fa5d385e34dc,Daniel Farke,352,CM,11,0.3142857142857143,1,Ethan Ampadu
+FTX-04LAV,leeds_united,mgr:fa5d385e34dc,Daniel Farke,433,CM,10,0.2857142857142857,2,Ethan Ampadu
+FTX-04LAV,leeds_united,mgr:fa5d385e34dc,Daniel Farke,451,CM,1,0.02857142857142857,6,Ethan Ampadu
+FTX-04LAV,leeds_united,mgr:fa5d385e34dc,Daniel Farke,541,CM,3,0.08571428571428572,4,Ethan Ampadu
+FTX-04LAV,leeds_united,mgr:fa5d385e34dc,Daniel Farke,3142,DM,1,0.02857142857142857,6,Ethan Ampadu
+FTX-04LAV,leeds_united,mgr:fa5d385e34dc,Daniel Farke,3412,CM,2,0.05714285714285714,5,Ethan Ampadu
+FTX-04LAV,leeds_united,mgr:fa5d385e34dc,Daniel Farke,3421,CM,6,0.17142857142857143,3,Ethan Ampadu
+FTX-04LAV,leeds_united,mgr:fa5d385e34dc,Daniel Farke,4141,DM,1,0.02857142857142857,6,Ethan Ampadu
+FTX-04LNU,leeds_united,mgr:fa5d385e34dc,Daniel Farke,352,ST,3,0.3,2,Lukas Nmecha
+FTX-04LNU,leeds_united,mgr:fa5d385e34dc,Daniel Farke,433,ST,4,0.4,1,Lukas Nmecha
+FTX-04LNU,leeds_united,mgr:fa5d385e34dc,Daniel Farke,541,ST,1,0.1,4,Lukas Nmecha
+FTX-04LNU,leeds_united,mgr:fa5d385e34dc,Daniel Farke,3412,ST,2,0.2,3,Lukas Nmecha
+FTX-04MDN,newcastle_united,mgr:65451ab24622,Eddie Howe,433,ST,7,0.7777777777777778,1,Anthony Gordon
+FTX-04MDN,newcastle_united,mgr:65451ab24622,Eddie Howe,4231,ST,2,0.2222222222222222,2,Anthony Gordon
+FTX-04MI4,nottingham_forest,mgr:224591e666ec,Sean Dyche,4231,LW,9,0.75,1,Callum Hudson-Odoi
+FTX-04MI4,nottingham_forest,mgr:224591e666ec,Sean Dyche,4231,RW,3,0.25,2,Callum Hudson-Odoi
+FTX-04MI4,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,4231,LW,4,0.8,1,Callum Hudson-Odoi
+FTX-04MI4,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,4231,RW,1,0.2,2,Callum Hudson-Odoi
+FTX-04MI4,nottingham_forest,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4231,LW,3,1.0,1,Callum Hudson-Odoi
+FTX-04MI4,nottingham_forest,mgr:baf747465a0d,Ange Postecoglou,4231,LW,1,1.0,1,Callum Hudson-Odoi
+FTX-04ML6,west_ham,mgr:182deb7ae6a3,Graham Potter,433,CB,1,0.3333333333333333,2,Konstantinos Mavropanos
+FTX-04ML6,west_ham,mgr:182deb7ae6a3,Graham Potter,4231,CB,2,0.6666666666666666,1,Konstantinos Mavropanos
+FTX-04ML6,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,433,CB,1,0.041666666666666664,5,Konstantinos Mavropanos
+FTX-04ML6,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,451,CB,2,0.08333333333333333,4,Konstantinos Mavropanos
+FTX-04ML6,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,3412,CB,1,0.041666666666666664,5,Konstantinos Mavropanos
+FTX-04ML6,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,3421,CB,3,0.125,3,Konstantinos Mavropanos
+FTX-04ML6,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4141,CB,2,0.08333333333333333,4,Konstantinos Mavropanos
+FTX-04ML6,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4231,CB,6,0.25,2,Konstantinos Mavropanos
+FTX-04ML6,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4312,CB,1,0.041666666666666664,5,Konstantinos Mavropanos
+FTX-04ML6,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4411,CB,8,0.3333333333333333,1,Konstantinos Mavropanos
+FTX-04MR4,burnley,mgr:7670d95f755e,Michael Jackson,541,GK,1,1.0,1,Martin Dúbravka
+FTX-04MR4,burnley,mgr:c49e040048ca,Scott Parker,343,GK,2,0.058823529411764705,4,Martin Dúbravka
+FTX-04MR4,burnley,mgr:c49e040048ca,Scott Parker,433,GK,3,0.08823529411764706,3,Martin Dúbravka
+FTX-04MR4,burnley,mgr:c49e040048ca,Scott Parker,442,GK,2,0.058823529411764705,4,Martin Dúbravka
+FTX-04MR4,burnley,mgr:c49e040048ca,Scott Parker,451,GK,1,0.029411764705882353,5,Martin Dúbravka
+FTX-04MR4,burnley,mgr:c49e040048ca,Scott Parker,541,GK,8,0.23529411764705882,2,Martin Dúbravka
+FTX-04MR4,burnley,mgr:c49e040048ca,Scott Parker,3421,GK,8,0.23529411764705882,2,Martin Dúbravka
+FTX-04MR4,burnley,mgr:c49e040048ca,Scott Parker,4231,GK,10,0.29411764705882354,1,Martin Dúbravka
+FTX-04MUP,chelsea,mgr:3b963ae58719,Calum McFarlane,4231,CB,3,1.0,1,Trevoh Chalobah
+FTX-04MUP,chelsea,mgr:4fed4e69ba04,Liam Rosenior,433,CB,2,0.2,2,Trevoh Chalobah
+FTX-04MUP,chelsea,mgr:4fed4e69ba04,Liam Rosenior,541,CB,1,0.1,3,Trevoh Chalobah
+FTX-04MUP,chelsea,mgr:4fed4e69ba04,Liam Rosenior,4141,CB,1,0.1,3,Trevoh Chalobah
+FTX-04MUP,chelsea,mgr:4fed4e69ba04,Liam Rosenior,4231,CB,6,0.6,1,Trevoh Chalobah
+FTX-04MUP,chelsea,mgr:dc01d928d84f,Enzo Maresca,433,CB,1,0.05555555555555555,2,Trevoh Chalobah
+FTX-04MUP,chelsea,mgr:dc01d928d84f,Enzo Maresca,4231,CB,16,0.8888888888888888,1,Trevoh Chalobah
+FTX-04MUP,chelsea,mgr:dc01d928d84f,Enzo Maresca,4231,RB,1,0.05555555555555555,2,Trevoh Chalobah
+FTX-04O82,liverpool,mgr:328a5fafed26,Arne Slot,433,CM,1,0.05555555555555555,4,Curtis Jones
+FTX-04O82,liverpool,mgr:328a5fafed26,Arne Slot,4222,RB,1,0.05555555555555555,4,Curtis Jones
+FTX-04O82,liverpool,mgr:328a5fafed26,Arne Slot,4231,CAM,2,0.1111111111111111,3,Curtis Jones
+FTX-04O82,liverpool,mgr:328a5fafed26,Arne Slot,4231,DM,8,0.4444444444444444,1,Curtis Jones
+FTX-04O82,liverpool,mgr:328a5fafed26,Arne Slot,4231,LW,1,0.05555555555555555,4,Curtis Jones
+FTX-04O82,liverpool,mgr:328a5fafed26,Arne Slot,4231,RB,4,0.2222222222222222,2,Curtis Jones
+FTX-04O82,liverpool,mgr:328a5fafed26,Arne Slot,4231,RW,1,0.05555555555555555,4,Curtis Jones
+FTX-04P0D,everton,mgr:84316c036a2d,David Moyes,4231,CAM,1,0.07692307692307693,3,Dwight McNeil
+FTX-04P0D,everton,mgr:84316c036a2d,David Moyes,4231,LW,2,0.15384615384615385,2,Dwight McNeil
+FTX-04P0D,everton,mgr:84316c036a2d,David Moyes,4231,RW,10,0.7692307692307693,1,Dwight McNeil
+FTX-04QFM,fulham,mgr:d242da40969a,Marco Alexandre Saraiva da Silva,3421,LWB,1,0.05,2,Ryan Sessegnon
+FTX-04QFM,fulham,mgr:d242da40969a,Marco Alexandre Saraiva da Silva,4231,LB,18,0.9,1,Ryan Sessegnon
+FTX-04QFM,fulham,mgr:d242da40969a,Marco Alexandre Saraiva da Silva,4231,RW,1,0.05,2,Ryan Sessegnon
+FTX-04QFQ,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,4231,CAM,2,1.0,1,Matt O'Riley
+FTX-04QFZ,manchester_united,mgr:3aa905054daf,Michael Carrick,4231,RB,13,1.0,1,Diogo Dalot
+FTX-04QFZ,manchester_united,mgr:662d1720cf8b,Ruben Filipe Marques Diogo Amorim,3421,LWB,9,0.6,1,Diogo Dalot
+FTX-04QFZ,manchester_united,mgr:662d1720cf8b,Ruben Filipe Marques Diogo Amorim,3421,RWB,4,0.26666666666666666,2,Diogo Dalot
+FTX-04QFZ,manchester_united,mgr:662d1720cf8b,Ruben Filipe Marques Diogo Amorim,4231,RB,2,0.13333333333333333,3,Diogo Dalot
+FTX-04QFZ,manchester_united,mgr:98dfad21cc80,Darren Fletcher,4231,RB,1,1.0,1,Diogo Dalot
+FTX-04QOR,fulham,mgr:d242da40969a,Marco Alexandre Saraiva da Silva,3421,GK,3,0.07894736842105263,2,Bernd Leno
+FTX-04QOR,fulham,mgr:d242da40969a,Marco Alexandre Saraiva da Silva,4231,GK,35,0.9210526315789473,1,Bernd Leno
+FTX-04QOS,fulham,mgr:d242da40969a,Marco Alexandre Saraiva da Silva,3421,CB,3,0.375,2,Issa Diop
+FTX-04QOS,fulham,mgr:d242da40969a,Marco Alexandre Saraiva da Silva,4231,CB,5,0.625,1,Issa Diop
+FTX-04QR9,nottingham_forest,mgr:224591e666ec,Sean Dyche,451,CM,1,0.05555555555555555,2,Morgan Gibbs-White
+FTX-04QR9,nottingham_forest,mgr:224591e666ec,Sean Dyche,4231,CAM,17,0.9444444444444444,1,Morgan Gibbs-White
+FTX-04QR9,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,442,LM,3,0.3,2,Morgan Gibbs-White
+FTX-04QR9,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,532,ST,1,0.1,3,Morgan Gibbs-White
+FTX-04QR9,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,4231,CAM,5,0.5,1,Morgan Gibbs-White
+FTX-04QR9,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,4231,LW,1,0.1,3,Morgan Gibbs-White
+FTX-04QR9,nottingham_forest,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4231,CAM,3,1.0,1,Morgan Gibbs-White
+FTX-04QR9,nottingham_forest,mgr:baf747465a0d,Ange Postecoglou,532,ST,1,0.3333333333333333,2,Morgan Gibbs-White
+FTX-04QR9,nottingham_forest,mgr:baf747465a0d,Ange Postecoglou,4231,CAM,2,0.6666666666666666,1,Morgan Gibbs-White
+FTX-04QRC,fulham,mgr:d242da40969a,Marco Alexandre Saraiva da Silva,3421,ST,2,0.07407407407407407,2,Raúl Jiménez
+FTX-04QRC,fulham,mgr:d242da40969a,Marco Alexandre Saraiva da Silva,4231,ST,25,0.9259259259259259,1,Raúl Jiménez
+FTX-04RH9,bournemouth,mgr:b4b8eecb310f,Andoni Iraola,4141,LM,1,0.07692307692307693,3,David Brooks
+FTX-04RH9,bournemouth,mgr:b4b8eecb310f,Andoni Iraola,4141,RM,1,0.07692307692307693,3,David Brooks
+FTX-04RH9,bournemouth,mgr:b4b8eecb310f,Andoni Iraola,4231,LW,4,0.3076923076923077,2,David Brooks
+FTX-04RH9,bournemouth,mgr:b4b8eecb310f,Andoni Iraola,4231,RW,7,0.5384615384615384,1,David Brooks
+FTX-04RZL,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,442,ST,1,0.5,1,Taiwo Awoniyi
+FTX-04RZL,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,3421,ST,1,0.5,1,Taiwo Awoniyi
+FTX-04RZL,nottingham_forest,mgr:baf747465a0d,Ange Postecoglou,532,ST,1,1.0,1,Taiwo Awoniyi
+FTX-04SAT,fulham,mgr:d242da40969a,Marco Alexandre Saraiva da Silva,3421,CAM,2,0.09090909090909091,2,Emile Smith Rowe
+FTX-04SAT,fulham,mgr:d242da40969a,Marco Alexandre Saraiva da Silva,4231,CAM,19,0.8636363636363636,1,Emile Smith Rowe
+FTX-04SAT,fulham,mgr:d242da40969a,Marco Alexandre Saraiva da Silva,4231,LW,1,0.045454545454545456,3,Emile Smith Rowe
+FTX-04SFT,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,433,CM,1,0.3333333333333333,2,Yves Bissouma
+FTX-04SFT,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,3421,CM,2,0.6666666666666666,1,Yves Bissouma
+FTX-04SFT,tottenham_hotspur,mgr:b283d24885e5,Roberto De Zerbi,433,CM,1,0.5,1,Yves Bissouma
+FTX-04SFT,tottenham_hotspur,mgr:b283d24885e5,Roberto De Zerbi,4231,DM,1,0.5,1,Yves Bissouma
+FTX-04SFT,tottenham_hotspur,mgr:e99dd67f9cac,Igor Tudor,352,CM,1,0.5,1,Yves Bissouma
+FTX-04SFT,tottenham_hotspur,mgr:e99dd67f9cac,Igor Tudor,442,CM,1,0.5,1,Yves Bissouma
+FTX-04SJT,liverpool,mgr:328a5fafed26,Arne Slot,433,GK,1,0.038461538461538464,2,Alisson Becker
+FTX-04SJT,liverpool,mgr:328a5fafed26,Arne Slot,4222,GK,1,0.038461538461538464,2,Alisson Becker
+FTX-04SJT,liverpool,mgr:328a5fafed26,Arne Slot,4231,GK,24,0.9230769230769231,1,Alisson Becker
+FTX-04SPP,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4231,DM,7,1.0,1,Douglas Luiz
+FTX-04SPP,nottingham_forest,mgr:224591e666ec,Sean Dyche,4231,DM,3,1.0,1,Douglas Luiz
+FTX-04SPP,nottingham_forest,mgr:baf747465a0d,Ange Postecoglou,532,CM,1,0.5,1,Douglas Luiz
+FTX-04SPP,nottingham_forest,mgr:baf747465a0d,Ange Postecoglou,4231,DM,1,0.5,1,Douglas Luiz
+FTX-04SPW,everton,mgr:84316c036a2d,David Moyes,433,CM,1,0.02631578947368421,4,James Garner
+FTX-04SPW,everton,mgr:84316c036a2d,David Moyes,4231,DM,30,0.7894736842105263,1,James Garner
+FTX-04SPW,everton,mgr:84316c036a2d,David Moyes,4231,LB,3,0.07894736842105263,3,James Garner
+FTX-04SPW,everton,mgr:84316c036a2d,David Moyes,4231,RB,4,0.10526315789473684,2,James Garner
+FTX-04TIG,newcastle_united,mgr:65451ab24622,Eddie Howe,433,CB,9,0.8181818181818182,1,Fabian Schär
+FTX-04TIG,newcastle_united,mgr:65451ab24622,Eddie Howe,451,CB,1,0.09090909090909091,2,Fabian Schär
+FTX-04TIG,newcastle_united,mgr:65451ab24622,Eddie Howe,532,CB,1,0.09090909090909091,2,Fabian Schär
+FTX-04TM0,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,442,LB,2,0.09523809523809523,2,Lucas Digne
+FTX-04TM0,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4222,LB,1,0.047619047619047616,3,Lucas Digne
+FTX-04TM0,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4231,LB,18,0.8571428571428571,1,Lucas Digne
+FTX-04TSB,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,433,ST,16,0.6153846153846154,1,Viktor Gyökeres
+FTX-04TSB,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,4231,ST,10,0.38461538461538464,2,Viktor Gyökeres
+FTX-04TZT,crystal_palace,mgr:1058459b93f2,Oliver Glasner,343,CM,2,0.1111111111111111,3,Jefferson Lerma
+FTX-04TZT,crystal_palace,mgr:1058459b93f2,Oliver Glasner,541,CM,1,0.05555555555555555,4,Jefferson Lerma
+FTX-04TZT,crystal_palace,mgr:1058459b93f2,Oliver Glasner,3421,CB,7,0.3888888888888889,2,Jefferson Lerma
+FTX-04TZT,crystal_palace,mgr:1058459b93f2,Oliver Glasner,3421,CM,8,0.4444444444444444,1,Jefferson Lerma
+FTX-04U40,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,4231,GK,1,1.0,1,Kepa Arrizabalaga
+FTX-04U41,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4141,CM,1,1.0,1,Mateo Kovacic
+FTX-04UG0,leeds_united,mgr:fa5d385e34dc,Daniel Farke,433,CM,9,0.9,1,Sean Longstaff
+FTX-04UG0,leeds_united,mgr:fa5d385e34dc,Daniel Farke,4141,CM,1,0.1,2,Sean Longstaff
+FTX-04Y92,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,4231,CAM,1,0.1,2,Bukayo Saka
+FTX-04Y92,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,4231,RW,9,0.9,1,Bukayo Saka
+FTX-04YEY,west_ham,mgr:182deb7ae6a3,Graham Potter,433,CB,1,0.2,2,Maximilian Kilman
+FTX-04YEY,west_ham,mgr:182deb7ae6a3,Graham Potter,3412,CB,2,0.4,1,Maximilian Kilman
+FTX-04YEY,west_ham,mgr:182deb7ae6a3,Graham Potter,4231,CB,2,0.4,1,Maximilian Kilman
+FTX-04YEY,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,343,CB,2,0.16666666666666666,2,Maximilian Kilman
+FTX-04YEY,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,433,CB,2,0.16666666666666666,2,Maximilian Kilman
+FTX-04YEY,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,3412,CB,1,0.08333333333333333,3,Maximilian Kilman
+FTX-04YEY,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4141,CB,2,0.16666666666666666,2,Maximilian Kilman
+FTX-04YEY,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4231,CB,3,0.25,1,Maximilian Kilman
+FTX-04YEY,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4312,CB,1,0.08333333333333333,3,Maximilian Kilman
+FTX-04YEY,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4321,CB,1,0.08333333333333333,3,Maximilian Kilman
+FTX-04YJX,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,352,RWB,1,0.5,1,Ki-Jana Hoever
+FTX-04YJX,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,3421,RWB,1,0.5,1,Ki-Jana Hoever
+FTX-04YJX,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,343,RWB,2,0.5,1,Ki-Jana Hoever
+FTX-04YJX,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,433,RB,1,0.25,2,Ki-Jana Hoever
+FTX-04YJX,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,532,RB,1,0.25,2,Ki-Jana Hoever
+FTX-04YM7,leeds_united,mgr:fa5d385e34dc,Daniel Farke,352,GK,7,0.4375,1,Lucas Perri
+FTX-04YM7,leeds_united,mgr:fa5d385e34dc,Daniel Farke,433,GK,7,0.4375,1,Lucas Perri
+FTX-04YM7,leeds_united,mgr:fa5d385e34dc,Daniel Farke,3142,GK,1,0.0625,2,Lucas Perri
+FTX-04YM7,leeds_united,mgr:fa5d385e34dc,Daniel Farke,4141,GK,1,0.0625,2,Lucas Perri
+FTX-04YME,chelsea,mgr:3b963ae58719,Calum McFarlane,3412,GK,1,0.25,2,Robert Sánchez
+FTX-04YME,chelsea,mgr:3b963ae58719,Calum McFarlane,4231,GK,3,0.75,1,Robert Sánchez
+FTX-04YME,chelsea,mgr:4fed4e69ba04,Liam Rosenior,433,GK,1,0.08333333333333333,2,Robert Sánchez
+FTX-04YME,chelsea,mgr:4fed4e69ba04,Liam Rosenior,541,GK,1,0.08333333333333333,2,Robert Sánchez
+FTX-04YME,chelsea,mgr:4fed4e69ba04,Liam Rosenior,4141,GK,1,0.08333333333333333,2,Robert Sánchez
+FTX-04YME,chelsea,mgr:4fed4e69ba04,Liam Rosenior,4231,GK,9,0.75,1,Robert Sánchez
+FTX-04YME,chelsea,mgr:dc01d928d84f,Enzo Maresca,433,GK,1,0.05263157894736842,2,Robert Sánchez
+FTX-04YME,chelsea,mgr:dc01d928d84f,Enzo Maresca,4231,GK,18,0.9473684210526315,1,Robert Sánchez
+FTX-04YO7,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,442,CM,2,0.09523809523809523,3,Youri Tielemans
+FTX-04YO7,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4231,CAM,5,0.23809523809523808,2,Youri Tielemans
+FTX-04YO7,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4231,DM,14,0.6666666666666666,1,Youri Tielemans
+FTX-050JQ,crystal_palace,mgr:1058459b93f2,Oliver Glasner,343,CB,2,0.1,2,Marc Guéhi
+FTX-050JQ,crystal_palace,mgr:1058459b93f2,Oliver Glasner,3421,CB,18,0.9,1,Marc Guéhi
+FTX-050JQ,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4132,CB,7,0.4666666666666667,1,Marc Guéhi
+FTX-050JQ,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4141,CB,2,0.13333333333333333,3,Marc Guéhi
+FTX-050JQ,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4222,CB,1,0.06666666666666667,4,Marc Guéhi
+FTX-050JQ,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4231,CB,5,0.3333333333333333,2,Marc Guéhi
+FTX-051K0,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,442,RM,3,0.10714285714285714,3,John McGinn
+FTX-051K0,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4222,CAM,1,0.03571428571428571,5,John McGinn
+FTX-051K0,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4231,CAM,4,0.14285714285714285,2,John McGinn
+FTX-051K0,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4231,DM,3,0.10714285714285714,3,John McGinn
+FTX-051K0,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4231,LW,2,0.07142857142857142,4,John McGinn
+FTX-051K0,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4231,RW,15,0.5357142857142857,1,John McGinn
+FTX-051K3,newcastle_united,mgr:65451ab24622,Eddie Howe,352,CM,1,0.06666666666666667,3,Jacob Ramsey
+FTX-051K3,newcastle_united,mgr:65451ab24622,Eddie Howe,433,CM,9,0.6,1,Jacob Ramsey
+FTX-051K3,newcastle_united,mgr:65451ab24622,Eddie Howe,532,CM,1,0.06666666666666667,3,Jacob Ramsey
+FTX-051K3,newcastle_united,mgr:65451ab24622,Eddie Howe,4141,LM,1,0.06666666666666667,3,Jacob Ramsey
+FTX-051K3,newcastle_united,mgr:65451ab24622,Eddie Howe,4231,DM,2,0.13333333333333333,2,Jacob Ramsey
+FTX-051K3,newcastle_united,mgr:65451ab24622,Eddie Howe,4231,LW,1,0.06666666666666667,3,Jacob Ramsey
+FTX-051K7,chelsea,mgr:3b963ae58719,Calum McFarlane,4231,DM,1,1.0,1,Reece James
+FTX-051K7,chelsea,mgr:4fed4e69ba04,Liam Rosenior,433,CM,1,0.16666666666666666,2,Reece James
+FTX-051K7,chelsea,mgr:4fed4e69ba04,Liam Rosenior,433,RB,1,0.16666666666666666,2,Reece James
+FTX-051K7,chelsea,mgr:4fed4e69ba04,Liam Rosenior,4231,DM,1,0.16666666666666666,2,Reece James
+FTX-051K7,chelsea,mgr:4fed4e69ba04,Liam Rosenior,4231,RB,3,0.5,1,Reece James
+FTX-051K7,chelsea,mgr:dc01d928d84f,Enzo Maresca,433,RB,1,0.07692307692307693,3,Reece James
+FTX-051K7,chelsea,mgr:dc01d928d84f,Enzo Maresca,4231,DM,5,0.38461538461538464,2,Reece James
+FTX-051K7,chelsea,mgr:dc01d928d84f,Enzo Maresca,4231,RB,7,0.5384615384615384,1,Reece James
+FTX-051K8,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,433,CM,2,0.4,1,Conor Gallagher
+FTX-051K8,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,3421,CM,2,0.4,1,Conor Gallagher
+FTX-051K8,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,4231,DM,1,0.2,2,Conor Gallagher
+FTX-051K8,tottenham_hotspur,mgr:b283d24885e5,Roberto De Zerbi,433,CM,1,0.14285714285714285,2,Conor Gallagher
+FTX-051K8,tottenham_hotspur,mgr:b283d24885e5,Roberto De Zerbi,4231,CAM,5,0.7142857142857143,1,Conor Gallagher
+FTX-051K8,tottenham_hotspur,mgr:b283d24885e5,Roberto De Zerbi,4231,DM,1,0.14285714285714285,2,Conor Gallagher
+FTX-051K8,tottenham_hotspur,mgr:e99dd67f9cac,Igor Tudor,352,CM,1,0.5,1,Conor Gallagher
+FTX-051K8,tottenham_hotspur,mgr:e99dd67f9cac,Igor Tudor,442,RM,1,0.5,1,Conor Gallagher
+FTX-051KL,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,442,LM,3,0.14285714285714285,2,Emiliano Buendía
+FTX-051KL,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4231,CAM,1,0.047619047619047616,3,Emiliano Buendía
+FTX-051KL,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4231,LW,17,0.8095238095238095,1,Emiliano Buendía
+FTX-0520R,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,4231,LW,9,1.0,1,Leandro Trossard
+FTX-0521Z,leeds_united,mgr:fa5d385e34dc,Daniel Farke,352,CB,1,0.047619047619047616,4,James Justin
+FTX-0521Z,leeds_united,mgr:fa5d385e34dc,Daniel Farke,352,LWB,4,0.19047619047619047,2,James Justin
+FTX-0521Z,leeds_united,mgr:fa5d385e34dc,Daniel Farke,352,RWB,2,0.09523809523809523,3,James Justin
+FTX-0521Z,leeds_united,mgr:fa5d385e34dc,Daniel Farke,433,LB,1,0.047619047619047616,4,James Justin
+FTX-0521Z,leeds_united,mgr:fa5d385e34dc,Daniel Farke,451,RB,1,0.047619047619047616,4,James Justin
+FTX-0521Z,leeds_united,mgr:fa5d385e34dc,Daniel Farke,541,CB,2,0.09523809523809523,3,James Justin
+FTX-0521Z,leeds_united,mgr:fa5d385e34dc,Daniel Farke,541,RB,1,0.047619047619047616,4,James Justin
+FTX-0521Z,leeds_united,mgr:fa5d385e34dc,Daniel Farke,3142,RM,1,0.047619047619047616,4,James Justin
+FTX-0521Z,leeds_united,mgr:fa5d385e34dc,Daniel Farke,3412,LM,1,0.047619047619047616,4,James Justin
+FTX-0521Z,leeds_united,mgr:fa5d385e34dc,Daniel Farke,3412,RM,1,0.047619047619047616,4,James Justin
+FTX-0521Z,leeds_united,mgr:fa5d385e34dc,Daniel Farke,3421,CB,5,0.23809523809523808,1,James Justin
+FTX-0521Z,leeds_united,mgr:fa5d385e34dc,Daniel Farke,3421,LWB,1,0.047619047619047616,4,James Justin
+FTX-05220,brentford,mgr:5f487ee40c90,Keith Andrews,433,CB,1,0.03333333333333333,3,Sepp van den Berg
+FTX-05220,brentford,mgr:5f487ee40c90,Keith Andrews,532,CB,5,0.16666666666666666,2,Sepp van den Berg
+FTX-05220,brentford,mgr:5f487ee40c90,Keith Andrews,4141,CB,1,0.03333333333333333,3,Sepp van den Berg
+FTX-05220,brentford,mgr:5f487ee40c90,Keith Andrews,4231,CB,23,0.7666666666666667,1,Sepp van den Berg
+FTX-0522H,liverpool,mgr:328a5fafed26,Arne Slot,433,CM,1,0.03225806451612903,4,Alexis Mac Allister
+FTX-0522H,liverpool,mgr:328a5fafed26,Arne Slot,4222,DM,2,0.06451612903225806,3,Alexis Mac Allister
+FTX-0522H,liverpool,mgr:328a5fafed26,Arne Slot,4231,CAM,3,0.0967741935483871,2,Alexis Mac Allister
+FTX-0522H,liverpool,mgr:328a5fafed26,Arne Slot,4231,DM,24,0.7741935483870968,1,Alexis Mac Allister
+FTX-0522H,liverpool,mgr:328a5fafed26,Arne Slot,41212,CAM,1,0.03225806451612903,4,Alexis Mac Allister
+FTX-0524K,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,433,CM,1,0.058823529411764705,3,Rodri
+FTX-0524K,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4132,DM,7,0.4117647058823529,1,Rodri
+FTX-0524K,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4141,DM,7,0.4117647058823529,1,Rodri
+FTX-0524K,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4231,DM,2,0.11764705882352941,2,Rodri
+FTX-052CA,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,442,CB,3,0.08823529411764706,2,Ezri Konsa
+FTX-052CA,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4222,CB,1,0.029411764705882353,3,Ezri Konsa
+FTX-052CA,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4231,CB,30,0.8823529411764706,1,Ezri Konsa
+FTX-052CB,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,442,LB,1,0.058823529411764705,2,Ian Maatsen
+FTX-052CB,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4231,LB,16,0.9411764705882353,1,Ian Maatsen
+FTX-052CD,manchester_united,mgr:3aa905054daf,Michael Carrick,4231,DM,2,1.0,1,Mason Mount
+FTX-052CD,manchester_united,mgr:662d1720cf8b,Ruben Filipe Marques Diogo Amorim,3421,CAM,9,0.9,1,Mason Mount
+FTX-052CD,manchester_united,mgr:662d1720cf8b,Ruben Filipe Marques Diogo Amorim,4231,CAM,1,0.1,2,Mason Mount
+FTX-052H5,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,4231,LW,4,1.0,1,Gabriel Martinelli
+FTX-0554G,fulham,mgr:d242da40969a,Marco Alexandre Saraiva da Silva,3421,CB,1,0.03571428571428571,2,Calvin Bassey
+FTX-0554G,fulham,mgr:d242da40969a,Marco Alexandre Saraiva da Silva,4231,CB,26,0.9285714285714286,1,Calvin Bassey
+FTX-0554G,fulham,mgr:d242da40969a,Marco Alexandre Saraiva da Silva,4231,LB,1,0.03571428571428571,2,Calvin Bassey
+FTX-0554I,newcastle_united,mgr:65451ab24622,Eddie Howe,433,CM,18,0.8181818181818182,1,Joelinton
+FTX-0554I,newcastle_united,mgr:65451ab24622,Eddie Howe,451,CM,1,0.045454545454545456,3,Joelinton
+FTX-0554I,newcastle_united,mgr:65451ab24622,Eddie Howe,4231,DM,1,0.045454545454545456,3,Joelinton
+FTX-0554I,newcastle_united,mgr:65451ab24622,Eddie Howe,4231,LW,2,0.09090909090909091,2,Joelinton
+FTX-0558W,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,433,CB,20,0.6666666666666666,1,William Saliba
+FTX-0558W,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,4231,CB,10,0.3333333333333333,2,William Saliba
+FTX-056IY,chelsea,mgr:3b963ae58719,Calum McFarlane,3412,ST,1,0.25,2,Pedro Neto
+FTX-056IY,chelsea,mgr:3b963ae58719,Calum McFarlane,4231,LW,2,0.5,1,Pedro Neto
+FTX-056IY,chelsea,mgr:3b963ae58719,Calum McFarlane,4231,RW,1,0.25,2,Pedro Neto
+FTX-056IY,chelsea,mgr:4fed4e69ba04,Liam Rosenior,541,RM,1,0.125,3,Pedro Neto
+FTX-056IY,chelsea,mgr:4fed4e69ba04,Liam Rosenior,4231,LW,5,0.625,1,Pedro Neto
+FTX-056IY,chelsea,mgr:4fed4e69ba04,Liam Rosenior,4231,RW,2,0.25,2,Pedro Neto
+FTX-056IY,chelsea,mgr:dc01d928d84f,Enzo Maresca,4231,LW,4,0.25,2,Pedro Neto
+FTX-056IY,chelsea,mgr:dc01d928d84f,Enzo Maresca,4231,RW,12,0.75,1,Pedro Neto
+FTX-05746,newcastle_united,mgr:65451ab24622,Eddie Howe,433,RB,1,1.0,1,Emil Krafth
+FTX-05748,crystal_palace,mgr:1058459b93f2,Oliver Glasner,3421,CAM,22,1.0,1,Ismaïla Sarr
+FTX-057CR,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,3421,CB,2,0.25,2,Kevin Danso
+FTX-057CR,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,4222,CB,1,0.125,3,Kevin Danso
+FTX-057CR,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,4231,CB,5,0.625,1,Kevin Danso
+FTX-057CR,tottenham_hotspur,mgr:b283d24885e5,Roberto De Zerbi,433,CB,1,0.16666666666666666,2,Kevin Danso
+FTX-057CR,tottenham_hotspur,mgr:b283d24885e5,Roberto De Zerbi,4231,CB,5,0.8333333333333334,1,Kevin Danso
+FTX-057CR,tottenham_hotspur,mgr:e99dd67f9cac,Igor Tudor,442,CB,2,0.6666666666666666,1,Kevin Danso
+FTX-057CR,tottenham_hotspur,mgr:e99dd67f9cac,Igor Tudor,3421,CB,1,0.3333333333333333,2,Kevin Danso
+FTX-05A6E,nottingham_forest,mgr:224591e666ec,Sean Dyche,451,LB,1,0.058823529411764705,2,Neco Williams
+FTX-05A6E,nottingham_forest,mgr:224591e666ec,Sean Dyche,4231,LB,15,0.8823529411764706,1,Neco Williams
+FTX-05A6E,nottingham_forest,mgr:224591e666ec,Sean Dyche,4231,RB,1,0.058823529411764705,2,Neco Williams
+FTX-05A6E,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,442,LB,2,0.18181818181818182,2,Neco Williams
+FTX-05A6E,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,442,RB,1,0.09090909090909091,3,Neco Williams
+FTX-05A6E,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,532,LB,1,0.09090909090909091,3,Neco Williams
+FTX-05A6E,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,3421,RWB,1,0.09090909090909091,3,Neco Williams
+FTX-05A6E,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,4231,LB,6,0.5454545454545454,1,Neco Williams
+FTX-05A6E,nottingham_forest,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4231,LB,3,1.0,1,Neco Williams
+FTX-05A6E,nottingham_forest,mgr:baf747465a0d,Ange Postecoglou,343,LWB,1,0.2,2,Neco Williams
+FTX-05A6E,nottingham_forest,mgr:baf747465a0d,Ange Postecoglou,532,RB,1,0.2,2,Neco Williams
+FTX-05A6E,nottingham_forest,mgr:baf747465a0d,Ange Postecoglou,4231,RB,3,0.6,1,Neco Williams
+FTX-05AKV,crystal_palace,mgr:1058459b93f2,Oliver Glasner,343,LWB,3,0.08333333333333333,2,Tyrick Mitchell
+FTX-05AKV,crystal_palace,mgr:1058459b93f2,Oliver Glasner,541,LB,1,0.027777777777777776,3,Tyrick Mitchell
+FTX-05AKV,crystal_palace,mgr:1058459b93f2,Oliver Glasner,3421,LWB,32,0.8888888888888888,1,Tyrick Mitchell
+FTX-05G2O,chelsea,mgr:3b963ae58719,Calum McFarlane,3412,ST,1,0.25,2,João Pedro
+FTX-05G2O,chelsea,mgr:3b963ae58719,Calum McFarlane,4231,ST,3,0.75,1,João Pedro
+FTX-05G2O,chelsea,mgr:4fed4e69ba04,Liam Rosenior,433,ST,2,0.2,2,João Pedro
+FTX-05G2O,chelsea,mgr:4fed4e69ba04,Liam Rosenior,4231,ST,8,0.8,1,João Pedro
+FTX-05G2O,chelsea,mgr:dc01d928d84f,Enzo Maresca,433,ST,1,0.058823529411764705,3,João Pedro
+FTX-05G2O,chelsea,mgr:dc01d928d84f,Enzo Maresca,4231,CAM,6,0.35294117647058826,2,João Pedro
+FTX-05G2O,chelsea,mgr:dc01d928d84f,Enzo Maresca,4231,ST,10,0.5882352941176471,1,João Pedro
+FTX-05G4D,sunderland,mgr:1a031e232e88,Régis Le Bris,442,LB,1,0.3333333333333333,2,Dennis Cirkin
+FTX-05G4D,sunderland,mgr:1a031e232e88,Régis Le Bris,4231,LB,2,0.6666666666666666,1,Dennis Cirkin
+FTX-05GCC,everton,mgr:84316c036a2d,David Moyes,4231,CAM,27,0.9,1,Kiernan Dewsbury-Hall
+FTX-05GCC,everton,mgr:84316c036a2d,David Moyes,4231,DM,2,0.06666666666666667,2,Kiernan Dewsbury-Hall
+FTX-05GCC,everton,mgr:84316c036a2d,David Moyes,4231,LW,1,0.03333333333333333,3,Kiernan Dewsbury-Hall
+FTX-05GCP,west_ham,mgr:182deb7ae6a3,Graham Potter,3412,CM,1,0.3333333333333333,2,Tomás Soucek
+FTX-05GCP,west_ham,mgr:182deb7ae6a3,Graham Potter,4231,DM,2,0.6666666666666666,1,Tomás Soucek
+FTX-05GCP,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,343,CM,1,0.047619047619047616,4,Tomás Soucek
+FTX-05GCP,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,433,CM,1,0.047619047619047616,4,Tomás Soucek
+FTX-05GCP,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,442,CM,1,0.047619047619047616,4,Tomás Soucek
+FTX-05GCP,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,451,CM,2,0.09523809523809523,3,Tomás Soucek
+FTX-05GCP,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,3421,CM,3,0.14285714285714285,2,Tomás Soucek
+FTX-05GCP,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4231,CAM,1,0.047619047619047616,4,Tomás Soucek
+FTX-05GCP,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4231,DM,3,0.14285714285714285,2,Tomás Soucek
+FTX-05GCP,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4231,RW,1,0.047619047619047616,4,Tomás Soucek
+FTX-05GCP,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4411,CM,8,0.38095238095238093,1,Tomás Soucek
+FTX-05GCR,manchester_united,mgr:3aa905054daf,Michael Carrick,4231,CAM,17,1.0,1,Bruno Fernandes
+FTX-05GCR,manchester_united,mgr:662d1720cf8b,Ruben Filipe Marques Diogo Amorim,3421,CM,17,1.0,1,Bruno Fernandes
+FTX-05GCR,manchester_united,mgr:98dfad21cc80,Darren Fletcher,4231,CAM,1,1.0,1,Bruno Fernandes
+FTX-05GCS,fulham,mgr:d242da40969a,Marco Alexandre Saraiva da Silva,3421,CM,2,0.058823529411764705,2,Sander Berge
+FTX-05GCS,fulham,mgr:d242da40969a,Marco Alexandre Saraiva da Silva,4231,DM,32,0.9411764705882353,1,Sander Berge
+FTX-05GVX,burnley,mgr:c49e040048ca,Scott Parker,343,ST,2,0.25,2,Armando Broja
+FTX-05GVX,burnley,mgr:c49e040048ca,Scott Parker,433,ST,2,0.25,2,Armando Broja
+FTX-05GVX,burnley,mgr:c49e040048ca,Scott Parker,541,ST,1,0.125,3,Armando Broja
+FTX-05GVX,burnley,mgr:c49e040048ca,Scott Parker,3421,ST,3,0.375,1,Armando Broja
+FTX-05L27,everton,mgr:84316c036a2d,David Moyes,4231,CB,5,0.7142857142857143,1,Jarrad Branthwaite
+FTX-05L27,everton,mgr:84316c036a2d,David Moyes,4231,LB,2,0.2857142857142857,2,Jarrad Branthwaite
+FTX-05L8Q,chelsea,mgr:3b963ae58719,Calum McFarlane,3412,CAM,1,0.16666666666666666,3,Cole Palmer
+FTX-05L8Q,chelsea,mgr:3b963ae58719,Calum McFarlane,4231,CAM,2,0.3333333333333333,2,Cole Palmer
+FTX-05L8Q,chelsea,mgr:3b963ae58719,Calum McFarlane,4231,RW,3,0.5,1,Cole Palmer
+FTX-05L8Q,chelsea,mgr:4fed4e69ba04,Liam Rosenior,4141,CM,1,0.1111111111111111,3,Cole Palmer
+FTX-05L8Q,chelsea,mgr:4fed4e69ba04,Liam Rosenior,4231,CAM,5,0.5555555555555556,1,Cole Palmer
+FTX-05L8Q,chelsea,mgr:4fed4e69ba04,Liam Rosenior,4231,RW,3,0.3333333333333333,2,Cole Palmer
+FTX-05L8Q,chelsea,mgr:dc01d928d84f,Enzo Maresca,4231,CAM,7,1.0,1,Cole Palmer
+FTX-05MXA,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,433,RB,1,0.1111111111111111,2,Joël Veltman
+FTX-05MXA,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,4231,RB,8,0.8888888888888888,1,Joël Veltman
+FTX-05MZZ,leeds_united,mgr:fa5d385e34dc,Daniel Farke,352,CB,11,0.3333333333333333,1,Pascal Struijk
+FTX-05MZZ,leeds_united,mgr:fa5d385e34dc,Daniel Farke,433,CB,10,0.30303030303030304,2,Pascal Struijk
+FTX-05MZZ,leeds_united,mgr:fa5d385e34dc,Daniel Farke,451,CB,1,0.030303030303030304,5,Pascal Struijk
+FTX-05MZZ,leeds_united,mgr:fa5d385e34dc,Daniel Farke,541,CB,2,0.06060606060606061,4,Pascal Struijk
+FTX-05MZZ,leeds_united,mgr:fa5d385e34dc,Daniel Farke,3142,CB,1,0.030303030303030304,5,Pascal Struijk
+FTX-05MZZ,leeds_united,mgr:fa5d385e34dc,Daniel Farke,3412,CB,2,0.06060606060606061,4,Pascal Struijk
+FTX-05MZZ,leeds_united,mgr:fa5d385e34dc,Daniel Farke,3421,CB,6,0.18181818181818182,3,Pascal Struijk
+FTX-05N07,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,433,RB,6,0.2857142857142857,2,Pedro Porro
+FTX-05N07,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,3421,RWB,1,0.047619047619047616,4,Pedro Porro
+FTX-05N07,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,4222,RB,2,0.09523809523809523,3,Pedro Porro
+FTX-05N07,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,4231,RB,12,0.5714285714285714,1,Pedro Porro
+FTX-05N07,tottenham_hotspur,mgr:b283d24885e5,Roberto De Zerbi,433,RB,1,0.14285714285714285,2,Pedro Porro
+FTX-05N07,tottenham_hotspur,mgr:b283d24885e5,Roberto De Zerbi,4231,RB,6,0.8571428571428571,1,Pedro Porro
+FTX-05N07,tottenham_hotspur,mgr:e99dd67f9cac,Igor Tudor,442,RB,2,0.5,1,Pedro Porro
+FTX-05N07,tottenham_hotspur,mgr:e99dd67f9cac,Igor Tudor,442,RM,1,0.25,2,Pedro Porro
+FTX-05N07,tottenham_hotspur,mgr:e99dd67f9cac,Igor Tudor,3421,CB,1,0.25,2,Pedro Porro
+FTX-05NNS,sunderland,mgr:1a031e232e88,Régis Le Bris,343,CB,1,0.041666666666666664,4,Dan Ballard
+FTX-05NNS,sunderland,mgr:1a031e232e88,Régis Le Bris,433,CB,2,0.08333333333333333,3,Dan Ballard
+FTX-05NNS,sunderland,mgr:1a031e232e88,Régis Le Bris,442,CB,2,0.08333333333333333,3,Dan Ballard
+FTX-05NNS,sunderland,mgr:1a031e232e88,Régis Le Bris,541,CB,5,0.20833333333333334,2,Dan Ballard
+FTX-05NNS,sunderland,mgr:1a031e232e88,Régis Le Bris,4141,CB,2,0.08333333333333333,3,Dan Ballard
+FTX-05NNS,sunderland,mgr:1a031e232e88,Régis Le Bris,4231,CB,12,0.5,1,Dan Ballard
+FTX-05NT6,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,433,CM,7,0.4117647058823529,2,Eberechi Eze
+FTX-05NT6,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,4231,CAM,10,0.5882352941176471,1,Eberechi Eze
+FTX-05NT6,crystal_palace,mgr:1058459b93f2,Oliver Glasner,3421,CAM,1,1.0,1,Eberechi Eze
+FTX-05NZU,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,433,CB,18,0.6,1,Gabriel Magalhães
+FTX-05NZU,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,4231,CB,12,0.4,2,Gabriel Magalhães
+FTX-05O4B,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,442,RB,3,0.08823529411764706,2,Matty Cash
+FTX-05O4B,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4222,RB,1,0.029411764705882353,3,Matty Cash
+FTX-05O4B,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4231,RB,30,0.8823529411764706,1,Matty Cash
+FTX-05O4C,fulham,mgr:d242da40969a,Marco Alexandre Saraiva da Silva,3421,RWB,3,0.15,2,Timothy Castagne
+FTX-05O4C,fulham,mgr:d242da40969a,Marco Alexandre Saraiva da Silva,4231,LB,1,0.05,4,Timothy Castagne
+FTX-05O4C,fulham,mgr:d242da40969a,Marco Alexandre Saraiva da Silva,4231,RB,14,0.7,1,Timothy Castagne
+FTX-05O4C,fulham,mgr:d242da40969a,Marco Alexandre Saraiva da Silva,4231,RW,2,0.1,3,Timothy Castagne
+FTX-05O6H,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,433,CM,1,0.14285714285714285,3,Kai Havertz
+FTX-05O6H,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,433,ST,3,0.42857142857142855,1,Kai Havertz
+FTX-05O6H,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,4231,CAM,2,0.2857142857142857,2,Kai Havertz
+FTX-05O6H,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,4231,ST,1,0.14285714285714285,3,Kai Havertz
+FTX-05O8O,leeds_united,mgr:fa5d385e34dc,Daniel Farke,352,RWB,8,0.25,2,Jayden Bogle
+FTX-05O8O,leeds_united,mgr:fa5d385e34dc,Daniel Farke,433,RB,12,0.375,1,Jayden Bogle
+FTX-05O8O,leeds_united,mgr:fa5d385e34dc,Daniel Farke,451,RM,1,0.03125,5,Jayden Bogle
+FTX-05O8O,leeds_united,mgr:fa5d385e34dc,Daniel Farke,541,RB,2,0.0625,4,Jayden Bogle
+FTX-05O8O,leeds_united,mgr:fa5d385e34dc,Daniel Farke,541,RM,1,0.03125,5,Jayden Bogle
+FTX-05O8O,leeds_united,mgr:fa5d385e34dc,Daniel Farke,3412,RM,1,0.03125,5,Jayden Bogle
+FTX-05O8O,leeds_united,mgr:fa5d385e34dc,Daniel Farke,3421,RWB,6,0.1875,3,Jayden Bogle
+FTX-05O8O,leeds_united,mgr:fa5d385e34dc,Daniel Farke,4141,RB,1,0.03125,5,Jayden Bogle
+FTX-05OCL,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,442,ST,2,0.06060606060606061,2,Ollie Watkins
+FTX-05OCL,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4222,ST,1,0.030303030303030304,3,Ollie Watkins
+FTX-05OCL,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4231,ST,30,0.9090909090909091,1,Ollie Watkins
+FTX-05OEF,west_ham,mgr:182deb7ae6a3,Graham Potter,433,GK,1,1.0,1,Alphonse Areola
+FTX-05OEF,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,343,GK,2,0.10526315789473684,3,Alphonse Areola
+FTX-05OEF,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,433,GK,2,0.10526315789473684,3,Alphonse Areola
+FTX-05OEF,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,3412,GK,1,0.05263157894736842,4,Alphonse Areola
+FTX-05OEF,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4141,GK,2,0.10526315789473684,3,Alphonse Areola
+FTX-05OEF,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4231,GK,6,0.3157894736842105,1,Alphonse Areola
+FTX-05OEF,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4312,GK,2,0.10526315789473684,3,Alphonse Areola
+FTX-05OEF,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4321,GK,1,0.05263157894736842,4,Alphonse Areola
+FTX-05OEF,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4411,GK,3,0.15789473684210525,2,Alphonse Areola
+FTX-05OEH,fulham,mgr:d242da40969a,Marco Alexandre Saraiva da Silva,4231,RB,21,1.0,1,Kenny Tete
+FTX-05OGB,newcastle_united,mgr:65451ab24622,Eddie Howe,4231,RW,1,1.0,1,Anthony Elanga
+FTX-05OH0,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,433,CB,4,0.1111111111111111,2,Jan Paul van Hecke
+FTX-05OH0,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,3421,CB,1,0.027777777777777776,3,Jan Paul van Hecke
+FTX-05OH0,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,4231,CB,31,0.8611111111111112,1,Jan Paul van Hecke
+FTX-05OIG,chelsea,mgr:3b963ae58719,Calum McFarlane,4231,ST,2,1.0,1,Liam Delap
+FTX-05OIG,chelsea,mgr:4fed4e69ba04,Liam Rosenior,541,ST,1,0.3333333333333333,1,Liam Delap
+FTX-05OIG,chelsea,mgr:4fed4e69ba04,Liam Rosenior,4141,ST,1,0.3333333333333333,1,Liam Delap
+FTX-05OIG,chelsea,mgr:4fed4e69ba04,Liam Rosenior,4231,ST,1,0.3333333333333333,1,Liam Delap
+FTX-05OIG,chelsea,mgr:dc01d928d84f,Enzo Maresca,4231,ST,7,1.0,1,Liam Delap
+FTX-05OJF,brentford,mgr:5f487ee40c90,Keith Andrews,4231,LW,1,1.0,1,Fábio Carvalho
+FTX-05OMU,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,433,CB,3,0.125,3,Rúben Dias
+FTX-05OMU,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4132,CB,4,0.16666666666666666,2,Rúben Dias
+FTX-05OMU,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4141,CB,8,0.3333333333333333,1,Rúben Dias
+FTX-05OMU,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4222,CB,1,0.041666666666666664,4,Rúben Dias
+FTX-05OMU,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4321,CB,8,0.3333333333333333,1,Rúben Dias
+FTX-05OPJ,nottingham_forest,mgr:224591e666ec,Sean Dyche,451,CM,1,0.05555555555555555,2,Elliot Anderson
+FTX-05OPJ,nottingham_forest,mgr:224591e666ec,Sean Dyche,4231,DM,17,0.9444444444444444,1,Elliot Anderson
+FTX-05OPJ,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,442,CM,3,0.2727272727272727,2,Elliot Anderson
+FTX-05OPJ,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,532,CM,1,0.09090909090909091,3,Elliot Anderson
+FTX-05OPJ,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,3421,CM,1,0.09090909090909091,3,Elliot Anderson
+FTX-05OPJ,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,4231,DM,6,0.5454545454545454,1,Elliot Anderson
+FTX-05OPJ,nottingham_forest,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4231,DM,3,1.0,1,Elliot Anderson
+FTX-05OPJ,nottingham_forest,mgr:baf747465a0d,Ange Postecoglou,343,CM,1,0.2,2,Elliot Anderson
+FTX-05OPJ,nottingham_forest,mgr:baf747465a0d,Ange Postecoglou,532,CM,1,0.2,2,Elliot Anderson
+FTX-05OPJ,nottingham_forest,mgr:baf747465a0d,Ange Postecoglou,4231,DM,3,0.6,1,Elliot Anderson
+FTX-05OPL,chelsea,mgr:3b963ae58719,Calum McFarlane,3412,CB,1,0.3333333333333333,2,Wesley Fofana
+FTX-05OPL,chelsea,mgr:3b963ae58719,Calum McFarlane,4231,CB,2,0.6666666666666666,1,Wesley Fofana
+FTX-05OPL,chelsea,mgr:4fed4e69ba04,Liam Rosenior,433,CB,1,0.125,2,Wesley Fofana
+FTX-05OPL,chelsea,mgr:4fed4e69ba04,Liam Rosenior,541,CB,1,0.125,2,Wesley Fofana
+FTX-05OPL,chelsea,mgr:4fed4e69ba04,Liam Rosenior,4231,CB,6,0.75,1,Wesley Fofana
+FTX-05OPL,chelsea,mgr:dc01d928d84f,Enzo Maresca,4231,CB,8,0.8888888888888888,1,Wesley Fofana
+FTX-05OPL,chelsea,mgr:dc01d928d84f,Enzo Maresca,4231,RB,1,0.1111111111111111,2,Wesley Fofana
+FTX-05OS4,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,433,LB,2,0.16666666666666666,2,Rayan Aït-Nouri
+FTX-05OS4,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4132,LB,7,0.5833333333333334,1,Rayan Aït-Nouri
+FTX-05OS4,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4141,LB,1,0.08333333333333333,3,Rayan Aït-Nouri
+FTX-05OS4,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4222,CAM,1,0.08333333333333333,3,Rayan Aït-Nouri
+FTX-05OS4,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4231,LB,1,0.08333333333333333,3,Rayan Aït-Nouri
+FTX-05OS8,fulham,mgr:d242da40969a,Marco Alexandre Saraiva da Silva,3421,CB,3,0.09090909090909091,2,Joachim Andersen
+FTX-05OS8,fulham,mgr:d242da40969a,Marco Alexandre Saraiva da Silva,4231,CB,30,0.9090909090909091,1,Joachim Andersen
+FTX-05OZ3,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,433,GK,2,0.5,1,James Trafford
+FTX-05OZ3,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4141,GK,1,0.25,2,James Trafford
+FTX-05OZ3,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4222,GK,1,0.25,2,James Trafford
+FTX-05R34,manchester_united,mgr:3aa905054daf,Michael Carrick,4231,LW,1,0.07692307692307693,2,Amad Diallo
+FTX-05R34,manchester_united,mgr:3aa905054daf,Michael Carrick,4231,RW,12,0.9230769230769231,1,Amad Diallo
+FTX-05R34,manchester_united,mgr:662d1720cf8b,Ruben Filipe Marques Diogo Amorim,3421,CAM,4,0.2857142857142857,2,Amad Diallo
+FTX-05R34,manchester_united,mgr:662d1720cf8b,Ruben Filipe Marques Diogo Amorim,3421,RWB,10,0.7142857142857143,1,Amad Diallo
+FTX-05R4H,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4222,DM,1,0.09090909090909091,3,Lamare Bogarde
+FTX-05R4H,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4231,DM,7,0.6363636363636364,1,Lamare Bogarde
+FTX-05R4H,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4231,RB,3,0.2727272727272727,2,Lamare Bogarde
+FTX-05R8O,crystal_palace,mgr:1058459b93f2,Oliver Glasner,343,ST,2,0.08,2,Jean-Philippe Mateta
+FTX-05R8O,crystal_palace,mgr:1058459b93f2,Oliver Glasner,541,ST,1,0.04,3,Jean-Philippe Mateta
+FTX-05R8O,crystal_palace,mgr:1058459b93f2,Oliver Glasner,3421,ST,22,0.88,1,Jean-Philippe Mateta
+FTX-05R94,everton,mgr:84316c036a2d,David Moyes,4231,CAM,2,0.0625,3,Iliman Ndiaye
+FTX-05R94,everton,mgr:84316c036a2d,David Moyes,4231,LW,13,0.40625,2,Iliman Ndiaye
+FTX-05R94,everton,mgr:84316c036a2d,David Moyes,4231,RW,17,0.53125,1,Iliman Ndiaye
+FTX-05RAA,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,352,LWB,6,0.3333333333333333,2,Hugo Bueno
+FTX-05RAA,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,3412,LM,1,0.05555555555555555,3,Hugo Bueno
+FTX-05RAA,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,3421,LWB,9,0.5,1,Hugo Bueno
+FTX-05RAA,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,3511,LWB,1,0.05555555555555555,3,Hugo Bueno
+FTX-05RAA,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,4231,LB,1,0.05555555555555555,3,Hugo Bueno
+FTX-05RAA,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,343,LWB,1,0.14285714285714285,2,Hugo Bueno
+FTX-05RAA,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,352,RWB,1,0.14285714285714285,2,Hugo Bueno
+FTX-05RAA,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,433,LB,4,0.5714285714285714,1,Hugo Bueno
+FTX-05RAA,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,532,LB,1,0.14285714285714285,2,Hugo Bueno
+FTX-05RAA,wolverhampton_wanderers,mgr:b72337fa641c,James Collins,532,LB,1,1.0,1,Hugo Bueno
+FTX-05RB8,chelsea,mgr:3b963ae58719,Calum McFarlane,3412,CM,1,0.2,2,Moisés Caicedo
+FTX-05RB8,chelsea,mgr:3b963ae58719,Calum McFarlane,4231,DM,4,0.8,1,Moisés Caicedo
+FTX-05RB8,chelsea,mgr:4fed4e69ba04,Liam Rosenior,433,CM,2,0.15384615384615385,2,Moisés Caicedo
+FTX-05RB8,chelsea,mgr:4fed4e69ba04,Liam Rosenior,541,CM,1,0.07692307692307693,3,Moisés Caicedo
+FTX-05RB8,chelsea,mgr:4fed4e69ba04,Liam Rosenior,4141,DM,1,0.07692307692307693,3,Moisés Caicedo
+FTX-05RB8,chelsea,mgr:4fed4e69ba04,Liam Rosenior,4231,DM,9,0.6923076923076923,1,Moisés Caicedo
+FTX-05RB8,chelsea,mgr:dc01d928d84f,Enzo Maresca,433,CM,1,0.07142857142857142,2,Moisés Caicedo
+FTX-05RB8,chelsea,mgr:dc01d928d84f,Enzo Maresca,4231,DM,13,0.9285714285714286,1,Moisés Caicedo
+FTX-05RL4,west_ham,mgr:182deb7ae6a3,Graham Potter,4231,LW,1,1.0,1,Crysencio Summerville
+FTX-05RL4,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,442,LM,1,0.041666666666666664,4,Crysencio Summerville
+FTX-05RL4,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,451,LM,2,0.08333333333333333,3,Crysencio Summerville
+FTX-05RL4,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,3412,ST,1,0.041666666666666664,4,Crysencio Summerville
+FTX-05RL4,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,3421,CAM,2,0.08333333333333333,3,Crysencio Summerville
+FTX-05RL4,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4141,LM,2,0.08333333333333333,3,Crysencio Summerville
+FTX-05RL4,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4231,CAM,1,0.041666666666666664,4,Crysencio Summerville
+FTX-05RL4,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4231,LW,4,0.16666666666666666,2,Crysencio Summerville
+FTX-05RL4,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4312,ST,2,0.08333333333333333,3,Crysencio Summerville
+FTX-05RL4,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4321,CAM,1,0.041666666666666664,4,Crysencio Summerville
+FTX-05RL4,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4411,LM,8,0.3333333333333333,1,Crysencio Summerville
+FTX-05T6X,newcastle_united,mgr:65451ab24622,Eddie Howe,352,ST,1,0.125,3,William Osula
+FTX-05T6X,newcastle_united,mgr:65451ab24622,Eddie Howe,433,ST,2,0.25,2,William Osula
+FTX-05T6X,newcastle_united,mgr:65451ab24622,Eddie Howe,532,ST,1,0.125,3,William Osula
+FTX-05T6X,newcastle_united,mgr:65451ab24622,Eddie Howe,4141,ST,1,0.125,3,William Osula
+FTX-05T6X,newcastle_united,mgr:65451ab24622,Eddie Howe,4231,ST,3,0.375,1,William Osula
+FTX-05T6Y,burnley,mgr:7670d95f755e,Michael Jackson,4231,CAM,3,1.0,1,Hannibal Mejbri
+FTX-05T6Y,burnley,mgr:c49e040048ca,Scott Parker,451,CM,1,0.08333333333333333,3,Hannibal Mejbri
+FTX-05T6Y,burnley,mgr:c49e040048ca,Scott Parker,541,RM,1,0.08333333333333333,3,Hannibal Mejbri
+FTX-05T6Y,burnley,mgr:c49e040048ca,Scott Parker,3421,CAM,1,0.08333333333333333,3,Hannibal Mejbri
+FTX-05T6Y,burnley,mgr:c49e040048ca,Scott Parker,3421,CM,4,0.3333333333333333,2,Hannibal Mejbri
+FTX-05T6Y,burnley,mgr:c49e040048ca,Scott Parker,4231,CAM,5,0.4166666666666667,1,Hannibal Mejbri
+FTX-05T6Z,everton,mgr:84316c036a2d,David Moyes,433,CM,1,0.058823529411764705,2,Tim Iroegbunam
+FTX-05T6Z,everton,mgr:84316c036a2d,David Moyes,4231,DM,16,0.9411764705882353,1,Tim Iroegbunam
+FTX-05TQX,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,433,GK,24,0.6486486486486487,1,David Raya
+FTX-05TQX,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,4231,GK,13,0.35135135135135137,2,David Raya
+FTX-05TQZ,brentford,mgr:5f487ee40c90,Keith Andrews,433,LB,2,0.14285714285714285,2,Rico Henry
+FTX-05TQZ,brentford,mgr:5f487ee40c90,Keith Andrews,532,LB,1,0.07142857142857142,3,Rico Henry
+FTX-05TQZ,brentford,mgr:5f487ee40c90,Keith Andrews,4231,LB,11,0.7857142857142857,1,Rico Henry
+FTX-05TR1,brentford,mgr:5f487ee40c90,Keith Andrews,532,CB,4,1.0,1,Ethan Pinnock
+FTX-05TR8,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,4231,DM,1,1.0,1,Christian Nørgaard
+FTX-05TR9,brentford,mgr:5f487ee40c90,Keith Andrews,433,CM,1,0.038461538461538464,4,Mathias Jensen
+FTX-05TR9,brentford,mgr:5f487ee40c90,Keith Andrews,442,CM,1,0.038461538461538464,4,Mathias Jensen
+FTX-05TR9,brentford,mgr:5f487ee40c90,Keith Andrews,532,CM,3,0.11538461538461539,3,Mathias Jensen
+FTX-05TR9,brentford,mgr:5f487ee40c90,Keith Andrews,4141,CM,1,0.038461538461538464,4,Mathias Jensen
+FTX-05TR9,brentford,mgr:5f487ee40c90,Keith Andrews,4231,CAM,9,0.34615384615384615,1,Mathias Jensen
+FTX-05TR9,brentford,mgr:5f487ee40c90,Keith Andrews,4231,DM,8,0.3076923076923077,2,Mathias Jensen
+FTX-05TR9,brentford,mgr:5f487ee40c90,Keith Andrews,4231,RW,3,0.11538461538461539,3,Mathias Jensen
+FTX-05TRB,manchester_united,mgr:3aa905054daf,Michael Carrick,4231,LW,2,0.13333333333333333,3,Bryan Mbeumo
+FTX-05TRB,manchester_united,mgr:3aa905054daf,Michael Carrick,4231,RW,5,0.3333333333333333,2,Bryan Mbeumo
+FTX-05TRB,manchester_united,mgr:3aa905054daf,Michael Carrick,4231,ST,8,0.5333333333333333,1,Bryan Mbeumo
+FTX-05TRB,manchester_united,mgr:662d1720cf8b,Ruben Filipe Marques Diogo Amorim,3421,CAM,16,1.0,1,Bryan Mbeumo
+FTX-05TRE,brentford,mgr:5f487ee40c90,Keith Andrews,433,CM,2,0.13333333333333333,2,Vitaly Janelt
+FTX-05TRE,brentford,mgr:5f487ee40c90,Keith Andrews,532,CM,1,0.06666666666666667,3,Vitaly Janelt
+FTX-05TRE,brentford,mgr:5f487ee40c90,Keith Andrews,4231,DM,12,0.8,1,Vitaly Janelt
+FTX-05TS6,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,343,CB,2,0.09090909090909091,3,Yerson Mosquera
+FTX-05TS6,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,352,CB,7,0.3181818181818182,2,Yerson Mosquera
+FTX-05TS6,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,3412,CB,1,0.045454545454545456,4,Yerson Mosquera
+FTX-05TS6,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,3421,CB,9,0.4090909090909091,1,Yerson Mosquera
+FTX-05TS6,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,3511,CB,1,0.045454545454545456,4,Yerson Mosquera
+FTX-05TS6,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,4231,CB,1,0.045454545454545456,4,Yerson Mosquera
+FTX-05TS6,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,4231,RB,1,0.045454545454545456,4,Yerson Mosquera
+FTX-05TS6,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,352,CB,1,0.5,1,Yerson Mosquera
+FTX-05TS6,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,3421,CB,1,0.5,1,Yerson Mosquera
+FTX-05U1M,brentford,mgr:5f487ee40c90,Keith Andrews,433,CB,2,0.0625,3,Nathan Collins
+FTX-05U1M,brentford,mgr:5f487ee40c90,Keith Andrews,442,CB,1,0.03125,4,Nathan Collins
+FTX-05U1M,brentford,mgr:5f487ee40c90,Keith Andrews,532,CB,4,0.125,2,Nathan Collins
+FTX-05U1M,brentford,mgr:5f487ee40c90,Keith Andrews,4141,CB,1,0.03125,4,Nathan Collins
+FTX-05U1M,brentford,mgr:5f487ee40c90,Keith Andrews,4231,CB,24,0.75,1,Nathan Collins
+FTX-05U7F,liverpool,mgr:328a5fafed26,Arne Slot,433,CB,1,0.027777777777777776,2,Ibrahima Konaté
+FTX-05U7F,liverpool,mgr:328a5fafed26,Arne Slot,4222,CB,1,0.027777777777777776,2,Ibrahima Konaté
+FTX-05U7F,liverpool,mgr:328a5fafed26,Arne Slot,4231,CB,33,0.9166666666666666,1,Ibrahima Konaté
+FTX-05U7F,liverpool,mgr:328a5fafed26,Arne Slot,41212,CB,1,0.027777777777777776,2,Ibrahima Konaté
+FTX-05UBV,nottingham_forest,mgr:224591e666ec,Sean Dyche,451,RM,1,0.1111111111111111,2,Omari Hutchinson
+FTX-05UBV,nottingham_forest,mgr:224591e666ec,Sean Dyche,4231,RW,8,0.8888888888888888,1,Omari Hutchinson
+FTX-05UBV,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,442,RM,3,0.375,2,Omari Hutchinson
+FTX-05UBV,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,4231,LW,1,0.125,3,Omari Hutchinson
+FTX-05UBV,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,4231,RW,4,0.5,1,Omari Hutchinson
+FTX-05UDG,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,352,GK,7,0.3684210526315789,1,José Sá
+FTX-05UDG,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,3412,GK,1,0.05263157894736842,3,José Sá
+FTX-05UDG,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,3421,GK,7,0.3684210526315789,1,José Sá
+FTX-05UDG,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,3511,GK,2,0.10526315789473684,2,José Sá
+FTX-05UDG,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,4231,GK,2,0.10526315789473684,2,José Sá
+FTX-05UDG,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,343,GK,3,0.75,1,José Sá
+FTX-05UDG,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,3421,GK,1,0.25,2,José Sá
+FTX-05UDW,sunderland,mgr:1a031e232e88,Régis Le Bris,442,LM,1,0.5,1,Romaine Mundle
+FTX-05UDW,sunderland,mgr:1a031e232e88,Régis Le Bris,4231,LW,1,0.5,1,Romaine Mundle
+FTX-05UEL,brentford,mgr:5f487ee40c90,Keith Andrews,433,CB,1,0.05,4,Kristoffer Ajer
+FTX-05UEL,brentford,mgr:5f487ee40c90,Keith Andrews,442,CB,1,0.05,4,Kristoffer Ajer
+FTX-05UEL,brentford,mgr:5f487ee40c90,Keith Andrews,532,CB,2,0.1,3,Kristoffer Ajer
+FTX-05UEL,brentford,mgr:5f487ee40c90,Keith Andrews,4231,CB,11,0.55,1,Kristoffer Ajer
+FTX-05UEL,brentford,mgr:5f487ee40c90,Keith Andrews,4231,LB,5,0.25,2,Kristoffer Ajer
+FTX-05UHJ,liverpool,mgr:328a5fafed26,Arne Slot,4231,RB,12,1.0,1,Conor Bradley
+FTX-05UHS,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,442,LM,1,1.0,1,James McAtee
+FTX-05UHS,nottingham_forest,mgr:baf747465a0d,Ange Postecoglou,4231,CAM,1,1.0,1,James McAtee
+FTX-05UHT,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,442,ST,3,0.08108108108108109,3,Morgan Rogers
+FTX-05UHT,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4222,CAM,1,0.02702702702702703,4,Morgan Rogers
+FTX-05UHT,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4231,CAM,18,0.4864864864864865,1,Morgan Rogers
+FTX-05UHT,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4231,LW,14,0.3783783783783784,2,Morgan Rogers
+FTX-05UHT,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4231,RW,1,0.02702702702702703,4,Morgan Rogers
+FTX-05UNS,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4231,RW,3,1.0,1,Leon Bailey
+FTX-05UNU,chelsea,mgr:3b963ae58719,Calum McFarlane,4231,DM,1,1.0,1,Roméo Lavia
+FTX-05UNU,chelsea,mgr:4fed4e69ba04,Liam Rosenior,541,CM,1,0.5,1,Roméo Lavia
+FTX-05UNU,chelsea,mgr:4fed4e69ba04,Liam Rosenior,4231,DM,1,0.5,1,Roméo Lavia
+FTX-05UNU,chelsea,mgr:dc01d928d84f,Enzo Maresca,4231,DM,1,1.0,1,Roméo Lavia
+FTX-05UOC,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,433,CB,7,0.35,2,Cristian Romero
+FTX-05UOC,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,3421,CB,3,0.15,3,Cristian Romero
+FTX-05UOC,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,4222,CB,1,0.05,4,Cristian Romero
+FTX-05UOC,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,4231,CB,9,0.45,1,Cristian Romero
+FTX-05UOC,tottenham_hotspur,mgr:b283d24885e5,Roberto De Zerbi,4231,CB,1,1.0,1,Cristian Romero
+FTX-05UOC,tottenham_hotspur,mgr:e99dd67f9cac,Igor Tudor,442,CB,1,1.0,1,Cristian Romero
+FTX-05UOR,newcastle_united,mgr:65451ab24622,Eddie Howe,433,ST,4,1.0,1,Yoane Wissa
+FTX-05W7T,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,433,CM,6,0.6666666666666666,1,Pape Matar Sarr
+FTX-05W7T,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,4231,CAM,1,0.1111111111111111,3,Pape Matar Sarr
+FTX-05W7T,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,4231,DM,2,0.2222222222222222,2,Pape Matar Sarr
+FTX-05W7T,tottenham_hotspur,mgr:e99dd67f9cac,Igor Tudor,352,CM,1,0.25,2,Pape Matar Sarr
+FTX-05W7T,tottenham_hotspur,mgr:e99dd67f9cac,Igor Tudor,442,CM,2,0.5,1,Pape Matar Sarr
+FTX-05W7T,tottenham_hotspur,mgr:e99dd67f9cac,Igor Tudor,3421,CM,1,0.25,2,Pape Matar Sarr
+FTX-05W91,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,352,ST,8,0.6153846153846154,1,Hwang Hee-Chan
+FTX-05W91,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,3421,CAM,2,0.15384615384615385,2,Hwang Hee-Chan
+FTX-05W91,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,3421,ST,1,0.07692307692307693,3,Hwang Hee-Chan
+FTX-05W91,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,4231,LW,1,0.07692307692307693,3,Hwang Hee-Chan
+FTX-05W91,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,4231,RW,1,0.07692307692307693,3,Hwang Hee-Chan
+FTX-05W91,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,343,ST,1,0.5,1,Hwang Hee-Chan
+FTX-05W91,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,352,ST,1,0.5,1,Hwang Hee-Chan
+FTX-05W91,wolverhampton_wanderers,mgr:b72337fa641c,James Collins,532,ST,1,1.0,1,Hwang Hee-Chan
+FTX-05W9I,chelsea,mgr:3b963ae58719,Calum McFarlane,3412,LM,1,0.2,2,Marc Cucurella
+FTX-05W9I,chelsea,mgr:3b963ae58719,Calum McFarlane,4231,LB,3,0.6,1,Marc Cucurella
+FTX-05W9I,chelsea,mgr:3b963ae58719,Calum McFarlane,4231,LW,1,0.2,2,Marc Cucurella
+FTX-05W9I,chelsea,mgr:4fed4e69ba04,Liam Rosenior,541,LB,1,0.1111111111111111,2,Marc Cucurella
+FTX-05W9I,chelsea,mgr:4fed4e69ba04,Liam Rosenior,4231,LB,8,0.8888888888888888,1,Marc Cucurella
+FTX-05W9I,chelsea,mgr:dc01d928d84f,Enzo Maresca,433,LB,1,0.058823529411764705,2,Marc Cucurella
+FTX-05W9I,chelsea,mgr:dc01d928d84f,Enzo Maresca,4231,LB,16,0.9411764705882353,1,Marc Cucurella
+FTX-05Y5B,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,343,CM,1,0.08333333333333333,4,Freddie Potts
+FTX-05Y5B,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,433,CM,3,0.25,2,Freddie Potts
+FTX-05Y5B,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4231,DM,5,0.4166666666666667,1,Freddie Potts
+FTX-05Y5B,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4312,CM,2,0.16666666666666666,3,Freddie Potts
+FTX-05Y5B,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4321,CM,1,0.08333333333333333,4,Freddie Potts
+FTX-05Y7C,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,433,CM,2,0.16666666666666666,2,Archie Gray
+FTX-05Y7C,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,433,RB,2,0.16666666666666666,2,Archie Gray
+FTX-05Y7C,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,3421,RWB,1,0.08333333333333333,3,Archie Gray
+FTX-05Y7C,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,4222,DM,2,0.16666666666666666,2,Archie Gray
+FTX-05Y7C,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,4231,DM,5,0.4166666666666667,1,Archie Gray
+FTX-05Y7C,tottenham_hotspur,mgr:b283d24885e5,Roberto De Zerbi,4231,DM,1,1.0,1,Archie Gray
+FTX-05Y7C,tottenham_hotspur,mgr:e99dd67f9cac,Igor Tudor,352,RWB,1,0.2,2,Archie Gray
+FTX-05Y7C,tottenham_hotspur,mgr:e99dd67f9cac,Igor Tudor,442,CM,2,0.4,1,Archie Gray
+FTX-05Y7C,tottenham_hotspur,mgr:e99dd67f9cac,Igor Tudor,442,LB,1,0.2,2,Archie Gray
+FTX-05Y7C,tottenham_hotspur,mgr:e99dd67f9cac,Igor Tudor,3421,RWB,1,0.2,2,Archie Gray
+FTX-05Y9N,newcastle_united,mgr:65451ab24622,Eddie Howe,352,LWB,1,0.041666666666666664,3,Lewis Hall
+FTX-05Y9N,newcastle_united,mgr:65451ab24622,Eddie Howe,433,LB,17,0.7083333333333334,1,Lewis Hall
+FTX-05Y9N,newcastle_united,mgr:65451ab24622,Eddie Howe,451,LB,1,0.041666666666666664,3,Lewis Hall
+FTX-05Y9N,newcastle_united,mgr:65451ab24622,Eddie Howe,3421,LWB,1,0.041666666666666664,3,Lewis Hall
+FTX-05Y9N,newcastle_united,mgr:65451ab24622,Eddie Howe,4231,LB,3,0.125,2,Lewis Hall
+FTX-05Y9N,newcastle_united,mgr:65451ab24622,Eddie Howe,4231,RB,1,0.041666666666666664,3,Lewis Hall
+FTX-05YBQ,everton,mgr:84316c036a2d,David Moyes,433,LB,1,0.030303030303030304,2,Vitalii Mykolenko
+FTX-05YBQ,everton,mgr:84316c036a2d,David Moyes,4231,LB,32,0.9696969696969697,1,Vitalii Mykolenko
+FTX-05YCT,everton,mgr:84316c036a2d,David Moyes,4231,RB,3,1.0,1,Nathan Patterson
+FTX-05YE7,fulham,mgr:d242da40969a,Marco Alexandre Saraiva da Silva,4231,LW,4,0.6666666666666666,1,Oscar Bobb
+FTX-05YE7,fulham,mgr:d242da40969a,Marco Alexandre Saraiva da Silva,4231,RW,2,0.3333333333333333,2,Oscar Bobb
+FTX-05YE7,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4141,RM,3,1.0,1,Oscar Bobb
+FTX-05YG5,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,343,CB,2,0.2,2,Toti Gomes
+FTX-05YG5,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,352,CB,1,0.1,3,Toti Gomes
+FTX-05YG5,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,532,CB,1,0.1,3,Toti Gomes
+FTX-05YG5,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,3421,CB,6,0.6,1,Toti Gomes
+FTX-05YG5,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,343,CB,3,0.5,1,Toti Gomes
+FTX-05YG5,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,352,CB,1,0.16666666666666666,2,Toti Gomes
+FTX-05YG5,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,532,CB,1,0.16666666666666666,2,Toti Gomes
+FTX-05YG5,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,3421,CB,1,0.16666666666666666,2,Toti Gomes
+FTX-05YG5,wolverhampton_wanderers,mgr:b72337fa641c,James Collins,532,CB,1,1.0,1,Toti Gomes
+FTX-05YLJ,newcastle_united,mgr:65451ab24622,Eddie Howe,352,CM,1,0.037037037037037035,3,Bruno Guimarães
+FTX-05YLJ,newcastle_united,mgr:65451ab24622,Eddie Howe,433,CM,20,0.7407407407407407,1,Bruno Guimarães
+FTX-05YLJ,newcastle_united,mgr:65451ab24622,Eddie Howe,451,CM,1,0.037037037037037035,3,Bruno Guimarães
+FTX-05YLJ,newcastle_united,mgr:65451ab24622,Eddie Howe,532,CM,1,0.037037037037037035,3,Bruno Guimarães
+FTX-05YLJ,newcastle_united,mgr:65451ab24622,Eddie Howe,4141,CM,1,0.037037037037037035,3,Bruno Guimarães
+FTX-05YLJ,newcastle_united,mgr:65451ab24622,Eddie Howe,4231,DM,3,0.1111111111111111,2,Bruno Guimarães
+FTX-05YLW,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,433,CM,4,0.23529411764705882,2,Rodrigo Bentancur
+FTX-05YLW,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,3421,CM,1,0.058823529411764705,3,Rodrigo Bentancur
+FTX-05YLW,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,4222,DM,1,0.058823529411764705,3,Rodrigo Bentancur
+FTX-05YLW,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,4231,DM,11,0.6470588235294118,1,Rodrigo Bentancur
+FTX-05YLW,tottenham_hotspur,mgr:b283d24885e5,Roberto De Zerbi,433,CM,1,0.16666666666666666,2,Rodrigo Bentancur
+FTX-05YLW,tottenham_hotspur,mgr:b283d24885e5,Roberto De Zerbi,4231,DM,5,0.8333333333333334,1,Rodrigo Bentancur
+FTX-060WH,chelsea,mgr:4fed4e69ba04,Liam Rosenior,4141,LM,1,0.3333333333333333,2,Alejandro Garnacho
+FTX-060WH,chelsea,mgr:4fed4e69ba04,Liam Rosenior,4231,LW,2,0.6666666666666666,1,Alejandro Garnacho
+FTX-060WH,chelsea,mgr:dc01d928d84f,Enzo Maresca,4231,LW,10,1.0,1,Alejandro Garnacho
+FTX-06195,everton,mgr:84316c036a2d,David Moyes,4231,RW,4,1.0,1,Tyler Dibling
+FTX-061VA,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,442,CM,3,0.17647058823529413,2,Boubacar Kamara
+FTX-061VA,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4222,DM,1,0.058823529411764705,3,Boubacar Kamara
+FTX-061VA,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4231,DM,13,0.7647058823529411,1,Boubacar Kamara
+FTX-061VB,bournemouth,mgr:b4b8eecb310f,Andoni Iraola,4231,CB,20,0.9090909090909091,1,James Hill
+FTX-061VB,bournemouth,mgr:b4b8eecb310f,Andoni Iraola,4231,RB,2,0.09090909090909091,2,James Hill
+FTX-061VE,bournemouth,mgr:b4b8eecb310f,Andoni Iraola,4231,DM,9,1.0,1,Ryan Christie
+FTX-061VK,burnley,mgr:7670d95f755e,Michael Jackson,541,LM,1,0.25,2,Jaidon Anthony
+FTX-061VK,burnley,mgr:7670d95f755e,Michael Jackson,4231,LW,3,0.75,1,Jaidon Anthony
+FTX-061VK,burnley,mgr:c49e040048ca,Scott Parker,442,LM,2,0.07407407407407407,4,Jaidon Anthony
+FTX-061VK,burnley,mgr:c49e040048ca,Scott Parker,451,LM,1,0.037037037037037035,5,Jaidon Anthony
+FTX-061VK,burnley,mgr:c49e040048ca,Scott Parker,541,LM,8,0.2962962962962963,2,Jaidon Anthony
+FTX-061VK,burnley,mgr:c49e040048ca,Scott Parker,3421,CAM,7,0.25925925925925924,3,Jaidon Anthony
+FTX-061VK,burnley,mgr:c49e040048ca,Scott Parker,4231,LW,9,0.3333333333333333,1,Jaidon Anthony
+FTX-061VN,fulham,mgr:d242da40969a,Marco Alexandre Saraiva da Silva,4231,ST,10,1.0,1,Rodrigo Muniz
+FTX-061VP,leeds_united,mgr:fa5d385e34dc,Daniel Farke,352,CM,5,0.22727272727272727,2,Brenden Aaronson
+FTX-061VP,leeds_united,mgr:fa5d385e34dc,Daniel Farke,352,ST,3,0.13636363636363635,3,Brenden Aaronson
+FTX-061VP,leeds_united,mgr:fa5d385e34dc,Daniel Farke,451,LM,1,0.045454545454545456,5,Brenden Aaronson
+FTX-061VP,leeds_united,mgr:fa5d385e34dc,Daniel Farke,541,LM,3,0.13636363636363635,3,Brenden Aaronson
+FTX-061VP,leeds_united,mgr:fa5d385e34dc,Daniel Farke,3142,ST,1,0.045454545454545456,5,Brenden Aaronson
+FTX-061VP,leeds_united,mgr:fa5d385e34dc,Daniel Farke,3412,CAM,2,0.09090909090909091,4,Brenden Aaronson
+FTX-061VP,leeds_united,mgr:fa5d385e34dc,Daniel Farke,3421,CAM,6,0.2727272727272727,1,Brenden Aaronson
+FTX-061VP,leeds_united,mgr:fa5d385e34dc,Daniel Farke,4141,RM,1,0.045454545454545456,5,Brenden Aaronson
+FTX-061VQ,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,433,ST,4,0.11764705882352941,5,Erling Haaland
+FTX-061VQ,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4132,ST,6,0.17647058823529413,3,Erling Haaland
+FTX-061VQ,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4141,ST,11,0.3235294117647059,1,Erling Haaland
+FTX-061VQ,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4231,ST,5,0.14705882352941177,4,Erling Haaland
+FTX-061VQ,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4321,ST,8,0.23529411764705882,2,Erling Haaland
+FTX-061XW,burnley,mgr:c49e040048ca,Scott Parker,442,CB,1,0.2,2,Joe Worrall
+FTX-061XW,burnley,mgr:c49e040048ca,Scott Parker,3421,CB,4,0.8,1,Joe Worrall
+FTX-061Y6,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,442,CM,1,1.0,1,Ryan Yates
+FTX-061Y6,nottingham_forest,mgr:baf747465a0d,Ange Postecoglou,343,CM,1,1.0,1,Ryan Yates
+FTX-061YA,crystal_palace,mgr:1058459b93f2,Oliver Glasner,541,RM,1,0.09090909090909091,2,Brennan Johnson
+FTX-061YA,crystal_palace,mgr:1058459b93f2,Oliver Glasner,3421,CAM,9,0.8181818181818182,1,Brennan Johnson
+FTX-061YA,crystal_palace,mgr:1058459b93f2,Oliver Glasner,3421,RWB,1,0.09090909090909091,2,Brennan Johnson
+FTX-061YA,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,4231,LW,1,0.3333333333333333,2,Brennan Johnson
+FTX-061YA,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,4231,RW,2,0.6666666666666666,1,Brennan Johnson
+FTX-0620K,west_ham,mgr:182deb7ae6a3,Graham Potter,3412,CB,2,1.0,1,Nayef Aguerd
+FTX-0626Q,sunderland,mgr:1a031e232e88,Régis Le Bris,442,LM,1,0.16666666666666666,2,Simon Adingra
+FTX-0626Q,sunderland,mgr:1a031e232e88,Régis Le Bris,4231,LW,5,0.8333333333333334,1,Simon Adingra
+FTX-062A9,newcastle_united,mgr:65451ab24622,Eddie Howe,352,CB,1,0.047619047619047616,3,Sven Botman
+FTX-062A9,newcastle_united,mgr:65451ab24622,Eddie Howe,433,CB,12,0.5714285714285714,1,Sven Botman
+FTX-062A9,newcastle_united,mgr:65451ab24622,Eddie Howe,532,CB,1,0.047619047619047616,3,Sven Botman
+FTX-062A9,newcastle_united,mgr:65451ab24622,Eddie Howe,3421,CB,1,0.047619047619047616,3,Sven Botman
+FTX-062A9,newcastle_united,mgr:65451ab24622,Eddie Howe,4141,CB,1,0.047619047619047616,3,Sven Botman
+FTX-062A9,newcastle_united,mgr:65451ab24622,Eddie Howe,4231,CB,5,0.23809523809523808,2,Sven Botman
+FTX-062CI,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,4231,LW,15,1.0,1,Kaoru Mitoma
+FTX-062CW,nottingham_forest,mgr:224591e666ec,Sean Dyche,4231,GK,2,1.0,1,Stefan Ortega
+FTX-062CW,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,4231,GK,1,1.0,1,Stefan Ortega
+FTX-062DT,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,433,CM,6,0.375,2,João Palhinha
+FTX-062DT,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,3421,CB,1,0.0625,3,João Palhinha
+FTX-062DT,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,3421,CM,1,0.0625,3,João Palhinha
+FTX-062DT,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,4222,DM,1,0.0625,3,João Palhinha
+FTX-062DT,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,4231,DM,7,0.4375,1,João Palhinha
+FTX-062DT,tottenham_hotspur,mgr:b283d24885e5,Roberto De Zerbi,4231,DM,4,1.0,1,João Palhinha
+FTX-062DT,tottenham_hotspur,mgr:e99dd67f9cac,Igor Tudor,352,CB,1,0.3333333333333333,1,João Palhinha
+FTX-062DT,tottenham_hotspur,mgr:e99dd67f9cac,Igor Tudor,442,CM,1,0.3333333333333333,1,João Palhinha
+FTX-062DT,tottenham_hotspur,mgr:e99dd67f9cac,Igor Tudor,3421,CM,1,0.3333333333333333,1,João Palhinha
+FTX-062H7,bournemouth,mgr:b4b8eecb310f,Andoni Iraola,4141,DM,2,0.09523809523809523,2,Tyler Adams
+FTX-062H7,bournemouth,mgr:b4b8eecb310f,Andoni Iraola,4231,DM,19,0.9047619047619048,1,Tyler Adams
+FTX-062OG,brentford,mgr:5f487ee40c90,Keith Andrews,442,CM,1,0.125,2,Aaron Hickey
+FTX-062OG,brentford,mgr:5f487ee40c90,Keith Andrews,532,LB,1,0.125,2,Aaron Hickey
+FTX-062OG,brentford,mgr:5f487ee40c90,Keith Andrews,4231,LB,5,0.625,1,Aaron Hickey
+FTX-062OG,brentford,mgr:5f487ee40c90,Keith Andrews,4231,RB,1,0.125,2,Aaron Hickey
+FTX-062OH,everton,mgr:84316c036a2d,David Moyes,433,RB,1,0.02857142857142857,3,Jake O'Brien
+FTX-062OH,everton,mgr:84316c036a2d,David Moyes,4231,CB,5,0.14285714285714285,2,Jake O'Brien
+FTX-062OH,everton,mgr:84316c036a2d,David Moyes,4231,RB,29,0.8285714285714286,1,Jake O'Brien
+FTX-062P3,brentford,mgr:5f487ee40c90,Keith Andrews,442,LB,1,0.05,4,Keane Lewis-Potter
+FTX-062P3,brentford,mgr:5f487ee40c90,Keith Andrews,532,LB,3,0.15,3,Keane Lewis-Potter
+FTX-062P3,brentford,mgr:5f487ee40c90,Keith Andrews,4141,LB,1,0.05,4,Keane Lewis-Potter
+FTX-062P3,brentford,mgr:5f487ee40c90,Keith Andrews,4231,LB,8,0.4,1,Keane Lewis-Potter
+FTX-062P3,brentford,mgr:5f487ee40c90,Keith Andrews,4231,LW,3,0.15,3,Keane Lewis-Potter
+FTX-062P3,brentford,mgr:5f487ee40c90,Keith Andrews,4231,RW,4,0.2,2,Keane Lewis-Potter
+FTX-062P5,chelsea,mgr:3b963ae58719,Calum McFarlane,3412,CB,1,0.5,1,Levi Colwill
+FTX-062P5,chelsea,mgr:3b963ae58719,Calum McFarlane,4231,CB,1,0.5,1,Levi Colwill
+FTX-062PL,manchester_united,mgr:3aa905054daf,Michael Carrick,4231,CB,9,1.0,1,Lisandro Martínez
+FTX-062PL,manchester_united,mgr:662d1720cf8b,Ruben Filipe Marques Diogo Amorim,3421,CB,1,0.3333333333333333,2,Lisandro Martínez
+FTX-062PL,manchester_united,mgr:662d1720cf8b,Ruben Filipe Marques Diogo Amorim,4231,CB,2,0.6666666666666666,1,Lisandro Martínez
+FTX-062PL,manchester_united,mgr:98dfad21cc80,Darren Fletcher,4231,CB,1,1.0,1,Lisandro Martínez
+FTX-062TS,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,433,LB,6,0.3333333333333333,2,Djed Spence
+FTX-062TS,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,3421,LWB,1,0.05555555555555555,3,Djed Spence
+FTX-062TS,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,3421,RWB,1,0.05555555555555555,3,Djed Spence
+FTX-062TS,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,4222,LB,1,0.05555555555555555,3,Djed Spence
+FTX-062TS,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,4231,LB,8,0.4444444444444444,1,Djed Spence
+FTX-062TS,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,4231,RB,1,0.05555555555555555,3,Djed Spence
+FTX-062TS,tottenham_hotspur,mgr:b283d24885e5,Roberto De Zerbi,4231,LB,1,0.5,1,Djed Spence
+FTX-062TS,tottenham_hotspur,mgr:b283d24885e5,Roberto De Zerbi,4231,RW,1,0.5,1,Djed Spence
+FTX-062TS,tottenham_hotspur,mgr:e99dd67f9cac,Igor Tudor,352,LWB,1,0.3333333333333333,1,Djed Spence
+FTX-062TS,tottenham_hotspur,mgr:e99dd67f9cac,Igor Tudor,442,LB,1,0.3333333333333333,1,Djed Spence
+FTX-062TS,tottenham_hotspur,mgr:e99dd67f9cac,Igor Tudor,442,RB,1,0.3333333333333333,1,Djed Spence
+FTX-062X7,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,433,RB,1,0.25,2,Rico Lewis
+FTX-062X7,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4141,RB,2,0.5,1,Rico Lewis
+FTX-062X7,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4222,RB,1,0.25,2,Rico Lewis
+FTX-0635J,crystal_palace,mgr:1058459b93f2,Oliver Glasner,343,CB,3,0.0967741935483871,2,Chris Richards
+FTX-0635J,crystal_palace,mgr:1058459b93f2,Oliver Glasner,541,CB,1,0.03225806451612903,3,Chris Richards
+FTX-0635J,crystal_palace,mgr:1058459b93f2,Oliver Glasner,3421,CB,27,0.8709677419354839,1,Chris Richards
+FTX-0639X,bournemouth,mgr:b4b8eecb310f,Andoni Iraola,4141,CM,2,0.06451612903225806,4,Marcus Tavernier
+FTX-0639X,bournemouth,mgr:b4b8eecb310f,Andoni Iraola,4231,CAM,9,0.2903225806451613,2,Marcus Tavernier
+FTX-0639X,bournemouth,mgr:b4b8eecb310f,Andoni Iraola,4231,DM,5,0.16129032258064516,3,Marcus Tavernier
+FTX-0639X,bournemouth,mgr:b4b8eecb310f,Andoni Iraola,4231,LW,10,0.3225806451612903,1,Marcus Tavernier
+FTX-0639X,bournemouth,mgr:b4b8eecb310f,Andoni Iraola,4231,RW,5,0.16129032258064516,3,Marcus Tavernier
+FTX-063E7,bournemouth,mgr:b4b8eecb310f,Andoni Iraola,4141,CB,2,0.05405405405405406,2,Marcos Senesi
+FTX-063E7,bournemouth,mgr:b4b8eecb310f,Andoni Iraola,4231,CB,35,0.9459459459459459,1,Marcos Senesi
+FTX-063HU,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,442,CM,1,0.047619047619047616,2,Amadou Onana
+FTX-063HU,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4231,DM,20,0.9523809523809523,1,Amadou Onana
+FTX-063Q8,brentford,mgr:5f487ee40c90,Keith Andrews,442,LM,1,0.041666666666666664,3,Mikkel Damsgaard
+FTX-063Q8,brentford,mgr:5f487ee40c90,Keith Andrews,532,CM,2,0.08333333333333333,2,Mikkel Damsgaard
+FTX-063Q8,brentford,mgr:5f487ee40c90,Keith Andrews,4141,CM,1,0.041666666666666664,3,Mikkel Damsgaard
+FTX-063Q8,brentford,mgr:5f487ee40c90,Keith Andrews,4231,CAM,19,0.7916666666666666,1,Mikkel Damsgaard
+FTX-063Q8,brentford,mgr:5f487ee40c90,Keith Andrews,4231,LW,1,0.041666666666666664,3,Mikkel Damsgaard
+FTX-063Y7,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,433,LB,2,0.25,2,Destiny Udogie
+FTX-063Y7,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,3421,LWB,2,0.25,2,Destiny Udogie
+FTX-063Y7,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,4222,LB,1,0.125,3,Destiny Udogie
+FTX-063Y7,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,4231,LB,3,0.375,1,Destiny Udogie
+FTX-063Y7,tottenham_hotspur,mgr:b283d24885e5,Roberto De Zerbi,433,LB,1,0.16666666666666666,2,Destiny Udogie
+FTX-063Y7,tottenham_hotspur,mgr:b283d24885e5,Roberto De Zerbi,4231,LB,5,0.8333333333333334,1,Destiny Udogie
+FTX-063ZI,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,433,RB,3,0.09375,4,Matheus Nunes
+FTX-063ZI,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4132,RB,7,0.21875,2,Matheus Nunes
+FTX-063ZI,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4141,RB,8,0.25,1,Matheus Nunes
+FTX-063ZI,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4222,RB,1,0.03125,5,Matheus Nunes
+FTX-063ZI,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4231,RB,5,0.15625,3,Matheus Nunes
+FTX-063ZI,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4321,RB,8,0.25,1,Matheus Nunes
+FTX-0642L,manchester_united,mgr:3aa905054daf,Michael Carrick,4231,DM,15,1.0,1,Casemiro
+FTX-0642L,manchester_united,mgr:662d1720cf8b,Ruben Filipe Marques Diogo Amorim,3421,CM,15,0.8823529411764706,1,Casemiro
+FTX-0642L,manchester_united,mgr:662d1720cf8b,Ruben Filipe Marques Diogo Amorim,4231,DM,2,0.11764705882352941,2,Casemiro
+FTX-0642L,manchester_united,mgr:98dfad21cc80,Darren Fletcher,4231,DM,1,1.0,1,Casemiro
+FTX-06442,nottingham_forest,mgr:224591e666ec,Sean Dyche,4231,RB,1,1.0,1,Zach Abbott
+FTX-06442,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,442,RB,1,1.0,1,Zach Abbott
+FTX-0646F,liverpool,mgr:328a5fafed26,Arne Slot,433,ST,1,0.125,2,Alexander Isak
+FTX-0646F,liverpool,mgr:328a5fafed26,Arne Slot,4231,ST,7,0.875,1,Alexander Isak
+FTX-0647T,west_ham,mgr:182deb7ae6a3,Graham Potter,433,CM,1,0.2,2,Lucas Paquetá
+FTX-0647T,west_ham,mgr:182deb7ae6a3,Graham Potter,3412,CAM,2,0.4,1,Lucas Paquetá
+FTX-0647T,west_ham,mgr:182deb7ae6a3,Graham Potter,4231,CAM,1,0.2,2,Lucas Paquetá
+FTX-0647T,west_ham,mgr:182deb7ae6a3,Graham Potter,4231,ST,1,0.2,2,Lucas Paquetá
+FTX-0647T,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,343,ST,1,0.07692307692307693,2,Lucas Paquetá
+FTX-0647T,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,433,CM,2,0.15384615384615385,1,Lucas Paquetá
+FTX-0647T,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,3412,CAM,1,0.07692307692307693,2,Lucas Paquetá
+FTX-0647T,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4141,CM,2,0.15384615384615385,1,Lucas Paquetá
+FTX-0647T,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4231,CAM,2,0.15384615384615385,1,Lucas Paquetá
+FTX-0647T,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4231,LW,1,0.07692307692307693,2,Lucas Paquetá
+FTX-0647T,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4231,ST,1,0.07692307692307693,2,Lucas Paquetá
+FTX-0647T,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4312,CAM,2,0.15384615384615385,1,Lucas Paquetá
+FTX-0647T,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4321,CAM,1,0.07692307692307693,2,Lucas Paquetá
+FTX-06635,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,343,RWB,1,0.1111111111111111,3,Ollie Scarles
+FTX-06635,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4231,LB,3,0.3333333333333333,1,Ollie Scarles
+FTX-06635,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4231,RB,1,0.1111111111111111,3,Ollie Scarles
+FTX-06635,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4312,LB,1,0.1111111111111111,3,Ollie Scarles
+FTX-06635,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4321,LB,1,0.1111111111111111,3,Ollie Scarles
+FTX-06635,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4411,LB,2,0.2222222222222222,2,Ollie Scarles
+FTX-0666P,manchester_united,mgr:3aa905054daf,Michael Carrick,4231,DM,16,1.0,1,Kobbie Mainoo
+FTX-066SD,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,433,LB,1,0.2,2,Myles Lewis-Skelly
+FTX-066SD,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,4231,DM,3,0.6,1,Myles Lewis-Skelly
+FTX-066SD,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,4231,LB,1,0.2,2,Myles Lewis-Skelly
+FTX-066SH,burnley,mgr:7670d95f755e,Michael Jackson,541,CB,1,0.5,1,Bashir Humphreys
+FTX-066SH,burnley,mgr:7670d95f755e,Michael Jackson,4231,CB,1,0.5,1,Bashir Humphreys
+FTX-066SH,burnley,mgr:c49e040048ca,Scott Parker,343,CB,1,0.06666666666666667,3,Bashir Humphreys
+FTX-066SH,burnley,mgr:c49e040048ca,Scott Parker,451,CB,1,0.06666666666666667,3,Bashir Humphreys
+FTX-066SH,burnley,mgr:c49e040048ca,Scott Parker,541,CB,2,0.13333333333333333,2,Bashir Humphreys
+FTX-066SH,burnley,mgr:c49e040048ca,Scott Parker,3421,CB,6,0.4,1,Bashir Humphreys
+FTX-066SH,burnley,mgr:c49e040048ca,Scott Parker,3421,LWB,2,0.13333333333333333,2,Bashir Humphreys
+FTX-066SH,burnley,mgr:c49e040048ca,Scott Parker,4231,CB,2,0.13333333333333333,2,Bashir Humphreys
+FTX-066SH,burnley,mgr:c49e040048ca,Scott Parker,4231,RB,1,0.06666666666666667,3,Bashir Humphreys
+FTX-067X6,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4141,CB,2,1.0,1,Max Alleyne
+FTX-067X8,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,433,LB,2,0.06896551724137931,4,Nico O'Reilly
+FTX-067X8,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4132,CM,6,0.20689655172413793,2,Nico O'Reilly
+FTX-067X8,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4141,LB,8,0.27586206896551724,1,Nico O'Reilly
+FTX-067X8,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4231,DM,1,0.034482758620689655,5,Nico O'Reilly
+FTX-067X8,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4231,LB,4,0.13793103448275862,3,Nico O'Reilly
+FTX-067X8,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4321,LB,8,0.27586206896551724,1,Nico O'Reilly
+FTX-067YS,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,433,CM,2,0.1,3,Jack Hinshelwood
+FTX-067YS,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,3421,CM,1,0.05,4,Jack Hinshelwood
+FTX-067YS,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,4231,CAM,11,0.55,1,Jack Hinshelwood
+FTX-067YS,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,4231,DM,5,0.25,2,Jack Hinshelwood
+FTX-067YS,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,4231,RB,1,0.05,4,Jack Hinshelwood
+FTX-067YU,chelsea,mgr:dc01d928d84f,Enzo Maresca,4231,CAM,1,1.0,1,Facundo Buonanotte
+FTX-067YV,liverpool,mgr:328a5fafed26,Arne Slot,4222,CAM,1,0.03225806451612903,3,Cody Gakpo
+FTX-067YV,liverpool,mgr:328a5fafed26,Arne Slot,4222,ST,1,0.03225806451612903,3,Cody Gakpo
+FTX-067YV,liverpool,mgr:328a5fafed26,Arne Slot,4231,LW,22,0.7096774193548387,1,Cody Gakpo
+FTX-067YV,liverpool,mgr:328a5fafed26,Arne Slot,4231,ST,6,0.1935483870967742,2,Cody Gakpo
+FTX-067YV,liverpool,mgr:328a5fafed26,Arne Slot,41212,ST,1,0.03225806451612903,3,Cody Gakpo
+FTX-067YZ,manchester_united,mgr:3aa905054daf,Michael Carrick,4231,LW,11,0.8461538461538461,1,Matheus Cunha
+FTX-067YZ,manchester_united,mgr:3aa905054daf,Michael Carrick,4231,ST,2,0.15384615384615385,2,Matheus Cunha
+FTX-067YZ,manchester_united,mgr:662d1720cf8b,Ruben Filipe Marques Diogo Amorim,3421,CAM,6,0.4,2,Matheus Cunha
+FTX-067YZ,manchester_united,mgr:662d1720cf8b,Ruben Filipe Marques Diogo Amorim,3421,ST,7,0.4666666666666667,1,Matheus Cunha
+FTX-067YZ,manchester_united,mgr:662d1720cf8b,Ruben Filipe Marques Diogo Amorim,4231,CAM,1,0.06666666666666667,3,Matheus Cunha
+FTX-067YZ,manchester_united,mgr:662d1720cf8b,Ruben Filipe Marques Diogo Amorim,4231,LW,1,0.06666666666666667,3,Matheus Cunha
+FTX-067YZ,manchester_united,mgr:98dfad21cc80,Darren Fletcher,4231,RW,1,1.0,1,Matheus Cunha
+FTX-067ZV,brentford,mgr:5f487ee40c90,Keith Andrews,442,ST,1,0.03333333333333333,3,Kevin Schade
+FTX-067ZV,brentford,mgr:5f487ee40c90,Keith Andrews,532,ST,5,0.16666666666666666,2,Kevin Schade
+FTX-067ZV,brentford,mgr:5f487ee40c90,Keith Andrews,4141,LM,1,0.03333333333333333,3,Kevin Schade
+FTX-067ZV,brentford,mgr:5f487ee40c90,Keith Andrews,4231,LW,23,0.7666666666666667,1,Kevin Schade
+FTX-06804,chelsea,mgr:3b963ae58719,Calum McFarlane,4231,CB,1,1.0,1,Benoît Badiashile
+FTX-06804,chelsea,mgr:4fed4e69ba04,Liam Rosenior,4141,CB,1,0.5,1,Benoît Badiashile
+FTX-06804,chelsea,mgr:4fed4e69ba04,Liam Rosenior,4231,CB,1,0.5,1,Benoît Badiashile
+FTX-06804,chelsea,mgr:dc01d928d84f,Enzo Maresca,4231,CB,3,1.0,1,Benoît Badiashile
+FTX-0689W,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,3421,ST,1,0.05263157894736842,3,Georginio Rutter
+FTX-0689W,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,4231,CAM,10,0.5263157894736842,1,Georginio Rutter
+FTX-0689W,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,4231,ST,8,0.42105263157894735,2,Georginio Rutter
+FTX-068A0,chelsea,mgr:3b963ae58719,Calum McFarlane,4231,DM,3,1.0,1,Andrey Santos
+FTX-068A0,chelsea,mgr:4fed4e69ba04,Liam Rosenior,433,CM,1,0.16666666666666666,2,Andrey Santos
+FTX-068A0,chelsea,mgr:4fed4e69ba04,Liam Rosenior,4231,DM,5,0.8333333333333334,1,Andrey Santos
+FTX-068A0,chelsea,mgr:dc01d928d84f,Enzo Maresca,433,CM,1,0.25,2,Andrey Santos
+FTX-068A0,chelsea,mgr:dc01d928d84f,Enzo Maresca,4231,CAM,1,0.25,2,Andrey Santos
+FTX-068A0,chelsea,mgr:dc01d928d84f,Enzo Maresca,4231,DM,2,0.5,1,Andrey Santos
+FTX-068LX,brentford,mgr:5f487ee40c90,Keith Andrews,532,ST,1,0.04,2,Dango Ouattara
+FTX-068LX,brentford,mgr:5f487ee40c90,Keith Andrews,4141,RM,1,0.04,2,Dango Ouattara
+FTX-068LX,brentford,mgr:5f487ee40c90,Keith Andrews,4231,LW,1,0.04,2,Dango Ouattara
+FTX-068LX,brentford,mgr:5f487ee40c90,Keith Andrews,4231,RW,22,0.88,1,Dango Ouattara
+FTX-068N8,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,4231,LW,1,0.16666666666666666,2,Noni Madueke
+FTX-068N8,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,4231,RW,5,0.8333333333333334,1,Noni Madueke
+FTX-068Y0,bournemouth,mgr:b4b8eecb310f,Andoni Iraola,4141,LM,1,0.05,3,Antoine Semenyo
+FTX-068Y0,bournemouth,mgr:b4b8eecb310f,Andoni Iraola,4141,RM,1,0.05,3,Antoine Semenyo
+FTX-068Y0,bournemouth,mgr:b4b8eecb310f,Andoni Iraola,4231,LW,14,0.7,1,Antoine Semenyo
+FTX-068Y0,bournemouth,mgr:b4b8eecb310f,Andoni Iraola,4231,RW,4,0.2,2,Antoine Semenyo
+FTX-068Y0,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4132,CM,3,0.17647058823529413,3,Antoine Semenyo
+FTX-068Y0,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4132,ST,4,0.23529411764705882,2,Antoine Semenyo
+FTX-068Y0,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4141,RM,3,0.17647058823529413,3,Antoine Semenyo
+FTX-068Y0,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4222,CAM,1,0.058823529411764705,4,Antoine Semenyo
+FTX-068Y0,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4222,ST,1,0.058823529411764705,4,Antoine Semenyo
+FTX-068Y0,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4231,RW,5,0.29411764705882354,1,Antoine Semenyo
+FTX-068YC,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,433,CM,2,0.1,2,Yasin Ayari
+FTX-068YC,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,3421,CM,1,0.05,3,Yasin Ayari
+FTX-068YC,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,4231,DM,17,0.85,1,Yasin Ayari
+FTX-068YD,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,343,CM,2,0.08695652173913043,3,João Gomes
+FTX-068YD,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,352,CM,8,0.34782608695652173,1,João Gomes
+FTX-068YD,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,532,CM,1,0.043478260869565216,4,João Gomes
+FTX-068YD,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,3412,CM,1,0.043478260869565216,4,João Gomes
+FTX-068YD,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,3421,CM,7,0.30434782608695654,2,João Gomes
+FTX-068YD,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,3511,CM,2,0.08695652173913043,3,João Gomes
+FTX-068YD,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,4231,DM,2,0.08695652173913043,3,João Gomes
+FTX-068YD,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,343,CM,3,0.375,1,João Gomes
+FTX-068YD,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,352,CM,1,0.125,2,João Gomes
+FTX-068YD,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,433,CM,3,0.375,1,João Gomes
+FTX-068YD,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,3421,CM,1,0.125,2,João Gomes
+FTX-068YD,wolverhampton_wanderers,mgr:b72337fa641c,James Collins,532,CM,1,1.0,1,João Gomes
+FTX-068YM,chelsea,mgr:3b963ae58719,Calum McFarlane,3412,CM,1,0.16666666666666666,2,Enzo Fernández
+FTX-068YM,chelsea,mgr:3b963ae58719,Calum McFarlane,4231,CAM,3,0.5,1,Enzo Fernández
+FTX-068YM,chelsea,mgr:3b963ae58719,Calum McFarlane,4231,DM,1,0.16666666666666666,2,Enzo Fernández
+FTX-068YM,chelsea,mgr:3b963ae58719,Calum McFarlane,4231,LW,1,0.16666666666666666,2,Enzo Fernández
+FTX-068YM,chelsea,mgr:4fed4e69ba04,Liam Rosenior,433,CM,2,0.16666666666666666,2,Enzo Fernández
+FTX-068YM,chelsea,mgr:4fed4e69ba04,Liam Rosenior,541,LM,1,0.08333333333333333,3,Enzo Fernández
+FTX-068YM,chelsea,mgr:4fed4e69ba04,Liam Rosenior,4141,CM,1,0.08333333333333333,3,Enzo Fernández
+FTX-068YM,chelsea,mgr:4fed4e69ba04,Liam Rosenior,4231,CAM,4,0.3333333333333333,1,Enzo Fernández
+FTX-068YM,chelsea,mgr:4fed4e69ba04,Liam Rosenior,4231,DM,2,0.16666666666666666,2,Enzo Fernández
+FTX-068YM,chelsea,mgr:4fed4e69ba04,Liam Rosenior,4231,LW,2,0.16666666666666666,2,Enzo Fernández
+FTX-068YM,chelsea,mgr:dc01d928d84f,Enzo Maresca,433,CM,1,0.058823529411764705,3,Enzo Fernández
+FTX-068YM,chelsea,mgr:dc01d928d84f,Enzo Maresca,4231,CAM,3,0.17647058823529413,2,Enzo Fernández
+FTX-068YM,chelsea,mgr:dc01d928d84f,Enzo Maresca,4231,DM,13,0.7647058823529411,1,Enzo Fernández
+FTX-068YT,fulham,mgr:d242da40969a,Marco Alexandre Saraiva da Silva,3421,CM,2,0.1,2,Sasa Lukic
+FTX-068YT,fulham,mgr:d242da40969a,Marco Alexandre Saraiva da Silva,4231,DM,18,0.9,1,Sasa Lukic
+FTX-06AB3,newcastle_united,mgr:65451ab24622,Eddie Howe,433,CM,7,0.4666666666666667,1,Lewis Miley
+FTX-06AB3,newcastle_united,mgr:65451ab24622,Eddie Howe,433,RB,5,0.3333333333333333,2,Lewis Miley
+FTX-06AB3,newcastle_united,mgr:65451ab24622,Eddie Howe,3421,CM,1,0.06666666666666667,3,Lewis Miley
+FTX-06AB3,newcastle_united,mgr:65451ab24622,Eddie Howe,4141,RB,1,0.06666666666666667,3,Lewis Miley
+FTX-06AB3,newcastle_united,mgr:65451ab24622,Eddie Howe,4231,RB,1,0.06666666666666667,3,Lewis Miley
+FTX-06C4H,burnley,mgr:7670d95f755e,Michael Jackson,541,CB,1,1.0,1,Hjalmar Ekdal
+FTX-06C4H,burnley,mgr:c49e040048ca,Scott Parker,343,CB,2,0.125,3,Hjalmar Ekdal
+FTX-06C4H,burnley,mgr:c49e040048ca,Scott Parker,433,CB,2,0.125,3,Hjalmar Ekdal
+FTX-06C4H,burnley,mgr:c49e040048ca,Scott Parker,442,CB,2,0.125,3,Hjalmar Ekdal
+FTX-06C4H,burnley,mgr:c49e040048ca,Scott Parker,541,CB,6,0.375,1,Hjalmar Ekdal
+FTX-06C4H,burnley,mgr:c49e040048ca,Scott Parker,4231,CB,4,0.25,2,Hjalmar Ekdal
+FTX-06C4O,burnley,mgr:c49e040048ca,Scott Parker,442,ST,1,0.07692307692307693,3,Lyle Foster
+FTX-06C4O,burnley,mgr:c49e040048ca,Scott Parker,541,ST,5,0.38461538461538464,1,Lyle Foster
+FTX-06C4O,burnley,mgr:c49e040048ca,Scott Parker,3421,ST,2,0.15384615384615385,2,Lyle Foster
+FTX-06C4O,burnley,mgr:c49e040048ca,Scott Parker,4231,LW,1,0.07692307692307693,3,Lyle Foster
+FTX-06C4O,burnley,mgr:c49e040048ca,Scott Parker,4231,RW,2,0.15384615384615385,2,Lyle Foster
+FTX-06C4O,burnley,mgr:c49e040048ca,Scott Parker,4231,ST,2,0.15384615384615385,2,Lyle Foster
+FTX-06C6G,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,4231,LW,7,0.2692307692307692,2,Yankuba Minteh
+FTX-06C6G,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,4231,RW,19,0.7307692307692307,1,Yankuba Minteh
+FTX-06CLT,bournemouth,mgr:b4b8eecb310f,Andoni Iraola,4231,CAM,10,1.0,1,Justin Kluivert
+FTX-06CLZ,chelsea,mgr:3b963ae58719,Calum McFarlane,3412,RM,1,0.2,2,Malo Gusto
+FTX-06CLZ,chelsea,mgr:3b963ae58719,Calum McFarlane,4231,LB,1,0.2,2,Malo Gusto
+FTX-06CLZ,chelsea,mgr:3b963ae58719,Calum McFarlane,4231,RB,3,0.6,1,Malo Gusto
+FTX-06CLZ,chelsea,mgr:4fed4e69ba04,Liam Rosenior,433,RB,1,0.1,2,Malo Gusto
+FTX-06CLZ,chelsea,mgr:4fed4e69ba04,Liam Rosenior,541,RB,1,0.1,2,Malo Gusto
+FTX-06CLZ,chelsea,mgr:4fed4e69ba04,Liam Rosenior,4141,RB,1,0.1,2,Malo Gusto
+FTX-06CLZ,chelsea,mgr:4fed4e69ba04,Liam Rosenior,4231,LB,1,0.1,2,Malo Gusto
+FTX-06CLZ,chelsea,mgr:4fed4e69ba04,Liam Rosenior,4231,RB,6,0.6,1,Malo Gusto
+FTX-06CLZ,chelsea,mgr:dc01d928d84f,Enzo Maresca,4231,DM,2,0.18181818181818182,2,Malo Gusto
+FTX-06CLZ,chelsea,mgr:dc01d928d84f,Enzo Maresca,4231,LB,1,0.09090909090909091,3,Malo Gusto
+FTX-06CLZ,chelsea,mgr:dc01d928d84f,Enzo Maresca,4231,RB,8,0.7272727272727273,1,Malo Gusto
+FTX-06CMB,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,433,GK,8,0.3076923076923077,2,Guglielmo Vicario
+FTX-06CMB,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,3421,GK,3,0.11538461538461539,3,Guglielmo Vicario
+FTX-06CMB,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,4222,GK,2,0.07692307692307693,4,Guglielmo Vicario
+FTX-06CMB,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,4231,GK,13,0.5,1,Guglielmo Vicario
+FTX-06CMB,tottenham_hotspur,mgr:e99dd67f9cac,Igor Tudor,352,GK,1,0.2,2,Guglielmo Vicario
+FTX-06CMB,tottenham_hotspur,mgr:e99dd67f9cac,Igor Tudor,442,GK,3,0.6,1,Guglielmo Vicario
+FTX-06CMB,tottenham_hotspur,mgr:e99dd67f9cac,Igor Tudor,3421,GK,1,0.2,2,Guglielmo Vicario
+FTX-06CMM,liverpool,mgr:328a5fafed26,Arne Slot,433,RB,1,0.027777777777777776,4,Dominik Szoboszlai
+FTX-06CMM,liverpool,mgr:328a5fafed26,Arne Slot,4222,CAM,1,0.027777777777777776,4,Dominik Szoboszlai
+FTX-06CMM,liverpool,mgr:328a5fafed26,Arne Slot,4222,ST,1,0.027777777777777776,4,Dominik Szoboszlai
+FTX-06CMM,liverpool,mgr:328a5fafed26,Arne Slot,4231,CAM,13,0.3611111111111111,1,Dominik Szoboszlai
+FTX-06CMM,liverpool,mgr:328a5fafed26,Arne Slot,4231,DM,6,0.16666666666666666,3,Dominik Szoboszlai
+FTX-06CMM,liverpool,mgr:328a5fafed26,Arne Slot,4231,RB,7,0.19444444444444445,2,Dominik Szoboszlai
+FTX-06CMM,liverpool,mgr:328a5fafed26,Arne Slot,4231,RW,6,0.16666666666666666,3,Dominik Szoboszlai
+FTX-06CMM,liverpool,mgr:328a5fafed26,Arne Slot,41212,CM,1,0.027777777777777776,4,Dominik Szoboszlai
+FTX-06CMS,newcastle_united,mgr:65451ab24622,Eddie Howe,433,CM,24,0.7741935483870968,1,Sandro Tonali
+FTX-06CMS,newcastle_united,mgr:65451ab24622,Eddie Howe,451,CM,1,0.03225806451612903,3,Sandro Tonali
+FTX-06CMS,newcastle_united,mgr:65451ab24622,Eddie Howe,532,CM,1,0.03225806451612903,3,Sandro Tonali
+FTX-06CMS,newcastle_united,mgr:65451ab24622,Eddie Howe,3421,CM,1,0.03225806451612903,3,Sandro Tonali
+FTX-06CMS,newcastle_united,mgr:65451ab24622,Eddie Howe,4141,DM,1,0.03225806451612903,3,Sandro Tonali
+FTX-06CMS,newcastle_united,mgr:65451ab24622,Eddie Howe,4231,DM,3,0.0967741935483871,2,Sandro Tonali
+FTX-06CMU,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,433,GK,4,0.10526315789473684,2,Bart Verbruggen
+FTX-06CMU,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,3421,GK,1,0.02631578947368421,3,Bart Verbruggen
+FTX-06CMU,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,4231,GK,33,0.868421052631579,1,Bart Verbruggen
+FTX-06CRM,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,442,CB,2,0.1111111111111111,2,Pau Torres
+FTX-06CRM,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4222,CB,1,0.05555555555555555,3,Pau Torres
+FTX-06CRM,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4231,CB,15,0.8333333333333334,1,Pau Torres
+FTX-06DMJ,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,433,CB,2,0.07142857142857142,3,Jurriën Timber
+FTX-06DMJ,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,433,LB,1,0.03571428571428571,4,Jurriën Timber
+FTX-06DMJ,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,433,RB,15,0.5357142857142857,1,Jurriën Timber
+FTX-06DMJ,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,4231,RB,10,0.35714285714285715,2,Jurriën Timber
+FTX-06DO9,liverpool,mgr:328a5fafed26,Arne Slot,433,LB,1,0.037037037037037035,2,Milos Kerkez
+FTX-06DO9,liverpool,mgr:328a5fafed26,Arne Slot,4222,LB,1,0.037037037037037035,2,Milos Kerkez
+FTX-06DO9,liverpool,mgr:328a5fafed26,Arne Slot,4231,LB,24,0.8888888888888888,1,Milos Kerkez
+FTX-06DO9,liverpool,mgr:328a5fafed26,Arne Slot,41212,LB,1,0.037037037037037035,2,Milos Kerkez
+FTX-06DWM,burnley,mgr:c49e040048ca,Scott Parker,442,ST,1,0.14285714285714285,2,Jacob Bruun Larsen
+FTX-06DWM,burnley,mgr:c49e040048ca,Scott Parker,541,RM,1,0.14285714285714285,2,Jacob Bruun Larsen
+FTX-06DWM,burnley,mgr:c49e040048ca,Scott Parker,3421,CAM,1,0.14285714285714285,2,Jacob Bruun Larsen
+FTX-06DWM,burnley,mgr:c49e040048ca,Scott Parker,4231,RW,4,0.5714285714285714,1,Jacob Bruun Larsen
+FTX-06EKA,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,343,CB,1,1.0,1,Igor Julio
+FTX-06EO0,burnley,mgr:7670d95f755e,Michael Jackson,4231,DM,3,1.0,1,Lesley Ugochukwu
+FTX-06EO0,burnley,mgr:c49e040048ca,Scott Parker,343,CM,2,0.08333333333333333,4,Lesley Ugochukwu
+FTX-06EO0,burnley,mgr:c49e040048ca,Scott Parker,433,CM,3,0.125,3,Lesley Ugochukwu
+FTX-06EO0,burnley,mgr:c49e040048ca,Scott Parker,442,CM,1,0.041666666666666664,5,Lesley Ugochukwu
+FTX-06EO0,burnley,mgr:c49e040048ca,Scott Parker,451,CM,1,0.041666666666666664,5,Lesley Ugochukwu
+FTX-06EO0,burnley,mgr:c49e040048ca,Scott Parker,541,CM,2,0.08333333333333333,4,Lesley Ugochukwu
+FTX-06EO0,burnley,mgr:c49e040048ca,Scott Parker,541,RM,1,0.041666666666666664,5,Lesley Ugochukwu
+FTX-06EO0,burnley,mgr:c49e040048ca,Scott Parker,3421,CAM,1,0.041666666666666664,5,Lesley Ugochukwu
+FTX-06EO0,burnley,mgr:c49e040048ca,Scott Parker,3421,CM,6,0.25,1,Lesley Ugochukwu
+FTX-06EO0,burnley,mgr:c49e040048ca,Scott Parker,4231,CAM,5,0.20833333333333334,2,Lesley Ugochukwu
+FTX-06EO0,burnley,mgr:c49e040048ca,Scott Parker,4231,DM,2,0.08333333333333333,4,Lesley Ugochukwu
+FTX-06EW2,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,433,CB,1,0.07142857142857142,4,Axel Disasi
+FTX-06EW2,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,442,CB,1,0.07142857142857142,4,Axel Disasi
+FTX-06EW2,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,451,CB,2,0.14285714285714285,3,Axel Disasi
+FTX-06EW2,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,3421,CB,3,0.21428571428571427,2,Axel Disasi
+FTX-06EW2,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4231,CB,2,0.14285714285714285,3,Axel Disasi
+FTX-06EW2,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4411,CB,5,0.35714285714285715,1,Axel Disasi
+FTX-06EX4,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,433,CB,2,0.125,3,Josko Gvardiol
+FTX-06EX4,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4141,CB,5,0.3125,2,Josko Gvardiol
+FTX-06EX4,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4141,LB,1,0.0625,4,Josko Gvardiol
+FTX-06EX4,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4222,LB,1,0.0625,4,Josko Gvardiol
+FTX-06EX4,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4321,CB,7,0.4375,1,Josko Gvardiol
+FTX-06EZB,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,433,CB,8,0.3333333333333333,2,Micky van de Ven
+FTX-06EZB,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,3421,CB,2,0.08333333333333333,3,Micky van de Ven
+FTX-06EZB,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,4222,CB,2,0.08333333333333333,3,Micky van de Ven
+FTX-06EZB,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,4231,CB,12,0.5,1,Micky van de Ven
+FTX-06EZB,tottenham_hotspur,mgr:b283d24885e5,Roberto De Zerbi,433,CB,1,0.14285714285714285,2,Micky van de Ven
+FTX-06EZB,tottenham_hotspur,mgr:b283d24885e5,Roberto De Zerbi,4231,CB,6,0.8571428571428571,1,Micky van de Ven
+FTX-06EZB,tottenham_hotspur,mgr:e99dd67f9cac,Igor Tudor,352,CB,1,0.25,1,Micky van de Ven
+FTX-06EZB,tottenham_hotspur,mgr:e99dd67f9cac,Igor Tudor,442,CB,1,0.25,1,Micky van de Ven
+FTX-06EZB,tottenham_hotspur,mgr:e99dd67f9cac,Igor Tudor,442,LB,1,0.25,1,Micky van de Ven
+FTX-06EZB,tottenham_hotspur,mgr:e99dd67f9cac,Igor Tudor,3421,CB,1,0.25,1,Micky van de Ven
+FTX-06F8Y,bournemouth,mgr:b4b8eecb310f,Andoni Iraola,4141,CM,2,0.058823529411764705,2,Alex Scott
+FTX-06F8Y,bournemouth,mgr:b4b8eecb310f,Andoni Iraola,4231,CAM,1,0.029411764705882353,3,Alex Scott
+FTX-06F8Y,bournemouth,mgr:b4b8eecb310f,Andoni Iraola,4231,DM,31,0.9117647058823529,1,Alex Scott
+FTX-06FHY,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,3421,CAM,2,0.3333333333333333,1,Wilson Odobert
+FTX-06FHY,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,4231,CAM,1,0.16666666666666666,2,Wilson Odobert
+FTX-06FHY,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,4231,LW,2,0.3333333333333333,1,Wilson Odobert
+FTX-06FHY,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,4231,RW,1,0.16666666666666666,2,Wilson Odobert
+FTX-06FSO,liverpool,mgr:328a5fafed26,Arne Slot,4231,RB,1,1.0,1,Wataru Endo
+FTX-06FUP,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4141,LM,7,0.4375,1,Jérémy Doku
+FTX-06FUP,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4231,LW,5,0.3125,2,Jérémy Doku
+FTX-06FUP,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4321,CAM,4,0.25,3,Jérémy Doku
+FTX-06FUW,bournemouth,mgr:b4b8eecb310f,Andoni Iraola,4141,GK,2,0.05263157894736842,2,Djordje Petrovic
+FTX-06FUW,bournemouth,mgr:b4b8eecb310f,Andoni Iraola,4231,GK,36,0.9473684210526315,1,Djordje Petrovic
+FTX-06FV8,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,3421,CAM,1,0.07692307692307693,3,Mohammed Kudus
+FTX-06FV8,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,4222,CAM,2,0.15384615384615385,2,Mohammed Kudus
+FTX-06FV8,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,4231,CAM,1,0.07692307692307693,3,Mohammed Kudus
+FTX-06FV8,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,4231,RW,9,0.6923076923076923,1,Mohammed Kudus
+FTX-06FVN,everton,mgr:84316c036a2d,David Moyes,4231,ST,17,1.0,1,Beto
+FTX-06FWI,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,433,CM,3,0.13043478260869565,2,Carlos Baleba
+FTX-06FWI,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,4231,DM,20,0.8695652173913043,1,Carlos Baleba
+FTX-06FWX,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,352,CB,6,0.2857142857142857,2,Santiago Bueno
+FTX-06FWX,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,3412,CB,1,0.047619047619047616,4,Santiago Bueno
+FTX-06FWX,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,3421,CB,10,0.47619047619047616,1,Santiago Bueno
+FTX-06FWX,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,3511,CB,2,0.09523809523809523,3,Santiago Bueno
+FTX-06FWX,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,4231,CB,2,0.09523809523809523,3,Santiago Bueno
+FTX-06FWX,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,343,CB,1,0.16666666666666666,2,Santiago Bueno
+FTX-06FWX,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,433,CB,4,0.6666666666666666,1,Santiago Bueno
+FTX-06FWX,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,532,CB,1,0.16666666666666666,2,Santiago Bueno
+FTX-06FWX,wolverhampton_wanderers,mgr:b72337fa641c,James Collins,532,CB,1,1.0,1,Santiago Bueno
+FTX-06FWZ,nottingham_forest,mgr:224591e666ec,Sean Dyche,451,CB,1,0.07692307692307693,2,Murillo
+FTX-06FWZ,nottingham_forest,mgr:224591e666ec,Sean Dyche,4231,CB,12,0.9230769230769231,1,Murillo
+FTX-06FWZ,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,532,CB,1,0.14285714285714285,2,Murillo
+FTX-06FWZ,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,4231,CB,6,0.8571428571428571,1,Murillo
+FTX-06FWZ,nottingham_forest,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4231,CB,3,1.0,1,Murillo
+FTX-06FWZ,nottingham_forest,mgr:baf747465a0d,Ange Postecoglou,532,CB,1,0.5,1,Murillo
+FTX-06FWZ,nottingham_forest,mgr:baf747465a0d,Ange Postecoglou,4231,CB,1,0.5,1,Murillo
+FTX-06FX0,manchester_united,mgr:662d1720cf8b,Ruben Filipe Marques Diogo Amorim,3421,GK,6,1.0,1,Altay Bayindir
+FTX-06FXE,liverpool,mgr:328a5fafed26,Arne Slot,433,CM,1,0.029411764705882353,3,Ryan Gravenberch
+FTX-06FXE,liverpool,mgr:328a5fafed26,Arne Slot,4222,DM,2,0.058823529411764705,2,Ryan Gravenberch
+FTX-06FXE,liverpool,mgr:328a5fafed26,Arne Slot,4231,DM,30,0.8823529411764706,1,Ryan Gravenberch
+FTX-06FXE,liverpool,mgr:328a5fafed26,Arne Slot,41212,DM,1,0.029411764705882353,3,Ryan Gravenberch
+FTX-06FXU,nottingham_forest,mgr:224591e666ec,Sean Dyche,4231,DM,11,1.0,1,Ibrahim Sangaré
+FTX-06FXU,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,442,CM,2,0.2222222222222222,2,Ibrahim Sangaré
+FTX-06FXU,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,532,CM,1,0.1111111111111111,3,Ibrahim Sangaré
+FTX-06FXU,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,4231,DM,6,0.6666666666666666,1,Ibrahim Sangaré
+FTX-06FXU,nottingham_forest,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4231,DM,3,1.0,1,Ibrahim Sangaré
+FTX-06FXU,nottingham_forest,mgr:baf747465a0d,Ange Postecoglou,532,CM,1,0.5,1,Ibrahim Sangaré
+FTX-06FXU,nottingham_forest,mgr:baf747465a0d,Ange Postecoglou,4231,DM,1,0.5,1,Ibrahim Sangaré
+FTX-06FXV,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,3421,CAM,5,0.7142857142857143,1,Jean-Ricner Bellegarde
+FTX-06FXV,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,3421,CM,1,0.14285714285714285,2,Jean-Ricner Bellegarde
+FTX-06FXV,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,3511,CM,1,0.14285714285714285,2,Jean-Ricner Bellegarde
+FTX-06FXV,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,343,CM,1,0.25,1,Jean-Ricner Bellegarde
+FTX-06FXV,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,433,CM,1,0.25,1,Jean-Ricner Bellegarde
+FTX-06FXV,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,532,CM,1,0.25,1,Jean-Ricner Bellegarde
+FTX-06FXV,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,3421,CAM,1,0.25,1,Jean-Ricner Bellegarde
+FTX-06FXV,wolverhampton_wanderers,mgr:b72337fa641c,James Collins,532,CM,1,1.0,1,Jean-Ricner Bellegarde
+FTX-06FY7,nottingham_forest,mgr:224591e666ec,Sean Dyche,451,CM,1,0.09090909090909091,3,Nicolás Domínguez
+FTX-06FY7,nottingham_forest,mgr:224591e666ec,Sean Dyche,4231,DM,3,0.2727272727272727,2,Nicolás Domínguez
+FTX-06FY7,nottingham_forest,mgr:224591e666ec,Sean Dyche,4231,LW,6,0.5454545454545454,1,Nicolás Domínguez
+FTX-06FY7,nottingham_forest,mgr:224591e666ec,Sean Dyche,4231,RW,1,0.09090909090909091,3,Nicolás Domínguez
+FTX-06FY7,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,442,CM,2,0.4,1,Nicolás Domínguez
+FTX-06FY7,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,532,CM,1,0.2,2,Nicolás Domínguez
+FTX-06FY7,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,3421,CM,1,0.2,2,Nicolás Domínguez
+FTX-06FY7,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,4231,CAM,1,0.2,2,Nicolás Domínguez
+FTX-06FY7,nottingham_forest,mgr:baf747465a0d,Ange Postecoglou,4231,DM,1,1.0,1,Nicolás Domínguez
+FTX-06IME,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,433,CB,1,0.5,1,Radu Dragusin
+FTX-06IME,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,3421,CB,1,0.5,1,Radu Dragusin
+FTX-06IME,tottenham_hotspur,mgr:e99dd67f9cac,Igor Tudor,352,CB,1,0.3333333333333333,2,Radu Dragusin
+FTX-06IME,tottenham_hotspur,mgr:e99dd67f9cac,Igor Tudor,442,CB,2,0.6666666666666666,1,Radu Dragusin
+FTX-06JFE,brentford,mgr:5f487ee40c90,Keith Andrews,4231,GK,1,1.0,1,Hákon Valdimarsson
+FTX-06JGI,crystal_palace,mgr:1058459b93f2,Oliver Glasner,343,RWB,4,0.13793103448275862,2,Daniel Muñoz
+FTX-06JGI,crystal_palace,mgr:1058459b93f2,Oliver Glasner,541,RB,1,0.034482758620689655,3,Daniel Muñoz
+FTX-06JGI,crystal_palace,mgr:1058459b93f2,Oliver Glasner,3421,RWB,24,0.8275862068965517,1,Daniel Muñoz
+FTX-06JGR,burnley,mgr:7670d95f755e,Michael Jackson,541,CB,1,0.3333333333333333,2,Maxime Estève
+FTX-06JGR,burnley,mgr:7670d95f755e,Michael Jackson,4231,CB,2,0.6666666666666666,1,Maxime Estève
+FTX-06JGR,burnley,mgr:c49e040048ca,Scott Parker,343,CB,1,0.03225806451612903,5,Maxime Estève
+FTX-06JGR,burnley,mgr:c49e040048ca,Scott Parker,433,CB,3,0.0967741935483871,4,Maxime Estève
+FTX-06JGR,burnley,mgr:c49e040048ca,Scott Parker,442,CB,1,0.03225806451612903,5,Maxime Estève
+FTX-06JGR,burnley,mgr:c49e040048ca,Scott Parker,451,CB,1,0.03225806451612903,5,Maxime Estève
+FTX-06JGR,burnley,mgr:c49e040048ca,Scott Parker,541,CB,7,0.22580645161290322,3,Maxime Estève
+FTX-06JGR,burnley,mgr:c49e040048ca,Scott Parker,3421,CB,8,0.25806451612903225,2,Maxime Estève
+FTX-06JGR,burnley,mgr:c49e040048ca,Scott Parker,4231,CB,10,0.3225806451612903,1,Maxime Estève
+FTX-06JGS,crystal_palace,mgr:1058459b93f2,Oliver Glasner,343,CM,2,0.06896551724137931,2,Adam Wharton
+FTX-06JGS,crystal_palace,mgr:1058459b93f2,Oliver Glasner,3421,CM,27,0.9310344827586207,1,Adam Wharton
+FTX-06KQY,manchester_united,mgr:3aa905054daf,Michael Carrick,4231,CB,3,1.0,1,Ayden Heaven
+FTX-06KQY,manchester_united,mgr:662d1720cf8b,Ruben Filipe Marques Diogo Amorim,3421,CB,5,0.7142857142857143,1,Ayden Heaven
+FTX-06KQY,manchester_united,mgr:662d1720cf8b,Ruben Filipe Marques Diogo Amorim,4231,CB,2,0.2857142857142857,2,Ayden Heaven
+FTX-06KQY,manchester_united,mgr:98dfad21cc80,Darren Fletcher,4231,CB,1,1.0,1,Ayden Heaven
+FTX-06KWP,chelsea,mgr:3b963ae58719,Calum McFarlane,4231,RB,2,1.0,1,Josh Acheampong
+FTX-06KWP,chelsea,mgr:4fed4e69ba04,Liam Rosenior,4231,CB,1,1.0,1,Josh Acheampong
+FTX-06KWP,chelsea,mgr:dc01d928d84f,Enzo Maresca,4231,CB,4,0.8,1,Josh Acheampong
+FTX-06KWP,chelsea,mgr:dc01d928d84f,Enzo Maresca,4231,RB,1,0.2,2,Josh Acheampong
+FTX-06KX1,crystal_palace,mgr:1058459b93f2,Oliver Glasner,343,LWB,1,0.16666666666666666,3,Justin Devenny
+FTX-06KX1,crystal_palace,mgr:1058459b93f2,Oliver Glasner,3421,CAM,3,0.5,1,Justin Devenny
+FTX-06KX1,crystal_palace,mgr:1058459b93f2,Oliver Glasner,3421,RWB,2,0.3333333333333333,2,Justin Devenny
+FTX-06KYX,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,343,CM,1,0.5,1,Andy Irving
+FTX-06KYX,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4231,DM,1,0.5,1,Andy Irving
+FTX-06L4I,everton,mgr:84316c036a2d,David Moyes,4231,LW,1,1.0,1,Tyrique George
+FTX-06MGA,west_ham,mgr:182deb7ae6a3,Graham Potter,3412,GK,2,0.5,1,Mads Hermansen
+FTX-06MGA,west_ham,mgr:182deb7ae6a3,Graham Potter,4231,GK,2,0.5,1,Mads Hermansen
+FTX-06MGA,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,433,GK,1,0.07142857142857142,4,Mads Hermansen
+FTX-06MGA,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,442,GK,1,0.07142857142857142,4,Mads Hermansen
+FTX-06MGA,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,451,GK,2,0.14285714285714285,3,Mads Hermansen
+FTX-06MGA,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,3421,GK,3,0.21428571428571427,2,Mads Hermansen
+FTX-06MGA,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4231,GK,2,0.14285714285714285,3,Mads Hermansen
+FTX-06MGA,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4411,GK,5,0.35714285714285715,1,Mads Hermansen
+FTX-06MN0,brentford,mgr:5f487ee40c90,Keith Andrews,433,ST,2,0.05405405405405406,3,Igor Thiago
+FTX-06MN0,brentford,mgr:5f487ee40c90,Keith Andrews,442,ST,1,0.02702702702702703,4,Igor Thiago
+FTX-06MN0,brentford,mgr:5f487ee40c90,Keith Andrews,532,ST,4,0.10810810810810811,2,Igor Thiago
+FTX-06MN0,brentford,mgr:5f487ee40c90,Keith Andrews,4141,ST,1,0.02702702702702703,4,Igor Thiago
+FTX-06MN0,brentford,mgr:5f487ee40c90,Keith Andrews,4231,ST,29,0.7837837837837838,1,Igor Thiago
+FTX-06MN7,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,433,CM,3,0.3,1,Lucas Bergvall
+FTX-06MN7,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,4222,CAM,2,0.2,2,Lucas Bergvall
+FTX-06MN7,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,4231,CAM,3,0.3,1,Lucas Bergvall
+FTX-06MN7,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,4231,LW,1,0.1,3,Lucas Bergvall
+FTX-06MN7,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,4231,RW,1,0.1,3,Lucas Bergvall
+FTX-06MN7,tottenham_hotspur,mgr:b283d24885e5,Roberto De Zerbi,4231,CAM,1,1.0,1,Lucas Bergvall
+FTX-06MN8,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,352,RWB,1,0.2,1,Rodrigo Gomes
+FTX-06MN8,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,3412,RM,1,0.2,1,Rodrigo Gomes
+FTX-06MN8,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,3421,CAM,1,0.2,1,Rodrigo Gomes
+FTX-06MN8,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,3421,RWB,1,0.2,1,Rodrigo Gomes
+FTX-06MN8,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,4231,RW,1,0.2,1,Rodrigo Gomes
+FTX-06MN8,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,352,LWB,1,0.5,1,Rodrigo Gomes
+FTX-06MN8,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,3421,LWB,1,0.5,1,Rodrigo Gomes
+FTX-06MNC,crystal_palace,mgr:1058459b93f2,Oliver Glasner,343,CM,2,0.09090909090909091,3,Daichi Kamada
+FTX-06MNC,crystal_palace,mgr:1058459b93f2,Oliver Glasner,3421,CAM,5,0.22727272727272727,2,Daichi Kamada
+FTX-06MNC,crystal_palace,mgr:1058459b93f2,Oliver Glasner,3421,CM,15,0.6818181818181818,1,Daichi Kamada
+FTX-06MNN,crystal_palace,mgr:1058459b93f2,Oliver Glasner,343,CB,1,0.16666666666666666,2,Chadi Riad
+FTX-06MNN,crystal_palace,mgr:1058459b93f2,Oliver Glasner,3421,CB,5,0.8333333333333334,1,Chadi Riad
+FTX-06MOW,crystal_palace,mgr:1058459b93f2,Oliver Glasner,343,ST,2,0.16666666666666666,2,Jørgen Strand Larsen
+FTX-06MOW,crystal_palace,mgr:1058459b93f2,Oliver Glasner,3421,ST,10,0.8333333333333334,1,Jørgen Strand Larsen
+FTX-06MOW,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,343,ST,2,0.3333333333333333,1,Jørgen Strand Larsen
+FTX-06MOW,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,352,ST,2,0.3333333333333333,1,Jørgen Strand Larsen
+FTX-06MOW,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,532,ST,1,0.16666666666666666,2,Jørgen Strand Larsen
+FTX-06MOW,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,3421,ST,1,0.16666666666666666,2,Jørgen Strand Larsen
+FTX-06MOW,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,343,ST,2,0.2857142857142857,2,Jørgen Strand Larsen
+FTX-06MOW,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,433,ST,4,0.5714285714285714,1,Jørgen Strand Larsen
+FTX-06MOW,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,532,ST,1,0.14285714285714285,3,Jørgen Strand Larsen
+FTX-06MOW,wolverhampton_wanderers,mgr:b72337fa641c,James Collins,532,ST,1,1.0,1,Jørgen Strand Larsen
+FTX-06MPP,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,433,RB,1,0.043478260869565216,2,Mats Wieffer
+FTX-06MPP,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,4231,RB,22,0.9565217391304348,1,Mats Wieffer
+FTX-06MRZ,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,3421,RWB,3,1.0,1,Pedro Lima
+FTX-06MVE,manchester_united,mgr:3aa905054daf,Michael Carrick,4231,ST,1,1.0,1,Joshua Zirkzee
+FTX-06MVE,manchester_united,mgr:662d1720cf8b,Ruben Filipe Marques Diogo Amorim,3421,ST,3,0.75,1,Joshua Zirkzee
+FTX-06MVE,manchester_united,mgr:662d1720cf8b,Ruben Filipe Marques Diogo Amorim,4231,RW,1,0.25,2,Joshua Zirkzee
+FTX-06MVZ,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4141,LM,2,0.2857142857142857,1,Savinho
+FTX-06MVZ,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4141,RM,2,0.2857142857142857,1,Savinho
+FTX-06MVZ,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4222,CAM,2,0.2857142857142857,1,Savinho
+FTX-06MVZ,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4321,CAM,1,0.14285714285714285,2,Savinho
+FTX-06MW0,nottingham_forest,mgr:224591e666ec,Sean Dyche,451,CB,1,0.05555555555555555,2,Nikola Milenkovic
+FTX-06MW0,nottingham_forest,mgr:224591e666ec,Sean Dyche,4231,CB,17,0.9444444444444444,1,Nikola Milenkovic
+FTX-06MW0,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,442,CB,3,0.2727272727272727,2,Nikola Milenkovic
+FTX-06MW0,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,532,CB,1,0.09090909090909091,3,Nikola Milenkovic
+FTX-06MW0,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,3421,CB,1,0.09090909090909091,3,Nikola Milenkovic
+FTX-06MW0,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,4231,CB,6,0.5454545454545454,1,Nikola Milenkovic
+FTX-06MW0,nottingham_forest,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4231,CB,3,1.0,1,Nikola Milenkovic
+FTX-06MW0,nottingham_forest,mgr:baf747465a0d,Ange Postecoglou,343,CB,1,0.2,2,Nikola Milenkovic
+FTX-06MW0,nottingham_forest,mgr:baf747465a0d,Ange Postecoglou,532,CB,1,0.2,2,Nikola Milenkovic
+FTX-06MW0,nottingham_forest,mgr:baf747465a0d,Ange Postecoglou,4231,CB,3,0.6,1,Nikola Milenkovic
+FTX-06MX0,manchester_united,mgr:3aa905054daf,Michael Carrick,4231,CB,6,1.0,1,Leny Yoro
+FTX-06MX0,manchester_united,mgr:662d1720cf8b,Ruben Filipe Marques Diogo Amorim,3421,CB,12,1.0,1,Leny Yoro
+FTX-06NU7,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,433,LB,15,0.6818181818181818,1,Riccardo Calafiori
+FTX-06NU7,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,4231,LB,7,0.3181818181818182,2,Riccardo Calafiori
+FTX-06NV3,chelsea,mgr:3b963ae58719,Calum McFarlane,4231,GK,2,1.0,1,Filip Jörgensen
+FTX-06NV3,chelsea,mgr:4fed4e69ba04,Liam Rosenior,433,GK,1,1.0,1,Filip Jörgensen
+FTX-06NYW,fulham,mgr:d242da40969a,Marco Alexandre Saraiva da Silva,3421,CB,2,0.18181818181818182,2,Jorge Cuenca
+FTX-06NYW,fulham,mgr:d242da40969a,Marco Alexandre Saraiva da Silva,4231,CB,9,0.8181818181818182,1,Jorge Cuenca
+FTX-06O2T,west_ham,mgr:182deb7ae6a3,Graham Potter,3412,ST,2,0.6666666666666666,1,Niclas Füllkrug
+FTX-06O2T,west_ham,mgr:182deb7ae6a3,Graham Potter,4231,ST,1,0.3333333333333333,2,Niclas Füllkrug
+FTX-06O2T,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4141,ST,2,1.0,1,Niclas Füllkrug
+FTX-06OAV,west_ham,mgr:182deb7ae6a3,Graham Potter,3412,CM,1,1.0,1,Guido Rodríguez
+FTX-06OAV,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,3412,CM,1,1.0,1,Guido Rodríguez
+FTX-06ONV,everton,mgr:84316c036a2d,David Moyes,433,CM,1,0.16666666666666666,2,Harrison Armstrong
+FTX-06ONV,everton,mgr:84316c036a2d,David Moyes,4231,CAM,2,0.3333333333333333,1,Harrison Armstrong
+FTX-06ONV,everton,mgr:84316c036a2d,David Moyes,4231,LW,2,0.3333333333333333,1,Harrison Armstrong
+FTX-06ONV,everton,mgr:84316c036a2d,David Moyes,4231,RW,1,0.16666666666666666,2,Harrison Armstrong
+FTX-06ONX,west_ham,mgr:182deb7ae6a3,Graham Potter,3412,CB,2,1.0,1,Jean-Clair Todibo
+FTX-06ONX,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,343,CB,2,0.1,3,Jean-Clair Todibo
+FTX-06ONX,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,433,CB,2,0.1,3,Jean-Clair Todibo
+FTX-06ONX,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,442,CB,1,0.05,4,Jean-Clair Todibo
+FTX-06ONX,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,3412,CB,1,0.05,4,Jean-Clair Todibo
+FTX-06ONX,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,3421,CB,3,0.15,2,Jean-Clair Todibo
+FTX-06ONX,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4231,CB,5,0.25,1,Jean-Clair Todibo
+FTX-06ONX,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4312,CB,2,0.1,3,Jean-Clair Todibo
+FTX-06ONX,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4321,CB,1,0.05,4,Jean-Clair Todibo
+FTX-06ONX,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4411,CB,3,0.15,2,Jean-Clair Todibo
+FTX-06P4J,manchester_united,mgr:3aa905054daf,Michael Carrick,4231,CB,1,0.2,2,Noussair Mazraoui
+FTX-06P4J,manchester_united,mgr:3aa905054daf,Michael Carrick,4231,RB,4,0.8,1,Noussair Mazraoui
+FTX-06P4J,manchester_united,mgr:662d1720cf8b,Ruben Filipe Marques Diogo Amorim,3421,CB,2,0.3333333333333333,2,Noussair Mazraoui
+FTX-06P4J,manchester_united,mgr:662d1720cf8b,Ruben Filipe Marques Diogo Amorim,3421,RWB,4,0.6666666666666666,1,Noussair Mazraoui
+FTX-06P4K,manchester_united,mgr:662d1720cf8b,Ruben Filipe Marques Diogo Amorim,3421,CB,13,1.0,1,Matthijs de Ligt
+FTX-06P5S,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,3421,CAM,1,0.125,3,Brajan Gruda
+FTX-06P5S,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,4231,CAM,4,0.5,1,Brajan Gruda
+FTX-06P5S,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,4231,RW,3,0.375,2,Brajan Gruda
+FTX-06P6J,bournemouth,mgr:b4b8eecb310f,Andoni Iraola,4141,ST,2,0.0625,2,Evanilson
+FTX-06P6J,bournemouth,mgr:b4b8eecb310f,Andoni Iraola,4231,ST,30,0.9375,1,Evanilson
+FTX-06PE1,west_ham,mgr:182deb7ae6a3,Graham Potter,433,CM,1,0.3333333333333333,1,Mateus Fernandes
+FTX-06PE1,west_ham,mgr:182deb7ae6a3,Graham Potter,4231,CAM,1,0.3333333333333333,1,Mateus Fernandes
+FTX-06PE1,west_ham,mgr:182deb7ae6a3,Graham Potter,4231,LW,1,0.3333333333333333,1,Mateus Fernandes
+FTX-06PE1,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,343,CM,1,0.03125,4,Mateus Fernandes
+FTX-06PE1,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,433,CM,3,0.09375,2,Mateus Fernandes
+FTX-06PE1,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,442,CM,1,0.03125,4,Mateus Fernandes
+FTX-06PE1,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,451,CM,2,0.0625,3,Mateus Fernandes
+FTX-06PE1,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,3412,CM,1,0.03125,4,Mateus Fernandes
+FTX-06PE1,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,3421,CM,3,0.09375,2,Mateus Fernandes
+FTX-06PE1,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4141,CM,2,0.0625,3,Mateus Fernandes
+FTX-06PE1,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4231,CAM,2,0.0625,3,Mateus Fernandes
+FTX-06PE1,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4231,DM,3,0.09375,2,Mateus Fernandes
+FTX-06PE1,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4231,LW,3,0.09375,2,Mateus Fernandes
+FTX-06PE1,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4312,CM,2,0.0625,3,Mateus Fernandes
+FTX-06PE1,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4321,CM,1,0.03125,4,Mateus Fernandes
+FTX-06PE1,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4411,CM,8,0.25,1,Mateus Fernandes
+FTX-06PHE,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,433,LB,2,0.058823529411764705,3,Ferdi Kadioglu
+FTX-06PHE,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,433,RB,2,0.058823529411764705,3,Ferdi Kadioglu
+FTX-06PHE,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,3421,RWB,1,0.029411764705882353,4,Ferdi Kadioglu
+FTX-06PHE,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,4231,LB,23,0.6764705882352942,1,Ferdi Kadioglu
+FTX-06PHE,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,4231,LW,1,0.029411764705882353,4,Ferdi Kadioglu
+FTX-06PHE,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,4231,RB,2,0.058823529411764705,3,Ferdi Kadioglu
+FTX-06PHE,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,4231,RW,3,0.08823529411764706,2,Ferdi Kadioglu
+FTX-06PHW,liverpool,mgr:328a5fafed26,Arne Slot,4231,RW,1,1.0,1,Federico Chiesa
+FTX-06PIA,crystal_palace,mgr:1058459b93f2,Oliver Glasner,343,CB,4,0.11428571428571428,2,Maxence Lacroix
+FTX-06PIA,crystal_palace,mgr:1058459b93f2,Oliver Glasner,541,CB,1,0.02857142857142857,3,Maxence Lacroix
+FTX-06PIA,crystal_palace,mgr:1058459b93f2,Oliver Glasner,3421,CB,30,0.8571428571428571,1,Maxence Lacroix
+FTX-06PIB,manchester_united,mgr:3aa905054daf,Michael Carrick,4231,DM,1,1.0,1,Manuel Ugarte
+FTX-06PIB,manchester_united,mgr:662d1720cf8b,Ruben Filipe Marques Diogo Amorim,3421,CM,4,0.6666666666666666,1,Manuel Ugarte
+FTX-06PIB,manchester_united,mgr:662d1720cf8b,Ruben Filipe Marques Diogo Amorim,4231,DM,2,0.3333333333333333,2,Manuel Ugarte
+FTX-06PIB,manchester_united,mgr:98dfad21cc80,Darren Fletcher,4231,DM,1,1.0,1,Manuel Ugarte
+FTX-06PIC,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,343,CM,2,0.09090909090909091,3,André
+FTX-06PIC,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,352,CM,5,0.22727272727272727,2,André
+FTX-06PIC,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,532,CM,1,0.045454545454545456,4,André
+FTX-06PIC,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,3421,CM,11,0.5,1,André
+FTX-06PIC,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,3511,CM,2,0.09090909090909091,3,André
+FTX-06PIC,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,4231,DM,1,0.045454545454545456,4,André
+FTX-06PIC,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,343,CM,2,0.2857142857142857,2,André
+FTX-06PIC,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,352,CM,1,0.14285714285714285,3,André
+FTX-06PIC,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,433,CM,4,0.5714285714285714,1,André
+FTX-06PIC,wolverhampton_wanderers,mgr:b72337fa641c,James Collins,532,CM,1,1.0,1,André
+FTX-06PIG,nottingham_forest,mgr:224591e666ec,Sean Dyche,4231,CB,5,1.0,1,Morato
+FTX-06PIG,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,442,CB,3,0.75,1,Morato
+FTX-06PIG,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,3421,CB,1,0.25,2,Morato
+FTX-06PIG,nottingham_forest,mgr:baf747465a0d,Ange Postecoglou,343,CB,1,0.2,2,Morato
+FTX-06PIG,nottingham_forest,mgr:baf747465a0d,Ange Postecoglou,532,CB,1,0.2,2,Morato
+FTX-06PIG,nottingham_forest,mgr:baf747465a0d,Ange Postecoglou,4231,CB,2,0.4,1,Morato
+FTX-06PIG,nottingham_forest,mgr:baf747465a0d,Ange Postecoglou,4231,LB,1,0.2,2,Morato
+FTX-06R2G,liverpool,mgr:328a5fafed26,Arne Slot,4231,LW,5,1.0,1,Rio Ngumoha
+FTX-06R5B,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,3421,CAM,1,0.043478260869565216,5,Diego Gómez
+FTX-06R5B,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,4231,CAM,6,0.2608695652173913,2,Diego Gómez
+FTX-06R5B,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,4231,DM,4,0.17391304347826086,4,Diego Gómez
+FTX-06R5B,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,4231,LW,5,0.21739130434782608,3,Diego Gómez
+FTX-06R5B,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,4231,RW,7,0.30434782608695654,1,Diego Gómez
+FTX-06R6S,tottenham_hotspur,mgr:b283d24885e5,Roberto De Zerbi,433,GK,1,0.14285714285714285,2,Antonín Kinsky
+FTX-06R6S,tottenham_hotspur,mgr:b283d24885e5,Roberto De Zerbi,4231,GK,6,0.8571428571428571,1,Antonín Kinsky
+FTX-06R7K,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,343,CB,2,0.3333333333333333,1,Emmanuel Agbadou
+FTX-06R7K,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,352,CB,2,0.3333333333333333,1,Emmanuel Agbadou
+FTX-06R7K,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,532,CB,1,0.16666666666666666,2,Emmanuel Agbadou
+FTX-06R7K,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,3421,CB,1,0.16666666666666666,2,Emmanuel Agbadou
+FTX-06R7K,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,343,CB,3,0.5,1,Emmanuel Agbadou
+FTX-06R7K,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,352,CB,1,0.16666666666666666,2,Emmanuel Agbadou
+FTX-06R7K,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,532,CB,1,0.16666666666666666,2,Emmanuel Agbadou
+FTX-06R7K,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,3421,CB,1,0.16666666666666666,2,Emmanuel Agbadou
+FTX-06R9V,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4231,RB,1,1.0,1,Andrés García
+FTX-06R9W,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,433,CB,1,0.06666666666666667,4,Abdukodir Khusanov
+FTX-06R9W,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4132,CB,3,0.2,2,Abdukodir Khusanov
+FTX-06R9W,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4141,CB,4,0.26666666666666666,1,Abdukodir Khusanov
+FTX-06R9W,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4141,RB,2,0.13333333333333333,3,Abdukodir Khusanov
+FTX-06R9W,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4222,CB,1,0.06666666666666667,4,Abdukodir Khusanov
+FTX-06R9W,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4231,CB,4,0.26666666666666666,1,Abdukodir Khusanov
+FTX-06RF9,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4132,ST,4,0.5714285714285714,1,Omar Marmoush
+FTX-06RF9,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4141,LM,1,0.14285714285714285,2,Omar Marmoush
+FTX-06RF9,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4141,ST,1,0.14285714285714285,2,Omar Marmoush
+FTX-06RF9,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4222,ST,1,0.14285714285714285,2,Omar Marmoush
+FTX-06RGG,brentford,mgr:5f487ee40c90,Keith Andrews,433,RB,2,0.05405405405405406,3,Michael Kayode
+FTX-06RGG,brentford,mgr:5f487ee40c90,Keith Andrews,442,RB,1,0.02702702702702703,4,Michael Kayode
+FTX-06RGG,brentford,mgr:5f487ee40c90,Keith Andrews,532,RB,5,0.13513513513513514,2,Michael Kayode
+FTX-06RGG,brentford,mgr:5f487ee40c90,Keith Andrews,4141,RB,1,0.02702702702702703,4,Michael Kayode
+FTX-06RGG,brentford,mgr:5f487ee40c90,Keith Andrews,4231,RB,28,0.7567567567567568,1,Michael Kayode
+FTX-06RLJ,manchester_united,mgr:3aa905054daf,Michael Carrick,4231,LW,3,1.0,1,Patrick Dorgu
+FTX-06RLJ,manchester_united,mgr:662d1720cf8b,Ruben Filipe Marques Diogo Amorim,3421,CAM,1,0.09090909090909091,2,Patrick Dorgu
+FTX-06RLJ,manchester_united,mgr:662d1720cf8b,Ruben Filipe Marques Diogo Amorim,3421,LWB,8,0.7272727272727273,1,Patrick Dorgu
+FTX-06RLJ,manchester_united,mgr:662d1720cf8b,Ruben Filipe Marques Diogo Amorim,4231,LW,1,0.09090909090909091,2,Patrick Dorgu
+FTX-06RLJ,manchester_united,mgr:662d1720cf8b,Ruben Filipe Marques Diogo Amorim,4231,RW,1,0.09090909090909091,2,Patrick Dorgu
+FTX-06RLJ,manchester_united,mgr:98dfad21cc80,Darren Fletcher,4231,LW,1,1.0,1,Patrick Dorgu
+FTX-06RM7,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,433,CM,3,0.17647058823529413,3,Nico González
+FTX-06RM7,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4141,DM,4,0.23529411764705882,2,Nico González
+FTX-06RM7,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4222,DM,1,0.058823529411764705,4,Nico González
+FTX-06RM7,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4231,DM,1,0.058823529411764705,4,Nico González
+FTX-06RM7,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4321,CM,8,0.47058823529411764,1,Nico González
+FTX-06RM8,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,433,ST,1,0.16666666666666666,3,Mathys Tel
+FTX-06RM8,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,4231,LW,3,0.5,1,Mathys Tel
+FTX-06RM8,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,4231,ST,2,0.3333333333333333,2,Mathys Tel
+FTX-06RM8,tottenham_hotspur,mgr:b283d24885e5,Roberto De Zerbi,4231,LW,4,1.0,1,Mathys Tel
+FTX-06RM8,tottenham_hotspur,mgr:e99dd67f9cac,Igor Tudor,442,LM,2,0.6666666666666666,1,Mathys Tel
+FTX-06RM8,tottenham_hotspur,mgr:e99dd67f9cac,Igor Tudor,3421,CAM,1,0.3333333333333333,2,Mathys Tel
+FTX-06RMA,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,532,CM,1,1.0,1,Marshall Munetsi
+FTX-06RMA,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,433,CM,4,0.8,1,Marshall Munetsi
+FTX-06RMA,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,532,CM,1,0.2,2,Marshall Munetsi
+FTX-06RPM,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,352,CM,5,0.2631578947368421,2,Mateus Mané
+FTX-06RPM,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,352,ST,1,0.05263157894736842,4,Mateus Mané
+FTX-06RPM,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,3412,CAM,1,0.05263157894736842,4,Mateus Mané
+FTX-06RPM,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,3421,CAM,9,0.47368421052631576,1,Mateus Mané
+FTX-06RPM,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,3511,CM,1,0.05263157894736842,4,Mateus Mané
+FTX-06RPM,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,4231,CAM,2,0.10526315789473684,3,Mateus Mané
+FTX-06S7S,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,4231,RW,1,1.0,1,Harry Howell
+FTX-06UYC,bournemouth,mgr:b4b8eecb310f,Andoni Iraola,4141,LB,2,0.05263157894736842,2,Adrien Truffert
+FTX-06UYC,bournemouth,mgr:b4b8eecb310f,Andoni Iraola,4231,LB,36,0.9473684210526315,1,Adrien Truffert
+FTX-06UYD,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,3421,CB,1,0.5,1,Diego Coppola
+FTX-06UYD,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,4231,CB,1,0.5,1,Diego Coppola
+FTX-06UZL,burnley,mgr:c49e040048ca,Scott Parker,541,RB,1,1.0,1,Oliver Sonne
+FTX-06UZN,burnley,mgr:7670d95f755e,Michael Jackson,4231,LB,3,1.0,1,Lucas Pires
+FTX-06UZN,burnley,mgr:c49e040048ca,Scott Parker,343,LWB,2,0.16666666666666666,2,Lucas Pires
+FTX-06UZN,burnley,mgr:c49e040048ca,Scott Parker,433,LB,1,0.08333333333333333,3,Lucas Pires
+FTX-06UZN,burnley,mgr:c49e040048ca,Scott Parker,442,LB,1,0.08333333333333333,3,Lucas Pires
+FTX-06UZN,burnley,mgr:c49e040048ca,Scott Parker,451,LB,1,0.08333333333333333,3,Lucas Pires
+FTX-06UZN,burnley,mgr:c49e040048ca,Scott Parker,541,LB,1,0.08333333333333333,3,Lucas Pires
+FTX-06UZN,burnley,mgr:c49e040048ca,Scott Parker,3421,LWB,6,0.5,1,Lucas Pires
+FTX-06UZO,burnley,mgr:7670d95f755e,Michael Jackson,541,ST,1,0.25,2,Zian Flemming
+FTX-06UZO,burnley,mgr:7670d95f755e,Michael Jackson,4231,ST,3,0.75,1,Zian Flemming
+FTX-06UZO,burnley,mgr:c49e040048ca,Scott Parker,433,ST,1,0.058823529411764705,4,Zian Flemming
+FTX-06UZO,burnley,mgr:c49e040048ca,Scott Parker,442,ST,2,0.11764705882352941,3,Zian Flemming
+FTX-06UZO,burnley,mgr:c49e040048ca,Scott Parker,451,ST,1,0.058823529411764705,4,Zian Flemming
+FTX-06UZO,burnley,mgr:c49e040048ca,Scott Parker,541,ST,2,0.11764705882352941,3,Zian Flemming
+FTX-06UZO,burnley,mgr:c49e040048ca,Scott Parker,3421,ST,3,0.17647058823529413,2,Zian Flemming
+FTX-06UZO,burnley,mgr:c49e040048ca,Scott Parker,4231,ST,8,0.47058823529411764,1,Zian Flemming
+FTX-06UZU,chelsea,mgr:4fed4e69ba04,Liam Rosenior,433,CB,1,1.0,1,Mamadou Sarr
+FTX-06UZY,leeds_united,mgr:fa5d385e34dc,Daniel Farke,352,CM,6,0.42857142857142855,1,Ao Tanaka
+FTX-06UZY,leeds_united,mgr:fa5d385e34dc,Daniel Farke,433,CM,4,0.2857142857142857,2,Ao Tanaka
+FTX-06UZY,leeds_united,mgr:fa5d385e34dc,Daniel Farke,3421,CM,3,0.21428571428571427,3,Ao Tanaka
+FTX-06UZY,leeds_united,mgr:fa5d385e34dc,Daniel Farke,4141,CM,1,0.07142857142857142,4,Ao Tanaka
+FTX-06V01,leeds_united,mgr:fa5d385e34dc,Daniel Farke,352,CM,4,0.26666666666666666,1,Ilia Gruev
+FTX-06V01,leeds_united,mgr:fa5d385e34dc,Daniel Farke,433,CM,3,0.2,2,Ilia Gruev
+FTX-06V01,leeds_united,mgr:fa5d385e34dc,Daniel Farke,451,CM,1,0.06666666666666667,3,Ilia Gruev
+FTX-06V01,leeds_united,mgr:fa5d385e34dc,Daniel Farke,541,CM,3,0.2,2,Ilia Gruev
+FTX-06V01,leeds_united,mgr:fa5d385e34dc,Daniel Farke,3142,CM,1,0.06666666666666667,3,Ilia Gruev
+FTX-06V01,leeds_united,mgr:fa5d385e34dc,Daniel Farke,3421,CM,3,0.2,2,Ilia Gruev
+FTX-06V02,leeds_united,mgr:fa5d385e34dc,Daniel Farke,433,ST,2,1.0,1,Joël Piroe
+FTX-06V05,liverpool,mgr:328a5fafed26,Arne Slot,4222,CAM,1,0.08333333333333333,3,Jeremie Frimpong
+FTX-06V05,liverpool,mgr:328a5fafed26,Arne Slot,4222,RB,1,0.08333333333333333,3,Jeremie Frimpong
+FTX-06V05,liverpool,mgr:328a5fafed26,Arne Slot,4231,RB,5,0.4166666666666667,1,Jeremie Frimpong
+FTX-06V05,liverpool,mgr:328a5fafed26,Arne Slot,4231,RW,4,0.3333333333333333,2,Jeremie Frimpong
+FTX-06V05,liverpool,mgr:328a5fafed26,Arne Slot,41212,RB,1,0.08333333333333333,3,Jeremie Frimpong
+FTX-06V06,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,433,CM,3,0.15789473684210525,3,Tijjani Reijnders
+FTX-06V06,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4141,CM,8,0.42105263157894735,1,Tijjani Reijnders
+FTX-06V06,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4141,DM,1,0.05263157894736842,4,Tijjani Reijnders
+FTX-06V06,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4141,LM,1,0.05263157894736842,4,Tijjani Reijnders
+FTX-06V06,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4222,ST,1,0.05263157894736842,4,Tijjani Reijnders
+FTX-06V06,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4231,DM,1,0.05263157894736842,4,Tijjani Reijnders
+FTX-06V06,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4321,CM,4,0.21052631578947367,2,Tijjani Reijnders
+FTX-06V07,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4132,CM,3,0.16666666666666666,3,Rayan Cherki
+FTX-06V07,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4141,CM,2,0.1111111111111111,4,Rayan Cherki
+FTX-06V07,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4141,LM,1,0.05555555555555555,5,Rayan Cherki
+FTX-06V07,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4231,CAM,5,0.2777777777777778,2,Rayan Cherki
+FTX-06V07,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4321,CAM,7,0.3888888888888889,1,Rayan Cherki
+FTX-06V0F,sunderland,mgr:1a031e232e88,Régis Le Bris,433,CB,1,1.0,1,Jenson Seelt
+FTX-06V0G,sunderland,mgr:1a031e232e88,Régis Le Bris,343,RWB,1,0.029411764705882353,6,Trai Hume
+FTX-06V0G,sunderland,mgr:1a031e232e88,Régis Le Bris,433,RB,5,0.14705882352941177,3,Trai Hume
+FTX-06V0G,sunderland,mgr:1a031e232e88,Régis Le Bris,442,RM,3,0.08823529411764706,5,Trai Hume
+FTX-06V0G,sunderland,mgr:1a031e232e88,Régis Le Bris,541,LB,1,0.029411764705882353,6,Trai Hume
+FTX-06V0G,sunderland,mgr:1a031e232e88,Régis Le Bris,541,RB,4,0.11764705882352941,4,Trai Hume
+FTX-06V0G,sunderland,mgr:1a031e232e88,Régis Le Bris,4141,LB,3,0.08823529411764706,5,Trai Hume
+FTX-06V0G,sunderland,mgr:1a031e232e88,Régis Le Bris,4231,LB,6,0.17647058823529413,2,Trai Hume
+FTX-06V0G,sunderland,mgr:1a031e232e88,Régis Le Bris,4231,RB,4,0.11764705882352941,4,Trai Hume
+FTX-06V0G,sunderland,mgr:1a031e232e88,Régis Le Bris,4231,RW,7,0.20588235294117646,1,Trai Hume
+FTX-06V0L,sunderland,mgr:1a031e232e88,Régis Le Bris,433,CM,1,0.09090909090909091,3,Chris Rigg
+FTX-06V0L,sunderland,mgr:1a031e232e88,Régis Le Bris,4141,RM,2,0.18181818181818182,2,Chris Rigg
+FTX-06V0L,sunderland,mgr:1a031e232e88,Régis Le Bris,4231,CAM,2,0.18181818181818182,2,Chris Rigg
+FTX-06V0L,sunderland,mgr:1a031e232e88,Régis Le Bris,4231,RW,6,0.5454545454545454,1,Chris Rigg
+FTX-06V0M,sunderland,mgr:1a031e232e88,Régis Le Bris,4141,CB,1,0.2,2,Luke O'Nien
+FTX-06V0M,sunderland,mgr:1a031e232e88,Régis Le Bris,4231,CB,3,0.6,1,Luke O'Nien
+FTX-06V0M,sunderland,mgr:1a031e232e88,Régis Le Bris,4231,RB,1,0.2,2,Luke O'Nien
+FTX-06V0P,sunderland,mgr:1a031e232e88,Régis Le Bris,442,CM,2,0.06666666666666667,4,Enzo Le Fée
+FTX-06V0P,sunderland,mgr:1a031e232e88,Régis Le Bris,442,ST,1,0.03333333333333333,5,Enzo Le Fée
+FTX-06V0P,sunderland,mgr:1a031e232e88,Régis Le Bris,541,CM,1,0.03333333333333333,5,Enzo Le Fée
+FTX-06V0P,sunderland,mgr:1a031e232e88,Régis Le Bris,541,LM,4,0.13333333333333333,3,Enzo Le Fée
+FTX-06V0P,sunderland,mgr:1a031e232e88,Régis Le Bris,4141,CM,1,0.03333333333333333,5,Enzo Le Fée
+FTX-06V0P,sunderland,mgr:1a031e232e88,Régis Le Bris,4231,CAM,12,0.4,1,Enzo Le Fée
+FTX-06V0P,sunderland,mgr:1a031e232e88,Régis Le Bris,4231,DM,2,0.06666666666666667,4,Enzo Le Fée
+FTX-06V0P,sunderland,mgr:1a031e232e88,Régis Le Bris,4231,LW,7,0.23333333333333334,2,Enzo Le Fée
+FTX-06V0S,sunderland,mgr:1a031e232e88,Régis Le Bris,433,ST,3,0.375,1,Eliezer Mayenda
+FTX-06V0S,sunderland,mgr:1a031e232e88,Régis Le Bris,442,ST,2,0.25,2,Eliezer Mayenda
+FTX-06V0S,sunderland,mgr:1a031e232e88,Régis Le Bris,4231,RW,1,0.125,3,Eliezer Mayenda
+FTX-06V0S,sunderland,mgr:1a031e232e88,Régis Le Bris,4231,ST,2,0.25,2,Eliezer Mayenda
+FTX-06V0T,sunderland,mgr:1a031e232e88,Régis Le Bris,343,ST,1,0.09090909090909091,3,Wilson Isidor
+FTX-06V0T,sunderland,mgr:1a031e232e88,Régis Le Bris,433,ST,2,0.18181818181818182,2,Wilson Isidor
+FTX-06V0T,sunderland,mgr:1a031e232e88,Régis Le Bris,541,ST,4,0.36363636363636365,1,Wilson Isidor
+FTX-06V0T,sunderland,mgr:1a031e232e88,Régis Le Bris,4231,ST,4,0.36363636363636365,1,Wilson Isidor
+FTX-06V12,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,352,CM,1,1.0,1,Fer López
+FTX-06V12,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,3421,CAM,1,1.0,1,Fer López
+FTX-06V21,liverpool,mgr:328a5fafed26,Arne Slot,4222,CAM,1,0.037037037037037035,3,Florian Wirtz
+FTX-06V21,liverpool,mgr:328a5fafed26,Arne Slot,4222,ST,1,0.037037037037037035,3,Florian Wirtz
+FTX-06V21,liverpool,mgr:328a5fafed26,Arne Slot,4231,CAM,16,0.5925925925925926,1,Florian Wirtz
+FTX-06V21,liverpool,mgr:328a5fafed26,Arne Slot,4231,LW,6,0.2222222222222222,2,Florian Wirtz
+FTX-06V21,liverpool,mgr:328a5fafed26,Arne Slot,4231,RW,1,0.037037037037037035,3,Florian Wirtz
+FTX-06V21,liverpool,mgr:328a5fafed26,Arne Slot,4231,ST,1,0.037037037037037035,3,Florian Wirtz
+FTX-06V21,liverpool,mgr:328a5fafed26,Arne Slot,41212,CM,1,0.037037037037037035,3,Florian Wirtz
+FTX-06V51,leeds_united,mgr:fa5d385e34dc,Daniel Farke,352,CB,11,0.5238095238095238,1,Jaka Bijol
+FTX-06V51,leeds_united,mgr:fa5d385e34dc,Daniel Farke,433,CB,2,0.09523809523809523,3,Jaka Bijol
+FTX-06V51,leeds_united,mgr:fa5d385e34dc,Daniel Farke,541,CB,1,0.047619047619047616,4,Jaka Bijol
+FTX-06V51,leeds_united,mgr:fa5d385e34dc,Daniel Farke,3142,CB,1,0.047619047619047616,4,Jaka Bijol
+FTX-06V51,leeds_united,mgr:fa5d385e34dc,Daniel Farke,3412,CB,2,0.09523809523809523,3,Jaka Bijol
+FTX-06V51,leeds_united,mgr:fa5d385e34dc,Daniel Farke,3421,CB,3,0.14285714285714285,2,Jaka Bijol
+FTX-06V51,leeds_united,mgr:fa5d385e34dc,Daniel Farke,4141,CB,1,0.047619047619047616,4,Jaka Bijol
+FTX-06V6N,burnley,mgr:7670d95f755e,Michael Jackson,541,LB,1,1.0,1,Quilindschy Hartman
+FTX-06V6N,burnley,mgr:c49e040048ca,Scott Parker,433,LB,2,0.1,3,Quilindschy Hartman
+FTX-06V6N,burnley,mgr:c49e040048ca,Scott Parker,442,LB,1,0.05,4,Quilindschy Hartman
+FTX-06V6N,burnley,mgr:c49e040048ca,Scott Parker,541,LB,7,0.35,2,Quilindschy Hartman
+FTX-06V6N,burnley,mgr:c49e040048ca,Scott Parker,4231,LB,10,0.5,1,Quilindschy Hartman
+FTX-06XZC,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,4231,ST,1,1.0,1,Stefanos Tzimas
+FTX-06XZD,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,4231,ST,2,1.0,1,Charalampos Kostoulas
+FTX-06XZE,crystal_palace,mgr:1058459b93f2,Oliver Glasner,3421,GK,1,1.0,1,Walter Benítez
+FTX-06XZG,liverpool,mgr:328a5fafed26,Arne Slot,4231,GK,9,0.9,1,Giorgi Mamardashvili
+FTX-06XZG,liverpool,mgr:328a5fafed26,Arne Slot,41212,GK,1,0.1,2,Giorgi Mamardashvili
+FTX-06Y26,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,433,LB,1,0.1111111111111111,2,Olivier Boscagli
+FTX-06Y26,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,4231,CB,8,0.8888888888888888,1,Olivier Boscagli
+FTX-06Y27,burnley,mgr:7670d95f755e,Michael Jackson,541,RM,1,0.25,2,Loum Tchaouna
+FTX-06Y27,burnley,mgr:7670d95f755e,Michael Jackson,4231,RW,3,0.75,1,Loum Tchaouna
+FTX-06Y27,burnley,mgr:c49e040048ca,Scott Parker,442,RM,1,0.125,3,Loum Tchaouna
+FTX-06Y27,burnley,mgr:c49e040048ca,Scott Parker,541,RM,5,0.625,1,Loum Tchaouna
+FTX-06Y27,burnley,mgr:c49e040048ca,Scott Parker,4231,RW,2,0.25,2,Loum Tchaouna
+FTX-06Y28,leeds_united,mgr:fa5d385e34dc,Daniel Farke,352,CB,3,0.6,1,Sebastiaan Bornauw
+FTX-06Y28,leeds_united,mgr:fa5d385e34dc,Daniel Farke,541,CB,1,0.2,2,Sebastiaan Bornauw
+FTX-06Y28,leeds_united,mgr:fa5d385e34dc,Daniel Farke,3421,CB,1,0.2,2,Sebastiaan Bornauw
+FTX-06Y29,sunderland,mgr:1a031e232e88,Régis Le Bris,433,CM,4,0.26666666666666666,2,Habib Diarra
+FTX-06Y29,sunderland,mgr:1a031e232e88,Régis Le Bris,541,RM,1,0.06666666666666667,4,Habib Diarra
+FTX-06Y29,sunderland,mgr:1a031e232e88,Régis Le Bris,4141,CM,3,0.2,3,Habib Diarra
+FTX-06Y29,sunderland,mgr:1a031e232e88,Régis Le Bris,4231,CAM,7,0.4666666666666667,1,Habib Diarra
+FTX-06Y4G,brentford,mgr:5f487ee40c90,Keith Andrews,4231,CAM,1,1.0,1,Antoni Milambo
+FTX-06Y59,sunderland,mgr:1a031e232e88,Régis Le Bris,343,CM,1,0.030303030303030304,4,Noah Sadiki
+FTX-06Y59,sunderland,mgr:1a031e232e88,Régis Le Bris,433,CM,5,0.15151515151515152,2,Noah Sadiki
+FTX-06Y59,sunderland,mgr:1a031e232e88,Régis Le Bris,442,CM,2,0.06060606060606061,3,Noah Sadiki
+FTX-06Y59,sunderland,mgr:1a031e232e88,Régis Le Bris,541,CM,5,0.15151515151515152,2,Noah Sadiki
+FTX-06Y59,sunderland,mgr:1a031e232e88,Régis Le Bris,4141,CM,2,0.06060606060606061,3,Noah Sadiki
+FTX-06Y59,sunderland,mgr:1a031e232e88,Régis Le Bris,4141,DM,1,0.030303030303030304,4,Noah Sadiki
+FTX-06Y59,sunderland,mgr:1a031e232e88,Régis Le Bris,4231,DM,17,0.5151515151515151,1,Noah Sadiki
+FTX-06Y9M,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,433,LB,1,0.058823529411764705,3,Maxim De Cuyper
+FTX-06Y9M,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,3421,LWB,1,0.058823529411764705,3,Maxim De Cuyper
+FTX-06Y9M,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,4231,LB,10,0.5882352941176471,1,Maxim De Cuyper
+FTX-06Y9M,brighton,mgr:dfda8206a0e2,Fabian Hürzeler,4231,LW,5,0.29411764705882354,2,Maxim De Cuyper
+FTX-06Y9N,chelsea,mgr:4fed4e69ba04,Liam Rosenior,4141,RM,1,1.0,1,Jamie Gittens
+FTX-06Y9N,chelsea,mgr:dc01d928d84f,Enzo Maresca,4231,LW,4,1.0,1,Jamie Gittens
+FTX-06Y9O,nottingham_forest,mgr:224591e666ec,Sean Dyche,451,ST,1,0.058823529411764705,2,Igor Jesus
+FTX-06Y9O,nottingham_forest,mgr:224591e666ec,Sean Dyche,4231,ST,16,0.9411764705882353,1,Igor Jesus
+FTX-06Y9O,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,442,ST,4,0.36363636363636365,2,Igor Jesus
+FTX-06Y9O,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,532,ST,1,0.09090909090909091,3,Igor Jesus
+FTX-06Y9O,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,3421,CAM,1,0.09090909090909091,3,Igor Jesus
+FTX-06Y9O,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,4231,ST,5,0.45454545454545453,1,Igor Jesus
+FTX-06Y9Z,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,433,CM,22,0.6470588235294118,1,Martín Zubimendi
+FTX-06Y9Z,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,4231,DM,11,0.3235294117647059,2,Martín Zubimendi
+FTX-06Y9Z,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,4231,RB,1,0.029411764705882353,3,Martín Zubimendi
+FTX-06YB7,leeds_united,mgr:fa5d385e34dc,Daniel Farke,352,LWB,8,0.25806451612903225,2,Gabriel Gudmundsson
+FTX-06YB7,leeds_united,mgr:fa5d385e34dc,Daniel Farke,433,LB,11,0.3548387096774194,1,Gabriel Gudmundsson
+FTX-06YB7,leeds_united,mgr:fa5d385e34dc,Daniel Farke,451,LB,1,0.03225806451612903,5,Gabriel Gudmundsson
+FTX-06YB7,leeds_united,mgr:fa5d385e34dc,Daniel Farke,541,LB,3,0.0967741935483871,4,Gabriel Gudmundsson
+FTX-06YB7,leeds_united,mgr:fa5d385e34dc,Daniel Farke,3142,LM,1,0.03225806451612903,5,Gabriel Gudmundsson
+FTX-06YB7,leeds_united,mgr:fa5d385e34dc,Daniel Farke,3412,LM,1,0.03225806451612903,5,Gabriel Gudmundsson
+FTX-06YB7,leeds_united,mgr:fa5d385e34dc,Daniel Farke,3421,LWB,5,0.16129032258064516,3,Gabriel Gudmundsson
+FTX-06YB7,leeds_united,mgr:fa5d385e34dc,Daniel Farke,4141,LB,1,0.03225806451612903,5,Gabriel Gudmundsson
+FTX-06YB9,sunderland,mgr:1a031e232e88,Régis Le Bris,343,LWB,1,0.043478260869565216,5,Reinildo Mandava
+FTX-06YB9,sunderland,mgr:1a031e232e88,Régis Le Bris,433,LB,5,0.21739130434782608,2,Reinildo Mandava
+FTX-06YB9,sunderland,mgr:1a031e232e88,Régis Le Bris,442,LB,2,0.08695652173913043,4,Reinildo Mandava
+FTX-06YB9,sunderland,mgr:1a031e232e88,Régis Le Bris,541,LB,4,0.17391304347826086,3,Reinildo Mandava
+FTX-06YB9,sunderland,mgr:1a031e232e88,Régis Le Bris,4231,LB,11,0.4782608695652174,1,Reinildo Mandava
+FTX-06YBP,everton,mgr:84316c036a2d,David Moyes,433,ST,1,0.047619047619047616,2,Thierno Barry
+FTX-06YBP,everton,mgr:84316c036a2d,David Moyes,4231,ST,20,0.9523809523809523,1,Thierno Barry
+FTX-06YBQ,sunderland,mgr:1a031e232e88,Régis Le Bris,442,LM,1,0.09090909090909091,3,Chemsdine Talbi
+FTX-06YBQ,sunderland,mgr:1a031e232e88,Régis Le Bris,541,LM,1,0.09090909090909091,3,Chemsdine Talbi
+FTX-06YBQ,sunderland,mgr:1a031e232e88,Régis Le Bris,4141,LM,2,0.18181818181818182,2,Chemsdine Talbi
+FTX-06YBQ,sunderland,mgr:1a031e232e88,Régis Le Bris,4231,LW,5,0.45454545454545453,1,Chemsdine Talbi
+FTX-06YBQ,sunderland,mgr:1a031e232e88,Régis Le Bris,4231,RW,2,0.18181818181818182,2,Chemsdine Talbi
+FTX-06YGM,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,442,CB,2,0.4,1,Jair Cunha
+FTX-06YGM,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,442,RB,1,0.2,2,Jair Cunha
+FTX-06YGM,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,532,CB,1,0.2,2,Jair Cunha
+FTX-06YGM,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,3421,CB,1,0.2,2,Jair Cunha
+FTX-06YGM,nottingham_forest,mgr:baf747465a0d,Ange Postecoglou,343,CB,1,1.0,1,Jair Cunha
+FTX-06YMT,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4231,GK,6,1.0,1,Marco Bizot
+FTX-06YMU,west_ham,mgr:182deb7ae6a3,Graham Potter,433,LB,1,0.2,2,El Hadji Malick Diouf
+FTX-06YMU,west_ham,mgr:182deb7ae6a3,Graham Potter,3412,LM,2,0.4,1,El Hadji Malick Diouf
+FTX-06YMU,west_ham,mgr:182deb7ae6a3,Graham Potter,4231,LB,2,0.4,1,El Hadji Malick Diouf
+FTX-06YMU,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,343,LWB,2,0.08,4,El Hadji Malick Diouf
+FTX-06YMU,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,433,LB,3,0.12,3,El Hadji Malick Diouf
+FTX-06YMU,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,442,LB,1,0.04,5,El Hadji Malick Diouf
+FTX-06YMU,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,451,LB,2,0.08,4,El Hadji Malick Diouf
+FTX-06YMU,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,3412,LM,1,0.04,5,El Hadji Malick Diouf
+FTX-06YMU,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,3421,LWB,3,0.12,3,El Hadji Malick Diouf
+FTX-06YMU,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4141,LB,2,0.08,4,El Hadji Malick Diouf
+FTX-06YMU,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4231,LB,4,0.16,2,El Hadji Malick Diouf
+FTX-06YMU,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4312,LB,1,0.04,5,El Hadji Malick Diouf
+FTX-06YMU,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4411,LB,6,0.24,1,El Hadji Malick Diouf
+FTX-06YXE,chelsea,mgr:3b963ae58719,Calum McFarlane,4231,RW,1,1.0,1,Estêvão
+FTX-06YXE,chelsea,mgr:4fed4e69ba04,Liam Rosenior,4231,RW,4,1.0,1,Estêvão
+FTX-06YXE,chelsea,mgr:dc01d928d84f,Enzo Maresca,4231,RW,6,1.0,1,Estêvão
+FTX-06ZBM,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,433,CB,3,0.3333333333333333,2,Cristhian Mosquera
+FTX-06ZBM,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,433,RB,2,0.2222222222222222,3,Cristhian Mosquera
+FTX-06ZBM,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,4231,CB,4,0.4444444444444444,1,Cristhian Mosquera
+FTX-06ZBP,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,4231,CAM,1,1.0,1,Max Dowman
+FTX-06ZBT,crystal_palace,mgr:1058459b93f2,Oliver Glasner,3421,LWB,1,1.0,1,Rio Cardines
+FTX-06ZBX,leeds_united,mgr:fa5d385e34dc,Daniel Farke,352,CM,10,0.35714285714285715,1,Anton Stach
+FTX-06ZBX,leeds_united,mgr:fa5d385e34dc,Daniel Farke,433,CM,10,0.35714285714285715,1,Anton Stach
+FTX-06ZBX,leeds_united,mgr:fa5d385e34dc,Daniel Farke,451,CM,1,0.03571428571428571,3,Anton Stach
+FTX-06ZBX,leeds_united,mgr:fa5d385e34dc,Daniel Farke,541,RM,2,0.07142857142857142,2,Anton Stach
+FTX-06ZBX,leeds_united,mgr:fa5d385e34dc,Daniel Farke,3142,CM,1,0.03571428571428571,3,Anton Stach
+FTX-06ZBX,leeds_united,mgr:fa5d385e34dc,Daniel Farke,3412,CM,2,0.07142857142857142,2,Anton Stach
+FTX-06ZBX,leeds_united,mgr:fa5d385e34dc,Daniel Farke,3421,CAM,2,0.07142857142857142,2,Anton Stach
+FTX-06ZBZ,liverpool,mgr:328a5fafed26,Arne Slot,4231,ST,20,0.9523809523809523,1,Hugo Ekitiké
+FTX-06ZBZ,liverpool,mgr:328a5fafed26,Arne Slot,41212,ST,1,0.047619047619047616,2,Hugo Ekitiké
+FTX-06ZCE,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,352,CM,4,0.8,1,Jhon Arias
+FTX-06ZCE,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,3421,CAM,1,0.2,2,Jhon Arias
+FTX-06ZCE,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,532,ST,1,1.0,1,Jhon Arias
+FTX-06ZNA,nottingham_forest,mgr:224591e666ec,Sean Dyche,4231,LW,2,0.2857142857142857,2,Dan Ndoye
+FTX-06ZNA,nottingham_forest,mgr:224591e666ec,Sean Dyche,4231,RW,5,0.7142857142857143,1,Dan Ndoye
+FTX-06ZNA,nottingham_forest,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4231,RW,3,1.0,1,Dan Ndoye
+FTX-06ZNA,nottingham_forest,mgr:baf747465a0d,Ange Postecoglou,4231,LW,2,0.6666666666666666,1,Dan Ndoye
+FTX-06ZNA,nottingham_forest,mgr:baf747465a0d,Ange Postecoglou,4231,RW,1,0.3333333333333333,2,Dan Ndoye
+FTX-06ZNB,sunderland,mgr:1a031e232e88,Régis Le Bris,343,GK,1,0.02857142857142857,4,Robin Roefs
+FTX-06ZNB,sunderland,mgr:1a031e232e88,Régis Le Bris,433,GK,5,0.14285714285714285,2,Robin Roefs
+FTX-06ZNB,sunderland,mgr:1a031e232e88,Régis Le Bris,442,GK,3,0.08571428571428572,3,Robin Roefs
+FTX-06ZNB,sunderland,mgr:1a031e232e88,Régis Le Bris,541,GK,5,0.14285714285714285,2,Robin Roefs
+FTX-06ZNB,sunderland,mgr:1a031e232e88,Régis Le Bris,4141,GK,1,0.02857142857142857,4,Robin Roefs
+FTX-06ZNB,sunderland,mgr:1a031e232e88,Régis Le Bris,4231,GK,20,0.5714285714285714,1,Robin Roefs
+FTX-06ZQQ,chelsea,mgr:3b963ae58719,Calum McFarlane,3412,CB,1,0.3333333333333333,1,Jorrel Hato
+FTX-06ZQQ,chelsea,mgr:3b963ae58719,Calum McFarlane,4231,CB,1,0.3333333333333333,1,Jorrel Hato
+FTX-06ZQQ,chelsea,mgr:3b963ae58719,Calum McFarlane,4231,LB,1,0.3333333333333333,1,Jorrel Hato
+FTX-06ZQQ,chelsea,mgr:4fed4e69ba04,Liam Rosenior,433,LB,2,0.2857142857142857,2,Jorrel Hato
+FTX-06ZQQ,chelsea,mgr:4fed4e69ba04,Liam Rosenior,541,CB,1,0.14285714285714285,3,Jorrel Hato
+FTX-06ZQQ,chelsea,mgr:4fed4e69ba04,Liam Rosenior,4141,LB,1,0.14285714285714285,3,Jorrel Hato
+FTX-06ZQQ,chelsea,mgr:4fed4e69ba04,Liam Rosenior,4231,CB,3,0.42857142857142855,1,Jorrel Hato
+FTX-06ZQQ,chelsea,mgr:dc01d928d84f,Enzo Maresca,433,CB,1,0.5,1,Jorrel Hato
+FTX-06ZQQ,chelsea,mgr:dc01d928d84f,Enzo Maresca,4231,LB,1,0.5,1,Jorrel Hato
+FTX-06ZWJ,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4231,LW,1,0.16666666666666666,2,Evann Guessand
+FTX-06ZWJ,aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4231,RW,5,0.8333333333333334,1,Evann Guessand
+FTX-06ZWJ,crystal_palace,mgr:1058459b93f2,Oliver Glasner,3421,CAM,3,1.0,1,Evann Guessand
+FTX-06ZXY,manchester_united,mgr:3aa905054daf,Michael Carrick,4231,ST,6,1.0,1,Benjamin Sesko
+FTX-06ZXY,manchester_united,mgr:662d1720cf8b,Ruben Filipe Marques Diogo Amorim,3421,ST,8,0.8,1,Benjamin Sesko
+FTX-06ZXY,manchester_united,mgr:662d1720cf8b,Ruben Filipe Marques Diogo Amorim,4231,ST,2,0.2,2,Benjamin Sesko
+FTX-06ZXY,manchester_united,mgr:98dfad21cc80,Darren Fletcher,4231,ST,1,1.0,1,Benjamin Sesko
+FTX-0700P,newcastle_united,mgr:65451ab24622,Eddie Howe,352,CB,1,0.030303030303030304,3,Malick Thiaw
+FTX-0700P,newcastle_united,mgr:65451ab24622,Eddie Howe,433,CB,25,0.7575757575757576,1,Malick Thiaw
+FTX-0700P,newcastle_united,mgr:65451ab24622,Eddie Howe,451,CB,1,0.030303030303030304,3,Malick Thiaw
+FTX-0700P,newcastle_united,mgr:65451ab24622,Eddie Howe,3421,CB,1,0.030303030303030304,3,Malick Thiaw
+FTX-0700P,newcastle_united,mgr:65451ab24622,Eddie Howe,4141,CB,1,0.030303030303030304,3,Malick Thiaw
+FTX-0700P,newcastle_united,mgr:65451ab24622,Eddie Howe,4231,CB,4,0.12121212121212122,2,Malick Thiaw
+FTX-0700T,sunderland,mgr:1a031e232e88,Régis Le Bris,433,CB,4,0.125,2,Omar Alderete
+FTX-0700T,sunderland,mgr:1a031e232e88,Régis Le Bris,442,CB,3,0.09375,3,Omar Alderete
+FTX-0700T,sunderland,mgr:1a031e232e88,Régis Le Bris,541,CB,2,0.0625,4,Omar Alderete
+FTX-0700T,sunderland,mgr:1a031e232e88,Régis Le Bris,4141,CB,3,0.09375,3,Omar Alderete
+FTX-0700T,sunderland,mgr:1a031e232e88,Régis Le Bris,4231,CB,20,0.625,1,Omar Alderete
+FTX-0700U,bournemouth,mgr:b4b8eecb310f,Andoni Iraola,4141,CB,2,0.13333333333333333,2,Bafodé Diakité
+FTX-0700U,bournemouth,mgr:b4b8eecb310f,Andoni Iraola,4231,CB,13,0.8666666666666667,1,Bafodé Diakité
+FTX-0703C,sunderland,mgr:1a031e232e88,Régis Le Bris,343,CB,1,0.03125,6,Nordi Mukiele
+FTX-0703C,sunderland,mgr:1a031e232e88,Régis Le Bris,433,CB,3,0.09375,4,Nordi Mukiele
+FTX-0703C,sunderland,mgr:1a031e232e88,Régis Le Bris,442,CB,1,0.03125,6,Nordi Mukiele
+FTX-0703C,sunderland,mgr:1a031e232e88,Régis Le Bris,442,RB,2,0.0625,5,Nordi Mukiele
+FTX-0703C,sunderland,mgr:1a031e232e88,Régis Le Bris,541,CB,4,0.125,3,Nordi Mukiele
+FTX-0703C,sunderland,mgr:1a031e232e88,Régis Le Bris,541,RB,1,0.03125,6,Nordi Mukiele
+FTX-0703C,sunderland,mgr:1a031e232e88,Régis Le Bris,4141,RB,1,0.03125,6,Nordi Mukiele
+FTX-0703C,sunderland,mgr:1a031e232e88,Régis Le Bris,4231,CB,7,0.21875,2,Nordi Mukiele
+FTX-0703C,sunderland,mgr:1a031e232e88,Régis Le Bris,4231,RB,12,0.375,1,Nordi Mukiele
+FTX-070BG,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,343,RWB,2,0.13333333333333333,2,Jackson Tchatchoua
+FTX-070BG,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,352,RWB,5,0.3333333333333333,1,Jackson Tchatchoua
+FTX-070BG,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,532,RB,1,0.06666666666666667,3,Jackson Tchatchoua
+FTX-070BG,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,3421,RWB,5,0.3333333333333333,1,Jackson Tchatchoua
+FTX-070BG,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,3511,RWB,2,0.13333333333333333,2,Jackson Tchatchoua
+FTX-070BG,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,343,RWB,1,0.3333333333333333,1,Jackson Tchatchoua
+FTX-070BG,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,433,RB,1,0.3333333333333333,1,Jackson Tchatchoua
+FTX-070BG,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,3421,RWB,1,0.3333333333333333,1,Jackson Tchatchoua
+FTX-070BG,wolverhampton_wanderers,mgr:b72337fa641c,James Collins,532,RB,1,1.0,1,Jackson Tchatchoua
+FTX-070CI,bournemouth,mgr:b4b8eecb310f,Andoni Iraola,4231,LW,7,0.7,1,Amine Adli
+FTX-070CI,bournemouth,mgr:b4b8eecb310f,Andoni Iraola,4231,RW,3,0.3,2,Amine Adli
+FTX-070CJ,leeds_united,mgr:fa5d385e34dc,Daniel Farke,352,ST,7,0.5833333333333334,1,Noah Okafor
+FTX-070CJ,leeds_united,mgr:fa5d385e34dc,Daniel Farke,3421,CAM,4,0.3333333333333333,2,Noah Okafor
+FTX-070CJ,leeds_united,mgr:fa5d385e34dc,Daniel Farke,4141,LM,1,0.08333333333333333,3,Noah Okafor
+FTX-070F4,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,352,CB,6,0.3157894736842105,1,Ladislav Krejcí
+FTX-070F4,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,352,CM,1,0.05263157894736842,3,Ladislav Krejcí
+FTX-070F4,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,532,CB,1,0.05263157894736842,3,Ladislav Krejcí
+FTX-070F4,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,3412,CB,1,0.05263157894736842,3,Ladislav Krejcí
+FTX-070F4,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,3421,CB,6,0.3157894736842105,1,Ladislav Krejcí
+FTX-070F4,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,3421,CM,1,0.05263157894736842,3,Ladislav Krejcí
+FTX-070F4,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,3511,CB,2,0.10526315789473684,2,Ladislav Krejcí
+FTX-070F4,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,4231,CB,1,0.05263157894736842,3,Ladislav Krejcí
+FTX-070F4,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,352,CM,1,0.14285714285714285,2,Ladislav Krejcí
+FTX-070F4,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,433,CB,4,0.5714285714285714,1,Ladislav Krejcí
+FTX-070F4,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,532,CM,1,0.14285714285714285,2,Ladislav Krejcí
+FTX-070F4,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,3421,CM,1,0.14285714285714285,2,Ladislav Krejcí
+FTX-070F4,wolverhampton_wanderers,mgr:b72337fa641c,James Collins,532,CB,1,1.0,1,Ladislav Krejcí
+FTX-070F9,crystal_palace,mgr:1058459b93f2,Oliver Glasner,541,LM,1,0.043478260869565216,2,Yéremy Pino
+FTX-070F9,crystal_palace,mgr:1058459b93f2,Oliver Glasner,3421,CAM,21,0.9130434782608695,1,Yéremy Pino
+FTX-070F9,crystal_palace,mgr:1058459b93f2,Oliver Glasner,3421,ST,1,0.043478260869565216,2,Yéremy Pino
+FTX-070FA,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,3421,CAM,2,0.16666666666666666,2,Xavi Simons
+FTX-070FA,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,4222,ST,1,0.08333333333333333,3,Xavi Simons
+FTX-070FA,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,4231,CAM,7,0.5833333333333334,1,Xavi Simons
+FTX-070FA,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,4231,LW,2,0.16666666666666666,2,Xavi Simons
+FTX-070FA,tottenham_hotspur,mgr:b283d24885e5,Roberto De Zerbi,4231,LW,1,1.0,1,Xavi Simons
+FTX-070FA,tottenham_hotspur,mgr:e99dd67f9cac,Igor Tudor,352,ST,1,0.5,1,Xavi Simons
+FTX-070FA,tottenham_hotspur,mgr:e99dd67f9cac,Igor Tudor,442,LM,1,0.5,1,Xavi Simons
+FTX-070G7,newcastle_united,mgr:65451ab24622,Eddie Howe,352,ST,1,0.041666666666666664,4,Nick Woltemade
+FTX-070G7,newcastle_united,mgr:65451ab24622,Eddie Howe,433,CM,2,0.08333333333333333,3,Nick Woltemade
+FTX-070G7,newcastle_united,mgr:65451ab24622,Eddie Howe,433,ST,15,0.625,1,Nick Woltemade
+FTX-070G7,newcastle_united,mgr:65451ab24622,Eddie Howe,451,ST,1,0.041666666666666664,4,Nick Woltemade
+FTX-070G7,newcastle_united,mgr:65451ab24622,Eddie Howe,3421,ST,1,0.041666666666666664,4,Nick Woltemade
+FTX-070G7,newcastle_united,mgr:65451ab24622,Eddie Howe,4231,CAM,4,0.16666666666666666,2,Nick Woltemade
+FTX-070G8,nottingham_forest,mgr:224591e666ec,Sean Dyche,4231,RB,10,1.0,1,Nicolò Savona
+FTX-070G8,nottingham_forest,mgr:baf747465a0d,Ange Postecoglou,343,RWB,1,1.0,1,Nicolò Savona
+FTX-070G9,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,451,CM,2,0.18181818181818182,2,Soungoutou Magassa
+FTX-070G9,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4141,DM,2,0.18181818181818182,2,Soungoutou Magassa
+FTX-070G9,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4231,DM,4,0.36363636363636365,1,Soungoutou Magassa
+FTX-070G9,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4312,CM,2,0.18181818181818182,2,Soungoutou Magassa
+FTX-070G9,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4321,CM,1,0.09090909090909091,3,Soungoutou Magassa
+FTX-070GT,nottingham_forest,mgr:224591e666ec,Sean Dyche,451,GK,1,0.2,2,John Victor
+FTX-070GT,nottingham_forest,mgr:224591e666ec,Sean Dyche,4231,GK,4,0.8,1,John Victor
+FTX-070GU,bournemouth,mgr:b4b8eecb310f,Andoni Iraola,4231,RB,21,0.8076923076923077,1,Álex Jiménez
+FTX-070GU,bournemouth,mgr:b4b8eecb310f,Andoni Iraola,4231,RW,5,0.19230769230769232,2,Álex Jiménez
+FTX-070H9,bournemouth,mgr:b4b8eecb310f,Andoni Iraola,4231,CB,4,1.0,1,Veljko Milosavljevic
+FTX-070HA,burnley,mgr:7670d95f755e,Michael Jackson,4231,DM,3,1.0,1,Florentino
+FTX-070HA,burnley,mgr:c49e040048ca,Scott Parker,343,CM,1,0.045454545454545456,4,Florentino
+FTX-070HA,burnley,mgr:c49e040048ca,Scott Parker,433,CM,3,0.13636363636363635,3,Florentino
+FTX-070HA,burnley,mgr:c49e040048ca,Scott Parker,442,CM,1,0.045454545454545456,4,Florentino
+FTX-070HA,burnley,mgr:c49e040048ca,Scott Parker,451,CM,1,0.045454545454545456,4,Florentino
+FTX-070HA,burnley,mgr:c49e040048ca,Scott Parker,541,CM,5,0.22727272727272727,2,Florentino
+FTX-070HA,burnley,mgr:c49e040048ca,Scott Parker,3421,CM,5,0.22727272727272727,2,Florentino
+FTX-070HA,burnley,mgr:c49e040048ca,Scott Parker,4231,DM,6,0.2727272727272727,1,Florentino
+FTX-070HB,crystal_palace,mgr:1058459b93f2,Oliver Glasner,343,CB,2,0.14285714285714285,2,Jaydee Canvot
+FTX-070HB,crystal_palace,mgr:1058459b93f2,Oliver Glasner,541,CB,1,0.07142857142857142,3,Jaydee Canvot
+FTX-070HB,crystal_palace,mgr:1058459b93f2,Oliver Glasner,3421,CB,11,0.7857142857142857,1,Jaydee Canvot
+FTX-070HC,sunderland,mgr:1a031e232e88,Régis Le Bris,442,ST,3,0.13636363636363635,2,Brian Brobbey
+FTX-070HC,sunderland,mgr:1a031e232e88,Régis Le Bris,541,ST,1,0.045454545454545456,3,Brian Brobbey
+FTX-070HC,sunderland,mgr:1a031e232e88,Régis Le Bris,4141,ST,3,0.13636363636363635,2,Brian Brobbey
+FTX-070HC,sunderland,mgr:1a031e232e88,Régis Le Bris,4231,ST,15,0.6818181818181818,1,Brian Brobbey
+FTX-070HD,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,352,ST,5,0.45454545454545453,1,Tolu Arokodare
+FTX-070HD,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,532,ST,1,0.09090909090909091,3,Tolu Arokodare
+FTX-070HD,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,3412,ST,1,0.09090909090909091,3,Tolu Arokodare
+FTX-070HD,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,3421,ST,3,0.2727272727272727,2,Tolu Arokodare
+FTX-070HD,wolverhampton_wanderers,mgr:434bf1b2b6dc,Rob Edwards,4231,ST,1,0.09090909090909091,3,Tolu Arokodare
+FTX-070HD,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,352,ST,1,0.5,1,Tolu Arokodare
+FTX-070HD,wolverhampton_wanderers,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,3421,ST,1,0.5,1,Tolu Arokodare
+FTX-070HI,everton,mgr:84316c036a2d,David Moyes,4231,CAM,1,0.16666666666666666,2,Merlin Röhl
+FTX-070HI,everton,mgr:84316c036a2d,David Moyes,4231,DM,1,0.16666666666666666,2,Merlin Röhl
+FTX-070HI,everton,mgr:84316c036a2d,David Moyes,4231,RW,4,0.6666666666666666,1,Merlin Röhl
+FTX-070HJ,fulham,mgr:d242da40969a,Marco Alexandre Saraiva da Silva,4231,LW,9,1.0,1,Kevin
+FTX-070HK,fulham,mgr:d242da40969a,Marco Alexandre Saraiva da Silva,4231,LW,9,0.9,1,Samuel Chukwueze
+FTX-070HK,fulham,mgr:d242da40969a,Marco Alexandre Saraiva da Silva,4231,RW,1,0.1,2,Samuel Chukwueze
+FTX-070HL,manchester_united,mgr:3aa905054daf,Michael Carrick,4231,GK,17,1.0,1,Senne Lammens
+FTX-070HL,manchester_united,mgr:662d1720cf8b,Ruben Filipe Marques Diogo Amorim,3421,GK,12,0.8571428571428571,1,Senne Lammens
+FTX-070HL,manchester_united,mgr:662d1720cf8b,Ruben Filipe Marques Diogo Amorim,4231,GK,2,0.14285714285714285,2,Senne Lammens
+FTX-070HL,manchester_united,mgr:98dfad21cc80,Darren Fletcher,4231,GK,1,1.0,1,Senne Lammens
+FTX-070HN,nottingham_forest,mgr:224591e666ec,Sean Dyche,451,LM,1,1.0,1,Dilane Bakwa
+FTX-070HN,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,442,RM,1,0.3333333333333333,1,Dilane Bakwa
+FTX-070HN,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,3421,CAM,1,0.3333333333333333,1,Dilane Bakwa
+FTX-070HN,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,4231,RW,1,0.3333333333333333,1,Dilane Bakwa
+FTX-070HN,nottingham_forest,mgr:baf747465a0d,Ange Postecoglou,4231,RW,2,1.0,1,Dilane Bakwa
+FTX-070HO,sunderland,mgr:1a031e232e88,Régis Le Bris,343,CB,1,0.058823529411764705,4,Lutsharel Geertruida
+FTX-070HO,sunderland,mgr:1a031e232e88,Régis Le Bris,442,RB,1,0.058823529411764705,4,Lutsharel Geertruida
+FTX-070HO,sunderland,mgr:1a031e232e88,Régis Le Bris,541,CB,4,0.23529411764705882,2,Lutsharel Geertruida
+FTX-070HO,sunderland,mgr:1a031e232e88,Régis Le Bris,4141,RB,2,0.11764705882352941,3,Lutsharel Geertruida
+FTX-070HO,sunderland,mgr:1a031e232e88,Régis Le Bris,4231,DM,5,0.29411764705882354,1,Lutsharel Geertruida
+FTX-070HO,sunderland,mgr:1a031e232e88,Régis Le Bris,4231,RB,4,0.23529411764705882,2,Lutsharel Geertruida
+FTX-070HP,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,3421,CAM,1,0.08333333333333333,4,Randal Kolo Muani
+FTX-070HP,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,4222,ST,2,0.16666666666666666,3,Randal Kolo Muani
+FTX-070HP,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,4231,LW,3,0.25,2,Randal Kolo Muani
+FTX-070HP,tottenham_hotspur,mgr:1e78f2997997,Thomas Frank,4231,ST,6,0.5,1,Randal Kolo Muani
+FTX-070HP,tottenham_hotspur,mgr:b283d24885e5,Roberto De Zerbi,4231,RW,5,1.0,1,Randal Kolo Muani
+FTX-070HP,tottenham_hotspur,mgr:e99dd67f9cac,Igor Tudor,352,ST,1,0.3333333333333333,1,Randal Kolo Muani
+FTX-070HP,tottenham_hotspur,mgr:e99dd67f9cac,Igor Tudor,442,ST,1,0.3333333333333333,1,Randal Kolo Muani
+FTX-070HP,tottenham_hotspur,mgr:e99dd67f9cac,Igor Tudor,3421,CAM,1,0.3333333333333333,1,Randal Kolo Muani
+FTX-070HQ,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,433,CB,5,0.25,3,Piero Hincapié
+FTX-070HQ,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,433,LB,7,0.35,1,Piero Hincapié
+FTX-070HQ,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,4231,CB,2,0.1,4,Piero Hincapié
+FTX-070HQ,arsenal,mgr:5fdd2f365fdc,Mikel Arteta,4231,LB,6,0.3,2,Piero Hincapié
+FTX-070HS,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,433,GK,2,0.058823529411764705,5,Gianluigi Donnarumma
+FTX-070HS,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4132,GK,7,0.20588235294117646,3,Gianluigi Donnarumma
+FTX-070HS,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4141,GK,11,0.3235294117647059,1,Gianluigi Donnarumma
+FTX-070HS,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4222,GK,1,0.029411764705882353,6,Gianluigi Donnarumma
+FTX-070HS,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4231,GK,5,0.14705882352941177,4,Gianluigi Donnarumma
+FTX-070HS,manchester_city,mgr:26dfbbc164aa,Pep Guardiola,4321,GK,8,0.23529411764705882,2,Gianluigi Donnarumma
+FTX-072J8,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,3421,CAM,1,0.1111111111111111,2,Pablo
+FTX-072J8,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4231,CAM,1,0.1111111111111111,2,Pablo
+FTX-072J8,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4411,CAM,7,0.7777777777777778,1,Pablo
+FTX-072JF,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,433,ST,1,0.058823529411764705,4,Valentín Castellanos
+FTX-072JF,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,442,ST,1,0.058823529411764705,4,Valentín Castellanos
+FTX-072JF,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,451,ST,2,0.11764705882352941,3,Valentín Castellanos
+FTX-072JF,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,3421,ST,2,0.11764705882352941,3,Valentín Castellanos
+FTX-072JF,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4231,ST,3,0.17647058823529413,2,Valentín Castellanos
+FTX-072JF,west_ham,mgr:b68b19e445ac,Nuno Herlander Simões Espírito Santo,4411,ST,8,0.47058823529411764,1,Valentín Castellanos
+FTX-072O9,sunderland,mgr:1a031e232e88,Régis Le Bris,4141,RM,1,1.0,1,Jocelin Ta Bi
+FTX-072PC,bournemouth,mgr:b4b8eecb310f,Andoni Iraola,4231,CAM,1,0.5,1,Alex Tóth
+FTX-072PC,bournemouth,mgr:b4b8eecb310f,Andoni Iraola,4231,DM,1,0.5,1,Alex Tóth
+FTX-072PY,tottenham_hotspur,mgr:e99dd67f9cac,Igor Tudor,442,RM,1,0.5,1,Souza
+FTX-072PY,tottenham_hotspur,mgr:e99dd67f9cac,Igor Tudor,3421,LWB,1,0.5,1,Souza
+FTX-072R2,nottingham_forest,mgr:224591e666ec,Sean Dyche,4231,ST,1,1.0,1,Lorenzo Lucca
+FTX-072WQ,bournemouth,mgr:b4b8eecb310f,Andoni Iraola,4231,LW,1,0.07692307692307693,2,Rayan
+FTX-072WQ,bournemouth,mgr:b4b8eecb310f,Andoni Iraola,4231,RW,12,0.9230769230769231,1,Rayan
+FTX-072ZP,sunderland,mgr:1a031e232e88,Régis Le Bris,4141,GK,2,0.6666666666666666,1,Melker Ellborg
+FTX-072ZP,sunderland,mgr:1a031e232e88,Régis Le Bris,4231,GK,1,0.3333333333333333,2,Melker Ellborg
+FTX-072ZR,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,442,LB,2,0.6666666666666666,1,Luca Netz
+FTX-072ZR,nottingham_forest,mgr:807de4c745b0,Vítor Manuel de Oliveira Lopes Pereira,3421,LWB,1,0.3333333333333333,2,Luca Netz
+FTX-072ZS,sunderland,mgr:1a031e232e88,Régis Le Bris,4141,LM,1,0.2,2,Nilson Angulo
+FTX-072ZS,sunderland,mgr:1a031e232e88,Régis Le Bris,4231,LW,3,0.6,1,Nilson Angulo
+FTX-072ZS,sunderland,mgr:1a031e232e88,Régis Le Bris,4231,RW,1,0.2,2,Nilson Angulo
+FTX-0738B,chelsea,mgr:3b963ae58719,Calum McFarlane,4231,LW,1,1.0,1,Jesse Derry

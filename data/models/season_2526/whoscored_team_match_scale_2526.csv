@@ -1,0 +1,761 @@
+canonical_match_id,whoscored_match_id,date,club_id,opponent_id,venue,goals_for,goals_against,result,formation,manager_name,manager_id,source
+understat:28778,1903117,2025-08-15,liverpool,bournemouth,H,4,2,W,4231,Arne Slot,mgr:328a5fafed26,WhoScored/Opta observed
+understat:28778,1903117,2025-08-15,bournemouth,liverpool,A,2,4,L,4141,Andoni Iraola,mgr:b4b8eecb310f,WhoScored/Opta observed
+understat:28779,1903118,2025-08-16,aston_villa,newcastle_united,H,0,0,D,4231,Unai Emery,mgr:dcdf2dffc0c2,WhoScored/Opta observed
+understat:28779,1903118,2025-08-16,newcastle_united,aston_villa,A,0,0,D,433,Eddie Howe,mgr:65451ab24622,WhoScored/Opta observed
+understat:28780,1903119,2025-08-16,brighton,fulham,H,1,1,D,4231,Fabian Hürzeler,mgr:dfda8206a0e2,WhoScored/Opta observed
+understat:28780,1903119,2025-08-16,fulham,brighton,A,1,1,D,4231,Marco Alexandre Saraiva da Silva,mgr:d242da40969a,WhoScored/Opta observed
+understat:28781,1903121,2025-08-16,sunderland,west_ham,H,3,0,W,433,Régis Le Bris,mgr:1a031e232e88,WhoScored/Opta observed
+understat:28781,1903121,2025-08-16,west_ham,sunderland,A,0,3,L,3412,Graham Potter,mgr:182deb7ae6a3,WhoScored/Opta observed
+understat:28782,1903122,2025-08-16,tottenham_hotspur,burnley,H,3,0,W,433,Thomas Frank,mgr:1e78f2997997,WhoScored/Opta observed
+understat:28782,1903122,2025-08-16,burnley,tottenham_hotspur,A,0,3,L,541,Scott Parker,mgr:c49e040048ca,WhoScored/Opta observed
+understat:28783,1903123,2025-08-16,wolverhampton_wanderers,manchester_city,H,0,4,L,343,Vítor Manuel de Oliveira Lopes Pereira,mgr:807de4c745b0,WhoScored/Opta observed
+understat:28783,1903123,2025-08-16,manchester_city,wolverhampton_wanderers,A,4,0,W,433,Pep Guardiola,mgr:26dfbbc164aa,WhoScored/Opta observed
+understat:28784,1903124,2025-08-17,chelsea,crystal_palace,H,0,0,D,4231,Enzo Maresca,mgr:dc01d928d84f,WhoScored/Opta observed
+understat:28784,1903124,2025-08-17,crystal_palace,chelsea,A,0,0,D,3421,Oliver Glasner,mgr:1058459b93f2,WhoScored/Opta observed
+understat:28785,1903120,2025-08-17,nottingham_forest,brentford,H,3,1,W,4231,Nuno Herlander Simões Espírito Santo,mgr:b68b19e445ac,WhoScored/Opta observed
+understat:28785,1903120,2025-08-17,brentford,nottingham_forest,A,1,3,L,4231,Keith Andrews,mgr:5f487ee40c90,WhoScored/Opta observed
+understat:28786,1903125,2025-08-17,manchester_united,arsenal,H,0,1,L,3421,Ruben Filipe Marques Diogo Amorim,mgr:662d1720cf8b,WhoScored/Opta observed
+understat:28786,1903125,2025-08-17,arsenal,manchester_united,A,1,0,W,433,Mikel Arteta,mgr:5fdd2f365fdc,WhoScored/Opta observed
+understat:28787,1903126,2025-08-18,leeds_united,everton,H,1,0,W,433,Daniel Farke,mgr:fa5d385e34dc,WhoScored/Opta observed
+understat:28787,1903126,2025-08-18,everton,leeds_united,A,0,1,L,4231,David Moyes,mgr:84316c036a2d,WhoScored/Opta observed
+understat:28788,1903136,2025-08-22,west_ham,chelsea,H,1,5,L,3412,Graham Potter,mgr:182deb7ae6a3,WhoScored/Opta observed
+understat:28788,1903136,2025-08-22,chelsea,west_ham,A,5,1,W,4231,Enzo Maresca,mgr:dc01d928d84f,WhoScored/Opta observed
+understat:28789,1903134,2025-08-23,manchester_city,tottenham_hotspur,H,0,2,L,4141,Pep Guardiola,mgr:26dfbbc164aa,WhoScored/Opta observed
+understat:28789,1903134,2025-08-23,tottenham_hotspur,manchester_city,A,2,0,W,433,Thomas Frank,mgr:1e78f2997997,WhoScored/Opta observed
+understat:28790,1903129,2025-08-23,brentford,aston_villa,H,1,0,W,4231,Keith Andrews,mgr:5f487ee40c90,WhoScored/Opta observed
+understat:28790,1903129,2025-08-23,aston_villa,brentford,A,0,1,L,4231,Unai Emery,mgr:dcdf2dffc0c2,WhoScored/Opta observed
+understat:28791,1903130,2025-08-23,burnley,sunderland,H,2,0,W,4231,Scott Parker,mgr:c49e040048ca,WhoScored/Opta observed
+understat:28791,1903130,2025-08-23,sunderland,burnley,A,0,2,L,433,Régis Le Bris,mgr:1a031e232e88,WhoScored/Opta observed
+understat:28792,1903127,2025-08-23,bournemouth,wolverhampton_wanderers,H,1,0,W,4141,Andoni Iraola,mgr:b4b8eecb310f,WhoScored/Opta observed
+understat:28792,1903127,2025-08-23,wolverhampton_wanderers,bournemouth,A,0,1,L,343,Vítor Manuel de Oliveira Lopes Pereira,mgr:807de4c745b0,WhoScored/Opta observed
+understat:28793,1903128,2025-08-23,arsenal,leeds_united,H,5,0,W,433,Mikel Arteta,mgr:5fdd2f365fdc,WhoScored/Opta observed
+understat:28793,1903128,2025-08-23,leeds_united,arsenal,A,0,5,L,433,Daniel Farke,mgr:fa5d385e34dc,WhoScored/Opta observed
+understat:28794,1903131,2025-08-24,crystal_palace,nottingham_forest,H,1,1,D,343,Oliver Glasner,mgr:1058459b93f2,WhoScored/Opta observed
+understat:28794,1903131,2025-08-24,nottingham_forest,crystal_palace,A,1,1,D,4231,Nuno Herlander Simões Espírito Santo,mgr:b68b19e445ac,WhoScored/Opta observed
+understat:28795,1903132,2025-08-24,everton,brighton,H,2,0,W,4231,David Moyes,mgr:84316c036a2d,WhoScored/Opta observed
+understat:28795,1903132,2025-08-24,brighton,everton,A,0,2,L,4231,Fabian Hürzeler,mgr:dfda8206a0e2,WhoScored/Opta observed
+understat:28796,1903133,2025-08-24,fulham,manchester_united,H,1,1,D,4231,Marco Alexandre Saraiva da Silva,mgr:d242da40969a,WhoScored/Opta observed
+understat:28796,1903133,2025-08-24,manchester_united,fulham,A,1,1,D,3421,Ruben Filipe Marques Diogo Amorim,mgr:662d1720cf8b,WhoScored/Opta observed
+understat:28797,1903135,2025-08-25,newcastle_united,liverpool,H,2,3,L,433,Eddie Howe,mgr:65451ab24622,WhoScored/Opta observed
+understat:28797,1903135,2025-08-25,liverpool,newcastle_united,A,3,2,W,4231,Arne Slot,mgr:328a5fafed26,WhoScored/Opta observed
+understat:28798,1903141,2025-08-30,chelsea,fulham,H,2,0,W,4231,Enzo Maresca,mgr:dc01d928d84f,WhoScored/Opta observed
+understat:28798,1903141,2025-08-30,fulham,chelsea,A,0,2,L,4231,Marco Alexandre Saraiva da Silva,mgr:d242da40969a,WhoScored/Opta observed
+understat:28799,1903142,2025-08-30,tottenham_hotspur,bournemouth,H,0,1,L,433,Thomas Frank,mgr:1e78f2997997,WhoScored/Opta observed
+understat:28799,1903142,2025-08-30,bournemouth,tottenham_hotspur,A,1,0,W,4231,Andoni Iraola,mgr:b4b8eecb310f,WhoScored/Opta observed
+understat:28800,1903144,2025-08-30,wolverhampton_wanderers,everton,H,2,3,L,343,Vítor Manuel de Oliveira Lopes Pereira,mgr:807de4c745b0,WhoScored/Opta observed
+understat:28800,1903144,2025-08-30,everton,wolverhampton_wanderers,A,3,2,W,4231,David Moyes,mgr:84316c036a2d,WhoScored/Opta observed
+understat:28801,1903140,2025-08-30,sunderland,brentford,H,2,1,W,433,Régis Le Bris,mgr:1a031e232e88,WhoScored/Opta observed
+understat:28801,1903140,2025-08-30,brentford,sunderland,A,1,2,L,4231,Keith Andrews,mgr:5f487ee40c90,WhoScored/Opta observed
+understat:28802,1903146,2025-08-30,manchester_united,burnley,H,3,2,W,3421,Ruben Filipe Marques Diogo Amorim,mgr:662d1720cf8b,WhoScored/Opta observed
+understat:28802,1903146,2025-08-30,burnley,manchester_united,A,2,3,L,4231,Scott Parker,mgr:c49e040048ca,WhoScored/Opta observed
+understat:28803,1903143,2025-08-30,leeds_united,newcastle_united,H,0,0,D,433,Daniel Farke,mgr:fa5d385e34dc,WhoScored/Opta observed
+understat:28803,1903143,2025-08-30,newcastle_united,leeds_united,A,0,0,D,532,Eddie Howe,mgr:65451ab24622,WhoScored/Opta observed
+understat:28804,1903138,2025-08-31,nottingham_forest,west_ham,H,0,3,L,4231,Nuno Herlander Simões Espírito Santo,mgr:b68b19e445ac,WhoScored/Opta observed
+understat:28804,1903138,2025-08-31,west_ham,nottingham_forest,A,3,0,W,4231,Graham Potter,mgr:182deb7ae6a3,WhoScored/Opta observed
+understat:28805,1903139,2025-08-31,brighton,manchester_city,H,2,1,W,4231,Fabian Hürzeler,mgr:dfda8206a0e2,WhoScored/Opta observed
+understat:28805,1903139,2025-08-31,manchester_city,brighton,A,1,2,L,433,Pep Guardiola,mgr:26dfbbc164aa,WhoScored/Opta observed
+understat:28806,1903145,2025-08-31,liverpool,arsenal,H,1,0,W,4231,Arne Slot,mgr:328a5fafed26,WhoScored/Opta observed
+understat:28806,1903145,2025-08-31,arsenal,liverpool,A,0,1,L,433,Mikel Arteta,mgr:5fdd2f365fdc,WhoScored/Opta observed
+understat:28807,1903137,2025-08-31,aston_villa,crystal_palace,H,0,3,L,4231,Unai Emery,mgr:dcdf2dffc0c2,WhoScored/Opta observed
+understat:28807,1903137,2025-08-31,crystal_palace,aston_villa,A,3,0,W,3421,Oliver Glasner,mgr:1058459b93f2,WhoScored/Opta observed
+understat:28808,1903148,2025-09-13,arsenal,nottingham_forest,H,3,0,W,433,Mikel Arteta,mgr:5fdd2f365fdc,WhoScored/Opta observed
+understat:28808,1903148,2025-09-13,nottingham_forest,arsenal,A,0,3,L,4231,Ange Postecoglou,mgr:baf747465a0d,WhoScored/Opta observed
+understat:28809,1903155,2025-09-13,newcastle_united,wolverhampton_wanderers,H,1,0,W,433,Eddie Howe,mgr:65451ab24622,WhoScored/Opta observed
+understat:28809,1903155,2025-09-13,wolverhampton_wanderers,newcastle_united,A,0,1,L,352,Vítor Manuel de Oliveira Lopes Pereira,mgr:807de4c745b0,WhoScored/Opta observed
+understat:28810,1903147,2025-09-13,bournemouth,brighton,H,2,1,W,4231,Andoni Iraola,mgr:b4b8eecb310f,WhoScored/Opta observed
+understat:28810,1903147,2025-09-13,brighton,bournemouth,A,1,2,L,4231,Fabian Hürzeler,mgr:dfda8206a0e2,WhoScored/Opta observed
+understat:28811,1903151,2025-09-13,crystal_palace,sunderland,H,0,0,D,3421,Oliver Glasner,mgr:1058459b93f2,WhoScored/Opta observed
+understat:28811,1903151,2025-09-13,sunderland,crystal_palace,A,0,0,D,433,Régis Le Bris,mgr:1a031e232e88,WhoScored/Opta observed
+understat:28812,1903152,2025-09-13,everton,aston_villa,H,0,0,D,4231,David Moyes,mgr:84316c036a2d,WhoScored/Opta observed
+understat:28812,1903152,2025-09-13,aston_villa,everton,A,0,0,D,4231,Unai Emery,mgr:dcdf2dffc0c2,WhoScored/Opta observed
+understat:28813,1903153,2025-09-13,fulham,leeds_united,H,1,0,W,4231,Marco Alexandre Saraiva da Silva,mgr:d242da40969a,WhoScored/Opta observed
+understat:28813,1903153,2025-09-13,leeds_united,fulham,A,0,1,L,433,Daniel Farke,mgr:fa5d385e34dc,WhoScored/Opta observed
+understat:28814,1903156,2025-09-13,west_ham,tottenham_hotspur,H,0,3,L,4231,Graham Potter,mgr:182deb7ae6a3,WhoScored/Opta observed
+understat:28814,1903156,2025-09-13,tottenham_hotspur,west_ham,A,3,0,W,433,Thomas Frank,mgr:1e78f2997997,WhoScored/Opta observed
+understat:28815,1903149,2025-09-13,brentford,chelsea,H,2,2,D,532,Keith Andrews,mgr:5f487ee40c90,WhoScored/Opta observed
+understat:28815,1903149,2025-09-13,chelsea,brentford,A,2,2,D,4231,Enzo Maresca,mgr:dc01d928d84f,WhoScored/Opta observed
+understat:28816,1903150,2025-09-14,burnley,liverpool,H,0,1,L,541,Scott Parker,mgr:c49e040048ca,WhoScored/Opta observed
+understat:28816,1903150,2025-09-14,liverpool,burnley,A,1,0,W,4231,Arne Slot,mgr:328a5fafed26,WhoScored/Opta observed
+understat:28817,1903154,2025-09-14,manchester_city,manchester_united,H,3,0,W,4141,Pep Guardiola,mgr:26dfbbc164aa,WhoScored/Opta observed
+understat:28817,1903154,2025-09-14,manchester_united,manchester_city,A,0,3,L,3421,Ruben Filipe Marques Diogo Amorim,mgr:662d1720cf8b,WhoScored/Opta observed
+understat:28818,1903164,2025-09-20,liverpool,everton,H,2,1,W,4231,Arne Slot,mgr:328a5fafed26,WhoScored/Opta observed
+understat:28818,1903164,2025-09-20,everton,liverpool,A,1,2,L,4231,David Moyes,mgr:84316c036a2d,WhoScored/Opta observed
+understat:28819,1903171,2025-09-20,west_ham,crystal_palace,H,1,2,L,433,Graham Potter,mgr:182deb7ae6a3,WhoScored/Opta observed
+understat:28819,1903171,2025-09-20,crystal_palace,west_ham,A,2,1,W,3421,Oliver Glasner,mgr:1058459b93f2,WhoScored/Opta observed
+understat:28820,1903173,2025-09-20,wolverhampton_wanderers,leeds_united,H,1,3,L,3421,Vítor Manuel de Oliveira Lopes Pereira,mgr:807de4c745b0,WhoScored/Opta observed
+understat:28820,1903173,2025-09-20,leeds_united,wolverhampton_wanderers,A,3,1,W,433,Daniel Farke,mgr:fa5d385e34dc,WhoScored/Opta observed
+understat:28821,1903159,2025-09-20,brighton,tottenham_hotspur,H,2,2,D,4231,Fabian Hürzeler,mgr:dfda8206a0e2,WhoScored/Opta observed
+understat:28821,1903159,2025-09-20,tottenham_hotspur,brighton,A,2,2,D,433,Thomas Frank,mgr:1e78f2997997,WhoScored/Opta observed
+understat:28822,1903160,2025-09-20,burnley,nottingham_forest,H,1,1,D,541,Scott Parker,mgr:c49e040048ca,WhoScored/Opta observed
+understat:28822,1903160,2025-09-20,nottingham_forest,burnley,A,1,1,D,4231,Ange Postecoglou,mgr:baf747465a0d,WhoScored/Opta observed
+understat:28824,1903167,2025-09-20,manchester_united,chelsea,H,2,1,W,3421,Ruben Filipe Marques Diogo Amorim,mgr:662d1720cf8b,WhoScored/Opta observed
+understat:28824,1903167,2025-09-20,chelsea,manchester_united,A,1,2,L,4231,Enzo Maresca,mgr:dc01d928d84f,WhoScored/Opta observed
+understat:28825,1903162,2025-09-20,fulham,brentford,H,3,1,W,4231,Marco Alexandre Saraiva da Silva,mgr:d242da40969a,WhoScored/Opta observed
+understat:28825,1903162,2025-09-20,brentford,fulham,A,1,3,L,532,Keith Andrews,mgr:5f487ee40c90,WhoScored/Opta observed
+understat:28823,1903157,2025-09-21,bournemouth,newcastle_united,H,0,0,D,4231,Andoni Iraola,mgr:b4b8eecb310f,WhoScored/Opta observed
+understat:28823,1903157,2025-09-21,newcastle_united,bournemouth,A,0,0,D,3421,Eddie Howe,mgr:65451ab24622,WhoScored/Opta observed
+understat:28826,1903169,2025-09-21,sunderland,aston_villa,H,1,1,D,433,Régis Le Bris,mgr:1a031e232e88,WhoScored/Opta observed
+understat:28826,1903169,2025-09-21,aston_villa,sunderland,A,1,1,D,4231,Unai Emery,mgr:dcdf2dffc0c2,WhoScored/Opta observed
+understat:28827,1903158,2025-09-21,arsenal,manchester_city,H,1,1,D,433,Mikel Arteta,mgr:5fdd2f365fdc,WhoScored/Opta observed
+understat:28827,1903158,2025-09-21,manchester_city,arsenal,A,1,1,D,4141,Pep Guardiola,mgr:26dfbbc164aa,WhoScored/Opta observed
+understat:28828,1903177,2025-09-27,brentford,manchester_united,H,3,1,W,4231,Keith Andrews,mgr:5f487ee40c90,WhoScored/Opta observed
+understat:28828,1903177,2025-09-27,manchester_united,brentford,A,1,3,L,3421,Ruben Filipe Marques Diogo Amorim,mgr:662d1720cf8b,WhoScored/Opta observed
+understat:28829,1903178,2025-09-27,chelsea,brighton,H,1,3,L,433,Enzo Maresca,mgr:dc01d928d84f,WhoScored/Opta observed
+understat:28829,1903178,2025-09-27,brighton,chelsea,A,3,1,W,4231,Fabian Hürzeler,mgr:dfda8206a0e2,WhoScored/Opta observed
+understat:28830,1903179,2025-09-27,crystal_palace,liverpool,H,2,1,W,3421,Oliver Glasner,mgr:1058459b93f2,WhoScored/Opta observed
+understat:28830,1903179,2025-09-27,liverpool,crystal_palace,A,1,2,L,4231,Arne Slot,mgr:328a5fafed26,WhoScored/Opta observed
+understat:28832,1903183,2025-09-27,leeds_united,bournemouth,H,2,2,D,433,Daniel Farke,mgr:fa5d385e34dc,WhoScored/Opta observed
+understat:28832,1903183,2025-09-27,bournemouth,leeds_united,A,2,2,D,4231,Andoni Iraola,mgr:b4b8eecb310f,WhoScored/Opta observed
+understat:28833,1903185,2025-09-27,manchester_city,burnley,H,5,1,W,4141,Pep Guardiola,mgr:26dfbbc164aa,WhoScored/Opta observed
+understat:28833,1903185,2025-09-27,burnley,manchester_city,A,1,5,L,541,Scott Parker,mgr:c49e040048ca,WhoScored/Opta observed
+understat:28834,1903188,2025-09-27,nottingham_forest,sunderland,H,0,1,L,4231,Ange Postecoglou,mgr:baf747465a0d,WhoScored/Opta observed
+understat:28834,1903188,2025-09-27,sunderland,nottingham_forest,A,1,0,W,4231,Régis Le Bris,mgr:1a031e232e88,WhoScored/Opta observed
+understat:28835,1903161,2025-09-27,tottenham_hotspur,wolverhampton_wanderers,H,1,1,D,4231,Thomas Frank,mgr:1e78f2997997,WhoScored/Opta observed
+understat:28835,1903161,2025-09-27,wolverhampton_wanderers,tottenham_hotspur,A,1,1,D,433,Vítor Manuel de Oliveira Lopes Pereira,mgr:807de4c745b0,WhoScored/Opta observed
+understat:28831,1903175,2025-09-28,aston_villa,fulham,H,3,1,W,4231,Unai Emery,mgr:dcdf2dffc0c2,WhoScored/Opta observed
+understat:28831,1903175,2025-09-28,fulham,aston_villa,A,1,3,L,4231,Marco Alexandre Saraiva da Silva,mgr:d242da40969a,WhoScored/Opta observed
+understat:28836,1903186,2025-09-28,newcastle_united,arsenal,H,1,2,L,433,Eddie Howe,mgr:65451ab24622,WhoScored/Opta observed
+understat:28836,1903186,2025-09-28,arsenal,newcastle_united,A,2,1,W,4231,Mikel Arteta,mgr:5fdd2f365fdc,WhoScored/Opta observed
+understat:28837,1903181,2025-09-29,everton,west_ham,H,1,1,D,4231,David Moyes,mgr:84316c036a2d,WhoScored/Opta observed
+understat:28837,1903181,2025-09-29,west_ham,everton,A,1,1,D,4141,Nuno Herlander Simões Espírito Santo,mgr:b68b19e445ac,WhoScored/Opta observed
+understat:28838,1903163,2025-10-03,bournemouth,fulham,H,3,1,W,4231,Andoni Iraola,mgr:b4b8eecb310f,WhoScored/Opta observed
+understat:28838,1903163,2025-10-03,fulham,bournemouth,A,1,3,L,3421,Marco Alexandre Saraiva da Silva,mgr:d242da40969a,WhoScored/Opta observed
+understat:28839,1903165,2025-10-04,arsenal,west_ham,H,2,0,W,433,Mikel Arteta,mgr:5fdd2f365fdc,WhoScored/Opta observed
+understat:28839,1903165,2025-10-04,west_ham,arsenal,A,0,2,L,4141,Nuno Herlander Simões Espírito Santo,mgr:b68b19e445ac,WhoScored/Opta observed
+understat:28842,1903170,2025-10-04,chelsea,liverpool,H,2,1,W,4231,Enzo Maresca,mgr:dc01d928d84f,WhoScored/Opta observed
+understat:28842,1903170,2025-10-04,liverpool,chelsea,A,1,2,L,4231,Arne Slot,mgr:328a5fafed26,WhoScored/Opta observed
+understat:28844,1903174,2025-10-04,leeds_united,tottenham_hotspur,H,1,2,L,433,Daniel Farke,mgr:fa5d385e34dc,WhoScored/Opta observed
+understat:28844,1903174,2025-10-04,tottenham_hotspur,leeds_united,A,2,1,W,4231,Thomas Frank,mgr:1e78f2997997,WhoScored/Opta observed
+understat:28845,1903176,2025-10-04,manchester_united,sunderland,H,2,0,W,3421,Ruben Filipe Marques Diogo Amorim,mgr:662d1720cf8b,WhoScored/Opta observed
+understat:28845,1903176,2025-10-04,sunderland,manchester_united,A,0,2,L,4231,Régis Le Bris,mgr:1a031e232e88,WhoScored/Opta observed
+understat:28840,1903166,2025-10-05,aston_villa,burnley,H,2,1,W,4222,Unai Emery,mgr:dcdf2dffc0c2,WhoScored/Opta observed
+understat:28840,1903166,2025-10-05,burnley,aston_villa,A,1,2,L,541,Scott Parker,mgr:c49e040048ca,WhoScored/Opta observed
+understat:28841,1903168,2025-10-05,brentford,manchester_city,H,0,1,L,532,Keith Andrews,mgr:5f487ee40c90,WhoScored/Opta observed
+understat:28841,1903168,2025-10-05,manchester_city,brentford,A,1,0,W,4141,Pep Guardiola,mgr:26dfbbc164aa,WhoScored/Opta observed
+understat:28843,1903172,2025-10-05,everton,crystal_palace,H,2,1,W,4231,David Moyes,mgr:84316c036a2d,WhoScored/Opta observed
+understat:28843,1903172,2025-10-05,crystal_palace,everton,A,1,2,L,3421,Oliver Glasner,mgr:1058459b93f2,WhoScored/Opta observed
+understat:28846,1903180,2025-10-05,newcastle_united,nottingham_forest,H,2,0,W,433,Eddie Howe,mgr:65451ab24622,WhoScored/Opta observed
+understat:28846,1903180,2025-10-05,nottingham_forest,newcastle_united,A,0,2,L,343,Ange Postecoglou,mgr:baf747465a0d,WhoScored/Opta observed
+understat:28847,1903182,2025-10-05,wolverhampton_wanderers,brighton,H,1,1,D,433,Vítor Manuel de Oliveira Lopes Pereira,mgr:807de4c745b0,WhoScored/Opta observed
+understat:28847,1903182,2025-10-05,brighton,wolverhampton_wanderers,A,1,1,D,4231,Fabian Hürzeler,mgr:dfda8206a0e2,WhoScored/Opta observed
+understat:28848,1903184,2025-10-18,brighton,newcastle_united,H,2,1,W,4231,Fabian Hürzeler,mgr:dfda8206a0e2,WhoScored/Opta observed
+understat:28848,1903184,2025-10-18,newcastle_united,brighton,A,1,2,L,433,Eddie Howe,mgr:65451ab24622,WhoScored/Opta observed
+understat:28849,1903187,2025-10-18,burnley,leeds_united,H,2,0,W,4231,Scott Parker,mgr:c49e040048ca,WhoScored/Opta observed
+understat:28849,1903187,2025-10-18,leeds_united,burnley,A,0,2,L,433,Daniel Farke,mgr:fa5d385e34dc,WhoScored/Opta observed
+understat:28850,1903189,2025-10-18,crystal_palace,bournemouth,H,3,3,D,3421,Oliver Glasner,mgr:1058459b93f2,WhoScored/Opta observed
+understat:28850,1903189,2025-10-18,bournemouth,crystal_palace,A,3,3,D,4231,Andoni Iraola,mgr:b4b8eecb310f,WhoScored/Opta observed
+understat:28851,1903190,2025-10-18,fulham,arsenal,H,0,1,L,4231,Marco Alexandre Saraiva da Silva,mgr:d242da40969a,WhoScored/Opta observed
+understat:28851,1903190,2025-10-18,arsenal,fulham,A,1,0,W,433,Mikel Arteta,mgr:5fdd2f365fdc,WhoScored/Opta observed
+understat:28853,1903192,2025-10-18,manchester_city,everton,H,2,0,W,4141,Pep Guardiola,mgr:26dfbbc164aa,WhoScored/Opta observed
+understat:28853,1903192,2025-10-18,everton,manchester_city,A,0,2,L,4231,David Moyes,mgr:84316c036a2d,WhoScored/Opta observed
+understat:28854,1903193,2025-10-18,nottingham_forest,chelsea,H,0,3,L,532,Ange Postecoglou,mgr:baf747465a0d,WhoScored/Opta observed
+understat:28854,1903193,2025-10-18,chelsea,nottingham_forest,A,3,0,W,4231,Enzo Maresca,mgr:dc01d928d84f,WhoScored/Opta observed
+understat:28855,1903194,2025-10-18,sunderland,wolverhampton_wanderers,H,2,0,W,4231,Régis Le Bris,mgr:1a031e232e88,WhoScored/Opta observed
+understat:28855,1903194,2025-10-18,wolverhampton_wanderers,sunderland,A,0,2,L,433,Vítor Manuel de Oliveira Lopes Pereira,mgr:807de4c745b0,WhoScored/Opta observed
+understat:28852,1903191,2025-10-19,liverpool,manchester_united,H,1,2,L,4231,Arne Slot,mgr:328a5fafed26,WhoScored/Opta observed
+understat:28852,1903191,2025-10-19,manchester_united,liverpool,A,2,1,W,3421,Ruben Filipe Marques Diogo Amorim,mgr:662d1720cf8b,WhoScored/Opta observed
+understat:28856,1903195,2025-10-19,tottenham_hotspur,aston_villa,H,1,2,L,4231,Thomas Frank,mgr:1e78f2997997,WhoScored/Opta observed
+understat:28856,1903195,2025-10-19,aston_villa,tottenham_hotspur,A,2,1,W,4231,Unai Emery,mgr:dcdf2dffc0c2,WhoScored/Opta observed
+understat:28857,1903196,2025-10-20,west_ham,brentford,H,0,2,L,4231,Nuno Herlander Simões Espírito Santo,mgr:b68b19e445ac,WhoScored/Opta observed
+understat:28857,1903196,2025-10-20,brentford,west_ham,A,2,0,W,4231,Keith Andrews,mgr:5f487ee40c90,WhoScored/Opta observed
+understat:28864,1903203,2025-10-24,leeds_united,west_ham,H,2,1,W,433,Daniel Farke,mgr:fa5d385e34dc,WhoScored/Opta observed
+understat:28864,1903203,2025-10-24,west_ham,leeds_united,A,1,2,L,343,Nuno Herlander Simões Espírito Santo,mgr:b68b19e445ac,WhoScored/Opta observed
+understat:28861,1903200,2025-10-25,brentford,liverpool,H,3,2,W,4231,Keith Andrews,mgr:5f487ee40c90,WhoScored/Opta observed
+understat:28861,1903200,2025-10-25,liverpool,brentford,A,2,3,L,4231,Arne Slot,mgr:328a5fafed26,WhoScored/Opta observed
+understat:28862,1903201,2025-10-25,chelsea,sunderland,H,1,2,L,4231,Enzo Maresca,mgr:dc01d928d84f,WhoScored/Opta observed
+understat:28862,1903201,2025-10-25,sunderland,chelsea,A,2,1,W,541,Régis Le Bris,mgr:1a031e232e88,WhoScored/Opta observed
+understat:28865,1903204,2025-10-25,manchester_united,brighton,H,4,2,W,3421,Ruben Filipe Marques Diogo Amorim,mgr:662d1720cf8b,WhoScored/Opta observed
+understat:28865,1903204,2025-10-25,brighton,manchester_united,A,2,4,L,4231,Fabian Hürzeler,mgr:dfda8206a0e2,WhoScored/Opta observed
+understat:28866,1903205,2025-10-25,newcastle_united,fulham,H,2,1,W,433,Eddie Howe,mgr:65451ab24622,WhoScored/Opta observed
+understat:28866,1903205,2025-10-25,fulham,newcastle_united,A,1,2,L,4231,Marco Alexandre Saraiva da Silva,mgr:d242da40969a,WhoScored/Opta observed
+understat:28858,1903197,2025-10-26,bournemouth,nottingham_forest,H,2,0,W,4231,Andoni Iraola,mgr:b4b8eecb310f,WhoScored/Opta observed
+understat:28858,1903197,2025-10-26,nottingham_forest,bournemouth,A,0,2,L,4231,Sean Dyche,mgr:224591e666ec,WhoScored/Opta observed
+understat:28859,1903198,2025-10-26,arsenal,crystal_palace,H,1,0,W,433,Mikel Arteta,mgr:5fdd2f365fdc,WhoScored/Opta observed
+understat:28859,1903198,2025-10-26,crystal_palace,arsenal,A,0,1,L,3421,Oliver Glasner,mgr:1058459b93f2,WhoScored/Opta observed
+understat:28860,1903199,2025-10-26,aston_villa,manchester_city,H,1,0,W,4231,Unai Emery,mgr:dcdf2dffc0c2,WhoScored/Opta observed
+understat:28860,1903199,2025-10-26,manchester_city,aston_villa,A,0,1,L,4141,Pep Guardiola,mgr:26dfbbc164aa,WhoScored/Opta observed
+understat:28863,1903202,2025-10-26,everton,tottenham_hotspur,H,0,3,L,4231,David Moyes,mgr:84316c036a2d,WhoScored/Opta observed
+understat:28863,1903202,2025-10-26,tottenham_hotspur,everton,A,3,0,W,4231,Thomas Frank,mgr:1e78f2997997,WhoScored/Opta observed
+understat:28867,1903206,2025-10-26,wolverhampton_wanderers,burnley,H,2,3,L,433,Vítor Manuel de Oliveira Lopes Pereira,mgr:807de4c745b0,WhoScored/Opta observed
+understat:28867,1903206,2025-10-26,burnley,wolverhampton_wanderers,A,3,2,W,4231,Scott Parker,mgr:c49e040048ca,WhoScored/Opta observed
+understat:28868,1903207,2025-11-01,brighton,leeds_united,H,3,0,W,4231,Fabian Hürzeler,mgr:dfda8206a0e2,WhoScored/Opta observed
+understat:28868,1903207,2025-11-01,leeds_united,brighton,A,0,3,L,4141,Daniel Farke,mgr:fa5d385e34dc,WhoScored/Opta observed
+understat:28869,1903208,2025-11-01,burnley,arsenal,H,0,2,L,541,Scott Parker,mgr:c49e040048ca,WhoScored/Opta observed
+understat:28869,1903208,2025-11-01,arsenal,burnley,A,2,0,W,433,Mikel Arteta,mgr:5fdd2f365fdc,WhoScored/Opta observed
+understat:28870,1903209,2025-11-01,crystal_palace,brentford,H,2,0,W,3421,Oliver Glasner,mgr:1058459b93f2,WhoScored/Opta observed
+understat:28870,1903209,2025-11-01,brentford,crystal_palace,A,0,2,L,4231,Keith Andrews,mgr:5f487ee40c90,WhoScored/Opta observed
+understat:28871,1903210,2025-11-01,fulham,wolverhampton_wanderers,H,3,0,W,4231,Marco Alexandre Saraiva da Silva,mgr:d242da40969a,WhoScored/Opta observed
+understat:28871,1903210,2025-11-01,wolverhampton_wanderers,fulham,A,0,3,L,532,Vítor Manuel de Oliveira Lopes Pereira,mgr:807de4c745b0,WhoScored/Opta observed
+understat:28872,1903211,2025-11-01,liverpool,aston_villa,H,2,0,W,4231,Arne Slot,mgr:328a5fafed26,WhoScored/Opta observed
+understat:28872,1903211,2025-11-01,aston_villa,liverpool,A,0,2,L,4231,Unai Emery,mgr:dcdf2dffc0c2,WhoScored/Opta observed
+understat:28874,1903213,2025-11-01,nottingham_forest,manchester_united,H,2,2,D,4231,Sean Dyche,mgr:224591e666ec,WhoScored/Opta observed
+understat:28874,1903213,2025-11-01,manchester_united,nottingham_forest,A,2,2,D,3421,Ruben Filipe Marques Diogo Amorim,mgr:662d1720cf8b,WhoScored/Opta observed
+understat:28876,1903215,2025-11-01,tottenham_hotspur,chelsea,H,0,1,L,4231,Thomas Frank,mgr:1e78f2997997,WhoScored/Opta observed
+understat:28876,1903215,2025-11-01,chelsea,tottenham_hotspur,A,1,0,W,4231,Enzo Maresca,mgr:dc01d928d84f,WhoScored/Opta observed
+understat:28873,1903212,2025-11-02,manchester_city,bournemouth,H,3,1,W,4321,Pep Guardiola,mgr:26dfbbc164aa,WhoScored/Opta observed
+understat:28873,1903212,2025-11-02,bournemouth,manchester_city,A,1,3,L,4231,Andoni Iraola,mgr:b4b8eecb310f,WhoScored/Opta observed
+understat:28877,1903216,2025-11-02,west_ham,newcastle_united,H,3,1,W,433,Nuno Herlander Simões Espírito Santo,mgr:b68b19e445ac,WhoScored/Opta observed
+understat:28877,1903216,2025-11-02,newcastle_united,west_ham,A,1,3,L,433,Eddie Howe,mgr:65451ab24622,WhoScored/Opta observed
+understat:28875,1903214,2025-11-03,sunderland,everton,H,1,1,D,343,Régis Le Bris,mgr:1a031e232e88,WhoScored/Opta observed
+understat:28875,1903214,2025-11-03,everton,sunderland,A,1,1,D,4231,David Moyes,mgr:84316c036a2d,WhoScored/Opta observed
+understat:28880,1903219,2025-11-08,chelsea,wolverhampton_wanderers,H,3,0,W,4231,Enzo Maresca,mgr:dc01d928d84f,WhoScored/Opta observed
+understat:28880,1903219,2025-11-08,wolverhampton_wanderers,chelsea,A,0,3,L,532,James Collins,mgr:b72337fa641c,WhoScored/Opta observed
+understat:28882,1903221,2025-11-08,everton,fulham,H,2,0,W,4231,David Moyes,mgr:84316c036a2d,WhoScored/Opta observed
+understat:28882,1903221,2025-11-08,fulham,everton,A,0,2,L,4231,Marco Alexandre Saraiva da Silva,mgr:d242da40969a,WhoScored/Opta observed
+understat:28885,1903224,2025-11-08,sunderland,arsenal,H,2,2,D,541,Régis Le Bris,mgr:1a031e232e88,WhoScored/Opta observed
+understat:28885,1903224,2025-11-08,arsenal,sunderland,A,2,2,D,4231,Mikel Arteta,mgr:5fdd2f365fdc,WhoScored/Opta observed
+understat:28886,1903225,2025-11-08,tottenham_hotspur,manchester_united,H,2,2,D,4231,Thomas Frank,mgr:1e78f2997997,WhoScored/Opta observed
+understat:28886,1903225,2025-11-08,manchester_united,tottenham_hotspur,A,2,2,D,3421,Ruben Filipe Marques Diogo Amorim,mgr:662d1720cf8b,WhoScored/Opta observed
+understat:28887,1903226,2025-11-08,west_ham,burnley,H,3,2,W,433,Nuno Herlander Simões Espírito Santo,mgr:b68b19e445ac,WhoScored/Opta observed
+understat:28887,1903226,2025-11-08,burnley,west_ham,A,2,3,L,4231,Scott Parker,mgr:c49e040048ca,WhoScored/Opta observed
+understat:28878,1903217,2025-11-09,aston_villa,bournemouth,H,4,0,W,442,Unai Emery,mgr:dcdf2dffc0c2,WhoScored/Opta observed
+understat:28878,1903217,2025-11-09,bournemouth,aston_villa,A,0,4,L,4231,Andoni Iraola,mgr:b4b8eecb310f,WhoScored/Opta observed
+understat:28879,1903218,2025-11-09,brentford,newcastle_united,H,3,1,W,4231,Keith Andrews,mgr:5f487ee40c90,WhoScored/Opta observed
+understat:28879,1903218,2025-11-09,newcastle_united,brentford,A,1,3,L,433,Eddie Howe,mgr:65451ab24622,WhoScored/Opta observed
+understat:28881,1903220,2025-11-09,crystal_palace,brighton,H,0,0,D,3421,Oliver Glasner,mgr:1058459b93f2,WhoScored/Opta observed
+understat:28881,1903220,2025-11-09,brighton,crystal_palace,A,0,0,D,4231,Fabian Hürzeler,mgr:dfda8206a0e2,WhoScored/Opta observed
+understat:28883,1903222,2025-11-09,manchester_city,liverpool,H,3,0,W,433,Pep Guardiola,mgr:26dfbbc164aa,WhoScored/Opta observed
+understat:28883,1903222,2025-11-09,liverpool,manchester_city,A,0,3,L,4231,Arne Slot,mgr:328a5fafed26,WhoScored/Opta observed
+understat:28884,1903223,2025-11-09,nottingham_forest,leeds_united,H,3,1,W,4231,Sean Dyche,mgr:224591e666ec,WhoScored/Opta observed
+understat:28884,1903223,2025-11-09,leeds_united,nottingham_forest,A,1,3,L,433,Daniel Farke,mgr:fa5d385e34dc,WhoScored/Opta observed
+understat:28888,1903227,2025-11-22,bournemouth,west_ham,H,2,2,D,4231,Andoni Iraola,mgr:b4b8eecb310f,WhoScored/Opta observed
+understat:28888,1903227,2025-11-22,west_ham,bournemouth,A,2,2,D,343,Nuno Herlander Simões Espírito Santo,mgr:b68b19e445ac,WhoScored/Opta observed
+understat:28890,1903229,2025-11-22,brighton,brentford,H,2,1,W,4231,Fabian Hürzeler,mgr:dfda8206a0e2,WhoScored/Opta observed
+understat:28890,1903229,2025-11-22,brentford,brighton,A,1,2,L,4231,Keith Andrews,mgr:5f487ee40c90,WhoScored/Opta observed
+understat:28891,1903230,2025-11-22,burnley,chelsea,H,0,2,L,433,Scott Parker,mgr:c49e040048ca,WhoScored/Opta observed
+understat:28891,1903230,2025-11-22,chelsea,burnley,A,2,0,W,4231,Enzo Maresca,mgr:dc01d928d84f,WhoScored/Opta observed
+understat:28892,1903231,2025-11-22,fulham,sunderland,H,1,0,W,4231,Marco Alexandre Saraiva da Silva,mgr:d242da40969a,WhoScored/Opta observed
+understat:28892,1903231,2025-11-22,sunderland,fulham,A,0,1,L,541,Régis Le Bris,mgr:1a031e232e88,WhoScored/Opta observed
+understat:28894,1903233,2025-11-22,liverpool,nottingham_forest,H,0,3,L,433,Arne Slot,mgr:328a5fafed26,WhoScored/Opta observed
+understat:28894,1903233,2025-11-22,nottingham_forest,liverpool,A,3,0,W,4231,Sean Dyche,mgr:224591e666ec,WhoScored/Opta observed
+understat:28896,1903235,2025-11-22,newcastle_united,manchester_city,H,2,1,W,451,Eddie Howe,mgr:65451ab24622,WhoScored/Opta observed
+understat:28896,1903235,2025-11-22,manchester_city,newcastle_united,A,1,2,L,4321,Pep Guardiola,mgr:26dfbbc164aa,WhoScored/Opta observed
+understat:28897,1903236,2025-11-22,wolverhampton_wanderers,crystal_palace,H,0,2,L,532,Rob Edwards,mgr:434bf1b2b6dc,WhoScored/Opta observed
+understat:28897,1903236,2025-11-22,crystal_palace,wolverhampton_wanderers,A,2,0,W,343,Oliver Glasner,mgr:1058459b93f2,WhoScored/Opta observed
+understat:28889,1903228,2025-11-23,arsenal,tottenham_hotspur,H,4,1,W,4231,Mikel Arteta,mgr:5fdd2f365fdc,WhoScored/Opta observed
+understat:28889,1903228,2025-11-23,tottenham_hotspur,arsenal,A,1,4,L,3421,Thomas Frank,mgr:1e78f2997997,WhoScored/Opta observed
+understat:28893,1903232,2025-11-23,leeds_united,aston_villa,H,1,2,L,433,Daniel Farke,mgr:fa5d385e34dc,WhoScored/Opta observed
+understat:28893,1903232,2025-11-23,aston_villa,leeds_united,A,2,1,W,442,Unai Emery,mgr:dcdf2dffc0c2,WhoScored/Opta observed
+understat:28895,1903234,2025-11-24,manchester_united,everton,H,0,1,L,3421,Ruben Filipe Marques Diogo Amorim,mgr:662d1720cf8b,WhoScored/Opta observed
+understat:28895,1903234,2025-11-24,everton,manchester_united,A,1,0,W,4231,David Moyes,mgr:84316c036a2d,WhoScored/Opta observed
+understat:28899,1903238,2025-11-29,brentford,burnley,H,3,1,W,4231,Keith Andrews,mgr:5f487ee40c90,WhoScored/Opta observed
+understat:28899,1903238,2025-11-29,burnley,brentford,A,1,3,L,4231,Scott Parker,mgr:c49e040048ca,WhoScored/Opta observed
+understat:28902,1903241,2025-11-29,everton,newcastle_united,H,1,4,L,4231,David Moyes,mgr:84316c036a2d,WhoScored/Opta observed
+understat:28902,1903241,2025-11-29,newcastle_united,everton,A,4,1,W,433,Eddie Howe,mgr:65451ab24622,WhoScored/Opta observed
+understat:28903,1903242,2025-11-29,manchester_city,leeds_united,H,3,2,W,4321,Pep Guardiola,mgr:26dfbbc164aa,WhoScored/Opta observed
+understat:28903,1903242,2025-11-29,leeds_united,manchester_city,A,2,3,L,433,Daniel Farke,mgr:fa5d385e34dc,WhoScored/Opta observed
+understat:28905,1903244,2025-11-29,sunderland,bournemouth,H,3,2,W,4231,Régis Le Bris,mgr:1a031e232e88,WhoScored/Opta observed
+understat:28905,1903244,2025-11-29,bournemouth,sunderland,A,2,3,L,4231,Andoni Iraola,mgr:b4b8eecb310f,WhoScored/Opta observed
+understat:28906,1903245,2025-11-29,tottenham_hotspur,fulham,H,1,2,L,4222,Thomas Frank,mgr:1e78f2997997,WhoScored/Opta observed
+understat:28906,1903245,2025-11-29,fulham,tottenham_hotspur,A,2,1,W,4231,Marco Alexandre Saraiva da Silva,mgr:d242da40969a,WhoScored/Opta observed
+understat:28898,1903237,2025-11-30,aston_villa,wolverhampton_wanderers,H,1,0,W,4231,Unai Emery,mgr:dcdf2dffc0c2,WhoScored/Opta observed
+understat:28898,1903237,2025-11-30,wolverhampton_wanderers,aston_villa,A,0,1,L,343,Rob Edwards,mgr:434bf1b2b6dc,WhoScored/Opta observed
+understat:28900,1903239,2025-11-30,chelsea,arsenal,H,1,1,D,4231,Enzo Maresca,mgr:dc01d928d84f,WhoScored/Opta observed
+understat:28900,1903239,2025-11-30,arsenal,chelsea,A,1,1,D,433,Mikel Arteta,mgr:5fdd2f365fdc,WhoScored/Opta observed
+understat:28901,1903240,2025-11-30,crystal_palace,manchester_united,H,1,2,L,3421,Oliver Glasner,mgr:1058459b93f2,WhoScored/Opta observed
+understat:28901,1903240,2025-11-30,manchester_united,crystal_palace,A,2,1,W,3421,Ruben Filipe Marques Diogo Amorim,mgr:662d1720cf8b,WhoScored/Opta observed
+understat:28904,1903243,2025-11-30,nottingham_forest,brighton,H,0,2,L,4231,Sean Dyche,mgr:224591e666ec,WhoScored/Opta observed
+understat:28904,1903243,2025-11-30,brighton,nottingham_forest,A,2,0,W,4231,Fabian Hürzeler,mgr:dfda8206a0e2,WhoScored/Opta observed
+understat:28907,1903246,2025-11-30,west_ham,liverpool,H,0,2,L,4231,Nuno Herlander Simões Espírito Santo,mgr:b68b19e445ac,WhoScored/Opta observed
+understat:28907,1903246,2025-11-30,liverpool,west_ham,A,2,0,W,4231,Arne Slot,mgr:328a5fafed26,WhoScored/Opta observed
+understat:28908,1903247,2025-12-02,bournemouth,everton,H,0,1,L,4231,Andoni Iraola,mgr:b4b8eecb310f,WhoScored/Opta observed
+understat:28908,1903247,2025-12-02,everton,bournemouth,A,1,0,W,4231,David Moyes,mgr:84316c036a2d,WhoScored/Opta observed
+understat:28912,1903251,2025-12-02,fulham,manchester_city,H,4,5,L,4231,Marco Alexandre Saraiva da Silva,mgr:d242da40969a,WhoScored/Opta observed
+understat:28912,1903251,2025-12-02,manchester_city,fulham,A,5,4,W,433,Pep Guardiola,mgr:26dfbbc164aa,WhoScored/Opta observed
+understat:28916,1903255,2025-12-02,newcastle_united,tottenham_hotspur,H,2,2,D,433,Eddie Howe,mgr:65451ab24622,WhoScored/Opta observed
+understat:28916,1903255,2025-12-02,tottenham_hotspur,newcastle_united,A,2,2,D,4231,Thomas Frank,mgr:1e78f2997997,WhoScored/Opta observed
+understat:28909,1903248,2025-12-03,arsenal,brentford,H,2,0,W,433,Mikel Arteta,mgr:5fdd2f365fdc,WhoScored/Opta observed
+understat:28909,1903248,2025-12-03,brentford,arsenal,A,0,2,L,532,Keith Andrews,mgr:5f487ee40c90,WhoScored/Opta observed
+understat:28910,1903249,2025-12-03,brighton,aston_villa,H,3,4,L,4231,Fabian Hürzeler,mgr:dfda8206a0e2,WhoScored/Opta observed
+understat:28910,1903249,2025-12-03,aston_villa,brighton,A,4,3,W,4231,Unai Emery,mgr:dcdf2dffc0c2,WhoScored/Opta observed
+understat:28911,1903250,2025-12-03,burnley,crystal_palace,H,0,1,L,442,Scott Parker,mgr:c49e040048ca,WhoScored/Opta observed
+understat:28911,1903250,2025-12-03,crystal_palace,burnley,A,1,0,W,3421,Oliver Glasner,mgr:1058459b93f2,WhoScored/Opta observed
+understat:28913,1903252,2025-12-03,leeds_united,chelsea,H,3,1,W,352,Daniel Farke,mgr:fa5d385e34dc,WhoScored/Opta observed
+understat:28913,1903252,2025-12-03,chelsea,leeds_united,A,1,3,L,4231,Enzo Maresca,mgr:dc01d928d84f,WhoScored/Opta observed
+understat:28914,1903253,2025-12-03,liverpool,sunderland,H,1,1,D,4231,Arne Slot,mgr:328a5fafed26,WhoScored/Opta observed
+understat:28914,1903253,2025-12-03,sunderland,liverpool,A,1,1,D,442,Régis Le Bris,mgr:1a031e232e88,WhoScored/Opta observed
+understat:28917,1903256,2025-12-03,wolverhampton_wanderers,nottingham_forest,H,0,1,L,343,Rob Edwards,mgr:434bf1b2b6dc,WhoScored/Opta observed
+understat:28917,1903256,2025-12-03,nottingham_forest,wolverhampton_wanderers,A,1,0,W,4231,Sean Dyche,mgr:224591e666ec,WhoScored/Opta observed
+understat:28915,1903254,2025-12-04,manchester_united,west_ham,H,1,1,D,3421,Ruben Filipe Marques Diogo Amorim,mgr:662d1720cf8b,WhoScored/Opta observed
+understat:28915,1903254,2025-12-04,west_ham,manchester_united,A,1,1,D,4231,Nuno Herlander Simões Espírito Santo,mgr:b68b19e445ac,WhoScored/Opta observed
+understat:28918,1903257,2025-12-06,bournemouth,chelsea,H,0,0,D,4231,Andoni Iraola,mgr:b4b8eecb310f,WhoScored/Opta observed
+understat:28918,1903257,2025-12-06,chelsea,bournemouth,A,0,0,D,4231,Enzo Maresca,mgr:dc01d928d84f,WhoScored/Opta observed
+understat:28919,1903258,2025-12-06,aston_villa,arsenal,H,2,1,W,4231,Unai Emery,mgr:dcdf2dffc0c2,WhoScored/Opta observed
+understat:28919,1903258,2025-12-06,arsenal,aston_villa,A,1,2,L,433,Mikel Arteta,mgr:5fdd2f365fdc,WhoScored/Opta observed
+understat:28921,1903477,2025-12-06,everton,nottingham_forest,H,3,0,W,4231,David Moyes,mgr:84316c036a2d,WhoScored/Opta observed
+understat:28921,1903477,2025-12-06,nottingham_forest,everton,A,0,3,L,4231,Sean Dyche,mgr:224591e666ec,WhoScored/Opta observed
+understat:28923,1903479,2025-12-06,leeds_united,liverpool,H,3,3,D,352,Daniel Farke,mgr:fa5d385e34dc,WhoScored/Opta observed
+understat:28923,1903479,2025-12-06,liverpool,leeds_united,A,3,3,D,4231,Arne Slot,mgr:328a5fafed26,WhoScored/Opta observed
+understat:28924,1903480,2025-12-06,manchester_city,sunderland,H,3,0,W,4321,Pep Guardiola,mgr:26dfbbc164aa,WhoScored/Opta observed
+understat:28924,1903480,2025-12-06,sunderland,manchester_city,A,0,3,L,541,Régis Le Bris,mgr:1a031e232e88,WhoScored/Opta observed
+understat:28925,1903481,2025-12-06,newcastle_united,burnley,H,2,1,W,433,Eddie Howe,mgr:65451ab24622,WhoScored/Opta observed
+understat:28925,1903481,2025-12-06,burnley,newcastle_united,A,1,2,L,433,Scott Parker,mgr:c49e040048ca,WhoScored/Opta observed
+understat:28926,1903482,2025-12-06,tottenham_hotspur,brentford,H,2,0,W,4231,Thomas Frank,mgr:1e78f2997997,WhoScored/Opta observed
+understat:28926,1903482,2025-12-06,brentford,tottenham_hotspur,A,0,2,L,4231,Keith Andrews,mgr:5f487ee40c90,WhoScored/Opta observed
+understat:28920,1903476,2025-12-07,brighton,west_ham,H,1,1,D,4231,Fabian Hürzeler,mgr:dfda8206a0e2,WhoScored/Opta observed
+understat:28920,1903476,2025-12-07,west_ham,brighton,A,1,1,D,3412,Nuno Herlander Simões Espírito Santo,mgr:b68b19e445ac,WhoScored/Opta observed
+understat:28922,1903478,2025-12-07,fulham,crystal_palace,H,1,2,L,4231,Marco Alexandre Saraiva da Silva,mgr:d242da40969a,WhoScored/Opta observed
+understat:28922,1903478,2025-12-07,crystal_palace,fulham,A,2,1,W,3421,Oliver Glasner,mgr:1058459b93f2,WhoScored/Opta observed
+understat:28927,1903483,2025-12-08,wolverhampton_wanderers,manchester_united,H,1,4,L,3421,Rob Edwards,mgr:434bf1b2b6dc,WhoScored/Opta observed
+understat:28927,1903483,2025-12-08,manchester_united,wolverhampton_wanderers,A,4,1,W,3421,Ruben Filipe Marques Diogo Amorim,mgr:662d1720cf8b,WhoScored/Opta observed
+understat:28928,1903484,2025-12-13,arsenal,wolverhampton_wanderers,H,2,1,W,433,Mikel Arteta,mgr:5fdd2f365fdc,WhoScored/Opta observed
+understat:28928,1903484,2025-12-13,wolverhampton_wanderers,arsenal,A,1,2,L,352,Rob Edwards,mgr:434bf1b2b6dc,WhoScored/Opta observed
+understat:28930,1903486,2025-12-13,burnley,fulham,H,2,3,L,433,Scott Parker,mgr:c49e040048ca,WhoScored/Opta observed
+understat:28930,1903486,2025-12-13,fulham,burnley,A,3,2,W,4231,Marco Alexandre Saraiva da Silva,mgr:d242da40969a,WhoScored/Opta observed
+understat:28931,1903487,2025-12-13,chelsea,everton,H,2,0,W,4231,Enzo Maresca,mgr:dc01d928d84f,WhoScored/Opta observed
+understat:28931,1903487,2025-12-13,everton,chelsea,A,0,2,L,4231,David Moyes,mgr:84316c036a2d,WhoScored/Opta observed
+understat:28933,1903489,2025-12-13,liverpool,brighton,H,2,0,W,4231,Arne Slot,mgr:328a5fafed26,WhoScored/Opta observed
+understat:28933,1903489,2025-12-13,brighton,liverpool,A,0,2,L,4231,Fabian Hürzeler,mgr:dfda8206a0e2,WhoScored/Opta observed
+understat:28929,1903485,2025-12-14,brentford,leeds_united,H,1,1,D,4231,Keith Andrews,mgr:5f487ee40c90,WhoScored/Opta observed
+understat:28929,1903485,2025-12-14,leeds_united,brentford,A,1,1,D,352,Daniel Farke,mgr:fa5d385e34dc,WhoScored/Opta observed
+understat:28932,1903488,2025-12-14,crystal_palace,manchester_city,H,0,3,L,3421,Oliver Glasner,mgr:1058459b93f2,WhoScored/Opta observed
+understat:28932,1903488,2025-12-14,manchester_city,crystal_palace,A,3,0,W,4321,Pep Guardiola,mgr:26dfbbc164aa,WhoScored/Opta observed
+understat:28935,1903491,2025-12-14,nottingham_forest,tottenham_hotspur,H,3,0,W,4231,Sean Dyche,mgr:224591e666ec,WhoScored/Opta observed
+understat:28935,1903491,2025-12-14,tottenham_hotspur,nottingham_forest,A,0,3,L,4231,Thomas Frank,mgr:1e78f2997997,WhoScored/Opta observed
+understat:28936,1903492,2025-12-14,sunderland,newcastle_united,H,1,0,W,4231,Régis Le Bris,mgr:1a031e232e88,WhoScored/Opta observed
+understat:28936,1903492,2025-12-14,newcastle_united,sunderland,A,0,1,L,433,Eddie Howe,mgr:65451ab24622,WhoScored/Opta observed
+understat:28937,1903493,2025-12-14,west_ham,aston_villa,H,2,3,L,4312,Nuno Herlander Simões Espírito Santo,mgr:b68b19e445ac,WhoScored/Opta observed
+understat:28937,1903493,2025-12-14,aston_villa,west_ham,A,3,2,W,4231,Unai Emery,mgr:dcdf2dffc0c2,WhoScored/Opta observed
+understat:28934,1903490,2025-12-15,manchester_united,bournemouth,H,4,4,D,3421,Ruben Filipe Marques Diogo Amorim,mgr:662d1720cf8b,WhoScored/Opta observed
+understat:28934,1903490,2025-12-15,bournemouth,manchester_united,A,4,4,D,4231,Andoni Iraola,mgr:b4b8eecb310f,WhoScored/Opta observed
+understat:28938,1903494,2025-12-20,bournemouth,burnley,H,1,1,D,4231,Andoni Iraola,mgr:b4b8eecb310f,WhoScored/Opta observed
+understat:28938,1903494,2025-12-20,burnley,bournemouth,A,1,1,D,442,Scott Parker,mgr:c49e040048ca,WhoScored/Opta observed
+understat:28940,1903496,2025-12-20,brighton,sunderland,H,0,0,D,4231,Fabian Hürzeler,mgr:dfda8206a0e2,WhoScored/Opta observed
+understat:28940,1903496,2025-12-20,sunderland,brighton,A,0,0,D,4231,Régis Le Bris,mgr:1a031e232e88,WhoScored/Opta observed
+understat:28941,1903281,2025-12-20,everton,arsenal,H,0,1,L,4231,David Moyes,mgr:84316c036a2d,WhoScored/Opta observed
+understat:28941,1903281,2025-12-20,arsenal,everton,A,1,0,W,433,Mikel Arteta,mgr:5fdd2f365fdc,WhoScored/Opta observed
+understat:28943,1903287,2025-12-20,leeds_united,crystal_palace,H,4,1,W,352,Daniel Farke,mgr:fa5d385e34dc,WhoScored/Opta observed
+understat:28943,1903287,2025-12-20,crystal_palace,leeds_united,A,1,4,L,3421,Oliver Glasner,mgr:1058459b93f2,WhoScored/Opta observed
+understat:28944,1903290,2025-12-20,manchester_city,west_ham,H,3,0,W,4321,Pep Guardiola,mgr:26dfbbc164aa,WhoScored/Opta observed
+understat:28944,1903290,2025-12-20,west_ham,manchester_city,A,0,3,L,4312,Nuno Herlander Simões Espírito Santo,mgr:b68b19e445ac,WhoScored/Opta observed
+understat:28945,1903293,2025-12-20,newcastle_united,chelsea,H,2,2,D,433,Eddie Howe,mgr:65451ab24622,WhoScored/Opta observed
+understat:28945,1903293,2025-12-20,chelsea,newcastle_united,A,2,2,D,4231,Enzo Maresca,mgr:dc01d928d84f,WhoScored/Opta observed
+understat:28946,1903296,2025-12-20,tottenham_hotspur,liverpool,H,1,2,L,4222,Thomas Frank,mgr:1e78f2997997,WhoScored/Opta observed
+understat:28946,1903296,2025-12-20,liverpool,tottenham_hotspur,A,2,1,W,4231,Arne Slot,mgr:328a5fafed26,WhoScored/Opta observed
+understat:28947,1903299,2025-12-20,wolverhampton_wanderers,brentford,H,0,2,L,352,Rob Edwards,mgr:434bf1b2b6dc,WhoScored/Opta observed
+understat:28947,1903299,2025-12-20,brentford,wolverhampton_wanderers,A,2,0,W,433,Keith Andrews,mgr:5f487ee40c90,WhoScored/Opta observed
+understat:28939,1903495,2025-12-21,aston_villa,manchester_united,H,2,1,W,4231,Unai Emery,mgr:dcdf2dffc0c2,WhoScored/Opta observed
+understat:28939,1903495,2025-12-21,manchester_united,aston_villa,A,1,2,L,3421,Ruben Filipe Marques Diogo Amorim,mgr:662d1720cf8b,WhoScored/Opta observed
+understat:28942,1903284,2025-12-22,fulham,nottingham_forest,H,1,0,W,4231,Marco Alexandre Saraiva da Silva,mgr:d242da40969a,WhoScored/Opta observed
+understat:28942,1903284,2025-12-22,nottingham_forest,fulham,A,0,1,L,4231,Sean Dyche,mgr:224591e666ec,WhoScored/Opta observed
+understat:28954,1903319,2025-12-26,manchester_united,newcastle_united,H,1,0,W,4231,Ruben Filipe Marques Diogo Amorim,mgr:662d1720cf8b,WhoScored/Opta observed
+understat:28954,1903319,2025-12-26,newcastle_united,manchester_united,A,0,1,L,433,Eddie Howe,mgr:65451ab24622,WhoScored/Opta observed
+understat:28948,1903302,2025-12-27,arsenal,brighton,H,2,1,W,433,Mikel Arteta,mgr:5fdd2f365fdc,WhoScored/Opta observed
+understat:28948,1903302,2025-12-27,brighton,arsenal,A,1,2,L,3421,Fabian Hürzeler,mgr:dfda8206a0e2,WhoScored/Opta observed
+understat:28949,1903305,2025-12-27,brentford,bournemouth,H,4,1,W,4231,Keith Andrews,mgr:5f487ee40c90,WhoScored/Opta observed
+understat:28949,1903305,2025-12-27,bournemouth,brentford,A,1,4,L,4231,Andoni Iraola,mgr:b4b8eecb310f,WhoScored/Opta observed
+understat:28950,1903308,2025-12-27,burnley,everton,H,0,0,D,343,Scott Parker,mgr:c49e040048ca,WhoScored/Opta observed
+understat:28950,1903308,2025-12-27,everton,burnley,A,0,0,D,4231,David Moyes,mgr:84316c036a2d,WhoScored/Opta observed
+understat:28951,1903311,2025-12-27,chelsea,aston_villa,H,1,2,L,4231,Enzo Maresca,mgr:dc01d928d84f,WhoScored/Opta observed
+understat:28951,1903311,2025-12-27,aston_villa,chelsea,A,2,1,W,442,Unai Emery,mgr:dcdf2dffc0c2,WhoScored/Opta observed
+understat:28953,1903316,2025-12-27,liverpool,wolverhampton_wanderers,H,2,1,W,4231,Arne Slot,mgr:328a5fafed26,WhoScored/Opta observed
+understat:28953,1903316,2025-12-27,wolverhampton_wanderers,liverpool,A,1,2,L,3421,Rob Edwards,mgr:434bf1b2b6dc,WhoScored/Opta observed
+understat:28955,1903323,2025-12-27,nottingham_forest,manchester_city,H,1,2,L,4231,Sean Dyche,mgr:224591e666ec,WhoScored/Opta observed
+understat:28955,1903323,2025-12-27,manchester_city,nottingham_forest,A,2,1,W,4321,Pep Guardiola,mgr:26dfbbc164aa,WhoScored/Opta observed
+understat:28957,1903330,2025-12-27,west_ham,fulham,H,0,1,L,4321,Nuno Herlander Simões Espírito Santo,mgr:b68b19e445ac,WhoScored/Opta observed
+understat:28957,1903330,2025-12-27,fulham,west_ham,A,1,0,W,4231,Marco Alexandre Saraiva da Silva,mgr:d242da40969a,WhoScored/Opta observed
+understat:28952,1903314,2025-12-28,crystal_palace,tottenham_hotspur,H,0,1,L,3421,Oliver Glasner,mgr:1058459b93f2,WhoScored/Opta observed
+understat:28952,1903314,2025-12-28,tottenham_hotspur,crystal_palace,A,1,0,W,4231,Thomas Frank,mgr:1e78f2997997,WhoScored/Opta observed
+understat:28956,1903326,2025-12-28,sunderland,leeds_united,H,1,1,D,4231,Régis Le Bris,mgr:1a031e232e88,WhoScored/Opta observed
+understat:28956,1903326,2025-12-28,leeds_united,sunderland,A,1,1,D,352,Daniel Farke,mgr:fa5d385e34dc,WhoScored/Opta observed
+understat:28958,1903333,2025-12-30,arsenal,aston_villa,H,4,1,W,433,Mikel Arteta,mgr:5fdd2f365fdc,WhoScored/Opta observed
+understat:28958,1903333,2025-12-30,aston_villa,arsenal,A,1,4,L,4231,Unai Emery,mgr:dcdf2dffc0c2,WhoScored/Opta observed
+understat:28960,1903339,2025-12-30,burnley,newcastle_united,H,1,3,L,343,Scott Parker,mgr:c49e040048ca,WhoScored/Opta observed
+understat:28960,1903339,2025-12-30,newcastle_united,burnley,A,3,1,W,433,Eddie Howe,mgr:65451ab24622,WhoScored/Opta observed
+understat:28961,1903342,2025-12-30,chelsea,bournemouth,H,2,2,D,4231,Enzo Maresca,mgr:dc01d928d84f,WhoScored/Opta observed
+understat:28961,1903342,2025-12-30,bournemouth,chelsea,A,2,2,D,4231,Andoni Iraola,mgr:b4b8eecb310f,WhoScored/Opta observed
+understat:28964,1903351,2025-12-30,manchester_united,wolverhampton_wanderers,H,1,1,D,4231,Ruben Filipe Marques Diogo Amorim,mgr:662d1720cf8b,WhoScored/Opta observed
+understat:28964,1903351,2025-12-30,wolverhampton_wanderers,manchester_united,A,1,1,D,352,Rob Edwards,mgr:434bf1b2b6dc,WhoScored/Opta observed
+understat:28965,1903354,2025-12-30,nottingham_forest,everton,H,0,2,L,4231,Sean Dyche,mgr:224591e666ec,WhoScored/Opta observed
+understat:28965,1903354,2025-12-30,everton,nottingham_forest,A,2,0,W,4231,David Moyes,mgr:84316c036a2d,WhoScored/Opta observed
+understat:28967,1903360,2025-12-30,west_ham,brighton,H,2,2,D,4231,Nuno Herlander Simões Espírito Santo,mgr:b68b19e445ac,WhoScored/Opta observed
+understat:28967,1903360,2025-12-30,brighton,west_ham,A,2,2,D,4231,Fabian Hürzeler,mgr:dfda8206a0e2,WhoScored/Opta observed
+understat:28959,1903336,2026-01-01,brentford,tottenham_hotspur,H,0,0,D,433,Keith Andrews,mgr:5f487ee40c90,WhoScored/Opta observed
+understat:28959,1903336,2026-01-01,tottenham_hotspur,brentford,A,0,0,D,433,Thomas Frank,mgr:1e78f2997997,WhoScored/Opta observed
+understat:28962,1903345,2026-01-01,crystal_palace,fulham,H,1,1,D,3421,Oliver Glasner,mgr:1058459b93f2,WhoScored/Opta observed
+understat:28962,1903345,2026-01-01,fulham,crystal_palace,A,1,1,D,4231,Marco Alexandre Saraiva da Silva,mgr:d242da40969a,WhoScored/Opta observed
+understat:28963,1903348,2026-01-01,liverpool,leeds_united,H,0,0,D,4231,Arne Slot,mgr:328a5fafed26,WhoScored/Opta observed
+understat:28963,1903348,2026-01-01,leeds_united,liverpool,A,0,0,D,352,Daniel Farke,mgr:fa5d385e34dc,WhoScored/Opta observed
+understat:28966,1903357,2026-01-01,sunderland,manchester_city,H,0,0,D,4231,Régis Le Bris,mgr:1a031e232e88,WhoScored/Opta observed
+understat:28966,1903357,2026-01-01,manchester_city,sunderland,A,0,0,D,4321,Pep Guardiola,mgr:26dfbbc164aa,WhoScored/Opta observed
+understat:28970,1903263,2026-01-03,wolverhampton_wanderers,west_ham,H,3,0,W,352,Rob Edwards,mgr:434bf1b2b6dc,WhoScored/Opta observed
+understat:28970,1903263,2026-01-03,west_ham,wolverhampton_wanderers,A,0,3,L,4231,Nuno Herlander Simões Espírito Santo,mgr:b68b19e445ac,WhoScored/Opta observed
+understat:28971,1903363,2026-01-03,bournemouth,arsenal,H,2,3,L,4231,Andoni Iraola,mgr:b4b8eecb310f,WhoScored/Opta observed
+understat:28971,1903363,2026-01-03,arsenal,bournemouth,A,3,2,W,433,Mikel Arteta,mgr:5fdd2f365fdc,WhoScored/Opta observed
+understat:28972,1903366,2026-01-03,aston_villa,nottingham_forest,H,3,1,W,4231,Unai Emery,mgr:dcdf2dffc0c2,WhoScored/Opta observed
+understat:28972,1903366,2026-01-03,nottingham_forest,aston_villa,A,1,3,L,451,Sean Dyche,mgr:224591e666ec,WhoScored/Opta observed
+understat:28973,1903369,2026-01-03,brighton,burnley,H,2,0,W,4231,Fabian Hürzeler,mgr:dfda8206a0e2,WhoScored/Opta observed
+understat:28973,1903369,2026-01-03,burnley,brighton,A,0,2,L,541,Scott Parker,mgr:c49e040048ca,WhoScored/Opta observed
+understat:28968,1903259,2026-01-04,newcastle_united,crystal_palace,H,2,0,W,433,Eddie Howe,mgr:65451ab24622,WhoScored/Opta observed
+understat:28968,1903259,2026-01-04,crystal_palace,newcastle_united,A,0,2,L,3421,Oliver Glasner,mgr:1058459b93f2,WhoScored/Opta observed
+understat:28969,1903261,2026-01-04,tottenham_hotspur,sunderland,H,1,1,D,4231,Thomas Frank,mgr:1e78f2997997,WhoScored/Opta observed
+understat:28969,1903261,2026-01-04,sunderland,tottenham_hotspur,A,1,1,D,442,Régis Le Bris,mgr:1a031e232e88,WhoScored/Opta observed
+understat:28974,1903371,2026-01-04,everton,brentford,H,2,4,L,4231,David Moyes,mgr:84316c036a2d,WhoScored/Opta observed
+understat:28974,1903371,2026-01-04,brentford,everton,A,4,2,W,4231,Keith Andrews,mgr:5f487ee40c90,WhoScored/Opta observed
+understat:28975,1903374,2026-01-04,fulham,liverpool,H,2,2,D,3421,Marco Alexandre Saraiva da Silva,mgr:d242da40969a,WhoScored/Opta observed
+understat:28975,1903374,2026-01-04,liverpool,fulham,A,2,2,D,4231,Arne Slot,mgr:328a5fafed26,WhoScored/Opta observed
+understat:28976,1903375,2026-01-04,leeds_united,manchester_united,H,1,1,D,352,Daniel Farke,mgr:fa5d385e34dc,WhoScored/Opta observed
+understat:28976,1903375,2026-01-04,manchester_united,leeds_united,A,1,1,D,3421,Ruben Filipe Marques Diogo Amorim,mgr:662d1720cf8b,WhoScored/Opta observed
+understat:28977,1903376,2026-01-04,manchester_city,chelsea,H,1,1,D,4141,Pep Guardiola,mgr:26dfbbc164aa,WhoScored/Opta observed
+understat:28977,1903376,2026-01-04,chelsea,manchester_city,A,1,1,D,4231,Calum McFarlane,mgr:3b963ae58719,WhoScored/Opta observed
+understat:28987,1903288,2026-01-06,west_ham,nottingham_forest,H,1,2,L,4231,Nuno Herlander Simões Espírito Santo,mgr:b68b19e445ac,WhoScored/Opta observed
+understat:28987,1903288,2026-01-06,nottingham_forest,west_ham,A,2,1,W,4231,Sean Dyche,mgr:224591e666ec,WhoScored/Opta observed
+understat:28978,1903276,2026-01-07,everton,wolverhampton_wanderers,H,1,1,D,433,David Moyes,mgr:84316c036a2d,WhoScored/Opta observed
+understat:28978,1903276,2026-01-07,wolverhampton_wanderers,everton,A,1,1,D,352,Rob Edwards,mgr:434bf1b2b6dc,WhoScored/Opta observed
+understat:28979,1903265,2026-01-07,bournemouth,tottenham_hotspur,H,3,2,W,4231,Andoni Iraola,mgr:b4b8eecb310f,WhoScored/Opta observed
+understat:28979,1903265,2026-01-07,tottenham_hotspur,bournemouth,A,2,3,L,4231,Thomas Frank,mgr:1e78f2997997,WhoScored/Opta observed
+understat:28981,1903269,2026-01-07,brentford,sunderland,H,3,0,W,4231,Keith Andrews,mgr:5f487ee40c90,WhoScored/Opta observed
+understat:28981,1903269,2026-01-07,sunderland,brentford,A,0,3,L,4231,Régis Le Bris,mgr:1a031e232e88,WhoScored/Opta observed
+understat:28982,1903271,2026-01-07,burnley,manchester_united,H,2,2,D,3421,Scott Parker,mgr:c49e040048ca,WhoScored/Opta observed
+understat:28982,1903271,2026-01-07,manchester_united,burnley,A,2,2,D,4231,Darren Fletcher,mgr:98dfad21cc80,WhoScored/Opta observed
+understat:28983,1903274,2026-01-07,crystal_palace,aston_villa,H,0,0,D,3421,Oliver Glasner,mgr:1058459b93f2,WhoScored/Opta observed
+understat:28983,1903274,2026-01-07,aston_villa,crystal_palace,A,0,0,D,4231,Unai Emery,mgr:dcdf2dffc0c2,WhoScored/Opta observed
+understat:28984,1903279,2026-01-07,fulham,chelsea,H,2,1,W,3421,Marco Alexandre Saraiva da Silva,mgr:d242da40969a,WhoScored/Opta observed
+understat:28984,1903279,2026-01-07,chelsea,fulham,A,1,2,L,4231,Calum McFarlane,mgr:3b963ae58719,WhoScored/Opta observed
+understat:28985,1903282,2026-01-07,manchester_city,brighton,H,1,1,D,4141,Pep Guardiola,mgr:26dfbbc164aa,WhoScored/Opta observed
+understat:28985,1903282,2026-01-07,brighton,manchester_city,A,1,1,D,4231,Fabian Hürzeler,mgr:dfda8206a0e2,WhoScored/Opta observed
+understat:28986,1903285,2026-01-07,newcastle_united,leeds_united,H,4,3,W,433,Eddie Howe,mgr:65451ab24622,WhoScored/Opta observed
+understat:28986,1903285,2026-01-07,leeds_united,newcastle_united,A,3,4,L,3142,Daniel Farke,mgr:fa5d385e34dc,WhoScored/Opta observed
+understat:28980,1903267,2026-01-08,arsenal,liverpool,H,0,0,D,433,Mikel Arteta,mgr:5fdd2f365fdc,WhoScored/Opta observed
+understat:28980,1903267,2026-01-08,liverpool,arsenal,A,0,0,D,4231,Arne Slot,mgr:328a5fafed26,WhoScored/Opta observed
+understat:28990,1903297,2026-01-17,chelsea,brentford,H,2,0,W,4231,Liam Rosenior,mgr:4fed4e69ba04,WhoScored/Opta observed
+understat:28990,1903297,2026-01-17,brentford,chelsea,A,0,2,L,4231,Keith Andrews,mgr:5f487ee40c90,WhoScored/Opta observed
+understat:28991,1903300,2026-01-17,leeds_united,fulham,H,1,0,W,352,Daniel Farke,mgr:fa5d385e34dc,WhoScored/Opta observed
+understat:28991,1903300,2026-01-17,fulham,leeds_united,A,0,1,L,4231,Marco Alexandre Saraiva da Silva,mgr:d242da40969a,WhoScored/Opta observed
+understat:28992,1903303,2026-01-17,liverpool,burnley,H,1,1,D,4231,Arne Slot,mgr:328a5fafed26,WhoScored/Opta observed
+understat:28992,1903303,2026-01-17,burnley,liverpool,A,1,1,D,3421,Scott Parker,mgr:c49e040048ca,WhoScored/Opta observed
+understat:28993,1903304,2026-01-17,manchester_united,manchester_city,H,2,0,W,4231,Michael Carrick,mgr:3aa905054daf,WhoScored/Opta observed
+understat:28993,1903304,2026-01-17,manchester_city,manchester_united,A,0,2,L,4141,Pep Guardiola,mgr:26dfbbc164aa,WhoScored/Opta observed
+understat:28994,1903307,2026-01-17,nottingham_forest,arsenal,H,0,0,D,4231,Sean Dyche,mgr:224591e666ec,WhoScored/Opta observed
+understat:28994,1903307,2026-01-17,arsenal,nottingham_forest,A,0,0,D,433,Mikel Arteta,mgr:5fdd2f365fdc,WhoScored/Opta observed
+understat:28995,1903310,2026-01-17,sunderland,crystal_palace,H,2,1,W,4231,Régis Le Bris,mgr:1a031e232e88,WhoScored/Opta observed
+understat:28995,1903310,2026-01-17,crystal_palace,sunderland,A,1,2,L,3421,Oliver Glasner,mgr:1058459b93f2,WhoScored/Opta observed
+understat:28996,1903313,2026-01-17,tottenham_hotspur,west_ham,H,1,2,L,4231,Thomas Frank,mgr:1e78f2997997,WhoScored/Opta observed
+understat:28996,1903313,2026-01-17,west_ham,tottenham_hotspur,A,2,1,W,4411,Nuno Herlander Simões Espírito Santo,mgr:b68b19e445ac,WhoScored/Opta observed
+understat:28988,1903291,2026-01-18,aston_villa,everton,H,0,1,L,4231,Unai Emery,mgr:dcdf2dffc0c2,WhoScored/Opta observed
+understat:28988,1903291,2026-01-18,everton,aston_villa,A,1,0,W,4231,David Moyes,mgr:84316c036a2d,WhoScored/Opta observed
+understat:28997,1903317,2026-01-18,wolverhampton_wanderers,newcastle_united,H,0,0,D,352,Rob Edwards,mgr:434bf1b2b6dc,WhoScored/Opta observed
+understat:28997,1903317,2026-01-18,newcastle_united,wolverhampton_wanderers,A,0,0,D,433,Eddie Howe,mgr:65451ab24622,WhoScored/Opta observed
+understat:28989,1903294,2026-01-19,brighton,bournemouth,H,1,1,D,4231,Fabian Hürzeler,mgr:dfda8206a0e2,WhoScored/Opta observed
+understat:28989,1903294,2026-01-19,bournemouth,brighton,A,1,1,D,4231,Andoni Iraola,mgr:b4b8eecb310f,WhoScored/Opta observed
+understat:28998,1903320,2026-01-24,bournemouth,liverpool,H,3,2,W,4231,Andoni Iraola,mgr:b4b8eecb310f,WhoScored/Opta observed
+understat:28998,1903320,2026-01-24,liverpool,bournemouth,A,2,3,L,4222,Arne Slot,mgr:328a5fafed26,WhoScored/Opta observed
+understat:29001,1903328,2026-01-24,burnley,tottenham_hotspur,H,2,2,D,3421,Scott Parker,mgr:c49e040048ca,WhoScored/Opta observed
+understat:29001,1903328,2026-01-24,tottenham_hotspur,burnley,A,2,2,D,3421,Thomas Frank,mgr:1e78f2997997,WhoScored/Opta observed
+understat:29004,1903337,2026-01-24,fulham,brighton,H,2,1,W,4231,Marco Alexandre Saraiva da Silva,mgr:d242da40969a,WhoScored/Opta observed
+understat:29004,1903337,2026-01-24,brighton,fulham,A,1,2,L,433,Fabian Hürzeler,mgr:dfda8206a0e2,WhoScored/Opta observed
+understat:29005,1903340,2026-01-24,manchester_city,wolverhampton_wanderers,H,2,0,W,4141,Pep Guardiola,mgr:26dfbbc164aa,WhoScored/Opta observed
+understat:29005,1903340,2026-01-24,wolverhampton_wanderers,manchester_city,A,0,2,L,352,Rob Edwards,mgr:434bf1b2b6dc,WhoScored/Opta observed
+understat:29007,1903260,2026-01-24,west_ham,sunderland,H,3,1,W,4411,Nuno Herlander Simões Espírito Santo,mgr:b68b19e445ac,WhoScored/Opta observed
+understat:29007,1903260,2026-01-24,sunderland,west_ham,A,1,3,L,442,Régis Le Bris,mgr:1a031e232e88,WhoScored/Opta observed
+understat:28999,1903322,2026-01-25,arsenal,manchester_united,H,2,3,L,433,Mikel Arteta,mgr:5fdd2f365fdc,WhoScored/Opta observed
+understat:28999,1903322,2026-01-25,manchester_united,arsenal,A,3,2,W,4231,Michael Carrick,mgr:3aa905054daf,WhoScored/Opta observed
+understat:29000,1903325,2026-01-25,brentford,nottingham_forest,H,0,2,L,4231,Keith Andrews,mgr:5f487ee40c90,WhoScored/Opta observed
+understat:29000,1903325,2026-01-25,nottingham_forest,brentford,A,2,0,W,4231,Sean Dyche,mgr:224591e666ec,WhoScored/Opta observed
+understat:29002,1903331,2026-01-25,crystal_palace,chelsea,H,1,3,L,3421,Oliver Glasner,mgr:1058459b93f2,WhoScored/Opta observed
+understat:29002,1903331,2026-01-25,chelsea,crystal_palace,A,3,1,W,4231,Liam Rosenior,mgr:4fed4e69ba04,WhoScored/Opta observed
+understat:29006,1903343,2026-01-25,newcastle_united,aston_villa,H,0,2,L,433,Eddie Howe,mgr:65451ab24622,WhoScored/Opta observed
+understat:29006,1903343,2026-01-25,aston_villa,newcastle_united,A,2,0,W,4231,Unai Emery,mgr:dcdf2dffc0c2,WhoScored/Opta observed
+understat:29003,1903334,2026-01-26,everton,leeds_united,H,1,1,D,4231,David Moyes,mgr:84316c036a2d,WhoScored/Opta observed
+understat:29003,1903334,2026-01-26,leeds_united,everton,A,1,1,D,3421,Daniel Farke,mgr:fa5d385e34dc,WhoScored/Opta observed
+understat:29009,1903266,2026-01-31,chelsea,west_ham,H,3,2,W,4141,Liam Rosenior,mgr:4fed4e69ba04,WhoScored/Opta observed
+understat:29009,1903266,2026-01-31,west_ham,chelsea,A,2,3,L,4411,Nuno Herlander Simões Espírito Santo,mgr:b68b19e445ac,WhoScored/Opta observed
+understat:29010,1903264,2026-01-31,brighton,everton,H,1,1,D,433,Fabian Hürzeler,mgr:dfda8206a0e2,WhoScored/Opta observed
+understat:29010,1903264,2026-01-31,everton,brighton,A,1,1,D,4231,David Moyes,mgr:84316c036a2d,WhoScored/Opta observed
+understat:29014,1903270,2026-01-31,liverpool,newcastle_united,H,4,1,W,4231,Arne Slot,mgr:328a5fafed26,WhoScored/Opta observed
+understat:29014,1903270,2026-01-31,newcastle_united,liverpool,A,1,4,L,433,Eddie Howe,mgr:65451ab24622,WhoScored/Opta observed
+understat:29015,1903268,2026-01-31,leeds_united,arsenal,H,0,4,L,3421,Daniel Farke,mgr:fa5d385e34dc,WhoScored/Opta observed
+understat:29015,1903268,2026-01-31,arsenal,leeds_united,A,4,0,W,4231,Mikel Arteta,mgr:5fdd2f365fdc,WhoScored/Opta observed
+understat:29017,1903278,2026-01-31,wolverhampton_wanderers,bournemouth,H,0,2,L,352,Rob Edwards,mgr:434bf1b2b6dc,WhoScored/Opta observed
+understat:29017,1903278,2026-01-31,bournemouth,wolverhampton_wanderers,A,2,0,W,4231,Andoni Iraola,mgr:b4b8eecb310f,WhoScored/Opta observed
+understat:29008,1903262,2026-02-01,aston_villa,brentford,H,0,1,L,4231,Unai Emery,mgr:dcdf2dffc0c2,WhoScored/Opta observed
+understat:29008,1903262,2026-02-01,brentford,aston_villa,A,1,0,W,4231,Keith Andrews,mgr:5f487ee40c90,WhoScored/Opta observed
+understat:29012,1903272,2026-02-01,manchester_united,fulham,H,3,2,W,4231,Michael Carrick,mgr:3aa905054daf,WhoScored/Opta observed
+understat:29012,1903272,2026-02-01,fulham,manchester_united,A,2,3,L,4231,Marco Alexandre Saraiva da Silva,mgr:d242da40969a,WhoScored/Opta observed
+understat:29013,1903273,2026-02-01,nottingham_forest,crystal_palace,H,1,1,D,4231,Sean Dyche,mgr:224591e666ec,WhoScored/Opta observed
+understat:29013,1903273,2026-02-01,crystal_palace,nottingham_forest,A,1,1,D,3421,Oliver Glasner,mgr:1058459b93f2,WhoScored/Opta observed
+understat:29016,1903277,2026-02-01,tottenham_hotspur,manchester_city,H,2,2,D,3421,Thomas Frank,mgr:1e78f2997997,WhoScored/Opta observed
+understat:29016,1903277,2026-02-01,manchester_city,tottenham_hotspur,A,2,2,D,4132,Pep Guardiola,mgr:26dfbbc164aa,WhoScored/Opta observed
+understat:29011,1903275,2026-02-02,sunderland,burnley,H,3,0,W,541,Régis Le Bris,mgr:1a031e232e88,WhoScored/Opta observed
+understat:29011,1903275,2026-02-02,burnley,sunderland,A,0,3,L,3421,Scott Parker,mgr:c49e040048ca,WhoScored/Opta observed
+understat:29023,1903295,2026-02-06,leeds_united,nottingham_forest,H,3,1,W,3421,Daniel Farke,mgr:fa5d385e34dc,WhoScored/Opta observed
+understat:29023,1903295,2026-02-06,nottingham_forest,leeds_united,A,1,3,L,4231,Sean Dyche,mgr:224591e666ec,WhoScored/Opta observed
+understat:29018,1903280,2026-02-07,bournemouth,aston_villa,H,1,1,D,4231,Andoni Iraola,mgr:b4b8eecb310f,WhoScored/Opta observed
+understat:29018,1903280,2026-02-07,aston_villa,bournemouth,A,1,1,D,4231,Unai Emery,mgr:dcdf2dffc0c2,WhoScored/Opta observed
+understat:29019,1903283,2026-02-07,arsenal,sunderland,H,3,0,W,433,Mikel Arteta,mgr:5fdd2f365fdc,WhoScored/Opta observed
+understat:29019,1903283,2026-02-07,sunderland,arsenal,A,0,3,L,4231,Régis Le Bris,mgr:1a031e232e88,WhoScored/Opta observed
+understat:29021,1903289,2026-02-07,burnley,west_ham,H,0,2,L,451,Scott Parker,mgr:c49e040048ca,WhoScored/Opta observed
+understat:29021,1903289,2026-02-07,west_ham,burnley,A,2,0,W,4411,Nuno Herlander Simões Espírito Santo,mgr:b68b19e445ac,WhoScored/Opta observed
+understat:29022,1903292,2026-02-07,fulham,everton,H,1,2,L,4231,Marco Alexandre Saraiva da Silva,mgr:d242da40969a,WhoScored/Opta observed
+understat:29022,1903292,2026-02-07,everton,fulham,A,2,1,W,4231,David Moyes,mgr:84316c036a2d,WhoScored/Opta observed
+understat:29025,1903301,2026-02-07,manchester_united,tottenham_hotspur,H,2,0,W,4231,Michael Carrick,mgr:3aa905054daf,WhoScored/Opta observed
+understat:29025,1903301,2026-02-07,tottenham_hotspur,manchester_united,A,0,2,L,433,Thomas Frank,mgr:1e78f2997997,WhoScored/Opta observed
+understat:29026,1903306,2026-02-07,newcastle_united,brentford,H,2,3,L,433,Eddie Howe,mgr:65451ab24622,WhoScored/Opta observed
+understat:29026,1903306,2026-02-07,brentford,newcastle_united,A,3,2,W,4231,Keith Andrews,mgr:5f487ee40c90,WhoScored/Opta observed
+understat:29027,1903309,2026-02-07,wolverhampton_wanderers,chelsea,H,1,3,L,4231,Rob Edwards,mgr:434bf1b2b6dc,WhoScored/Opta observed
+understat:29027,1903309,2026-02-07,chelsea,wolverhampton_wanderers,A,3,1,W,4231,Liam Rosenior,mgr:4fed4e69ba04,WhoScored/Opta observed
+understat:29020,1903286,2026-02-08,brighton,crystal_palace,H,0,1,L,4231,Fabian Hürzeler,mgr:dfda8206a0e2,WhoScored/Opta observed
+understat:29020,1903286,2026-02-08,crystal_palace,brighton,A,1,0,W,3421,Oliver Glasner,mgr:1058459b93f2,WhoScored/Opta observed
+understat:29024,1903298,2026-02-08,liverpool,manchester_city,H,1,2,L,4231,Arne Slot,mgr:328a5fafed26,WhoScored/Opta observed
+understat:29024,1903298,2026-02-08,manchester_city,liverpool,A,2,1,W,4132,Pep Guardiola,mgr:26dfbbc164aa,WhoScored/Opta observed
+understat:29030,1903318,2026-02-10,chelsea,leeds_united,H,2,2,D,4231,Liam Rosenior,mgr:4fed4e69ba04,WhoScored/Opta observed
+understat:29030,1903318,2026-02-10,leeds_united,chelsea,A,2,2,D,541,Daniel Farke,mgr:fa5d385e34dc,WhoScored/Opta observed
+understat:29032,1903324,2026-02-10,everton,bournemouth,H,1,2,L,4231,David Moyes,mgr:84316c036a2d,WhoScored/Opta observed
+understat:29032,1903324,2026-02-10,bournemouth,everton,A,2,1,W,4231,Andoni Iraola,mgr:b4b8eecb310f,WhoScored/Opta observed
+understat:29036,1903335,2026-02-10,tottenham_hotspur,newcastle_united,H,1,2,L,433,Thomas Frank,mgr:1e78f2997997,WhoScored/Opta observed
+understat:29036,1903335,2026-02-10,newcastle_united,tottenham_hotspur,A,2,1,W,433,Eddie Howe,mgr:65451ab24622,WhoScored/Opta observed
+understat:29037,1903338,2026-02-10,west_ham,manchester_united,H,1,1,D,4231,Nuno Herlander Simões Espírito Santo,mgr:b68b19e445ac,WhoScored/Opta observed
+understat:29037,1903338,2026-02-10,manchester_united,west_ham,A,1,1,D,4231,Michael Carrick,mgr:3aa905054daf,WhoScored/Opta observed
+understat:29028,1903312,2026-02-11,aston_villa,brighton,H,1,0,W,4231,Unai Emery,mgr:dcdf2dffc0c2,WhoScored/Opta observed
+understat:29028,1903312,2026-02-11,brighton,aston_villa,A,0,1,L,433,Fabian Hürzeler,mgr:dfda8206a0e2,WhoScored/Opta observed
+understat:29031,1903321,2026-02-11,crystal_palace,burnley,H,2,3,L,3421,Oliver Glasner,mgr:1058459b93f2,WhoScored/Opta observed
+understat:29031,1903321,2026-02-11,burnley,crystal_palace,A,3,2,W,3421,Scott Parker,mgr:c49e040048ca,WhoScored/Opta observed
+understat:29033,1903327,2026-02-11,manchester_city,fulham,H,3,0,W,4132,Pep Guardiola,mgr:26dfbbc164aa,WhoScored/Opta observed
+understat:29033,1903327,2026-02-11,fulham,manchester_city,A,0,3,L,4231,Marco Alexandre Saraiva da Silva,mgr:d242da40969a,WhoScored/Opta observed
+understat:29034,1903329,2026-02-11,nottingham_forest,wolverhampton_wanderers,H,0,0,D,4231,Sean Dyche,mgr:224591e666ec,WhoScored/Opta observed
+understat:29034,1903329,2026-02-11,wolverhampton_wanderers,nottingham_forest,A,0,0,D,3412,Rob Edwards,mgr:434bf1b2b6dc,WhoScored/Opta observed
+understat:29035,1903332,2026-02-11,sunderland,liverpool,H,0,1,L,4231,Régis Le Bris,mgr:1a031e232e88,WhoScored/Opta observed
+understat:29035,1903332,2026-02-11,liverpool,sunderland,A,1,0,W,4231,Arne Slot,mgr:328a5fafed26,WhoScored/Opta observed
+understat:29029,1903315,2026-02-12,brentford,arsenal,H,1,1,D,4231,Keith Andrews,mgr:5f487ee40c90,WhoScored/Opta observed
+understat:29029,1903315,2026-02-12,arsenal,brentford,A,1,1,D,4231,Mikel Arteta,mgr:5fdd2f365fdc,WhoScored/Opta observed
+understat:29087,1903469,2026-02-18,wolverhampton_wanderers,arsenal,H,2,2,D,3421,Rob Edwards,mgr:434bf1b2b6dc,WhoScored/Opta observed
+understat:29087,1903469,2026-02-18,arsenal,wolverhampton_wanderers,A,2,2,D,4231,Mikel Arteta,mgr:5fdd2f365fdc,WhoScored/Opta observed
+understat:29038,1903341,2026-02-21,aston_villa,leeds_united,H,1,1,D,4231,Unai Emery,mgr:dcdf2dffc0c2,WhoScored/Opta observed
+understat:29038,1903341,2026-02-21,leeds_united,aston_villa,A,1,1,D,541,Daniel Farke,mgr:fa5d385e34dc,WhoScored/Opta observed
+understat:29039,1903344,2026-02-21,brentford,brighton,H,0,2,L,4231,Keith Andrews,mgr:5f487ee40c90,WhoScored/Opta observed
+understat:29039,1903344,2026-02-21,brighton,brentford,A,2,0,W,433,Fabian Hürzeler,mgr:dfda8206a0e2,WhoScored/Opta observed
+understat:29040,1903347,2026-02-21,chelsea,burnley,H,1,1,D,4231,Liam Rosenior,mgr:4fed4e69ba04,WhoScored/Opta observed
+understat:29040,1903347,2026-02-21,burnley,chelsea,A,1,1,D,3421,Scott Parker,mgr:c49e040048ca,WhoScored/Opta observed
+understat:29043,1903385,2026-02-21,manchester_city,newcastle_united,H,2,1,W,4132,Pep Guardiola,mgr:26dfbbc164aa,WhoScored/Opta observed
+understat:29043,1903385,2026-02-21,newcastle_united,manchester_city,A,1,2,L,433,Eddie Howe,mgr:65451ab24622,WhoScored/Opta observed
+understat:29047,1903394,2026-02-21,west_ham,bournemouth,H,0,0,D,451,Nuno Herlander Simões Espírito Santo,mgr:b68b19e445ac,WhoScored/Opta observed
+understat:29047,1903394,2026-02-21,bournemouth,west_ham,A,0,0,D,4231,Andoni Iraola,mgr:b4b8eecb310f,WhoScored/Opta observed
+understat:29041,1903380,2026-02-22,crystal_palace,wolverhampton_wanderers,H,1,0,W,3421,Oliver Glasner,mgr:1058459b93f2,WhoScored/Opta observed
+understat:29041,1903380,2026-02-22,wolverhampton_wanderers,crystal_palace,A,0,1,L,3421,Rob Edwards,mgr:434bf1b2b6dc,WhoScored/Opta observed
+understat:29044,1903386,2026-02-22,nottingham_forest,liverpool,H,0,1,L,4231,Vítor Manuel de Oliveira Lopes Pereira,mgr:807de4c745b0,WhoScored/Opta observed
+understat:29044,1903386,2026-02-22,liverpool,nottingham_forest,A,1,0,W,4231,Arne Slot,mgr:328a5fafed26,WhoScored/Opta observed
+understat:29045,1903390,2026-02-22,sunderland,fulham,H,1,3,L,4141,Régis Le Bris,mgr:1a031e232e88,WhoScored/Opta observed
+understat:29045,1903390,2026-02-22,fulham,sunderland,A,3,1,W,4231,Marco Alexandre Saraiva da Silva,mgr:d242da40969a,WhoScored/Opta observed
+understat:29046,1903393,2026-02-22,tottenham_hotspur,arsenal,H,1,4,L,352,Igor Tudor,mgr:e99dd67f9cac,WhoScored/Opta observed
+understat:29046,1903393,2026-02-22,arsenal,tottenham_hotspur,A,4,1,W,4231,Mikel Arteta,mgr:5fdd2f365fdc,WhoScored/Opta observed
+understat:29042,1903383,2026-02-23,everton,manchester_united,H,0,1,L,4231,David Moyes,mgr:84316c036a2d,WhoScored/Opta observed
+understat:29042,1903383,2026-02-23,manchester_united,everton,A,1,0,W,4231,Michael Carrick,mgr:3aa905054daf,WhoScored/Opta observed
+understat:29057,1903414,2026-02-27,wolverhampton_wanderers,aston_villa,H,2,0,W,3421,Rob Edwards,mgr:434bf1b2b6dc,WhoScored/Opta observed
+understat:29057,1903414,2026-02-27,aston_villa,wolverhampton_wanderers,A,0,2,L,4231,Unai Emery,mgr:dcdf2dffc0c2,WhoScored/Opta observed
+understat:29048,1903396,2026-02-28,bournemouth,sunderland,H,1,1,D,4231,Andoni Iraola,mgr:b4b8eecb310f,WhoScored/Opta observed
+understat:29048,1903396,2026-02-28,sunderland,bournemouth,A,1,1,D,4231,Régis Le Bris,mgr:1a031e232e88,WhoScored/Opta observed
+understat:29051,1903402,2026-02-28,burnley,brentford,H,3,4,L,3421,Scott Parker,mgr:c49e040048ca,WhoScored/Opta observed
+understat:29051,1903402,2026-02-28,brentford,burnley,A,4,3,W,4231,Keith Andrews,mgr:5f487ee40c90,WhoScored/Opta observed
+understat:29053,1903406,2026-02-28,leeds_united,manchester_city,H,0,1,L,541,Daniel Farke,mgr:fa5d385e34dc,WhoScored/Opta observed
+understat:29053,1903406,2026-02-28,manchester_city,leeds_united,A,1,0,W,4132,Pep Guardiola,mgr:26dfbbc164aa,WhoScored/Opta observed
+understat:29054,1903408,2026-02-28,liverpool,west_ham,H,5,2,W,4231,Arne Slot,mgr:328a5fafed26,WhoScored/Opta observed
+understat:29054,1903408,2026-02-28,west_ham,liverpool,A,2,5,L,451,Nuno Herlander Simões Espírito Santo,mgr:b68b19e445ac,WhoScored/Opta observed
+understat:29056,1903412,2026-02-28,newcastle_united,everton,H,2,3,L,433,Eddie Howe,mgr:65451ab24622,WhoScored/Opta observed
+understat:29056,1903412,2026-02-28,everton,newcastle_united,A,3,2,W,4231,David Moyes,mgr:84316c036a2d,WhoScored/Opta observed
+understat:29049,1903399,2026-03-01,arsenal,chelsea,H,2,1,W,4231,Mikel Arteta,mgr:5fdd2f365fdc,WhoScored/Opta observed
+understat:29049,1903399,2026-03-01,chelsea,arsenal,A,1,2,L,433,Liam Rosenior,mgr:4fed4e69ba04,WhoScored/Opta observed
+understat:29050,1903400,2026-03-01,brighton,nottingham_forest,H,2,1,W,4231,Fabian Hürzeler,mgr:dfda8206a0e2,WhoScored/Opta observed
+understat:29050,1903400,2026-03-01,nottingham_forest,brighton,A,1,2,L,4231,Vítor Manuel de Oliveira Lopes Pereira,mgr:807de4c745b0,WhoScored/Opta observed
+understat:29052,1903404,2026-03-01,fulham,tottenham_hotspur,H,2,1,W,4231,Marco Alexandre Saraiva da Silva,mgr:d242da40969a,WhoScored/Opta observed
+understat:29052,1903404,2026-03-01,tottenham_hotspur,fulham,A,1,2,L,442,Igor Tudor,mgr:e99dd67f9cac,WhoScored/Opta observed
+understat:29055,1903410,2026-03-01,manchester_united,crystal_palace,H,2,1,W,4231,Michael Carrick,mgr:3aa905054daf,WhoScored/Opta observed
+understat:29055,1903410,2026-03-01,crystal_palace,manchester_united,A,1,2,L,3421,Oliver Glasner,mgr:1058459b93f2,WhoScored/Opta observed
+understat:29058,1903416,2026-03-03,bournemouth,brentford,H,0,0,D,4231,Andoni Iraola,mgr:b4b8eecb310f,WhoScored/Opta observed
+understat:29058,1903416,2026-03-03,brentford,bournemouth,A,0,0,D,4231,Keith Andrews,mgr:5f487ee40c90,WhoScored/Opta observed
+understat:29061,1903423,2026-03-03,everton,burnley,H,2,0,W,4231,David Moyes,mgr:84316c036a2d,WhoScored/Opta observed
+understat:29061,1903423,2026-03-03,burnley,everton,A,0,2,L,3421,Scott Parker,mgr:c49e040048ca,WhoScored/Opta observed
+understat:29063,1903427,2026-03-03,leeds_united,sunderland,H,0,1,L,451,Daniel Farke,mgr:fa5d385e34dc,WhoScored/Opta observed
+understat:29063,1903427,2026-03-03,sunderland,leeds_united,A,1,0,W,4231,Régis Le Bris,mgr:1a031e232e88,WhoScored/Opta observed
+understat:29067,1903435,2026-03-03,wolverhampton_wanderers,liverpool,H,2,1,W,3511,Rob Edwards,mgr:434bf1b2b6dc,WhoScored/Opta observed
+understat:29067,1903435,2026-03-03,liverpool,wolverhampton_wanderers,A,1,2,L,4231,Arne Slot,mgr:328a5fafed26,WhoScored/Opta observed
+understat:29059,1903418,2026-03-04,aston_villa,chelsea,H,1,4,L,4231,Unai Emery,mgr:dcdf2dffc0c2,WhoScored/Opta observed
+understat:29059,1903418,2026-03-04,chelsea,aston_villa,A,4,1,W,433,Liam Rosenior,mgr:4fed4e69ba04,WhoScored/Opta observed
+understat:29060,1903421,2026-03-04,brighton,arsenal,H,0,1,L,4231,Fabian Hürzeler,mgr:dfda8206a0e2,WhoScored/Opta observed
+understat:29060,1903421,2026-03-04,arsenal,brighton,A,1,0,W,4231,Mikel Arteta,mgr:5fdd2f365fdc,WhoScored/Opta observed
+understat:29062,1903425,2026-03-04,fulham,west_ham,H,0,1,L,4231,Marco Alexandre Saraiva da Silva,mgr:d242da40969a,WhoScored/Opta observed
+understat:29062,1903425,2026-03-04,west_ham,fulham,A,1,0,W,442,Nuno Herlander Simões Espírito Santo,mgr:b68b19e445ac,WhoScored/Opta observed
+understat:29064,1903429,2026-03-04,manchester_city,nottingham_forest,H,2,2,D,4132,Pep Guardiola,mgr:26dfbbc164aa,WhoScored/Opta observed
+understat:29064,1903429,2026-03-04,nottingham_forest,manchester_city,A,2,2,D,532,Vítor Manuel de Oliveira Lopes Pereira,mgr:807de4c745b0,WhoScored/Opta observed
+understat:29065,1903431,2026-03-04,newcastle_united,manchester_united,H,2,1,W,433,Eddie Howe,mgr:65451ab24622,WhoScored/Opta observed
+understat:29065,1903431,2026-03-04,manchester_united,newcastle_united,A,1,2,L,4231,Michael Carrick,mgr:3aa905054daf,WhoScored/Opta observed
+understat:29066,1903433,2026-03-05,tottenham_hotspur,crystal_palace,H,1,3,L,3421,Igor Tudor,mgr:e99dd67f9cac,WhoScored/Opta observed
+understat:29066,1903433,2026-03-05,crystal_palace,tottenham_hotspur,A,3,1,W,3421,Oliver Glasner,mgr:1058459b93f2,WhoScored/Opta observed
+understat:29068,1903437,2026-03-14,arsenal,everton,H,2,0,W,4231,Mikel Arteta,mgr:5fdd2f365fdc,WhoScored/Opta observed
+understat:29068,1903437,2026-03-14,everton,arsenal,A,0,2,L,4231,David Moyes,mgr:84316c036a2d,WhoScored/Opta observed
+understat:29070,1903441,2026-03-14,burnley,bournemouth,H,0,0,D,4231,Scott Parker,mgr:c49e040048ca,WhoScored/Opta observed
+understat:29070,1903441,2026-03-14,bournemouth,burnley,A,0,0,D,4231,Andoni Iraola,mgr:b4b8eecb310f,WhoScored/Opta observed
+understat:29071,1903443,2026-03-14,chelsea,newcastle_united,H,0,1,L,4231,Liam Rosenior,mgr:4fed4e69ba04,WhoScored/Opta observed
+understat:29071,1903443,2026-03-14,newcastle_united,chelsea,A,1,0,W,4231,Eddie Howe,mgr:65451ab24622,WhoScored/Opta observed
+understat:29076,1903456,2026-03-14,sunderland,brighton,H,0,1,L,4141,Régis Le Bris,mgr:1a031e232e88,WhoScored/Opta observed
+understat:29076,1903456,2026-03-14,brighton,sunderland,A,1,0,W,4231,Fabian Hürzeler,mgr:dfda8206a0e2,WhoScored/Opta observed
+understat:29077,1903459,2026-03-14,west_ham,manchester_city,H,1,1,D,3421,Nuno Herlander Simões Espírito Santo,mgr:b68b19e445ac,WhoScored/Opta observed
+understat:29077,1903459,2026-03-14,manchester_city,west_ham,A,1,1,D,4132,Pep Guardiola,mgr:26dfbbc164aa,WhoScored/Opta observed
+understat:29072,1903445,2026-03-15,crystal_palace,leeds_united,H,0,0,D,3421,Oliver Glasner,mgr:1058459b93f2,WhoScored/Opta observed
+understat:29072,1903445,2026-03-15,leeds_united,crystal_palace,A,0,0,D,3412,Daniel Farke,mgr:fa5d385e34dc,WhoScored/Opta observed
+understat:29073,1903447,2026-03-15,liverpool,tottenham_hotspur,H,1,1,D,4231,Arne Slot,mgr:328a5fafed26,WhoScored/Opta observed
+understat:29073,1903447,2026-03-15,tottenham_hotspur,liverpool,A,1,1,D,442,Igor Tudor,mgr:e99dd67f9cac,WhoScored/Opta observed
+understat:29074,1903450,2026-03-15,manchester_united,aston_villa,H,3,1,W,4231,Michael Carrick,mgr:3aa905054daf,WhoScored/Opta observed
+understat:29074,1903450,2026-03-15,aston_villa,manchester_united,A,1,3,L,4231,Unai Emery,mgr:dcdf2dffc0c2,WhoScored/Opta observed
+understat:29075,1903452,2026-03-15,nottingham_forest,fulham,H,0,0,D,4231,Vítor Manuel de Oliveira Lopes Pereira,mgr:807de4c745b0,WhoScored/Opta observed
+understat:29075,1903452,2026-03-15,fulham,nottingham_forest,A,0,0,D,4231,Marco Alexandre Saraiva da Silva,mgr:d242da40969a,WhoScored/Opta observed
+understat:29069,1903439,2026-03-16,brentford,wolverhampton_wanderers,H,2,2,D,4141,Keith Andrews,mgr:5f487ee40c90,WhoScored/Opta observed
+understat:29069,1903439,2026-03-16,wolverhampton_wanderers,brentford,A,2,2,D,3421,Rob Edwards,mgr:434bf1b2b6dc,WhoScored/Opta observed
+understat:29078,1903460,2026-03-20,bournemouth,manchester_united,H,2,2,D,4231,Andoni Iraola,mgr:b4b8eecb310f,WhoScored/Opta observed
+understat:29078,1903460,2026-03-20,manchester_united,bournemouth,A,2,2,D,4231,Michael Carrick,mgr:3aa905054daf,WhoScored/Opta observed
+understat:29080,1903462,2026-03-21,brighton,liverpool,H,2,1,W,4231,Fabian Hürzeler,mgr:dfda8206a0e2,WhoScored/Opta observed
+understat:29080,1903462,2026-03-21,liverpool,brighton,A,1,2,L,41212,Arne Slot,mgr:328a5fafed26,WhoScored/Opta observed
+understat:29081,1903463,2026-03-21,everton,chelsea,H,3,0,W,4231,David Moyes,mgr:84316c036a2d,WhoScored/Opta observed
+understat:29081,1903463,2026-03-21,chelsea,everton,A,0,3,L,4231,Liam Rosenior,mgr:4fed4e69ba04,WhoScored/Opta observed
+understat:29082,1903464,2026-03-21,fulham,burnley,H,3,1,W,4231,Marco Alexandre Saraiva da Silva,mgr:d242da40969a,WhoScored/Opta observed
+understat:29082,1903464,2026-03-21,burnley,fulham,A,1,3,L,4231,Scott Parker,mgr:c49e040048ca,WhoScored/Opta observed
+understat:29083,1903465,2026-03-21,leeds_united,brentford,H,0,0,D,3412,Daniel Farke,mgr:fa5d385e34dc,WhoScored/Opta observed
+understat:29083,1903465,2026-03-21,brentford,leeds_united,A,0,0,D,532,Keith Andrews,mgr:5f487ee40c90,WhoScored/Opta observed
+understat:29079,1903461,2026-03-22,aston_villa,west_ham,H,2,0,W,4231,Unai Emery,mgr:dcdf2dffc0c2,WhoScored/Opta observed
+understat:29079,1903461,2026-03-22,west_ham,aston_villa,A,0,2,L,433,Nuno Herlander Simões Espírito Santo,mgr:b68b19e445ac,WhoScored/Opta observed
+understat:29085,1903467,2026-03-22,newcastle_united,sunderland,H,1,2,L,4231,Eddie Howe,mgr:65451ab24622,WhoScored/Opta observed
+understat:29085,1903467,2026-03-22,sunderland,newcastle_united,A,2,1,W,4141,Régis Le Bris,mgr:1a031e232e88,WhoScored/Opta observed
+understat:29086,1903468,2026-03-22,tottenham_hotspur,nottingham_forest,H,0,3,L,442,Igor Tudor,mgr:e99dd67f9cac,WhoScored/Opta observed
+understat:29086,1903468,2026-03-22,nottingham_forest,tottenham_hotspur,A,3,0,W,4231,Vítor Manuel de Oliveira Lopes Pereira,mgr:807de4c745b0,WhoScored/Opta observed
+understat:29091,1903355,2026-04-10,west_ham,wolverhampton_wanderers,H,4,0,W,4411,Nuno Herlander Simões Espírito Santo,mgr:b68b19e445ac,WhoScored/Opta observed
+understat:29091,1903355,2026-04-10,wolverhampton_wanderers,west_ham,A,0,4,L,3511,Rob Edwards,mgr:434bf1b2b6dc,WhoScored/Opta observed
+understat:29092,1903470,2026-04-11,arsenal,bournemouth,H,1,2,L,4231,Mikel Arteta,mgr:5fdd2f365fdc,WhoScored/Opta observed
+understat:29092,1903470,2026-04-11,bournemouth,arsenal,A,2,1,W,4231,Andoni Iraola,mgr:b4b8eecb310f,WhoScored/Opta observed
+understat:29093,1903471,2026-04-11,brentford,everton,H,2,2,D,4231,Keith Andrews,mgr:5f487ee40c90,WhoScored/Opta observed
+understat:29093,1903471,2026-04-11,everton,brentford,A,2,2,D,4231,David Moyes,mgr:84316c036a2d,WhoScored/Opta observed
+understat:29094,1903472,2026-04-11,burnley,brighton,H,0,2,L,4231,Scott Parker,mgr:c49e040048ca,WhoScored/Opta observed
+understat:29094,1903472,2026-04-11,brighton,burnley,A,2,0,W,4231,Fabian Hürzeler,mgr:dfda8206a0e2,WhoScored/Opta observed
+understat:29097,1903475,2026-04-11,liverpool,fulham,H,2,0,W,4231,Arne Slot,mgr:328a5fafed26,WhoScored/Opta observed
+understat:29097,1903475,2026-04-11,fulham,liverpool,A,0,2,L,4231,Marco Alexandre Saraiva da Silva,mgr:d242da40969a,WhoScored/Opta observed
+understat:29089,1903349,2026-04-12,nottingham_forest,aston_villa,H,1,1,D,4231,Vítor Manuel de Oliveira Lopes Pereira,mgr:807de4c745b0,WhoScored/Opta observed
+understat:29089,1903349,2026-04-12,aston_villa,nottingham_forest,A,1,1,D,4231,Unai Emery,mgr:dcdf2dffc0c2,WhoScored/Opta observed
+understat:29090,1903352,2026-04-12,sunderland,tottenham_hotspur,H,1,0,W,4231,Régis Le Bris,mgr:1a031e232e88,WhoScored/Opta observed
+understat:29090,1903352,2026-04-12,tottenham_hotspur,sunderland,A,0,1,L,4231,Roberto De Zerbi,mgr:b283d24885e5,WhoScored/Opta observed
+understat:29095,1903473,2026-04-12,chelsea,manchester_city,H,0,3,L,4231,Liam Rosenior,mgr:4fed4e69ba04,WhoScored/Opta observed
+understat:29095,1903473,2026-04-12,manchester_city,chelsea,A,3,0,W,4231,Pep Guardiola,mgr:26dfbbc164aa,WhoScored/Opta observed
+understat:29096,1903474,2026-04-12,crystal_palace,newcastle_united,H,2,1,W,343,Oliver Glasner,mgr:1058459b93f2,WhoScored/Opta observed
+understat:29096,1903474,2026-04-12,newcastle_united,crystal_palace,A,1,2,L,433,Eddie Howe,mgr:65451ab24622,WhoScored/Opta observed
+understat:29088,1903346,2026-04-13,manchester_united,leeds_united,H,1,2,L,4231,Michael Carrick,mgr:3aa905054daf,WhoScored/Opta observed
+understat:29088,1903346,2026-04-13,leeds_united,manchester_united,A,2,1,W,3421,Daniel Farke,mgr:fa5d385e34dc,WhoScored/Opta observed
+understat:29099,1903362,2026-04-18,brentford,fulham,H,0,0,D,4231,Keith Andrews,mgr:5f487ee40c90,WhoScored/Opta observed
+understat:29099,1903362,2026-04-18,fulham,brentford,A,0,0,D,4231,Marco Alexandre Saraiva da Silva,mgr:d242da40969a,WhoScored/Opta observed
+understat:29100,1903365,2026-04-18,chelsea,manchester_united,H,0,1,L,4231,Liam Rosenior,mgr:4fed4e69ba04,WhoScored/Opta observed
+understat:29100,1903365,2026-04-18,manchester_united,chelsea,A,1,0,W,4231,Michael Carrick,mgr:3aa905054daf,WhoScored/Opta observed
+understat:29103,1903377,2026-04-18,leeds_united,wolverhampton_wanderers,H,3,0,W,3421,Daniel Farke,mgr:fa5d385e34dc,WhoScored/Opta observed
+understat:29103,1903377,2026-04-18,wolverhampton_wanderers,leeds_united,A,0,3,L,3421,Rob Edwards,mgr:434bf1b2b6dc,WhoScored/Opta observed
+understat:29105,1903379,2026-04-18,newcastle_united,bournemouth,H,1,2,L,433,Eddie Howe,mgr:65451ab24622,WhoScored/Opta observed
+understat:29105,1903379,2026-04-18,bournemouth,newcastle_united,A,2,1,W,4231,Andoni Iraola,mgr:b4b8eecb310f,WhoScored/Opta observed
+understat:29107,1903382,2026-04-18,tottenham_hotspur,brighton,H,2,2,D,433,Roberto De Zerbi,mgr:b283d24885e5,WhoScored/Opta observed
+understat:29107,1903382,2026-04-18,brighton,tottenham_hotspur,A,2,2,D,4231,Fabian Hürzeler,mgr:dfda8206a0e2,WhoScored/Opta observed
+understat:29098,1903358,2026-04-19,aston_villa,sunderland,H,4,3,W,4231,Unai Emery,mgr:dcdf2dffc0c2,WhoScored/Opta observed
+understat:29098,1903358,2026-04-19,sunderland,aston_villa,A,3,4,L,4231,Régis Le Bris,mgr:1a031e232e88,WhoScored/Opta observed
+understat:29102,1903372,2026-04-19,everton,liverpool,H,1,2,L,4231,David Moyes,mgr:84316c036a2d,WhoScored/Opta observed
+understat:29102,1903372,2026-04-19,liverpool,everton,A,2,1,W,4231,Arne Slot,mgr:328a5fafed26,WhoScored/Opta observed
+understat:29104,1903378,2026-04-19,manchester_city,arsenal,H,2,1,W,4231,Pep Guardiola,mgr:26dfbbc164aa,WhoScored/Opta observed
+understat:29104,1903378,2026-04-19,arsenal,manchester_city,A,1,2,L,433,Mikel Arteta,mgr:5fdd2f365fdc,WhoScored/Opta observed
+understat:29106,1903381,2026-04-19,nottingham_forest,burnley,H,4,1,W,4231,Vítor Manuel de Oliveira Lopes Pereira,mgr:807de4c745b0,WhoScored/Opta observed
+understat:29106,1903381,2026-04-19,burnley,nottingham_forest,A,1,4,L,4231,Scott Parker,mgr:c49e040048ca,WhoScored/Opta observed
+understat:29101,1903368,2026-04-20,crystal_palace,west_ham,H,0,0,D,3421,Oliver Glasner,mgr:1058459b93f2,WhoScored/Opta observed
+understat:29101,1903368,2026-04-20,west_ham,crystal_palace,A,0,0,D,4411,Nuno Herlander Simões Espírito Santo,mgr:b68b19e445ac,WhoScored/Opta observed
+understat:29110,1903388,2026-04-21,brighton,chelsea,H,3,0,W,4231,Fabian Hürzeler,mgr:dfda8206a0e2,WhoScored/Opta observed
+understat:29110,1903388,2026-04-21,chelsea,brighton,A,0,3,L,541,Liam Rosenior,mgr:4fed4e69ba04,WhoScored/Opta observed
+understat:29108,1903384,2026-04-22,bournemouth,leeds_united,H,2,2,D,4231,Andoni Iraola,mgr:b4b8eecb310f,WhoScored/Opta observed
+understat:29108,1903384,2026-04-22,leeds_united,bournemouth,A,2,2,D,3421,Daniel Farke,mgr:fa5d385e34dc,WhoScored/Opta observed
+understat:29111,1903389,2026-04-22,burnley,manchester_city,H,0,1,L,541,Scott Parker,mgr:c49e040048ca,WhoScored/Opta observed
+understat:29111,1903389,2026-04-22,manchester_city,burnley,A,1,0,W,4231,Pep Guardiola,mgr:26dfbbc164aa,WhoScored/Opta observed
+understat:29115,1903397,2026-04-24,sunderland,nottingham_forest,H,0,5,L,4231,Régis Le Bris,mgr:1a031e232e88,WhoScored/Opta observed
+understat:29115,1903397,2026-04-24,nottingham_forest,sunderland,A,5,0,W,442,Vítor Manuel de Oliveira Lopes Pereira,mgr:807de4c745b0,WhoScored/Opta observed
+understat:29109,1903387,2026-04-25,arsenal,newcastle_united,H,1,0,W,433,Mikel Arteta,mgr:5fdd2f365fdc,WhoScored/Opta observed
+understat:29109,1903387,2026-04-25,newcastle_united,arsenal,A,0,1,L,4141,Eddie Howe,mgr:65451ab24622,WhoScored/Opta observed
+understat:29112,1903391,2026-04-25,fulham,aston_villa,H,1,0,W,4231,Marco Alexandre Saraiva da Silva,mgr:d242da40969a,WhoScored/Opta observed
+understat:29112,1903391,2026-04-25,aston_villa,fulham,A,0,1,L,4231,Unai Emery,mgr:dcdf2dffc0c2,WhoScored/Opta observed
+understat:29113,1903392,2026-04-25,liverpool,crystal_palace,H,3,1,W,4231,Arne Slot,mgr:328a5fafed26,WhoScored/Opta observed
+understat:29113,1903392,2026-04-25,crystal_palace,liverpool,A,1,3,L,3421,Oliver Glasner,mgr:1058459b93f2,WhoScored/Opta observed
+understat:29116,1903398,2026-04-25,west_ham,everton,H,2,1,W,4411,Nuno Herlander Simões Espírito Santo,mgr:b68b19e445ac,WhoScored/Opta observed
+understat:29116,1903398,2026-04-25,everton,west_ham,A,1,2,L,4231,David Moyes,mgr:84316c036a2d,WhoScored/Opta observed
+understat:29117,1903401,2026-04-25,wolverhampton_wanderers,tottenham_hotspur,H,0,1,L,3421,Rob Edwards,mgr:434bf1b2b6dc,WhoScored/Opta observed
+understat:29117,1903401,2026-04-25,tottenham_hotspur,wolverhampton_wanderers,A,1,0,W,4231,Roberto De Zerbi,mgr:b283d24885e5,WhoScored/Opta observed
+understat:29114,1903395,2026-04-27,manchester_united,brentford,H,2,1,W,4231,Michael Carrick,mgr:3aa905054daf,WhoScored/Opta observed
+understat:29114,1903395,2026-04-27,brentford,manchester_united,A,1,2,L,4231,Keith Andrews,mgr:5f487ee40c90,WhoScored/Opta observed
+understat:29124,1903415,2026-05-01,leeds_united,burnley,H,3,1,W,352,Daniel Farke,mgr:fa5d385e34dc,WhoScored/Opta observed
+understat:29124,1903415,2026-05-01,burnley,leeds_united,A,1,3,L,541,Michael Jackson,mgr:7670d95f755e,WhoScored/Opta observed
+understat:29119,1903405,2026-05-02,arsenal,fulham,H,3,0,W,4231,Mikel Arteta,mgr:5fdd2f365fdc,WhoScored/Opta observed
+understat:29119,1903405,2026-05-02,fulham,arsenal,A,0,3,L,4231,Marco Alexandre Saraiva da Silva,mgr:d242da40969a,WhoScored/Opta observed
+understat:29121,1903409,2026-05-02,brentford,west_ham,H,3,0,W,4231,Keith Andrews,mgr:5f487ee40c90,WhoScored/Opta observed
+understat:29121,1903409,2026-05-02,west_ham,brentford,A,0,3,L,4411,Nuno Herlander Simões Espírito Santo,mgr:b68b19e445ac,WhoScored/Opta observed
+understat:29126,1903419,2026-05-02,newcastle_united,brighton,H,3,1,W,4231,Eddie Howe,mgr:65451ab24622,WhoScored/Opta observed
+understat:29126,1903419,2026-05-02,brighton,newcastle_united,A,1,3,L,4231,Fabian Hürzeler,mgr:dfda8206a0e2,WhoScored/Opta observed
+understat:29127,1903420,2026-05-02,wolverhampton_wanderers,sunderland,H,1,1,D,3421,Rob Edwards,mgr:434bf1b2b6dc,WhoScored/Opta observed
+understat:29127,1903420,2026-05-02,sunderland,wolverhampton_wanderers,A,1,1,D,4231,Régis Le Bris,mgr:1a031e232e88,WhoScored/Opta observed
+understat:29118,1903403,2026-05-03,bournemouth,crystal_palace,H,3,0,W,4231,Andoni Iraola,mgr:b4b8eecb310f,WhoScored/Opta observed
+understat:29118,1903403,2026-05-03,crystal_palace,bournemouth,A,0,3,L,343,Oliver Glasner,mgr:1058459b93f2,WhoScored/Opta observed
+understat:29120,1903407,2026-05-03,aston_villa,tottenham_hotspur,H,1,2,L,4231,Unai Emery,mgr:dcdf2dffc0c2,WhoScored/Opta observed
+understat:29120,1903407,2026-05-03,tottenham_hotspur,aston_villa,A,2,1,W,4231,Roberto De Zerbi,mgr:b283d24885e5,WhoScored/Opta observed
+understat:29125,1903417,2026-05-03,manchester_united,liverpool,H,3,2,W,4231,Michael Carrick,mgr:3aa905054daf,WhoScored/Opta observed
+understat:29125,1903417,2026-05-03,liverpool,manchester_united,A,2,3,L,4222,Arne Slot,mgr:328a5fafed26,WhoScored/Opta observed
+understat:29122,1903411,2026-05-04,chelsea,nottingham_forest,H,1,3,L,4231,Calum McFarlane,mgr:3b963ae58719,WhoScored/Opta observed
+understat:29122,1903411,2026-05-04,nottingham_forest,chelsea,A,3,1,W,442,Vítor Manuel de Oliveira Lopes Pereira,mgr:807de4c745b0,WhoScored/Opta observed
+understat:29123,1903413,2026-05-04,everton,manchester_city,H,3,3,D,4231,David Moyes,mgr:84316c036a2d,WhoScored/Opta observed
+understat:29123,1903413,2026-05-04,manchester_city,everton,A,3,3,D,4231,Pep Guardiola,mgr:26dfbbc164aa,WhoScored/Opta observed
+understat:29128,1903422,2026-05-09,brighton,wolverhampton_wanderers,H,3,0,W,4231,Fabian Hürzeler,mgr:dfda8206a0e2,WhoScored/Opta observed
+understat:29128,1903422,2026-05-09,wolverhampton_wanderers,brighton,A,0,3,L,3421,Rob Edwards,mgr:434bf1b2b6dc,WhoScored/Opta observed
+understat:29131,1903428,2026-05-09,fulham,bournemouth,H,0,1,L,4231,Marco Alexandre Saraiva da Silva,mgr:d242da40969a,WhoScored/Opta observed
+understat:29131,1903428,2026-05-09,bournemouth,fulham,A,1,0,W,4231,Andoni Iraola,mgr:b4b8eecb310f,WhoScored/Opta observed
+understat:29132,1903430,2026-05-09,liverpool,chelsea,H,1,1,D,4231,Arne Slot,mgr:328a5fafed26,WhoScored/Opta observed
+understat:29132,1903430,2026-05-09,chelsea,liverpool,A,1,1,D,4231,Calum McFarlane,mgr:3b963ae58719,WhoScored/Opta observed
+understat:29133,1903432,2026-05-09,manchester_city,brentford,H,3,0,W,4231,Pep Guardiola,mgr:26dfbbc164aa,WhoScored/Opta observed
+understat:29133,1903432,2026-05-09,brentford,manchester_city,A,0,3,L,442,Keith Andrews,mgr:5f487ee40c90,WhoScored/Opta observed
+understat:29135,1903436,2026-05-09,sunderland,manchester_united,H,0,0,D,4231,Régis Le Bris,mgr:1a031e232e88,WhoScored/Opta observed
+understat:29135,1903436,2026-05-09,manchester_united,sunderland,A,0,0,D,4231,Michael Carrick,mgr:3aa905054daf,WhoScored/Opta observed
+understat:29129,1903424,2026-05-10,burnley,aston_villa,H,2,2,D,4231,Michael Jackson,mgr:7670d95f755e,WhoScored/Opta observed
+understat:29129,1903424,2026-05-10,aston_villa,burnley,A,2,2,D,4231,Unai Emery,mgr:dcdf2dffc0c2,WhoScored/Opta observed
+understat:29130,1903426,2026-05-10,crystal_palace,everton,H,2,2,D,3421,Oliver Glasner,mgr:1058459b93f2,WhoScored/Opta observed
+understat:29130,1903426,2026-05-10,everton,crystal_palace,A,2,2,D,4231,David Moyes,mgr:84316c036a2d,WhoScored/Opta observed
+understat:29134,1903434,2026-05-10,nottingham_forest,newcastle_united,H,1,1,D,3421,Vítor Manuel de Oliveira Lopes Pereira,mgr:807de4c745b0,WhoScored/Opta observed
+understat:29134,1903434,2026-05-10,newcastle_united,nottingham_forest,A,1,1,D,4231,Eddie Howe,mgr:65451ab24622,WhoScored/Opta observed
+understat:29137,1903440,2026-05-10,west_ham,arsenal,H,0,1,L,3421,Nuno Herlander Simões Espírito Santo,mgr:b68b19e445ac,WhoScored/Opta observed
+understat:29137,1903440,2026-05-10,arsenal,west_ham,A,1,0,W,4231,Mikel Arteta,mgr:5fdd2f365fdc,WhoScored/Opta observed
+understat:29136,1903438,2026-05-11,tottenham_hotspur,leeds_united,H,1,1,D,4231,Roberto De Zerbi,mgr:b283d24885e5,WhoScored/Opta observed
+understat:29136,1903438,2026-05-11,leeds_united,tottenham_hotspur,A,1,1,D,352,Daniel Farke,mgr:fa5d385e34dc,WhoScored/Opta observed
+understat:29084,1903466,2026-05-13,manchester_city,crystal_palace,H,3,0,W,4222,Pep Guardiola,mgr:26dfbbc164aa,WhoScored/Opta observed
+understat:29084,1903466,2026-05-13,crystal_palace,manchester_city,A,0,3,L,541,Oliver Glasner,mgr:1058459b93f2,WhoScored/Opta observed
+understat:29140,1903446,2026-05-15,aston_villa,liverpool,H,4,2,W,4231,Unai Emery,mgr:dcdf2dffc0c2,WhoScored/Opta observed
+understat:29140,1903446,2026-05-15,liverpool,aston_villa,A,2,4,L,4231,Arne Slot,mgr:328a5fafed26,WhoScored/Opta observed
+understat:29141,1903448,2026-05-17,brentford,crystal_palace,H,2,2,D,4231,Keith Andrews,mgr:5f487ee40c90,WhoScored/Opta observed
+understat:29141,1903448,2026-05-17,crystal_palace,brentford,A,2,2,D,3421,Oliver Glasner,mgr:1058459b93f2,WhoScored/Opta observed
+understat:29143,1903451,2026-05-17,everton,sunderland,H,1,3,L,4231,David Moyes,mgr:84316c036a2d,WhoScored/Opta observed
+understat:29143,1903451,2026-05-17,sunderland,everton,A,3,1,W,4231,Régis Le Bris,mgr:1a031e232e88,WhoScored/Opta observed
+understat:29144,1903453,2026-05-17,leeds_united,brighton,H,1,0,W,352,Daniel Farke,mgr:fa5d385e34dc,WhoScored/Opta observed
+understat:29144,1903453,2026-05-17,brighton,leeds_united,A,0,1,L,4231,Fabian Hürzeler,mgr:dfda8206a0e2,WhoScored/Opta observed
+understat:29145,1903454,2026-05-17,manchester_united,nottingham_forest,H,3,2,W,4231,Michael Carrick,mgr:3aa905054daf,WhoScored/Opta observed
+understat:29145,1903454,2026-05-17,nottingham_forest,manchester_united,A,2,3,L,442,Vítor Manuel de Oliveira Lopes Pereira,mgr:807de4c745b0,WhoScored/Opta observed
+understat:29146,1903455,2026-05-17,newcastle_united,west_ham,H,3,1,W,4231,Eddie Howe,mgr:65451ab24622,WhoScored/Opta observed
+understat:29146,1903455,2026-05-17,west_ham,newcastle_united,A,1,3,L,3421,Nuno Herlander Simões Espírito Santo,mgr:b68b19e445ac,WhoScored/Opta observed
+understat:29147,1903457,2026-05-17,wolverhampton_wanderers,fulham,H,1,1,D,4231,Rob Edwards,mgr:434bf1b2b6dc,WhoScored/Opta observed
+understat:29147,1903457,2026-05-17,fulham,wolverhampton_wanderers,A,1,1,D,4231,Marco Alexandre Saraiva da Silva,mgr:d242da40969a,WhoScored/Opta observed
+understat:29139,1903444,2026-05-18,arsenal,burnley,H,1,0,W,433,Mikel Arteta,mgr:5fdd2f365fdc,WhoScored/Opta observed
+understat:29139,1903444,2026-05-18,burnley,arsenal,A,0,1,L,4231,Michael Jackson,mgr:7670d95f755e,WhoScored/Opta observed
+understat:29138,1903442,2026-05-19,bournemouth,manchester_city,H,1,1,D,4231,Andoni Iraola,mgr:b4b8eecb310f,WhoScored/Opta observed
+understat:29138,1903442,2026-05-19,manchester_city,bournemouth,A,1,1,D,4141,Pep Guardiola,mgr:26dfbbc164aa,WhoScored/Opta observed
+understat:29142,1903449,2026-05-19,chelsea,tottenham_hotspur,H,2,1,W,4231,Calum McFarlane,mgr:3b963ae58719,WhoScored/Opta observed
+understat:29142,1903449,2026-05-19,tottenham_hotspur,chelsea,A,1,2,L,4231,Roberto De Zerbi,mgr:b283d24885e5,WhoScored/Opta observed
+understat:29148,1903458,2026-05-24,brighton,manchester_united,H,0,3,L,4231,Fabian Hürzeler,mgr:dfda8206a0e2,WhoScored/Opta observed
+understat:29148,1903458,2026-05-24,manchester_united,brighton,A,3,0,W,4231,Michael Carrick,mgr:3aa905054daf,WhoScored/Opta observed
+understat:29149,1903350,2026-05-24,burnley,wolverhampton_wanderers,H,1,1,D,4231,Michael Jackson,mgr:7670d95f755e,WhoScored/Opta observed
+understat:29149,1903350,2026-05-24,wolverhampton_wanderers,burnley,A,1,1,D,3421,Rob Edwards,mgr:434bf1b2b6dc,WhoScored/Opta observed
+understat:29150,1903353,2026-05-24,crystal_palace,arsenal,H,1,2,L,3421,Oliver Glasner,mgr:1058459b93f2,WhoScored/Opta observed
+understat:29150,1903353,2026-05-24,arsenal,crystal_palace,A,2,1,W,4231,Mikel Arteta,mgr:5fdd2f365fdc,WhoScored/Opta observed
+understat:29151,1903356,2026-05-24,fulham,newcastle_united,H,2,0,W,4231,Marco Alexandre Saraiva da Silva,mgr:d242da40969a,WhoScored/Opta observed
+understat:29151,1903356,2026-05-24,newcastle_united,fulham,A,0,2,L,352,Eddie Howe,mgr:65451ab24622,WhoScored/Opta observed
+understat:29152,1903359,2026-05-24,liverpool,brentford,H,1,1,D,4231,Arne Slot,mgr:328a5fafed26,WhoScored/Opta observed
+understat:29152,1903359,2026-05-24,brentford,liverpool,A,1,1,D,4231,Keith Andrews,mgr:5f487ee40c90,WhoScored/Opta observed
+understat:29153,1903361,2026-05-24,manchester_city,aston_villa,H,1,2,L,4222,Pep Guardiola,mgr:26dfbbc164aa,WhoScored/Opta observed
+understat:29153,1903361,2026-05-24,aston_villa,manchester_city,A,2,1,W,4231,Unai Emery,mgr:dcdf2dffc0c2,WhoScored/Opta observed
+understat:29154,1903364,2026-05-24,nottingham_forest,bournemouth,H,1,1,D,442,Vítor Manuel de Oliveira Lopes Pereira,mgr:807de4c745b0,WhoScored/Opta observed
+understat:29154,1903364,2026-05-24,bournemouth,nottingham_forest,A,1,1,D,4231,Andoni Iraola,mgr:b4b8eecb310f,WhoScored/Opta observed
+understat:29155,1903367,2026-05-24,sunderland,chelsea,H,2,1,W,4231,Régis Le Bris,mgr:1a031e232e88,WhoScored/Opta observed
+understat:29155,1903367,2026-05-24,chelsea,sunderland,A,1,2,L,3412,Calum McFarlane,mgr:3b963ae58719,WhoScored/Opta observed
+understat:29156,1903370,2026-05-24,tottenham_hotspur,everton,H,1,0,W,4231,Roberto De Zerbi,mgr:b283d24885e5,WhoScored/Opta observed
+understat:29156,1903370,2026-05-24,everton,tottenham_hotspur,A,0,1,L,4231,David Moyes,mgr:84316c036a2d,WhoScored/Opta observed
+understat:29157,1903373,2026-05-24,west_ham,leeds_united,H,3,0,W,4231,Nuno Herlander Simões Espírito Santo,mgr:b68b19e445ac,WhoScored/Opta observed
+understat:29157,1903373,2026-05-24,leeds_united,west_ham,A,0,3,L,352,Daniel Farke,mgr:fa5d385e34dc,WhoScored/Opta observed

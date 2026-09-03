@@ -1,0 +1,9 @@
+metric,fantrax,whoscored,classification,reason
+key_passes,mgr_kp,key_passes,SAFE_SUPPLEMENT,99.35% exact; 99.74% within one
+aerial_wins,mgr_aer,aerials_won,SAFE_SUPPLEMENT,97.05% exact; 99.49% within one
+interceptions,mgr_int,interceptions,SAFE_SUPPLEMENT,99.35% exact; 99.73% within one
+successful_dribbles,,dribbles_successful,SOURCE_SPECIFIC_ONLY,no season-scale overlapping Fantrax field in the exact-match dataset
+clearances,mgr_clr,clearances,SUPPLEMENT_WITH_CAVEAT,86.38% exact; definitions differ
+shots_on_target,mgr_sot,shots_on_target,DO_NOT_SUPPLEMENT,76.55% exact
+tackles,mgr_tkw,tackles,SOURCE_SPECIFIC_ONLY,WhoScored tackles are not Fantrax tackles won
+crosses,mgr_ac,crosses,SOURCE_SPECIFIC_ONLY,WhoScored raw crosses are not Fantrax accurate crosses

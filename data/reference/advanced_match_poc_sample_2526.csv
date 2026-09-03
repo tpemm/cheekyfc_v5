@@ -1,0 +1,9 @@
+canonical_match_id,understat_match_id,whoscored_match_id,date,home_club_id,away_club_id,home_team,away_team,pl_gameweek,fantrax_period,resolution_status,resolution_method,selection_reason,expected_source
+understat:29140,29140,1903446,2026-05-15,aston_villa,liverpool,Aston Villa,Liverpool,37,37,RESOLVED,exact date plus canonical home and away aliases,High-scoring late-season match with broad player coverage,WhoScored
+understat:29145,29145,1903454,2026-05-17,manchester_united,nottingham_forest,Manchester United,Nottingham Forest,37,37,RESOLVED,exact date plus canonical home and away aliases,Five-goal match and strong finalized Fantrax coverage,WhoScored
+understat:29144,29144,1903453,2026-05-17,leeds_united,brighton,Leeds,Brighton,37,37,RESOLVED,exact date plus canonical home and away aliases,Low-scoring match and additional clubs,WhoScored
+understat:29146,29146,1903455,2026-05-17,newcastle_united,west_ham,Newcastle United,West Ham,37,37,RESOLVED,exact date plus canonical aliases Newcastle to Newcastle United,Multiple tactical shapes and established players,WhoScored
+understat:29142,29142,1903449,2026-05-19,chelsea,tottenham_hotspur,Chelsea,Tottenham,37,37,RESOLVED,exact date plus canonical home and away aliases,London fixture with multi-position Fantrax players,WhoScored
+understat:29148,29148,1903458,2026-05-24,brighton,manchester_united,Brighton,Manchester United,38,38,RESOLVED,exact date plus canonical home and away aliases,Final-day match and repeat-club identity validation,WhoScored
+understat:29153,29153,1903361,2026-05-24,manchester_city,aston_villa,Manchester City,Aston Villa,38,38,RESOLVED,exact date plus canonical home and away aliases,Strong finalized Fantrax and Understat coverage,WhoScored
+understat:29157,29157,1903373,2026-05-24,west_ham,leeds_united,West Ham,Leeds,38,38,RESOLVED,exact date plus canonical home and away aliases,High-margin final-day match and repeat-club mapping,WhoScored

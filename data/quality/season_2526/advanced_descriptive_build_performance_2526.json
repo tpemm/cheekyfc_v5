@@ -1,0 +1,20 @@
+{
+  "timings": {
+    "supplemental_player_match_seconds": 9.012,
+    "player_advanced_profile_seconds": 0.263,
+    "set_piece_hierarchy_seconds": 4.937,
+    "team_products_seconds": 0.106,
+    "write_seconds": 3.082,
+    "complete_seconds": 17.454
+  },
+  "rows": {
+    "supplemental_player_match": 14677,
+    "player_advanced_profile": 603,
+    "player_role_usage": 2004,
+    "player_set_piece_usage": 2438,
+    "team_set_piece_hierarchy": 2438,
+    "team_playstyle_profile": 120,
+    "historical_fantasy_allowed_ranked": 80,
+    "formation_player_usage": 2004
+  }
+}

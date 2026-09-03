@@ -1,0 +1,22 @@
+club_id,manager_id,manager_name,formation,matches,passes_attempted_per_match,passes_completed_per_match,progressive_pass_distance_proxy_per_match,final_third_entries_per_match,box_entries_per_match,crosses_per_match,through_balls_per_match,shots_per_match,shots_on_target_per_match,key_passes_per_match,take_ons_per_match,aerial_player_events_per_match,tackles_per_match,interceptions_per_match,clearances_per_match,recoveries_per_match,scope
+afc_bournemouth,mgr:6fe0e0af19e4,Marco Rose,4231,2,435.0,342.0,4275.0,58.5,28.5,17.0,0.5,11.0,8.0,9.0,10.0,32.5,17.0,11.0,27.5,42.0,OBSERVED_MANAGER_FORMATION
+arsenal,mgr:5fdd2f365fdc,Mikel Arteta,4231,2,611.0,535.0,3718.55,59.5,42.5,18.5,1.0,13.5,8.5,11.0,14.0,25.5,11.0,6.5,23.0,40.5,OBSERVED_MANAGER_FORMATION
+aston_villa,mgr:dcdf2dffc0c2,Unai Emery,4231,2,316.5,239.5,3151.8,42.0,19.5,9.5,0.5,7.0,1.5,5.0,13.0,23.0,19.5,5.0,21.0,28.5,OBSERVED_MANAGER_FORMATION
+brentford,mgr:5f487ee40c90,Keith Andrews,4231,2,437.5,338.5,3921.75,56.0,49.5,26.5,1.0,24.0,15.5,17.5,19.0,37.5,19.0,13.0,27.5,51.0,OBSERVED_MANAGER_FORMATION
+brighton_hove_albion,mgr:dfda8206a0e2,Fabian Hürzeler,4231,2,693.5,608.5,4293.0,76.0,50.5,27.5,2.0,18.0,8.0,11.5,11.0,27.0,15.0,7.5,13.5,35.5,OBSERVED_MANAGER_FORMATION
+chelsea,mgr:84bddcc0c0d7,Xabi Alonso,3421,2,334.0,250.0,3731.85,49.0,34.5,12.5,0.5,18.0,13.0,15.0,16.0,26.5,17.5,8.0,32.0,35.0,OBSERVED_MANAGER_FORMATION
+coventry_city,mgr:fb84c76f2aab,Frank Lampard,4141,1,367.0,280.0,3739.0,57.0,23.0,13.0,1.0,4.0,2.0,3.0,10.0,28.0,4.0,9.0,33.0,35.0,OBSERVED_MANAGER_FORMATION
+coventry_city,mgr:fb84c76f2aab,Frank Lampard,4231,1,646.0,533.0,4720.3,70.0,40.0,35.0,1.0,11.0,8.0,10.0,16.0,32.0,7.0,2.0,27.0,48.0,OBSERVED_MANAGER_FORMATION
+crystal_palace,mgr:698607e509b7,Pierre Sage,3421,2,471.5,392.0,3205.45,46.0,23.5,16.5,2.0,10.0,4.5,8.5,12.0,24.0,29.5,10.5,27.0,37.5,OBSERVED_MANAGER_FORMATION
+everton,mgr:84316c036a2d,David Moyes,4231,2,406.0,313.5,3675.5,49.5,37.5,18.0,0.5,14.5,9.5,11.0,22.0,34.5,18.0,9.5,25.0,51.0,OBSERVED_MANAGER_FORMATION
+fulham,mgr:c4ccacd3c126,Álvaro Arbeloa,4231,2,632.0,530.5,4374.85,60.0,34.0,19.0,1.0,12.5,9.5,9.0,23.0,28.5,15.5,8.0,17.5,34.0,OBSERVED_MANAGER_FORMATION
+hull_city,mgr:9f4440ec2ca8,Sergej Jakirovic,541,2,300.0,200.5,4028.25,47.5,25.5,15.5,1.0,7.0,3.5,4.5,9.5,35.0,16.0,6.5,45.0,34.5,OBSERVED_MANAGER_FORMATION
+ipswich_town,mgr:2e016582b3f8,Gary O'Neil,4231,2,389.0,308.0,3339.8,43.5,23.5,13.0,1.0,10.0,5.5,9.0,22.5,24.0,16.0,8.5,30.5,37.5,OBSERVED_MANAGER_FORMATION
+leeds_united,mgr:fa5d385e34dc,Daniel Farke,3421,2,386.0,273.0,3980.3,62.5,35.0,18.0,0.0,11.5,8.5,6.0,18.5,46.5,19.0,13.0,40.0,38.0,OBSERVED_MANAGER_FORMATION
+liverpool,mgr:b4b8eecb310f,Andoni Iraola,4231,2,588.0,494.5,4202.3,87.0,43.5,29.5,1.0,20.0,15.5,12.5,24.5,26.5,19.0,9.5,20.5,42.5,OBSERVED_MANAGER_FORMATION
+manchester_city,mgr:dc01d928d84f,Enzo Maresca,4231,2,762.0,683.5,4188.049999999999,68.0,42.0,20.0,5.5,16.0,10.5,12.5,28.0,22.0,14.5,8.5,13.0,40.0,OBSERVED_MANAGER_FORMATION
+manchester_united,mgr:3aa905054daf,Michael Carrick,4231,2,671.5,575.0,4296.55,82.0,63.0,32.5,3.5,27.0,18.0,19.5,19.5,29.5,14.0,8.0,13.0,46.5,OBSERVED_MANAGER_FORMATION
+newcastle_united,mgr:bdab23b1e545,Matthias Jaissle,4231,2,364.5,286.5,3565.75,36.0,27.0,13.0,4.0,12.0,6.0,8.5,14.5,23.5,15.5,3.5,34.5,34.0,OBSERVED_MANAGER_FORMATION
+nottingham_forest,mgr:1058459b93f2,Oliver Glasner,3421,2,391.0,282.0,4414.85,61.5,33.5,14.0,2.0,12.0,6.5,9.0,22.5,41.5,15.5,4.0,33.5,38.5,OBSERVED_MANAGER_FORMATION
+sunderland,mgr:1a031e232e88,Régis Le Bris,4231,2,520.0,435.5,3970.7,56.5,32.0,22.0,4.0,11.5,7.0,9.0,17.5,31.0,14.5,8.0,26.0,38.5,OBSERVED_MANAGER_FORMATION
+tottenham_hotspur,mgr:b283d24885e5,Roberto De Zerbi,4231,2,562.5,484.5,3653.35,57.0,34.5,20.5,1.0,13.0,7.5,8.5,24.0,29.5,15.5,4.0,22.5,38.5,OBSERVED_MANAGER_FORMATION

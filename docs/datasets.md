@@ -245,3 +245,31 @@ standings, movement, form, scoring and roster context without view-time rebuilds
 `manager_draft_origin_validation_2627.csv` audits all live managers against frozen
 draft identities and current ownership, including retained, acquired, dropped,
 unresolved and reconciliation counts.
+# Sprint 9.0 team fixtures
+
+The registered 2627 products `premier_league_clubs`, `team_matches`, and `team_fixtures` are built cache-first by `scripts/build_team_fixture_foundation.py`. Current coverage is 20 clubs, 170/380 league matches, and 340 club-perspective rows; see `team_fixture_source_audit.md`.
+
+`scoring_periods` resolves to `data/reference/fantrax_scoring_periods_2627.csv`; the builder materializes it from validated live `getLeagueInfo` metadata without modifying 2025/26 references.
+
+`club_elo_current` and `club_elo_history` are optional registered season models. Their empty header-only artifacts represent a validated unavailable state until soccerdata ClubElo succeeds; consumers must not substitute another rating silently.
+
+Sprint 9.1 registers `team_match_observations`, `team_position_fantasy_allowed`, `team_attack_profile`, `team_defense_profile`, `team_matchup_features`, and `player_matchup_features`. The first four are intentional empty preseason schema artifacts; the two feature frames contain schedule/player context and no predictions.
+# Sprint 9.2 proof-of-concept artifacts
+
+`advanced_match_poc_sample_2526.csv` is the eight-match reference manifest. One
+real match supports registered `whoscored_match_poc`, `whoscored_lineup_poc`,
+`whoscored_event_poc`, and `advanced_player_match_poc` datasets. Their names
+explicitly limit them to POC scope.
+
+Sprint 9.2.2 adds registered sample-only `team_formation_usage_poc` and
+`player_role_usage_poc` products. Eight raw matches feed all six POC datasets;
+none are production season-wide claims.
+# Sprint 9.6 descriptive datasets
+
+- `supplemental_player_match_2526`: Fantrax-first reconciled player-match observations with per-field provenance.
+- `player_advanced_profile_2526`: season totals and transparent per-match/per-start/per-90 rates.
+- `player_role_usage_2526`: observed role starts by manager and formation.
+- `player_set_piece_usage_2526` and `team_set_piece_hierarchy_2526`: observed attempts, shares, dense ranks, samples, and windows.
+- `formation_player_usage_2526`: observed formation-role player usage.
+- `historical_fantasy_allowed_ranked_2526`: positional Fantrax-authoritative allowed production and ease ranks.
+- `team_playstyle_profile_2526`: descriptive manager/formation team event rates without a composite score.

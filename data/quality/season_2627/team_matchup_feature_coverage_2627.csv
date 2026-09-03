@@ -1,0 +1,2 @@
+dataset,rows,observed_rows,prediction_columns,status
+team_matchup_features,760,0,0,schedule-only preseason

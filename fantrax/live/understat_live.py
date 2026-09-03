@@ -3,6 +3,7 @@ from __future__ import annotations
 
 from datetime import datetime, timezone
 from pathlib import Path
+import re
 
 import numpy as np
 import pandas as pd
@@ -16,6 +17,77 @@ UNDERSTAT_WEEKLY_COLUMNS = (
     "key_passes", "yellow_cards", "red_cards", "xg", "xa", "xgi",
     "understat_minutes", "matches_in_period", "source", "retrieved_at",
 )
+
+UNDERSTAT_PLAYER_MATCH_COLUMNS = (
+    "season_id", "period", "canonical_match_id", "understat_match_id",
+    "canonical_player_id", "fantrax_player_id", "understat_player_id",
+    "player_name", "canonical_club_id", "opponent_id", "date", "venue",
+    "minutes", "goals", "assists", "shots", "key_passes", "xg", "xa", "xgi",
+    "identity_status", "source", "retrieved_at",
+)
+
+
+def _team_key(value: object) -> str:
+    text=re.sub(r"[^a-z0-9]+", "", str(value).lower())
+    return {"bournemouth":"afcbournemouth", "brighton":"brightonhovealbion",
+            "coventry":"coventrycity", "hull":"hullcity", "ipswich":"ipswichtown",
+            "leeds":"leedsunited", "manchesterunited":"manchesterunited",
+            "manchestercity":"manchestercity", "nottinghamforest":"nottinghamforest",
+            "tottenham":"tottenhamhotspur"}.get(text,text)
+
+
+def build_understat_match_products(
+    schedule: pd.DataFrame, player_matches: pd.DataFrame, clubs: pd.DataFrame,
+    fixture_manifest: pd.DataFrame, registry: pd.DataFrame, *, retrieved_at: str,
+    season_id: str="2627",
+) -> tuple[pd.DataFrame,pd.DataFrame,pd.DataFrame,pd.DataFrame]:
+    """Create exact current-season match identity and player/team match products."""
+    aliases={}
+    for row in clubs.to_dict("records"):
+        club_id=row["canonical_club_id"]
+        values=[row.get(c) for c in ("canonical_name","short_name","fantrax_team_name","understat_name")]
+        values += str(row.get("aliases") or "").split("|")
+        for value in values:
+            if pd.notna(value) and str(value).strip(): aliases[_team_key(value)]=club_id
+    sched=schedule.copy()
+    sched["home_club_id"]=sched["home_team"].map(lambda x: aliases.get(_team_key(x)))
+    sched["away_club_id"]=sched["away_team"].map(lambda x: aliases.get(_team_key(x)))
+    sched["date"]=pd.to_datetime(sched["kickoff_datetime"],errors="coerce",utc=True).dt.strftime("%Y-%m-%d")
+    fixtures=fixture_manifest[["canonical_match_id","date","home_club_id","away_club_id"]].copy()
+    fixtures["date"]=pd.to_datetime(fixtures["date"],errors="coerce").dt.strftime("%Y-%m-%d")
+    identity=sched.merge(fixtures,on=["date","home_club_id","away_club_id"],how="left",validate="one_to_one")
+    unresolved=identity["canonical_match_id"].isna()
+    if unresolved.any():
+        pair_map=fixtures.drop_duplicates(["home_club_id","away_club_id"],keep=False).set_index(["home_club_id","away_club_id"])["canonical_match_id"]
+        identity.loc[unresolved,"canonical_match_id"]=[pair_map.get((home,away),pd.NA) for home,away in identity.loc[unresolved,["home_club_id","away_club_id"]].itertuples(index=False,name=None)]
+    identity["understat_match_id"]=pd.to_numeric(identity["game_id"],errors="coerce").astype("Int64")
+    identity["resolution_status"]=identity["canonical_match_id"].notna().map({True:"RESOLVED_EXACT",False:"UNRESOLVED"})
+    pair_resolved=unresolved&identity["canonical_match_id"].notna();identity.loc[pair_resolved,"resolution_status"]="RESOLVED_EXACT_PAIR"
+    identity["resolution_method"]="exact UTC date + canonical home/away";identity.loc[pair_resolved,"resolution_method"]="unique canonical home/away pair (provider kickoff rescheduled)"
+    identity=identity[["canonical_match_id","understat_match_id","date","home_club_id","away_club_id","resolution_status","resolution_method"]]
+
+    home=sched[["game_id","gameweek","date","home_club_id","away_club_id","home_xg","away_xg"]].rename(columns={"home_club_id":"canonical_club_id","away_club_id":"opponent_id","home_xg":"xg","away_xg":"xga"}).assign(venue="HOME")
+    away=sched[["game_id","gameweek","date","home_club_id","away_club_id","home_xg","away_xg"]].rename(columns={"away_club_id":"canonical_club_id","home_club_id":"opponent_id","away_xg":"xg","home_xg":"xga"}).assign(venue="AWAY")
+    team=pd.concat([home,away],ignore_index=True).merge(identity[["understat_match_id","canonical_match_id"]],left_on="game_id",right_on="understat_match_id",how="left",validate="many_to_one")
+    team["season_id"]=season_id;team["period"]=pd.to_numeric(team["gameweek"],errors="coerce").astype("Int64");team["source"]="understat";team["retrieved_at"]=retrieved_at
+    team=team[["season_id","period","canonical_match_id","understat_match_id","canonical_club_id","opponent_id","date","venue","xg","xga","source","retrieved_at"]]
+
+    players=player_matches.copy()
+    players["understat_match_id"]=pd.to_numeric(players["game_id"],errors="coerce").astype("Int64")
+    players["understat_player_id"]=pd.to_numeric(players["player_id"],errors="coerce").astype("Int64").astype("string")
+    reg=registry[["understat_player_id","registry_player_id","fantrax_player_id"]].copy()
+    reg["understat_player_id"]=pd.to_numeric(reg["understat_player_id"],errors="coerce").astype("Int64").astype("string")
+    reg=reg.dropna(subset=["understat_player_id"]).drop_duplicates("understat_player_id",keep=False)
+    players=players.merge(reg,on="understat_player_id",how="left",validate="many_to_one")
+    players=players.merge(team[["understat_match_id","canonical_match_id","canonical_club_id","opponent_id","date","venue","period"]],left_on=["understat_match_id",players["team_name"].map(lambda x: aliases.get(_team_key(x)))],right_on=["understat_match_id","canonical_club_id"],how="left",validate="many_to_one")
+    players["canonical_player_id"]=players["registry_player_id"]
+    players["identity_status"]=players["canonical_player_id"].notna().map({True:"RESOLVED_EXACT_ID",False:"UNRESOLVED"})
+    for metric in ("minutes","goals","assists","shots","key_passes","xg","xa"): players[metric]=pd.to_numeric(players.get(metric),errors="coerce")
+    players["xgi"]=players["xg"]+players["xa"];players["season_id"]=season_id;players["source"]="understat";players["retrieved_at"]=retrieved_at
+    players=players.reindex(columns=UNDERSTAT_PLAYER_MATCH_COLUMNS)
+    unresolved=players.loc[players.identity_status.eq("UNRESOLVED"),["understat_player_id","player_name","canonical_club_id"]].drop_duplicates()
+    unresolved["reason"]="No exact Understat ID in Player Registry"
+    return identity,players,team,unresolved
 
 
 def empty_understat_weekly() -> pd.DataFrame:
@@ -85,7 +157,7 @@ def normalize_understat_matches(matches: pd.DataFrame, periods: pd.DataFrame, re
 
 def load_cached_understat(raw_root: Path, periods: pd.DataFrame, registry: pd.DataFrame, *, season_id: str="2627") -> tuple[pd.DataFrame,pd.DataFrame]:
     """Read canonical raw cache only. Empty/missing preseason caches are valid."""
-    candidates=(raw_root/f"understat_player_match_stats_{season_id}.csv", raw_root/"player_match_stats.csv")
+    candidates=(raw_root/f"understat_player_match_stats_{season_id}_ENG-Premier_League.csv",raw_root/f"understat_player_match_stats_{season_id}.csv", raw_root/"player_match_stats.csv")
     path=next((item for item in candidates if item.exists() and item.stat().st_size>0),None)
     if path is None: return empty_understat_weekly(),pd.DataFrame(columns=("understat_player_id","player_name","club","reason"))
     try: frame=pd.read_csv(path)

@@ -1,0 +1,21 @@
+{
+  "season": "2627",
+  "mode": "SESSION_BACKED_ACQUISITION",
+  "fixtures_scheduled": 380,
+  "future": 360,
+  "too_recent": 0,
+  "stable": 20,
+  "preliminary": 0,
+  "missing_eligible": 0,
+  "failed_retryable": 0,
+  "provider_ids_resolved": 380,
+  "would_acquire": 0,
+  "would_recheck": 0,
+  "elapsed_seconds": 6.118,
+  "acquired_this_run": 0,
+  "cache_hits": 0,
+  "changed": 0,
+  "recheck_details": [],
+  "failures": 0,
+  "advanced_build": "SUCCESS"
+}

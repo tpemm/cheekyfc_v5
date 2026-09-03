@@ -1,12 +1,12 @@
 ﻿season_id,historical_name,historical_fantrax_player_id,current_fpl_name,current_fpl_player_id,historical_team_code,current_team_code,historical_position,current_position,decision,review_note,reviewed_at,source
 2627,Joseph Gomez,03r93,Joe Gomez,359,LIV,LIV,D,D,Approved,,2026-07-30T04:33:24.138841+00:00,Identity Review
-2627,Oliver McBurnie,0477b,Oli McBurnie,295,NAN,HUL,,F,Approved,,2026-07-30T21:32:45.425740+00:00,Identity Review
+2627,Oliver McBurnie,0477b,Oli McBurnie,295,NAN,HUL,,F,Approved,,2026-08-24T23:51:02.352761+00:00,Identity Review
 2627,Ben White,04e1e,Benjamin White,10,ARS,ARS,D,D,Approved,,2026-07-30T04:33:28.688963+00:00,Identity Review
-2627,Anthony Gordon,04mdn,Anthony Elanga,454,NEW,NEW,"M,F",M,Ignored,,2026-07-30T21:32:58.517748+00:00,Identity Review
+2627,Anthony Gordon,04mdn,Anthony Elanga,454,NEW,NEW,"M,F",M,Ignored,,2026-08-24T23:51:17.434067+00:00,Identity Review
 2627,Kepa,04u40,Kepa Arrizabalaga Revuelta,2,ARS,ARS,G,G,Approved,,2026-07-30T04:35:32.285909+00:00,Identity Review
 2627,Rodri,0524k,Rodrigo 'Rodri' Hernandez Cascante,402,MCI,MCI,M,M,Approved,,2026-07-30T04:35:51.387806+00:00,Identity Review
 2627,Joelinton,0554i,Joelinton Cássio Apolinário de Lira,458,NEW,NEW,"M,F",M,Approved,,2026-07-30T04:35:22.939693+00:00,Identity Review
-2627,Tyler Onyango,05r93,Tyler Dibling,245,EVE,EVE,M,M,Ignored,,2026-07-30T04:35:01.949991+00:00,Identity Review
+2627,Tyler Onyango,05r93,Tyler Dibling,245,EVE,EVE,M,M,Ignored,nan,2026-08-24T23:51:22.889718+00:00,Identity Review
 2627,Kaoru Mitoma,062ci,Mitoma Kaoru,121,BHA,BHA,"M,F",M,Approved,,2026-07-30T04:33:14.178445+00:00,Identity Review
 2627,Aaron Bott,06ex2,Matz Sels,467,NOT,NOT,G,G,Ignored,,2026-07-30T04:36:14.198493+00:00,Identity Review
 2627,Wataru Endo,06fso,Endo Wataru,374,LIV,LIV,M,M,Approved,,2026-07-30T04:33:07.561535+00:00,Identity Review
@@ -20,10 +20,10 @@
 2627,Chido Obi-Martin,06roj,Chido Obi,441,MUN,MUN,F,F,Approved,,2026-07-30T04:33:11.060002+00:00,Identity Review
 2627,Ao Tanaka,06uzy,Tanaka Ao,345,LEE,LEE,M,M,Approved,,2026-07-30T04:42:29.801426+00:00,Identity Review
 2627,Estevao,06yxe,Estêvão Almeida de Oliveira Gonçalves,157,CHE,CHE,"M,F",M,Approved,,2026-07-30T04:35:39.668207+00:00,Identity Review
-2627,Jenson Jones,070eo,Jenson Seelt,537,SUN,SUN,"D,M",D,Ignored,,2026-07-31T19:53:40.872501+00:00,Identity Review
+2627,Jenson Jones,070eo,Jenson Seelt,537,SUN,SUN,"D,M",D,Ignored,,2026-08-24T23:50:36.018915+00:00,Identity Review
 2627,Kevin,070hj,Kevin Santos Lopes de Macedo,263,FUL,FUL,"M,F",M,Approved,,2026-07-30T04:35:43.057254+00:00,Identity Review
 2627,Charlie Gray,072ht,Archie Gray,522,MCI,TOT,M,M,Ignored,,2026-07-30T04:36:10.562709+00:00,Identity Review
 2627,Souza,072py,João Victor de Souza Menezes,511,TOT,TOT,D,D,Approved,,2026-07-30T04:35:47.361432+00:00,Identity Review
 2627,Rayan,072wq,Rayan Vitor Simplício Rocha,67,BOU,BOU,"M,F",M,Approved,,2026-07-30T04:35:35.712015+00:00,Identity Review
-2627,Jayden Lienou,075sh,Jayden Bogle,330,LEE,LEE,D,D,Ignored,,2026-07-30T21:32:51.603288+00:00,Identity Review
-2627,Miguel Angel Brau,076d1,Miguel Brau,181,NAN,COV,,D,Approved,nan,2026-07-31T19:54:07.875763+00:00,Identity Review
+2627,Jayden Lienou,075sh,Jayden Bogle,330,LEE,LEE,D,D,Ignored,,2026-08-24T23:51:10.402629+00:00,Identity Review
+2627,Miguel Angel Brau,076d1,Miguel Brau,181,NAN,COV,,D,Approved,,2026-08-24T23:50:52.037390+00:00,Identity Review

@@ -1,0 +1,21 @@
+field_name,source,raw_path,coverage_pct,data_type,example_value,observed_or_derived,production_status,normalized_now,notes
+startDate,WhoScored raw matchCentreData,$.startDate,100.0,str,2025-08-15T00:00:00,OBSERVED,PRODUCTION_READY,False,Raw metadata; presence audited across all validated matches.
+startTime,WhoScored raw matchCentreData,$.startTime,100.0,str,2025-08-15T20:00:00,OBSERVED,USABLE_WITH_CAVEAT,False,Raw metadata; presence audited across all validated matches.
+statusCode,WhoScored raw matchCentreData,$.statusCode,100.0,int,6,OBSERVED,PRODUCTION_READY,False,Raw metadata; presence audited across all validated matches.
+venueName,WhoScored raw matchCentreData,$.venueName,100.0,str,Anfield,OBSERVED,PRODUCTION_READY,False,Raw metadata; presence audited across all validated matches.
+attendance,WhoScored raw matchCentreData,$.attendance,100.0,int,60315,OBSERVED,USABLE_WITH_CAVEAT,False,Raw metadata; presence audited across all validated matches.
+referee,WhoScored raw matchCentreData,$.referee,100.0,dict,"{'firstName': 'Anthony', 'hasParticipatedMatches': False, 'lastName': 'Taylor', 'name': 'Anthony Taylor', 'officialId': 99}",OBSERVED,USABLE_WITH_CAVEAT,False,Raw metadata; presence audited across all validated matches.
+weatherCode,WhoScored raw matchCentreData,$.weatherCode,98.4211,str,5,OBSERVED,USABLE_WITH_CAVEAT,False,Raw metadata; presence audited across all validated matches.
+score,WhoScored raw matchCentreData,$.score,100.0,str,4 : 2,OBSERVED,PRODUCTION_READY,False,Raw metadata; presence audited across all validated matches.
+ftScore,WhoScored raw matchCentreData,$.ftScore,100.0,str,4 : 2,OBSERVED,PRODUCTION_READY,False,Raw metadata; presence audited across all validated matches.
+htScore,WhoScored raw matchCentreData,$.htScore,100.0,str,1 : 0,OBSERVED,USABLE_WITH_CAVEAT,False,Raw metadata; presence audited across all validated matches.
+maxMinute,WhoScored raw matchCentreData,$.maxMinute,100.0,int,96,OBSERVED,USABLE_WITH_CAVEAT,False,Raw metadata; presence audited across all validated matches.
+expandedMaxMinute,WhoScored raw matchCentreData,$.expandedMaxMinute,100.0,int,100,OBSERVED,USABLE_WITH_CAVEAT,False,Raw metadata; presence audited across all validated matches.
+home_name,WhoScored raw matchCentreData,$.home.name,100.0,str,Liverpool,OBSERVED,PRODUCTION_READY,False,Raw metadata; presence audited across all validated matches.
+away_name,WhoScored raw matchCentreData,$.away.name,100.0,str,Bournemouth,OBSERVED,PRODUCTION_READY,False,Raw metadata; presence audited across all validated matches.
+home_teamId,WhoScored raw matchCentreData,$.home.teamId,100.0,int,26,OBSERVED,PRODUCTION_READY,False,Raw metadata; presence audited across all validated matches.
+away_teamId,WhoScored raw matchCentreData,$.away.teamId,100.0,int,183,OBSERVED,PRODUCTION_READY,False,Raw metadata; presence audited across all validated matches.
+home_managerName,WhoScored raw matchCentreData,$.home.managerName,100.0,str,Arne Slot,OBSERVED,PRODUCTION_READY,False,Raw metadata; presence audited across all validated matches.
+away_managerName,WhoScored raw matchCentreData,$.away.managerName,100.0,str,Andoni Iraola,OBSERVED,PRODUCTION_READY,False,Raw metadata; presence audited across all validated matches.
+home_formations,WhoScored raw matchCentreData,$.home.formations,100.0,list,"[{'captainPlayerId': 95408, 'endMinuteExpanded': 63, 'formationId': 8, 'formationName': '4231', 'formationPositions': [{'horizontal': 5, 'vertical': 0}, {'horizontal': 1, 'vertical': 2.5}, {'horizonta",OBSERVED,PRODUCTION_READY,False,Raw metadata; presence audited across all validated matches.
+away_formations,WhoScored raw matchCentreData,$.away.formations,100.0,list,"[{'captainPlayerId': 69877, 'endMinuteExpanded': 77, 'formationId': 7, 'formationName': '4141', 'formationPositions': [{'horizontal': 5, 'vertical': 0}, {'horizontal': 1, 'vertical': 2.5}, {'horizonta",OBSERVED,PRODUCTION_READY,False,Raw metadata; presence audited across all validated matches.

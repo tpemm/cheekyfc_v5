@@ -1,0 +1,21 @@
+field_name,source,source_field_or_rule,grain,data_type,coverage_pct,non_null_observations,example_value,observed_or_derived,production_status,notes
+canonical_match_id,WhoScored lineup plus canonical identity,canonical_match_id,player-match squad observation,str,100.0,15189,understat:28778,OBSERVED,PRODUCTION_READY,
+whoscored_player_id,WhoScored lineup plus canonical identity,whoscored_player_id,player-match squad observation,int64,100.0,15189,114147,OBSERVED,PRODUCTION_READY,
+whoscored_player_name,WhoScored lineup plus canonical identity,whoscored_player_name,player-match squad observation,str,100.0,15189,Alisson Becker,OBSERVED,PRODUCTION_READY,
+canonical_player_id,WhoScored lineup plus canonical identity,deterministic persistent identity crosswalk,player-match squad observation,str,96.6291,14677,FTX-04SJT,DERIVED,USABLE_WITH_CAVEAT,
+club_id,WhoScored lineup plus canonical identity,club_id,player-match squad observation,str,100.0,15189,liverpool,OBSERVED,PRODUCTION_READY,
+opponent_id,WhoScored lineup plus canonical identity,opponent_id,player-match squad observation,str,100.0,15189,bournemouth,OBSERVED,PRODUCTION_READY,
+whoscored_team_id,WhoScored lineup plus canonical identity,whoscored_team_id,player-match squad observation,int64,100.0,15189,26,OBSERVED,PRODUCTION_READY,
+started,WhoScored lineup plus canonical identity,started,player-match squad observation,bool,100.0,15189,True,OBSERVED,PRODUCTION_READY,
+bench,WhoScored lineup plus canonical identity,not started in provider squad,player-match squad observation,bool,100.0,15189,False,DERIVED,PRODUCTION_READY,
+formation,WhoScored lineup plus canonical identity,formation,player-match squad observation,int64,100.0,15189,4231,OBSERVED,PRODUCTION_READY,
+lineup_slot,WhoScored lineup plus canonical identity,lineup_slot,player-match squad observation,int64,100.0,15189,1,OBSERVED,PRODUCTION_READY,
+actual_position_raw,WhoScored lineup plus canonical identity,actual_position_raw,player-match squad observation,str,100.0,15189,GK,OBSERVED,PRODUCTION_READY,
+actual_position_standardized,WhoScored lineup plus canonical identity,standardize actual_position_raw through fixed tactical-role map,player-match squad observation,str,53.4729,8122,GK,DERIVED,USABLE_WITH_CAVEAT,
+shirt_number,WhoScored lineup plus canonical identity,shirt_number,player-match squad observation,int64,100.0,15189,1,OBSERVED,PRODUCTION_READY,
+rating,WhoScored lineup plus canonical identity,rating,player-match squad observation,float64,75.66,11492,6.32,OBSERVED,PRODUCTION_READY,
+minutes,WhoScored lineup plus canonical identity,minutes,player-match squad observation,float64,0.0,0,,OBSERVED,USABLE_WITH_CAVEAT,"Substitution expanded minutes are provider timestamps, not exact elapsed playing time."
+sub_on_minute,WhoScored lineup plus canonical identity,expandedMinute of explicit SubstitutionOn event,player-match squad observation,float64,20.6202,3132,85.0,DERIVED,USABLE_WITH_CAVEAT,"Substitution expanded minutes are provider timestamps, not exact elapsed playing time."
+sub_off_minute,WhoScored lineup plus canonical identity,expandedMinute of explicit SubstitutionOff event,player-match squad observation,float64,20.6202,3132,63.0,DERIVED,USABLE_WITH_CAVEAT,"Substitution expanded minutes are provider timestamps, not exact elapsed playing time."
+captain,WhoScored lineup plus canonical identity,captain,player-match squad observation,bool,100.0,15189,False,OBSERVED,PRODUCTION_READY,
+source,WhoScored lineup plus canonical identity,source,player-match squad observation,str,100.0,15189,WhoScored/Opta,OBSERVED,PRODUCTION_READY,

@@ -1,0 +1,10 @@
+layer_key,display_name,event_filter,outcome_handling,coordinate_fields,rendering,safe_label_notes,production_status
+activity_density,Event Activity Density,all player-linked events,all,"x,y",points/density,Event activity; not tracking,PRODUCTION_READY
+passes,Passes,event_type == Pass,successful/unsuccessful,"x,y,end_x,end_y",line when end coordinates exist,Provider pass events,PRODUCTION_READY
+key_passes,Key Passes,Pass with explicit KeyPass qualifier,pass outcome retained,"x,y,end_x,end_y",line,Provider-marked key passes,PRODUCTION_READY
+crosses,Crosses,Pass with explicit Cross qualifier,pass outcome retained,"x,y,end_x,end_y",line,Raw crosses; not Fantrax accurate crosses,PRODUCTION_READY
+dribbles,TakeOns,event_type == TakeOn,successful/unsuccessful,"x,y",point,"Discrete TakeOn, not continuous carry",PRODUCTION_READY
+shots,Shots,MissedShots|SavedShot|ShotOnPost|Goal,shot outcome/type,"x,y",point,Understat remains xG authority,PRODUCTION_READY
+defensive_actions,Defensive Actions,Tackle|Interception|Clearance|BlockedPass,event outcome retained,"x,y",point,Direct observed actions,PRODUCTION_READY
+recoveries,Recoveries,event_type == BallRecovery,all,"x,y",point,Direct observed recoveries,PRODUCTION_READY
+aerials,Aerials,event_type == Aerial,winner/loser outcome,"x,y",point,Player-events; physical contests are paired,PRODUCTION_READY

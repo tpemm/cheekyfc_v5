@@ -1,229 +1,229 @@
 season_id,period,matchup_id,home_manager,away_manager,home_team_id,away_team_id,home_score,away_score,winner,margin,status,source,source_retrieved_at,last_refreshed
-2627,1,01-01,epatel3,Berkshire’s Club,qwkltl98mrp1z5vp,h2e8dn5dmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,1,01-02,Pot Splashers,Up the Arse-nal,h1vdt8ynmrp1z5vp,ayk8m85amrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,1,01-03,wmuck1,tpem,61fz0pmkmrp1z5vo,w2mnqywumrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,1,01-04,KindComet,The Facerockers,rx9bjhp3mrp1z5vo,aup99ojzmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,1,01-05,Robertske,Count Doku,cjn4stydmrp1z5vp,hpsurdtbmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,1,01-06,yudesh,nhauptma,acjx0vg4mrp1z5vo,2dxfjlk0mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,2,02-01,Up the Arse-nal,epatel3,ayk8m85amrp1z5vo,qwkltl98mrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,2,02-02,tpem,Berkshire’s Club,w2mnqywumrp1z5vp,h2e8dn5dmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,2,02-03,The Facerockers,Pot Splashers,aup99ojzmrp1z5vp,h1vdt8ynmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,2,02-04,Count Doku,wmuck1,hpsurdtbmrp1z5vo,61fz0pmkmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,2,02-05,nhauptma,KindComet,2dxfjlk0mrp1z5vo,rx9bjhp3mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,2,02-06,yudesh,Robertske,acjx0vg4mrp1z5vo,cjn4stydmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,3,03-01,epatel3,tpem,qwkltl98mrp1z5vp,w2mnqywumrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,3,03-02,Up the Arse-nal,The Facerockers,ayk8m85amrp1z5vo,aup99ojzmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,3,03-03,Berkshire’s Club,Count Doku,h2e8dn5dmrp1z5vp,hpsurdtbmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,3,03-04,Pot Splashers,nhauptma,h1vdt8ynmrp1z5vp,2dxfjlk0mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,3,03-05,wmuck1,yudesh,61fz0pmkmrp1z5vo,acjx0vg4mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,3,03-06,KindComet,Robertske,rx9bjhp3mrp1z5vo,cjn4stydmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,4,04-01,The Facerockers,epatel3,aup99ojzmrp1z5vp,qwkltl98mrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,4,04-02,Count Doku,tpem,hpsurdtbmrp1z5vo,w2mnqywumrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,4,04-03,nhauptma,Up the Arse-nal,2dxfjlk0mrp1z5vo,ayk8m85amrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,4,04-04,yudesh,Berkshire’s Club,acjx0vg4mrp1z5vo,h2e8dn5dmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,4,04-05,Robertske,Pot Splashers,cjn4stydmrp1z5vp,h1vdt8ynmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,4,04-06,KindComet,wmuck1,rx9bjhp3mrp1z5vo,61fz0pmkmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,5,05-01,epatel3,Count Doku,qwkltl98mrp1z5vp,hpsurdtbmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,5,05-02,The Facerockers,nhauptma,aup99ojzmrp1z5vp,2dxfjlk0mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,5,05-03,tpem,yudesh,w2mnqywumrp1z5vp,acjx0vg4mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,5,05-04,Up the Arse-nal,Robertske,ayk8m85amrp1z5vo,cjn4stydmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,5,05-05,Berkshire’s Club,KindComet,h2e8dn5dmrp1z5vp,rx9bjhp3mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,5,05-06,Pot Splashers,wmuck1,h1vdt8ynmrp1z5vp,61fz0pmkmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,6,06-01,nhauptma,epatel3,2dxfjlk0mrp1z5vo,qwkltl98mrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,6,06-02,yudesh,Count Doku,acjx0vg4mrp1z5vo,hpsurdtbmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,6,06-03,Robertske,The Facerockers,cjn4stydmrp1z5vp,aup99ojzmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,6,06-04,KindComet,tpem,rx9bjhp3mrp1z5vo,w2mnqywumrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,6,06-05,wmuck1,Up the Arse-nal,61fz0pmkmrp1z5vo,ayk8m85amrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,6,06-06,Pot Splashers,Berkshire’s Club,h1vdt8ynmrp1z5vp,h2e8dn5dmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,7,07-01,epatel3,yudesh,qwkltl98mrp1z5vp,acjx0vg4mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,7,07-02,nhauptma,Robertske,2dxfjlk0mrp1z5vo,cjn4stydmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,7,07-03,Count Doku,KindComet,hpsurdtbmrp1z5vo,rx9bjhp3mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,7,07-04,The Facerockers,wmuck1,aup99ojzmrp1z5vp,61fz0pmkmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,7,07-05,tpem,Pot Splashers,w2mnqywumrp1z5vp,h1vdt8ynmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,7,07-06,Up the Arse-nal,Berkshire’s Club,ayk8m85amrp1z5vo,h2e8dn5dmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,8,08-01,Robertske,epatel3,cjn4stydmrp1z5vp,qwkltl98mrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,8,08-02,KindComet,yudesh,rx9bjhp3mrp1z5vo,acjx0vg4mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,8,08-03,wmuck1,nhauptma,61fz0pmkmrp1z5vo,2dxfjlk0mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,8,08-04,Pot Splashers,Count Doku,h1vdt8ynmrp1z5vp,hpsurdtbmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,8,08-05,Berkshire’s Club,The Facerockers,h2e8dn5dmrp1z5vp,aup99ojzmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,8,08-06,Up the Arse-nal,tpem,ayk8m85amrp1z5vo,w2mnqywumrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,9,09-01,epatel3,KindComet,qwkltl98mrp1z5vp,rx9bjhp3mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,9,09-02,Robertske,wmuck1,cjn4stydmrp1z5vp,61fz0pmkmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,9,09-03,yudesh,Pot Splashers,acjx0vg4mrp1z5vo,h1vdt8ynmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,9,09-04,nhauptma,Berkshire’s Club,2dxfjlk0mrp1z5vo,h2e8dn5dmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,9,09-05,Count Doku,Up the Arse-nal,hpsurdtbmrp1z5vo,ayk8m85amrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,9,09-06,The Facerockers,tpem,aup99ojzmrp1z5vp,w2mnqywumrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,10,10-01,wmuck1,epatel3,61fz0pmkmrp1z5vo,qwkltl98mrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,10,10-02,Pot Splashers,KindComet,h1vdt8ynmrp1z5vp,rx9bjhp3mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,10,10-03,Berkshire’s Club,Robertske,h2e8dn5dmrp1z5vp,cjn4stydmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,10,10-04,Up the Arse-nal,yudesh,ayk8m85amrp1z5vo,acjx0vg4mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,10,10-05,tpem,nhauptma,w2mnqywumrp1z5vp,2dxfjlk0mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,10,10-06,The Facerockers,Count Doku,aup99ojzmrp1z5vp,hpsurdtbmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,11,11-01,epatel3,Pot Splashers,qwkltl98mrp1z5vp,h1vdt8ynmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,11,11-02,wmuck1,Berkshire’s Club,61fz0pmkmrp1z5vo,h2e8dn5dmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,11,11-03,KindComet,Up the Arse-nal,rx9bjhp3mrp1z5vo,ayk8m85amrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,11,11-04,Robertske,tpem,cjn4stydmrp1z5vp,w2mnqywumrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,11,11-05,yudesh,The Facerockers,acjx0vg4mrp1z5vo,aup99ojzmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,11,11-06,nhauptma,Count Doku,2dxfjlk0mrp1z5vo,hpsurdtbmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,12,12-01,Berkshire’s Club,epatel3,h2e8dn5dmrp1z5vp,qwkltl98mrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,12,12-02,Up the Arse-nal,Pot Splashers,ayk8m85amrp1z5vo,h1vdt8ynmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,12,12-03,tpem,wmuck1,w2mnqywumrp1z5vp,61fz0pmkmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,12,12-04,The Facerockers,KindComet,aup99ojzmrp1z5vp,rx9bjhp3mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,12,12-05,Count Doku,Robertske,hpsurdtbmrp1z5vo,cjn4stydmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,12,12-06,nhauptma,yudesh,2dxfjlk0mrp1z5vo,acjx0vg4mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,13,13-01,epatel3,Up the Arse-nal,qwkltl98mrp1z5vp,ayk8m85amrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,13,13-02,Berkshire’s Club,tpem,h2e8dn5dmrp1z5vp,w2mnqywumrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,13,13-03,Pot Splashers,The Facerockers,h1vdt8ynmrp1z5vp,aup99ojzmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,13,13-04,wmuck1,Count Doku,61fz0pmkmrp1z5vo,hpsurdtbmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,13,13-05,KindComet,nhauptma,rx9bjhp3mrp1z5vo,2dxfjlk0mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,13,13-06,Robertske,yudesh,cjn4stydmrp1z5vp,acjx0vg4mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,14,14-01,tpem,epatel3,w2mnqywumrp1z5vp,qwkltl98mrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,14,14-02,The Facerockers,Up the Arse-nal,aup99ojzmrp1z5vp,ayk8m85amrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,14,14-03,Count Doku,Berkshire’s Club,hpsurdtbmrp1z5vo,h2e8dn5dmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,14,14-04,nhauptma,Pot Splashers,2dxfjlk0mrp1z5vo,h1vdt8ynmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,14,14-05,yudesh,wmuck1,acjx0vg4mrp1z5vo,61fz0pmkmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,14,14-06,Robertske,KindComet,cjn4stydmrp1z5vp,rx9bjhp3mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,15,15-01,epatel3,The Facerockers,qwkltl98mrp1z5vp,aup99ojzmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,15,15-02,tpem,Count Doku,w2mnqywumrp1z5vp,hpsurdtbmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,15,15-03,Up the Arse-nal,nhauptma,ayk8m85amrp1z5vo,2dxfjlk0mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,15,15-04,Berkshire’s Club,yudesh,h2e8dn5dmrp1z5vp,acjx0vg4mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,15,15-05,Pot Splashers,Robertske,h1vdt8ynmrp1z5vp,cjn4stydmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,15,15-06,wmuck1,KindComet,61fz0pmkmrp1z5vo,rx9bjhp3mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,16,16-01,Count Doku,epatel3,hpsurdtbmrp1z5vo,qwkltl98mrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,16,16-02,nhauptma,The Facerockers,2dxfjlk0mrp1z5vo,aup99ojzmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,16,16-03,yudesh,tpem,acjx0vg4mrp1z5vo,w2mnqywumrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,16,16-04,Robertske,Up the Arse-nal,cjn4stydmrp1z5vp,ayk8m85amrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,16,16-05,KindComet,Berkshire’s Club,rx9bjhp3mrp1z5vo,h2e8dn5dmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,16,16-06,wmuck1,Pot Splashers,61fz0pmkmrp1z5vo,h1vdt8ynmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,17,17-01,epatel3,nhauptma,qwkltl98mrp1z5vp,2dxfjlk0mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,17,17-02,Count Doku,yudesh,hpsurdtbmrp1z5vo,acjx0vg4mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,17,17-03,The Facerockers,Robertske,aup99ojzmrp1z5vp,cjn4stydmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,17,17-04,tpem,KindComet,w2mnqywumrp1z5vp,rx9bjhp3mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,17,17-05,Up the Arse-nal,wmuck1,ayk8m85amrp1z5vo,61fz0pmkmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,17,17-06,Berkshire’s Club,Pot Splashers,h2e8dn5dmrp1z5vp,h1vdt8ynmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,18,18-01,yudesh,epatel3,acjx0vg4mrp1z5vo,qwkltl98mrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,18,18-02,Robertske,nhauptma,cjn4stydmrp1z5vp,2dxfjlk0mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,18,18-03,KindComet,Count Doku,rx9bjhp3mrp1z5vo,hpsurdtbmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,18,18-04,wmuck1,The Facerockers,61fz0pmkmrp1z5vo,aup99ojzmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,18,18-05,Pot Splashers,tpem,h1vdt8ynmrp1z5vp,w2mnqywumrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,18,18-06,Berkshire’s Club,Up the Arse-nal,h2e8dn5dmrp1z5vp,ayk8m85amrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,19,19-01,epatel3,Robertske,qwkltl98mrp1z5vp,cjn4stydmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,19,19-02,yudesh,KindComet,acjx0vg4mrp1z5vo,rx9bjhp3mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,19,19-03,nhauptma,wmuck1,2dxfjlk0mrp1z5vo,61fz0pmkmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,19,19-04,Count Doku,Pot Splashers,hpsurdtbmrp1z5vo,h1vdt8ynmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,19,19-05,The Facerockers,Berkshire’s Club,aup99ojzmrp1z5vp,h2e8dn5dmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,19,19-06,tpem,Up the Arse-nal,w2mnqywumrp1z5vp,ayk8m85amrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,20,20-01,KindComet,epatel3,rx9bjhp3mrp1z5vo,qwkltl98mrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,20,20-02,wmuck1,Robertske,61fz0pmkmrp1z5vo,cjn4stydmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,20,20-03,Pot Splashers,yudesh,h1vdt8ynmrp1z5vp,acjx0vg4mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,20,20-04,Berkshire’s Club,nhauptma,h2e8dn5dmrp1z5vp,2dxfjlk0mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,20,20-05,Up the Arse-nal,Count Doku,ayk8m85amrp1z5vo,hpsurdtbmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,20,20-06,tpem,The Facerockers,w2mnqywumrp1z5vp,aup99ojzmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,21,21-01,epatel3,wmuck1,qwkltl98mrp1z5vp,61fz0pmkmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,21,21-02,KindComet,Pot Splashers,rx9bjhp3mrp1z5vo,h1vdt8ynmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,21,21-03,Robertske,Berkshire’s Club,cjn4stydmrp1z5vp,h2e8dn5dmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,21,21-04,yudesh,Up the Arse-nal,acjx0vg4mrp1z5vo,ayk8m85amrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,21,21-05,nhauptma,tpem,2dxfjlk0mrp1z5vo,w2mnqywumrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,21,21-06,Count Doku,The Facerockers,hpsurdtbmrp1z5vo,aup99ojzmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,22,22-01,Pot Splashers,epatel3,h1vdt8ynmrp1z5vp,qwkltl98mrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,22,22-02,Berkshire’s Club,wmuck1,h2e8dn5dmrp1z5vp,61fz0pmkmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,22,22-03,Up the Arse-nal,KindComet,ayk8m85amrp1z5vo,rx9bjhp3mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,22,22-04,tpem,Robertske,w2mnqywumrp1z5vp,cjn4stydmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,22,22-05,The Facerockers,yudesh,aup99ojzmrp1z5vp,acjx0vg4mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,22,22-06,Count Doku,nhauptma,hpsurdtbmrp1z5vo,2dxfjlk0mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,23,23-01,epatel3,Berkshire’s Club,qwkltl98mrp1z5vp,h2e8dn5dmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,23,23-02,Pot Splashers,Up the Arse-nal,h1vdt8ynmrp1z5vp,ayk8m85amrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,23,23-03,wmuck1,tpem,61fz0pmkmrp1z5vo,w2mnqywumrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,23,23-04,KindComet,The Facerockers,rx9bjhp3mrp1z5vo,aup99ojzmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,23,23-05,Robertske,Count Doku,cjn4stydmrp1z5vp,hpsurdtbmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,23,23-06,yudesh,nhauptma,acjx0vg4mrp1z5vo,2dxfjlk0mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,24,24-01,Up the Arse-nal,epatel3,ayk8m85amrp1z5vo,qwkltl98mrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,24,24-02,tpem,Berkshire’s Club,w2mnqywumrp1z5vp,h2e8dn5dmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,24,24-03,The Facerockers,Pot Splashers,aup99ojzmrp1z5vp,h1vdt8ynmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,24,24-04,Count Doku,wmuck1,hpsurdtbmrp1z5vo,61fz0pmkmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,24,24-05,nhauptma,KindComet,2dxfjlk0mrp1z5vo,rx9bjhp3mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,24,24-06,yudesh,Robertske,acjx0vg4mrp1z5vo,cjn4stydmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,25,25-01,epatel3,tpem,qwkltl98mrp1z5vp,w2mnqywumrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,25,25-02,Up the Arse-nal,The Facerockers,ayk8m85amrp1z5vo,aup99ojzmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,25,25-03,Berkshire’s Club,Count Doku,h2e8dn5dmrp1z5vp,hpsurdtbmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,25,25-04,Pot Splashers,nhauptma,h1vdt8ynmrp1z5vp,2dxfjlk0mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,25,25-05,wmuck1,yudesh,61fz0pmkmrp1z5vo,acjx0vg4mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,25,25-06,KindComet,Robertske,rx9bjhp3mrp1z5vo,cjn4stydmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,26,26-01,The Facerockers,epatel3,aup99ojzmrp1z5vp,qwkltl98mrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,26,26-02,Count Doku,tpem,hpsurdtbmrp1z5vo,w2mnqywumrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,26,26-03,nhauptma,Up the Arse-nal,2dxfjlk0mrp1z5vo,ayk8m85amrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,26,26-04,yudesh,Berkshire’s Club,acjx0vg4mrp1z5vo,h2e8dn5dmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,26,26-05,Robertske,Pot Splashers,cjn4stydmrp1z5vp,h1vdt8ynmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,26,26-06,KindComet,wmuck1,rx9bjhp3mrp1z5vo,61fz0pmkmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,27,27-01,epatel3,Count Doku,qwkltl98mrp1z5vp,hpsurdtbmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,27,27-02,The Facerockers,nhauptma,aup99ojzmrp1z5vp,2dxfjlk0mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,27,27-03,tpem,yudesh,w2mnqywumrp1z5vp,acjx0vg4mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,27,27-04,Up the Arse-nal,Robertske,ayk8m85amrp1z5vo,cjn4stydmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,27,27-05,Berkshire’s Club,KindComet,h2e8dn5dmrp1z5vp,rx9bjhp3mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,27,27-06,Pot Splashers,wmuck1,h1vdt8ynmrp1z5vp,61fz0pmkmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,28,28-01,nhauptma,epatel3,2dxfjlk0mrp1z5vo,qwkltl98mrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,28,28-02,yudesh,Count Doku,acjx0vg4mrp1z5vo,hpsurdtbmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,28,28-03,Robertske,The Facerockers,cjn4stydmrp1z5vp,aup99ojzmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,28,28-04,KindComet,tpem,rx9bjhp3mrp1z5vo,w2mnqywumrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,28,28-05,wmuck1,Up the Arse-nal,61fz0pmkmrp1z5vo,ayk8m85amrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,28,28-06,Pot Splashers,Berkshire’s Club,h1vdt8ynmrp1z5vp,h2e8dn5dmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,29,29-01,epatel3,yudesh,qwkltl98mrp1z5vp,acjx0vg4mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,29,29-02,nhauptma,Robertske,2dxfjlk0mrp1z5vo,cjn4stydmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,29,29-03,Count Doku,KindComet,hpsurdtbmrp1z5vo,rx9bjhp3mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,29,29-04,The Facerockers,wmuck1,aup99ojzmrp1z5vp,61fz0pmkmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,29,29-05,tpem,Pot Splashers,w2mnqywumrp1z5vp,h1vdt8ynmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,29,29-06,Up the Arse-nal,Berkshire’s Club,ayk8m85amrp1z5vo,h2e8dn5dmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,30,30-01,Robertske,epatel3,cjn4stydmrp1z5vp,qwkltl98mrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,30,30-02,KindComet,yudesh,rx9bjhp3mrp1z5vo,acjx0vg4mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,30,30-03,wmuck1,nhauptma,61fz0pmkmrp1z5vo,2dxfjlk0mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,30,30-04,Pot Splashers,Count Doku,h1vdt8ynmrp1z5vp,hpsurdtbmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,30,30-05,Berkshire’s Club,The Facerockers,h2e8dn5dmrp1z5vp,aup99ojzmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,30,30-06,Up the Arse-nal,tpem,ayk8m85amrp1z5vo,w2mnqywumrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,31,31-01,epatel3,KindComet,qwkltl98mrp1z5vp,rx9bjhp3mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,31,31-02,Robertske,wmuck1,cjn4stydmrp1z5vp,61fz0pmkmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,31,31-03,yudesh,Pot Splashers,acjx0vg4mrp1z5vo,h1vdt8ynmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,31,31-04,nhauptma,Berkshire’s Club,2dxfjlk0mrp1z5vo,h2e8dn5dmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,31,31-05,Count Doku,Up the Arse-nal,hpsurdtbmrp1z5vo,ayk8m85amrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,31,31-06,The Facerockers,tpem,aup99ojzmrp1z5vp,w2mnqywumrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,32,32-01,wmuck1,epatel3,61fz0pmkmrp1z5vo,qwkltl98mrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,32,32-02,Pot Splashers,KindComet,h1vdt8ynmrp1z5vp,rx9bjhp3mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,32,32-03,Berkshire’s Club,Robertske,h2e8dn5dmrp1z5vp,cjn4stydmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,32,32-04,Up the Arse-nal,yudesh,ayk8m85amrp1z5vo,acjx0vg4mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,32,32-05,tpem,nhauptma,w2mnqywumrp1z5vp,2dxfjlk0mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,32,32-06,The Facerockers,Count Doku,aup99ojzmrp1z5vp,hpsurdtbmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,33,33-01,epatel3,Pot Splashers,qwkltl98mrp1z5vp,h1vdt8ynmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,33,33-02,wmuck1,Berkshire’s Club,61fz0pmkmrp1z5vo,h2e8dn5dmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,33,33-03,KindComet,Up the Arse-nal,rx9bjhp3mrp1z5vo,ayk8m85amrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,33,33-04,Robertske,tpem,cjn4stydmrp1z5vp,w2mnqywumrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,33,33-05,yudesh,The Facerockers,acjx0vg4mrp1z5vo,aup99ojzmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,33,33-06,nhauptma,Count Doku,2dxfjlk0mrp1z5vo,hpsurdtbmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,34,34-01,Berkshire’s Club,epatel3,h2e8dn5dmrp1z5vp,qwkltl98mrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,34,34-02,Up the Arse-nal,Pot Splashers,ayk8m85amrp1z5vo,h1vdt8ynmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,34,34-03,tpem,wmuck1,w2mnqywumrp1z5vp,61fz0pmkmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,34,34-04,The Facerockers,KindComet,aup99ojzmrp1z5vp,rx9bjhp3mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,34,34-05,Count Doku,Robertske,hpsurdtbmrp1z5vo,cjn4stydmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,34,34-06,nhauptma,yudesh,2dxfjlk0mrp1z5vo,acjx0vg4mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,35,35-01,epatel3,Up the Arse-nal,qwkltl98mrp1z5vp,ayk8m85amrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,35,35-02,Berkshire’s Club,tpem,h2e8dn5dmrp1z5vp,w2mnqywumrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,35,35-03,Pot Splashers,The Facerockers,h1vdt8ynmrp1z5vp,aup99ojzmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,35,35-04,wmuck1,Count Doku,61fz0pmkmrp1z5vo,hpsurdtbmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,35,35-05,KindComet,nhauptma,rx9bjhp3mrp1z5vo,2dxfjlk0mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,35,35-06,Robertske,yudesh,cjn4stydmrp1z5vp,acjx0vg4mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,36,36-01,tpem,epatel3,w2mnqywumrp1z5vp,qwkltl98mrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,36,36-02,The Facerockers,Up the Arse-nal,aup99ojzmrp1z5vp,ayk8m85amrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,36,36-03,Count Doku,Berkshire’s Club,hpsurdtbmrp1z5vo,h2e8dn5dmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,36,36-04,nhauptma,Pot Splashers,2dxfjlk0mrp1z5vo,h1vdt8ynmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,36,36-05,yudesh,wmuck1,acjx0vg4mrp1z5vo,61fz0pmkmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,36,36-06,Robertske,KindComet,cjn4stydmrp1z5vp,rx9bjhp3mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,37,37-01,epatel3,The Facerockers,qwkltl98mrp1z5vp,aup99ojzmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,37,37-02,tpem,Count Doku,w2mnqywumrp1z5vp,hpsurdtbmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,37,37-03,Up the Arse-nal,nhauptma,ayk8m85amrp1z5vo,2dxfjlk0mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,37,37-04,Berkshire’s Club,yudesh,h2e8dn5dmrp1z5vp,acjx0vg4mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,37,37-05,Pot Splashers,Robertske,h1vdt8ynmrp1z5vp,cjn4stydmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,37,37-06,wmuck1,KindComet,61fz0pmkmrp1z5vo,rx9bjhp3mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,38,38-01,Count Doku,epatel3,hpsurdtbmrp1z5vo,qwkltl98mrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,38,38-02,nhauptma,The Facerockers,2dxfjlk0mrp1z5vo,aup99ojzmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,38,38-03,yudesh,tpem,acjx0vg4mrp1z5vo,w2mnqywumrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,38,38-04,Robertske,Up the Arse-nal,cjn4stydmrp1z5vp,ayk8m85amrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,38,38-05,KindComet,Berkshire’s Club,rx9bjhp3mrp1z5vo,h2e8dn5dmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
-2627,38,38-06,wmuck1,Pot Splashers,61fz0pmkmrp1z5vo,h1vdt8ynmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-08-14T18:59:31.185672+00:00,2026-08-14T18:59:31.185672+00:00
+2627,1,01-01,epatel3,Berkshire’s Club,qwkltl98mrp1z5vp,h2e8dn5dmrp1z5vp,91.0,91.5,Berkshire’s Club,0.5,completed,Fantrax Matchups structured DOM fallback,2026-08-25T16:43:13+00:00,2026-08-25T16:43:13+00:00
+2627,1,01-02,Pot Splashers,Up the Arse-nal,h1vdt8ynmrp1z5vp,ayk8m85amrp1z5vo,121.5,90.5,Pot Splashers,31.0,completed,Fantrax Matchups structured DOM fallback,2026-08-25T16:43:13+00:00,2026-08-25T16:43:13+00:00
+2627,1,01-03,wmuck1 🤡,tpem,61fz0pmkmrp1z5vo,w2mnqywumrp1z5vp,68.0,101.5,tpem,33.5,completed,Fantrax Matchups structured DOM fallback,2026-08-25T16:43:13+00:00,2026-08-25T16:43:13+00:00
+2627,1,01-04,KindComet 🤡,The Facerockers,rx9bjhp3mrp1z5vo,aup99ojzmrp1z5vp,123.5,84.0,KindComet 🤡,39.5,completed,Fantrax Matchups structured DOM fallback,2026-08-25T16:43:13+00:00,2026-08-25T16:43:13+00:00
+2627,1,01-05,Robertske,GVand35,cjn4stydmrp1z5vp,hpsurdtbmrp1z5vo,83.0,100.5,GVand35,17.5,completed,Fantrax Matchups structured DOM fallback,2026-08-25T16:43:13+00:00,2026-08-25T16:43:13+00:00
+2627,1,01-06,yudesh,nhauptma,acjx0vg4mrp1z5vo,2dxfjlk0mrp1z5vo,88.5,90.5,nhauptma,2.0,completed,Fantrax Matchups structured DOM fallback,2026-08-25T16:43:13+00:00,2026-08-25T16:43:13+00:00
+2627,2,02-01,Up the Arse-nal,epatel3,ayk8m85amrp1z5vo,qwkltl98mrp1z5vp,107.0,119.5,epatel3,12.5,completed,Fantrax Matchups structured DOM fallback,2026-09-02T23:53:32+00:00,2026-09-02T23:53:32+00:00
+2627,2,02-02,tpem,Berkshire’s Club,w2mnqywumrp1z5vp,h2e8dn5dmrp1z5vp,167.5,110.5,tpem,57.0,completed,Fantrax Matchups structured DOM fallback,2026-09-02T23:53:32+00:00,2026-09-02T23:53:32+00:00
+2627,2,02-03,The Facerockers,Pot Splashers,aup99ojzmrp1z5vp,h1vdt8ynmrp1z5vp,145.0,125.0,The Facerockers,20.0,completed,Fantrax Matchups structured DOM fallback,2026-09-02T23:53:32+00:00,2026-09-02T23:53:32+00:00
+2627,2,02-04,GVand35,wmuck1 🤡,hpsurdtbmrp1z5vo,61fz0pmkmrp1z5vo,102.5,93.0,GVand35,9.5,completed,Fantrax Matchups structured DOM fallback,2026-09-02T23:53:32+00:00,2026-09-02T23:53:32+00:00
+2627,2,02-05,nhauptma,KindComet 🤡,2dxfjlk0mrp1z5vo,rx9bjhp3mrp1z5vo,86.0,71.0,nhauptma,15.0,completed,Fantrax Matchups structured DOM fallback,2026-09-02T23:53:32+00:00,2026-09-02T23:53:32+00:00
+2627,2,02-06,yudesh,Robertske,acjx0vg4mrp1z5vo,cjn4stydmrp1z5vp,99.0,125.5,Robertske,26.5,completed,Fantrax Matchups structured DOM fallback,2026-09-02T23:53:32+00:00,2026-09-02T23:53:32+00:00
+2627,3,03-01,epatel3,tpem,qwkltl98mrp1z5vp,w2mnqywumrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,3,03-02,Up the Arse-nal,The Facerockers,ayk8m85amrp1z5vo,aup99ojzmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,3,03-03,Berkshire’s Club,GVand35,h2e8dn5dmrp1z5vp,hpsurdtbmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,3,03-04,Pot Splashers,nhauptma,h1vdt8ynmrp1z5vp,2dxfjlk0mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,3,03-05,wmuck1 🤡,yudesh,61fz0pmkmrp1z5vo,acjx0vg4mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,3,03-06,KindComet 🤡,Robertske,rx9bjhp3mrp1z5vo,cjn4stydmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,4,04-01,The Facerockers,epatel3,aup99ojzmrp1z5vp,qwkltl98mrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,4,04-02,GVand35,tpem,hpsurdtbmrp1z5vo,w2mnqywumrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,4,04-03,nhauptma,Up the Arse-nal,2dxfjlk0mrp1z5vo,ayk8m85amrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,4,04-04,yudesh,Berkshire’s Club,acjx0vg4mrp1z5vo,h2e8dn5dmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,4,04-05,Robertske,Pot Splashers,cjn4stydmrp1z5vp,h1vdt8ynmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,4,04-06,KindComet 🤡,wmuck1 🤡,rx9bjhp3mrp1z5vo,61fz0pmkmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,5,05-01,epatel3,GVand35,qwkltl98mrp1z5vp,hpsurdtbmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,5,05-02,The Facerockers,nhauptma,aup99ojzmrp1z5vp,2dxfjlk0mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,5,05-03,tpem,yudesh,w2mnqywumrp1z5vp,acjx0vg4mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,5,05-04,Up the Arse-nal,Robertske,ayk8m85amrp1z5vo,cjn4stydmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,5,05-05,Berkshire’s Club,KindComet 🤡,h2e8dn5dmrp1z5vp,rx9bjhp3mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,5,05-06,Pot Splashers,wmuck1 🤡,h1vdt8ynmrp1z5vp,61fz0pmkmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,6,06-01,nhauptma,epatel3,2dxfjlk0mrp1z5vo,qwkltl98mrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,6,06-02,yudesh,GVand35,acjx0vg4mrp1z5vo,hpsurdtbmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,6,06-03,Robertske,The Facerockers,cjn4stydmrp1z5vp,aup99ojzmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,6,06-04,KindComet 🤡,tpem,rx9bjhp3mrp1z5vo,w2mnqywumrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,6,06-05,wmuck1 🤡,Up the Arse-nal,61fz0pmkmrp1z5vo,ayk8m85amrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,6,06-06,Pot Splashers,Berkshire’s Club,h1vdt8ynmrp1z5vp,h2e8dn5dmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,7,07-01,epatel3,yudesh,qwkltl98mrp1z5vp,acjx0vg4mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,7,07-02,nhauptma,Robertske,2dxfjlk0mrp1z5vo,cjn4stydmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,7,07-03,GVand35,KindComet 🤡,hpsurdtbmrp1z5vo,rx9bjhp3mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,7,07-04,The Facerockers,wmuck1 🤡,aup99ojzmrp1z5vp,61fz0pmkmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,7,07-05,tpem,Pot Splashers,w2mnqywumrp1z5vp,h1vdt8ynmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,7,07-06,Up the Arse-nal,Berkshire’s Club,ayk8m85amrp1z5vo,h2e8dn5dmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,8,08-01,Robertske,epatel3,cjn4stydmrp1z5vp,qwkltl98mrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,8,08-02,KindComet 🤡,yudesh,rx9bjhp3mrp1z5vo,acjx0vg4mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,8,08-03,wmuck1 🤡,nhauptma,61fz0pmkmrp1z5vo,2dxfjlk0mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,8,08-04,Pot Splashers,GVand35,h1vdt8ynmrp1z5vp,hpsurdtbmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,8,08-05,Berkshire’s Club,The Facerockers,h2e8dn5dmrp1z5vp,aup99ojzmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,8,08-06,Up the Arse-nal,tpem,ayk8m85amrp1z5vo,w2mnqywumrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,9,09-01,epatel3,KindComet 🤡,qwkltl98mrp1z5vp,rx9bjhp3mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,9,09-02,Robertske,wmuck1 🤡,cjn4stydmrp1z5vp,61fz0pmkmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,9,09-03,yudesh,Pot Splashers,acjx0vg4mrp1z5vo,h1vdt8ynmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,9,09-04,nhauptma,Berkshire’s Club,2dxfjlk0mrp1z5vo,h2e8dn5dmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,9,09-05,GVand35,Up the Arse-nal,hpsurdtbmrp1z5vo,ayk8m85amrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,9,09-06,The Facerockers,tpem,aup99ojzmrp1z5vp,w2mnqywumrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,10,10-01,wmuck1 🤡,epatel3,61fz0pmkmrp1z5vo,qwkltl98mrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,10,10-02,Pot Splashers,KindComet 🤡,h1vdt8ynmrp1z5vp,rx9bjhp3mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,10,10-03,Berkshire’s Club,Robertske,h2e8dn5dmrp1z5vp,cjn4stydmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,10,10-04,Up the Arse-nal,yudesh,ayk8m85amrp1z5vo,acjx0vg4mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,10,10-05,tpem,nhauptma,w2mnqywumrp1z5vp,2dxfjlk0mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,10,10-06,The Facerockers,GVand35,aup99ojzmrp1z5vp,hpsurdtbmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,11,11-01,epatel3,Pot Splashers,qwkltl98mrp1z5vp,h1vdt8ynmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,11,11-02,wmuck1 🤡,Berkshire’s Club,61fz0pmkmrp1z5vo,h2e8dn5dmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,11,11-03,KindComet 🤡,Up the Arse-nal,rx9bjhp3mrp1z5vo,ayk8m85amrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,11,11-04,Robertske,tpem,cjn4stydmrp1z5vp,w2mnqywumrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,11,11-05,yudesh,The Facerockers,acjx0vg4mrp1z5vo,aup99ojzmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,11,11-06,nhauptma,GVand35,2dxfjlk0mrp1z5vo,hpsurdtbmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,12,12-01,Berkshire’s Club,epatel3,h2e8dn5dmrp1z5vp,qwkltl98mrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,12,12-02,Up the Arse-nal,Pot Splashers,ayk8m85amrp1z5vo,h1vdt8ynmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,12,12-03,tpem,wmuck1 🤡,w2mnqywumrp1z5vp,61fz0pmkmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,12,12-04,The Facerockers,KindComet 🤡,aup99ojzmrp1z5vp,rx9bjhp3mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,12,12-05,GVand35,Robertske,hpsurdtbmrp1z5vo,cjn4stydmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,12,12-06,nhauptma,yudesh,2dxfjlk0mrp1z5vo,acjx0vg4mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,13,13-01,epatel3,Up the Arse-nal,qwkltl98mrp1z5vp,ayk8m85amrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,13,13-02,Berkshire’s Club,tpem,h2e8dn5dmrp1z5vp,w2mnqywumrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,13,13-03,Pot Splashers,The Facerockers,h1vdt8ynmrp1z5vp,aup99ojzmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,13,13-04,wmuck1 🤡,GVand35,61fz0pmkmrp1z5vo,hpsurdtbmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,13,13-05,KindComet 🤡,nhauptma,rx9bjhp3mrp1z5vo,2dxfjlk0mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,13,13-06,Robertske,yudesh,cjn4stydmrp1z5vp,acjx0vg4mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,14,14-01,tpem,epatel3,w2mnqywumrp1z5vp,qwkltl98mrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,14,14-02,The Facerockers,Up the Arse-nal,aup99ojzmrp1z5vp,ayk8m85amrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,14,14-03,GVand35,Berkshire’s Club,hpsurdtbmrp1z5vo,h2e8dn5dmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,14,14-04,nhauptma,Pot Splashers,2dxfjlk0mrp1z5vo,h1vdt8ynmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,14,14-05,yudesh,wmuck1 🤡,acjx0vg4mrp1z5vo,61fz0pmkmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,14,14-06,Robertske,KindComet 🤡,cjn4stydmrp1z5vp,rx9bjhp3mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,15,15-01,epatel3,The Facerockers,qwkltl98mrp1z5vp,aup99ojzmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,15,15-02,tpem,GVand35,w2mnqywumrp1z5vp,hpsurdtbmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,15,15-03,Up the Arse-nal,nhauptma,ayk8m85amrp1z5vo,2dxfjlk0mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,15,15-04,Berkshire’s Club,yudesh,h2e8dn5dmrp1z5vp,acjx0vg4mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,15,15-05,Pot Splashers,Robertske,h1vdt8ynmrp1z5vp,cjn4stydmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,15,15-06,wmuck1 🤡,KindComet 🤡,61fz0pmkmrp1z5vo,rx9bjhp3mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,16,16-01,GVand35,epatel3,hpsurdtbmrp1z5vo,qwkltl98mrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,16,16-02,nhauptma,The Facerockers,2dxfjlk0mrp1z5vo,aup99ojzmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,16,16-03,yudesh,tpem,acjx0vg4mrp1z5vo,w2mnqywumrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,16,16-04,Robertske,Up the Arse-nal,cjn4stydmrp1z5vp,ayk8m85amrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,16,16-05,KindComet 🤡,Berkshire’s Club,rx9bjhp3mrp1z5vo,h2e8dn5dmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,16,16-06,wmuck1 🤡,Pot Splashers,61fz0pmkmrp1z5vo,h1vdt8ynmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,17,17-01,epatel3,nhauptma,qwkltl98mrp1z5vp,2dxfjlk0mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,17,17-02,GVand35,yudesh,hpsurdtbmrp1z5vo,acjx0vg4mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,17,17-03,The Facerockers,Robertske,aup99ojzmrp1z5vp,cjn4stydmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,17,17-04,tpem,KindComet 🤡,w2mnqywumrp1z5vp,rx9bjhp3mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,17,17-05,Up the Arse-nal,wmuck1 🤡,ayk8m85amrp1z5vo,61fz0pmkmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,17,17-06,Berkshire’s Club,Pot Splashers,h2e8dn5dmrp1z5vp,h1vdt8ynmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,18,18-01,yudesh,epatel3,acjx0vg4mrp1z5vo,qwkltl98mrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,18,18-02,Robertske,nhauptma,cjn4stydmrp1z5vp,2dxfjlk0mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,18,18-03,KindComet 🤡,GVand35,rx9bjhp3mrp1z5vo,hpsurdtbmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,18,18-04,wmuck1 🤡,The Facerockers,61fz0pmkmrp1z5vo,aup99ojzmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,18,18-05,Pot Splashers,tpem,h1vdt8ynmrp1z5vp,w2mnqywumrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,18,18-06,Berkshire’s Club,Up the Arse-nal,h2e8dn5dmrp1z5vp,ayk8m85amrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,19,19-01,epatel3,Robertske,qwkltl98mrp1z5vp,cjn4stydmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,19,19-02,yudesh,KindComet 🤡,acjx0vg4mrp1z5vo,rx9bjhp3mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,19,19-03,nhauptma,wmuck1 🤡,2dxfjlk0mrp1z5vo,61fz0pmkmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,19,19-04,GVand35,Pot Splashers,hpsurdtbmrp1z5vo,h1vdt8ynmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,19,19-05,The Facerockers,Berkshire’s Club,aup99ojzmrp1z5vp,h2e8dn5dmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,19,19-06,tpem,Up the Arse-nal,w2mnqywumrp1z5vp,ayk8m85amrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,20,20-01,KindComet 🤡,epatel3,rx9bjhp3mrp1z5vo,qwkltl98mrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,20,20-02,wmuck1 🤡,Robertske,61fz0pmkmrp1z5vo,cjn4stydmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,20,20-03,Pot Splashers,yudesh,h1vdt8ynmrp1z5vp,acjx0vg4mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,20,20-04,Berkshire’s Club,nhauptma,h2e8dn5dmrp1z5vp,2dxfjlk0mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,20,20-05,Up the Arse-nal,GVand35,ayk8m85amrp1z5vo,hpsurdtbmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,20,20-06,tpem,The Facerockers,w2mnqywumrp1z5vp,aup99ojzmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,21,21-01,epatel3,wmuck1 🤡,qwkltl98mrp1z5vp,61fz0pmkmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,21,21-02,KindComet 🤡,Pot Splashers,rx9bjhp3mrp1z5vo,h1vdt8ynmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,21,21-03,Robertske,Berkshire’s Club,cjn4stydmrp1z5vp,h2e8dn5dmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,21,21-04,yudesh,Up the Arse-nal,acjx0vg4mrp1z5vo,ayk8m85amrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,21,21-05,nhauptma,tpem,2dxfjlk0mrp1z5vo,w2mnqywumrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,21,21-06,GVand35,The Facerockers,hpsurdtbmrp1z5vo,aup99ojzmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,22,22-01,Pot Splashers,epatel3,h1vdt8ynmrp1z5vp,qwkltl98mrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,22,22-02,Berkshire’s Club,wmuck1 🤡,h2e8dn5dmrp1z5vp,61fz0pmkmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,22,22-03,Up the Arse-nal,KindComet 🤡,ayk8m85amrp1z5vo,rx9bjhp3mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,22,22-04,tpem,Robertske,w2mnqywumrp1z5vp,cjn4stydmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,22,22-05,The Facerockers,yudesh,aup99ojzmrp1z5vp,acjx0vg4mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,22,22-06,GVand35,nhauptma,hpsurdtbmrp1z5vo,2dxfjlk0mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,23,23-01,epatel3,Berkshire’s Club,qwkltl98mrp1z5vp,h2e8dn5dmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,23,23-02,Pot Splashers,Up the Arse-nal,h1vdt8ynmrp1z5vp,ayk8m85amrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,23,23-03,wmuck1 🤡,tpem,61fz0pmkmrp1z5vo,w2mnqywumrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,23,23-04,KindComet 🤡,The Facerockers,rx9bjhp3mrp1z5vo,aup99ojzmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,23,23-05,Robertske,GVand35,cjn4stydmrp1z5vp,hpsurdtbmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,23,23-06,yudesh,nhauptma,acjx0vg4mrp1z5vo,2dxfjlk0mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,24,24-01,Up the Arse-nal,epatel3,ayk8m85amrp1z5vo,qwkltl98mrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,24,24-02,tpem,Berkshire’s Club,w2mnqywumrp1z5vp,h2e8dn5dmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,24,24-03,The Facerockers,Pot Splashers,aup99ojzmrp1z5vp,h1vdt8ynmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,24,24-04,GVand35,wmuck1 🤡,hpsurdtbmrp1z5vo,61fz0pmkmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,24,24-05,nhauptma,KindComet 🤡,2dxfjlk0mrp1z5vo,rx9bjhp3mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,24,24-06,yudesh,Robertske,acjx0vg4mrp1z5vo,cjn4stydmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,25,25-01,epatel3,tpem,qwkltl98mrp1z5vp,w2mnqywumrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,25,25-02,Up the Arse-nal,The Facerockers,ayk8m85amrp1z5vo,aup99ojzmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,25,25-03,Berkshire’s Club,GVand35,h2e8dn5dmrp1z5vp,hpsurdtbmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,25,25-04,Pot Splashers,nhauptma,h1vdt8ynmrp1z5vp,2dxfjlk0mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,25,25-05,wmuck1 🤡,yudesh,61fz0pmkmrp1z5vo,acjx0vg4mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,25,25-06,KindComet 🤡,Robertske,rx9bjhp3mrp1z5vo,cjn4stydmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,26,26-01,The Facerockers,epatel3,aup99ojzmrp1z5vp,qwkltl98mrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,26,26-02,GVand35,tpem,hpsurdtbmrp1z5vo,w2mnqywumrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,26,26-03,nhauptma,Up the Arse-nal,2dxfjlk0mrp1z5vo,ayk8m85amrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,26,26-04,yudesh,Berkshire’s Club,acjx0vg4mrp1z5vo,h2e8dn5dmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,26,26-05,Robertske,Pot Splashers,cjn4stydmrp1z5vp,h1vdt8ynmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,26,26-06,KindComet 🤡,wmuck1 🤡,rx9bjhp3mrp1z5vo,61fz0pmkmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,27,27-01,epatel3,GVand35,qwkltl98mrp1z5vp,hpsurdtbmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,27,27-02,The Facerockers,nhauptma,aup99ojzmrp1z5vp,2dxfjlk0mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,27,27-03,tpem,yudesh,w2mnqywumrp1z5vp,acjx0vg4mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,27,27-04,Up the Arse-nal,Robertske,ayk8m85amrp1z5vo,cjn4stydmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,27,27-05,Berkshire’s Club,KindComet 🤡,h2e8dn5dmrp1z5vp,rx9bjhp3mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,27,27-06,Pot Splashers,wmuck1 🤡,h1vdt8ynmrp1z5vp,61fz0pmkmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,28,28-01,nhauptma,epatel3,2dxfjlk0mrp1z5vo,qwkltl98mrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,28,28-02,yudesh,GVand35,acjx0vg4mrp1z5vo,hpsurdtbmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,28,28-03,Robertske,The Facerockers,cjn4stydmrp1z5vp,aup99ojzmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,28,28-04,KindComet 🤡,tpem,rx9bjhp3mrp1z5vo,w2mnqywumrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,28,28-05,wmuck1 🤡,Up the Arse-nal,61fz0pmkmrp1z5vo,ayk8m85amrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,28,28-06,Pot Splashers,Berkshire’s Club,h1vdt8ynmrp1z5vp,h2e8dn5dmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,29,29-01,epatel3,yudesh,qwkltl98mrp1z5vp,acjx0vg4mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,29,29-02,nhauptma,Robertske,2dxfjlk0mrp1z5vo,cjn4stydmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,29,29-03,GVand35,KindComet 🤡,hpsurdtbmrp1z5vo,rx9bjhp3mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,29,29-04,The Facerockers,wmuck1 🤡,aup99ojzmrp1z5vp,61fz0pmkmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,29,29-05,tpem,Pot Splashers,w2mnqywumrp1z5vp,h1vdt8ynmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,29,29-06,Up the Arse-nal,Berkshire’s Club,ayk8m85amrp1z5vo,h2e8dn5dmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,30,30-01,Robertske,epatel3,cjn4stydmrp1z5vp,qwkltl98mrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,30,30-02,KindComet 🤡,yudesh,rx9bjhp3mrp1z5vo,acjx0vg4mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,30,30-03,wmuck1 🤡,nhauptma,61fz0pmkmrp1z5vo,2dxfjlk0mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,30,30-04,Pot Splashers,GVand35,h1vdt8ynmrp1z5vp,hpsurdtbmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,30,30-05,Berkshire’s Club,The Facerockers,h2e8dn5dmrp1z5vp,aup99ojzmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,30,30-06,Up the Arse-nal,tpem,ayk8m85amrp1z5vo,w2mnqywumrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,31,31-01,epatel3,KindComet 🤡,qwkltl98mrp1z5vp,rx9bjhp3mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,31,31-02,Robertske,wmuck1 🤡,cjn4stydmrp1z5vp,61fz0pmkmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,31,31-03,yudesh,Pot Splashers,acjx0vg4mrp1z5vo,h1vdt8ynmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,31,31-04,nhauptma,Berkshire’s Club,2dxfjlk0mrp1z5vo,h2e8dn5dmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,31,31-05,GVand35,Up the Arse-nal,hpsurdtbmrp1z5vo,ayk8m85amrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,31,31-06,The Facerockers,tpem,aup99ojzmrp1z5vp,w2mnqywumrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,32,32-01,wmuck1 🤡,epatel3,61fz0pmkmrp1z5vo,qwkltl98mrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,32,32-02,Pot Splashers,KindComet 🤡,h1vdt8ynmrp1z5vp,rx9bjhp3mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,32,32-03,Berkshire’s Club,Robertske,h2e8dn5dmrp1z5vp,cjn4stydmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,32,32-04,Up the Arse-nal,yudesh,ayk8m85amrp1z5vo,acjx0vg4mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,32,32-05,tpem,nhauptma,w2mnqywumrp1z5vp,2dxfjlk0mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,32,32-06,The Facerockers,GVand35,aup99ojzmrp1z5vp,hpsurdtbmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,33,33-01,epatel3,Pot Splashers,qwkltl98mrp1z5vp,h1vdt8ynmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,33,33-02,wmuck1 🤡,Berkshire’s Club,61fz0pmkmrp1z5vo,h2e8dn5dmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,33,33-03,KindComet 🤡,Up the Arse-nal,rx9bjhp3mrp1z5vo,ayk8m85amrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,33,33-04,Robertske,tpem,cjn4stydmrp1z5vp,w2mnqywumrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,33,33-05,yudesh,The Facerockers,acjx0vg4mrp1z5vo,aup99ojzmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,33,33-06,nhauptma,GVand35,2dxfjlk0mrp1z5vo,hpsurdtbmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,34,34-01,Berkshire’s Club,epatel3,h2e8dn5dmrp1z5vp,qwkltl98mrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,34,34-02,Up the Arse-nal,Pot Splashers,ayk8m85amrp1z5vo,h1vdt8ynmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,34,34-03,tpem,wmuck1 🤡,w2mnqywumrp1z5vp,61fz0pmkmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,34,34-04,The Facerockers,KindComet 🤡,aup99ojzmrp1z5vp,rx9bjhp3mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,34,34-05,GVand35,Robertske,hpsurdtbmrp1z5vo,cjn4stydmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,34,34-06,nhauptma,yudesh,2dxfjlk0mrp1z5vo,acjx0vg4mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,35,35-01,epatel3,Up the Arse-nal,qwkltl98mrp1z5vp,ayk8m85amrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,35,35-02,Berkshire’s Club,tpem,h2e8dn5dmrp1z5vp,w2mnqywumrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,35,35-03,Pot Splashers,The Facerockers,h1vdt8ynmrp1z5vp,aup99ojzmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,35,35-04,wmuck1 🤡,GVand35,61fz0pmkmrp1z5vo,hpsurdtbmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,35,35-05,KindComet 🤡,nhauptma,rx9bjhp3mrp1z5vo,2dxfjlk0mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,35,35-06,Robertske,yudesh,cjn4stydmrp1z5vp,acjx0vg4mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,36,36-01,tpem,epatel3,w2mnqywumrp1z5vp,qwkltl98mrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,36,36-02,The Facerockers,Up the Arse-nal,aup99ojzmrp1z5vp,ayk8m85amrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,36,36-03,GVand35,Berkshire’s Club,hpsurdtbmrp1z5vo,h2e8dn5dmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,36,36-04,nhauptma,Pot Splashers,2dxfjlk0mrp1z5vo,h1vdt8ynmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,36,36-05,yudesh,wmuck1 🤡,acjx0vg4mrp1z5vo,61fz0pmkmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,36,36-06,Robertske,KindComet 🤡,cjn4stydmrp1z5vp,rx9bjhp3mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,37,37-01,epatel3,The Facerockers,qwkltl98mrp1z5vp,aup99ojzmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,37,37-02,tpem,GVand35,w2mnqywumrp1z5vp,hpsurdtbmrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,37,37-03,Up the Arse-nal,nhauptma,ayk8m85amrp1z5vo,2dxfjlk0mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,37,37-04,Berkshire’s Club,yudesh,h2e8dn5dmrp1z5vp,acjx0vg4mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,37,37-05,Pot Splashers,Robertske,h1vdt8ynmrp1z5vp,cjn4stydmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,37,37-06,wmuck1 🤡,KindComet 🤡,61fz0pmkmrp1z5vo,rx9bjhp3mrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,38,38-01,GVand35,epatel3,hpsurdtbmrp1z5vo,qwkltl98mrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,38,38-02,nhauptma,The Facerockers,2dxfjlk0mrp1z5vo,aup99ojzmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,38,38-03,yudesh,tpem,acjx0vg4mrp1z5vo,w2mnqywumrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,38,38-04,Robertske,Up the Arse-nal,cjn4stydmrp1z5vp,ayk8m85amrp1z5vo,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,38,38-05,KindComet 🤡,Berkshire’s Club,rx9bjhp3mrp1z5vo,h2e8dn5dmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
+2627,38,38-06,wmuck1 🤡,Pot Splashers,61fz0pmkmrp1z5vo,h1vdt8ynmrp1z5vp,,,,,scheduled,Fantrax getLeagueInfo,2026-09-01T00:13:02.995263+00:00,2026-09-01T00:13:02.995263+00:00
