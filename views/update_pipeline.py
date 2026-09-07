@@ -11,7 +11,7 @@ from core.models.operation_result import OperationResult
 from core.services.data_manager import DataManager, DatasetNotFoundError, DatasetValidationError, UnsupportedFormatError
 from core.services.operations_service import OperationNotAllowedError, OperationParameterError, OperationsService
 from core.services.season_manager import SeasonManager
-from core.services.refresh_status import derive_refresh_status
+from core.services.refresh_status import derive_refresh_status, published_period_progress
 from core.services.core_refresh import CoreRefreshResult, run_core_refresh
 from core.services.smart_refresh import DESKTOP_COMMAND, SmartRefreshResult, run_smart_refresh
 from fantrax.live.season_state import live_period_phase,resolve_scoring_period_state
@@ -37,7 +37,7 @@ def _render_live(ui:Any,operations:OperationsService,data:DataManager,season_id:
     advanced_status=_load_optional_json(data,"weekly_advanced_refresh_latest",season_id,namespace,ui)
     datasets=manifest.get("datasets",[]) if manifest else []; by_key={item.get("dataset_key"):item for item in datasets}
     scoring_periods=_load_optional_frame(data,"scoring_periods",season_id,namespace,ui);period_state=resolve_scoring_period_state(scoring_periods)
-    team_matches=_load_optional_frame(data,"team_matches",season_id,namespace,ui);period_progress=live_period_phase(team_matches,period_state.current_period)
+    team_matches=_load_optional_frame(data,"team_matches",season_id,namespace,ui);period_progress=published_period_progress(team_matches,period_state.current_period,_load_optional_frame(data,"whoscored_match",season_id,namespace,ui))
     healthy=bool(datasets) and all(item.get("validation_result")=="valid" for item in datasets)
     cards=ui.columns(4)
     values=(("Season","2026/27 Live","Active league","blue"),("Last Successful Build",_friendly_time(manifest.get("build_timestamp") if manifest else None),"Validated cached datasets","green"),("League Status","Healthy" if healthy else "Needs Refresh","Registered data checks","green" if healthy else "gold"),("Current Period",f"GW{period_state.current_period}" if period_state.current_period else "—",period_state.source.replace("_"," ").title(),"blue"))
@@ -55,7 +55,7 @@ def _render_live(ui:Any,operations:OperationsService,data:DataManager,season_id:
     section_header(ui,"Provider Lifecycle","Correction-aware current-season evidence")
     maturity=period_state.current_status if hasattr(period_state,"current_status") else period_progress['state']
     ui.write(f"Fantrax GW{period_state.current_period or 'â€”'}: {str(maturity).replace('_',' ')} · explicit commissioner finalization required")
-    ui.caption("WhoScored 10/10 · preliminary/stable rechecks are cache-first · Understat 10/10 · SOT monitoring · clearances caveated · fantasy assists source-specific")
+    ui.caption("WhoScored coverage above · preliminary/stable rechecks are cache-first · Understat coverage above · SOT monitoring · clearances caveated · fantasy assists source-specific")
 
     section_header(ui,"Smart Refresh","Updates everything available from validated caches and identifies desktop-only acquisition.")
     if ui.button("SMART REFRESH",type="primary",use_container_width=True): _smart_refresh(ui,operations,season_id)

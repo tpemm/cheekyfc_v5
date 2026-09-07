@@ -732,7 +732,16 @@ class DataManager:
 
         started = time.perf_counter()
         try:
-            data = self._parse(path, suffix, options)
+            parse_options = options
+            if definition.key == "league_active_player_weekly" and suffix == ".csv":
+                # Published canonical CSV: use the Python CSV parser consistently
+                # across hosted/local pandas builds; preserve identifier strings.
+                parse_options = dict(options or {})
+                csv_options = dict(parse_options.get("csv", {}))
+                csv_options.setdefault("engine", "python")
+                csv_options.setdefault("dtype", {"manager_id": str, "fantrax_player_id": str})
+                parse_options["csv"] = csv_options
+            data = self._parse(path, suffix, parse_options)
         except (ArtifactAccessError, PermissionError):
             raise
         except Exception as exc:
@@ -741,7 +750,7 @@ class DataManager:
                 extra={"dataset_key": definition.key, "suffix": suffix},
             )
             raise DatasetValidationError(
-                f"Could not parse dataset {definition.key!r}: {path}"
+                f"Could not parse dataset {definition.key!r}: {path} ({type(exc).__name__}: {exc})"
             ) from exc
 
         validation_errors = self._validation_errors(definition, data)
