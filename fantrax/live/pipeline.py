@@ -43,7 +43,7 @@ from fantrax.live.understat_live import (
 from fantrax.live.weekly_acquisition import weekly_period_status
 from fantrax.live.season_state import resolve_scoring_period_state
 from fantrax.live.matchup_acquisition import three_way_reconciliation
-from fantrax.live.league_lineups import active_player_weekly,completed_whoscored_periods,enrich_manager_weeks
+from fantrax.live.league_lineups import active_player_weekly,completed_whoscored_periods,manager_performance_weeks
 from fantrax.live.manager_name_history import update_manager_name_history
 
 
@@ -348,7 +348,7 @@ def build_live_season(config:LiveSeasonConfig|None=None,*,registry_path:Path|Non
     completed_mask=pd.to_numeric(matchups.get("period"),errors="coerce").isin(completed_periods)&matchups.get("home_score",pd.Series(index=matchups.index,dtype=float)).notna()&matchups.get("away_score",pd.Series(index=matchups.index,dtype=float)).notna()
     matchups.loc[completed_mask,"status"]="completed";matchups.loc[completed_mask,"winner"]=matchups.loc[completed_mask].apply(lambda row:"TIE" if row.home_score==row.away_score else row.home_manager if row.home_score>row.away_score else row.away_manager,axis=1)
     manager_week=_manager_week_summary(matchups,standings,teams,now,league_payload)
-    manager_week=enrich_manager_weeks(manager_week,current_weekly,completed_periods)
+    manager_week=manager_performance_weeks(manager_week,current_weekly)
     active_weekly=active_player_weekly(current_weekly,completed_periods)
     current_totals,_=aggregate_player_window(current_weekly,"Season",include_partial=True)
     if not current_totals.empty:

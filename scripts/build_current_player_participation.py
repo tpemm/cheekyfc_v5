@@ -6,7 +6,7 @@ from pathlib import Path
 import pandas as pd
 
 ROOT = Path(__file__).resolve().parents[1]; sys.path.insert(0, str(ROOT))
-from fantrax.live.player_participation import add_canonical_rates, build_player_match_participation, overlay_weekly_participation
+from fantrax.live.player_participation import starter_observation_rates, add_canonical_rates, build_player_match_participation, overlay_weekly_participation
 from fantrax.live.ghost import derive_return_ghost
 from fantrax.analytics.core.fantrax_scoring import effective_rules, get_rule, score_stat
 from fantrax.analytics.core.scoring_engine import parse_eligible_positions
@@ -100,6 +100,7 @@ def main(season="2627"):
         blank=pd.DataFrame({"fantrax_player_id":missing.fantrax_player_id.astype(str),"player_name":missing.player_name,"club":missing.club,"fantrax_position":missing.fantrax_position,"current_manager_name":missing.current_manager_name,"games_played":0,"starts":0,"minutes":0})
         totals=pd.concat([totals,blank],ignore_index=True)
     totals=add_canonical_rates(totals,("fantasy_points","ghost_points","goals","assists","clean_sheets","key_passes","shots_on_target","successful_dribbles","tackles_won","interceptions","clearances","aerial_wins","accurate_crosses","xg","xa","xgi"))
+    totals=starter_observation_rates(totals,log)
     totals["start_percentage"]=numeric(totals,"starts")*100/numeric(totals,"games_played").where(numeric(totals,"games_played").gt(0))
     atomic_csv(totals,model/f"current_player_season_summary_{season}.csv")
     rate_quality=totals[["fantrax_player_id","player_name","games_played","starts","minutes","fantasy_points","fantasy_points_per_game","fantasy_points_per_start","fantasy_points_per_90","ghost_points","ghost_points_per_game","ghost_points_per_start","ghost_points_per_90"]]

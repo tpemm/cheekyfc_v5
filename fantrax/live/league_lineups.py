@@ -91,3 +91,12 @@ def enrich_manager_weeks(weeks:pd.DataFrame,weekly:pd.DataFrame,completed_period
                 prior=active_sets.get((previous,str(manager_id)),set())
                 out.loc[mask,"lineup_changes"]=len(active_sets[(period,str(manager_id))]-prior)
     return out
+
+
+def manager_performance_weeks(weeks:pd.DataFrame,weekly:pd.DataFrame)->pd.DataFrame:
+    """Use the Hub's included result weeks with the established lineup methodology."""
+    from fantrax.live.league_analytics import completed_manager_weeks
+    included=completed_manager_weeks(weeks)
+    if included.empty or weekly.empty:return weeks.copy()
+    periods=set(included.period.dropna().astype(int))
+    return enrich_manager_weeks(weeks,weekly,periods)

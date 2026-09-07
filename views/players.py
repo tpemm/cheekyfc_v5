@@ -602,7 +602,7 @@ def render(season_id: str, *, data_manager: DataManager | None = None, season_ma
         window_label="No completed scoring periods"
     else:
         window=ui.selectbox("Performance window",["Season","Last 3","Last 5","Last 10"],key="live_player_window"); frame,window_label=apply_live_window(frame,weekly,window); ui.caption(f"Current performance coverage: {window_label}")
-    if not summary.empty:frame=overlay_current_summary(frame,summary)
+    if not summary.empty:frame=overlay_current_summary(frame,summary,match_log)
     if not ownership.empty:frame=overlay_current_ownership(frame,ownership)
     if not historical_profile.empty:frame=overlay_historical_advanced(frame,historical_profile)
     state=getattr(ui,"session_state",st.session_state)

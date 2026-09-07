@@ -144,7 +144,8 @@ def compact_league_table(summary:pd.DataFrame,weeks:pd.DataFrame)->pd.DataFrame:
         periods=own["period"].nunique() if not own.empty else 0
         ghost=pd.to_numeric(own.get("ghost_points"),errors="coerce") if "ghost_points" in own else pd.Series(dtype=float);ghost_rate=ghost.sum()/periods if periods and len(ghost)==len(own) and ghost.notna().all() else pd.NA
         efficiency=pd.to_numeric(own.get("lineup_efficiency_pct"),errors="coerce").mean() if "lineup_efficiency_pct" in own and own["lineup_efficiency_pct"].notna().all() and not own.empty else pd.NA
-        changes=pd.to_numeric(own.get("lineup_changes"),errors="coerce").sum() if "lineup_changes" in own and own["lineup_changes"].notna().all() and not own.empty else pd.NA
+        transitions=own.sort_values("period").iloc[1:] if not own.empty else own
+        changes=pd.to_numeric(transitions["lineup_changes"],errors="coerce").sum() if "lineup_changes" in transitions and not transitions.empty and transitions["lineup_changes"].notna().all() else pd.NA
         def count(key:str)->int:
             value=pd.to_numeric(manager.get(key),errors="coerce");return 0 if pd.isna(value) else int(value)
         record=f"{count('wins')}-{count('draws')}-{count('losses')}"

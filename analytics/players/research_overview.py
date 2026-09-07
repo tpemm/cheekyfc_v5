@@ -74,10 +74,12 @@ SUMMARY_ALIASES["aerial_wins"]="current_aerials_won"
 for _suffix in ("per_game","per_start","per_90"):SUMMARY_ALIASES[f"aerial_wins_{_suffix}"]=f"current_aerials_won_{_suffix}"
 
 
-def overlay_current_summary(frame:pd.DataFrame,summary:pd.DataFrame)->pd.DataFrame:
+def overlay_current_summary(frame:pd.DataFrame,summary:pd.DataFrame,observations:pd.DataFrame|None=None)->pd.DataFrame:
     """Promote the canonical 9.8A summary without historical or projection fallback."""
     if frame.empty or summary.empty:return frame.copy()
-    source=summary.copy();source["fantrax_player_id"]=source.fantrax_player_id.astype(str)
+    from fantrax.live.player_participation import starter_observation_rates
+    source=starter_observation_rates(summary,observations) if observations is not None else summary.copy()
+    source["fantrax_player_id"]=source.fantrax_player_id.astype(str)
     keep=["fantrax_player_id",*[c for c in SUMMARY_ALIASES if c in source]]
     overlay=source[keep].rename(columns=SUMMARY_ALIASES)
     base=frame.drop(columns=[c for c in overlay if c!="fantrax_player_id" and c in frame],errors="ignore")

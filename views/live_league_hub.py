@@ -13,10 +13,31 @@ from fantrax.live.league_analytics import (
     build_live_league_summary,compact_league_table,jester_history,
     configured_manager_of_month,league_highlights,manager_active_season_totals,manager_award_leaderboards,scoring_frames,
 )
+from fantrax.live.league_lineups import manager_performance_weeks
 from fantrax.live.manager_name_history import resolve_current_manager_names
 
-LIVE_DATASET_KEYS=("league_teams","league_standings","weekly_matchups","manager_week_summary","cup_configuration","cup_matchups","league_active_player_weekly")
+LIVE_DATASET_KEYS=("league_teams","league_standings","weekly_matchups","manager_week_summary","cup_configuration","cup_matchups","league_active_player_weekly","current_player_weekly")
 HEADLINE_CARD_CSS="""<style>.hub-headline-card{min-height:112px;height:100%;display:flex;flex-direction:column;justify-content:flex-start}.hub-headline-card .ft-kpi-value{font-size:1.15rem}.hub-leaderboard{min-height:165px}.hub-leader-row{display:grid;grid-template-columns:1.2rem 1fr auto;gap:.35rem;padding:.3rem 0;border-bottom:1px solid var(--ft-border);font-size:.78rem}.hub-leader-row:first-of-type{font-weight:800}</style>"""
+
+def movement_style(value:Any)->str:
+    text=str(value)
+    if text.startswith("\u25b2"):return "color: #16a34a; font-weight: 700"
+    if text.startswith("\u25bc"):return "color: #dc2626; font-weight: 700"
+    return ""
+
+
+def form_presentation(value:Any)->str:
+    if pd.isna(value):return ""
+    colors={"W":"\U0001f7e2", "L":"\U0001f534", "D":"\U0001f7e1", "T":"\U0001f7e1"}
+    return " ".join(f"{colors[token]} {token}" if token in colors else token for token in str(value).split())
+
+
+def style_league_table(table:pd.DataFrame):
+    # Streamlit tables cannot color characters within a cell; retain each letter
+    # with its colored result marker without changing the table layout.
+    shown=table.copy();shown["Form"]=shown.Form.map(form_presentation)
+    return shown.style.map(movement_style,subset=["Movement"])
+
 
 def _load(data:DataManager,key:str,season_id:str,namespace:str,ui:Any)->pd.DataFrame:
     try:result=data.load_frame(key,season_id,namespace)
@@ -63,7 +84,7 @@ def render(season_id:str,*,data_manager:DataManager|None=None,season_manager:Sea
     ui.markdown(SHARED_COMPONENT_CSS+HEADLINE_CARD_CSS,unsafe_allow_html=True);page_header(ui,"League Hub",badge="2026/27 \u00b7 Live")
     frames={key:_load(data,key,season_id,namespace,ui) for key in LIVE_DATASET_KEYS}
     if frames["league_standings"].empty and frames["league_teams"].empty:ui.info("Live league data is not available yet.");return
-    weeks=resolve_current_manager_names(frames["manager_week_summary"],frames["league_teams"])
+    weeks=manager_performance_weeks(resolve_current_manager_names(frames["manager_week_summary"],frames["league_teams"]),frames["current_player_weekly"])
     current_names=dict(zip(frames["league_teams"].fantasy_team_id.astype(str),frames["league_teams"].fantasy_team_name.astype(str))) if not frames["league_teams"].empty else {}
     for side in ("home","away"):
         frames["weekly_matchups"][f"{side}_manager"]=frames["weekly_matchups"][f"{side}_team_id"].astype(str).map(current_names).fillna(frames["weekly_matchups"][f"{side}_manager"])
@@ -80,7 +101,7 @@ def render(season_id:str,*,data_manager:DataManager|None=None,season_manager:Sea
     cards=ui.columns(4,gap="small")
     for column,item in zip(cards,(("Latest Jester",latest_value,latest_detail),("Jester Leader",leader_value,leader_detail),(motm_label,motm_value,motm_detail),("Cup Status",cup_value,cup_detail))):
         with column:_headline(ui,*item)
-    section_header(ui,"League Table");table=compact_league_table(model["summary"],weeks);ui.dataframe(table,use_container_width=True,hide_index=True,height=38+35*len(table))
+    section_header(ui,"League Table");table=compact_league_table(model["summary"],weeks);ui.dataframe(style_league_table(table),use_container_width=True,hide_index=True,height=38+35*len(table))
     current_period=int(pd.to_numeric(weeks.get("period"),errors="coerce").max()) if not weeks.empty else None
     current_matchups=frames["weekly_matchups"][pd.to_numeric(frames["weekly_matchups"].get("period"),errors="coerce").eq(current_period)].copy() if current_period else pd.DataFrame()
     completed=not current_matchups.empty and current_matchups.get("status",pd.Series(index=current_matchups.index,dtype=object)).astype(str).str.lower().isin({"completed","complete","final"}).all()

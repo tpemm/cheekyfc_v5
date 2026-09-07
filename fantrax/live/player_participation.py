@@ -23,6 +23,30 @@ def add_canonical_rates(frame: pd.DataFrame, metrics: tuple[str, ...]) -> pd.Dat
     return out
 
 
+def starter_observation_rates(summary:pd.DataFrame,observations:pd.DataFrame)->pd.DataFrame:
+    """Replace per-start rates using only explicit canonical starter observations."""
+    out=summary.copy()
+    rates=[c for c in out if c.endswith("_per_start")]
+    if not rates:return out
+    if observations.empty or not {"fantrax_player_id","started"}.issubset(observations):
+        out[rates]=float("nan")
+        return out
+    starts=observations[observations.started.eq(True)].copy()
+    starts["fantrax_player_id"]=starts.fantrax_player_id.astype(str)
+    groups=starts.groupby("fantrax_player_id")
+    counts=groups.size()
+    for rate in rates:
+        metric=rate.removesuffix("_per_start")
+        source="fantrax_points" if metric=="fantasy_points" else metric
+        if source not in starts:
+            out[rate]=float("nan");continue
+        values=pd.to_numeric(starts[source],errors="coerce")
+        sums=values.groupby(starts.fantrax_player_id).sum(min_count=1)
+        complete=values.groupby(starts.fantrax_player_id).count().eq(counts)
+        out[rate]=out.fantrax_player_id.astype(str).map((sums/counts).where(complete))
+    return out
+
+
 def _num(frame: pd.DataFrame, column: str) -> pd.Series:
     return pd.to_numeric(frame.get(column, pd.Series(index=frame.index, dtype=float)), errors="coerce")
 
