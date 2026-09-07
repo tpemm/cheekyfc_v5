@@ -11,7 +11,7 @@ def run_page(page):
 def test_update_pipeline_apptest():
     app=run_page("Operations Center")
     assert not app.exception
-    assert any("Refresh League" in item.value for item in app.markdown)
+    assert any("Smart Refresh" in item.value for item in app.markdown)
     rendered=" ".join(item.value for item in app.markdown)
     assert "Current Period" in rendered and re.search(r"Current Period.*?GW\d+",rendered) and "GW38" not in rendered
     assert any({"Status","Area","Last Update","Rows","Version"}.issubset(item.value.columns) for item in app.dataframe)

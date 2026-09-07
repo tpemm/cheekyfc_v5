@@ -221,6 +221,12 @@ DEFAULT_OPERATIONS: tuple[_RegisteredOperation, ...] = (
     ),
     _RegisteredOperation(
         definition=OperationDefinition(
+            key="rebuild_current_cached_products", label="Rebuild Current Cached Products",
+            description="Rebuild current player, League Hub, team, Fantasy Allowed, and tactical products from valid caches without acquisition.", capability="build_master",
+        ), script_relative_path="scripts/rebuild_current_cached_products.py", input_builder=_no_input,
+    ),
+    _RegisteredOperation(
+        definition=OperationDefinition(
             key="build_roster_tracking", label="Build Roster Tracking",
             description="Build immutable roster snapshots, changes, history, ownership, and quality reports from cache.", capability="build_master",
         ), script_relative_path="scripts/build_live_season.py", input_builder=_no_input,

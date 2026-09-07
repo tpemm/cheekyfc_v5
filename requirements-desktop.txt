@@ -1,0 +1,3 @@
+-r requirements.txt
+-r requirements_football_data.txt
+playwright

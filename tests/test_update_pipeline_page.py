@@ -3,6 +3,7 @@ from pathlib import Path
 from types import SimpleNamespace
 
 import pytest
+import views.update_pipeline as update_pipeline
 
 from core.models.data_result import DataProvenance, DataResult, DataStatus
 from core.models.operation_result import OperationResult
@@ -228,29 +229,16 @@ def test_working_page_renders_operations_center_and_quick_actions():
     )
     assert "Operations Center" in "\n".join(ui.markdowns)
     assert [button[0] for button in ui.buttons] == [
-        "Refresh League",
-        "Refresh Standings",
-        "Refresh Rosters",
-        "Refresh Players",
-        "Refresh Managers",
-        "Validate Ownership",
-            "Rebuild Analytics",
+        "SMART REFRESH",
             "Initialize Cup",
             "Build Cup Bracket",
             "Rebuild Cup",
-                "Validate Cup",
-                "Backfill Weekly Player Stats",
-                "Force Refresh Current Period",
-                "Validate Player Performance",
-                "Refresh League Metadata",
-        "Build Roster Tracking",
-        "Legacy Refresh Tools",
-        "Legacy Analytics Rebuild",
+            "Validate Cup",
     ]
     assert operations.run_calls == []
 
 
-def test_unavailable_operations_disable_both_buttons():
+def test_unavailable_operations_leave_smart_planner_available():
     ui = FakeUI()
     render(
         "2627",
@@ -259,61 +247,14 @@ def test_unavailable_operations_disable_both_buttons():
         operations_service=FakeOperationsService(available=False),
         ui=ui,
     )
-    assert all(button[1]["disabled"] for button in ui.buttons)
+    assert "disabled" not in ui.buttons[0][1]
+    assert all(button[1]["disabled"] for button in ui.buttons[1:])
 
 
-def test_refresh_league_runs_explicit_core_stages_with_progress():
-    ui = FakeUI(values={"Refresh League": True})
-    operations = FakeOperationsService(
-        results=[
-            operation_result("refresh_live_league_metadata"),
-            operation_result("refresh_live_standings"),
-            operation_result("refresh_live_rosters"),
-            operation_result("build_live_season_datasets"),
-        ]
-    )
-    render(
-        "2627",
-        data_manager=FakeDataManager(),
-        season_manager=FakeSeasonManager(),
-        operations_service=operations,
-        ui=ui,
-    )
-    assert operations.run_calls == [("refresh_live_league_metadata","2627",{}),("refresh_live_standings","2627",{}),("refresh_live_rosters","2627",{}),("build_live_season_datasets","2627",{})]
-    assert ui.progress_values[0][1]=="Connecting to Fantrax" and ui.progress_values[-1]==(100,"Success")
-    assert ui.successes == ["Refresh completed successfully"]
-
-
-def test_failed_refresh_does_not_chain_or_show_stack_trace():
-    ui = FakeUI(values={"Refresh League": True})
-    operations = FakeOperationsService(
-        results=[
-            operation_result(
-                "refresh_live_league_metadata",
-                success=False,
-                stdout="partial",
-                stderr="failure",
-            )
-        ]
-    )
-    render(
-        "2627",
-        data_manager=FakeDataManager(),
-        season_manager=FakeSeasonManager(),
-        operations_service=operations,
-        ui=ui,
-    )
-    assert len(operations.run_calls) == 1
-    assert ui.text_areas == []
-    assert ui.errors == ["Refresh failed at a required stage. Previous validated data was retained."]
-    technical=ui.session_state["_operations_activity"][0]["_technical"]
-    assert technical["operation_name"]=="refresh_live_league_metadata"
-    assert technical["stdout"]=="partial" and technical["stderr"]=="failure"
-    assert technical["failed_stage"]=="unknown"
-
-
-def test_rebuild_analytics_quick_action_uses_live_build():
-    ui = FakeUI(values={"Rebuild Analytics": True})
+def test_smart_refresh_handles_desktop_required_cleanly(monkeypatch):
+    ui = FakeUI(values={"SMART REFRESH": True})
+    plan=SimpleNamespace(current_gw=3,previous_gw=2,current_gw_status="ACTIVE",previous_gw_status="AWAITING_STABILITY",fantrax=SimpleNamespace(status="DESKTOP_REQUIRED"),whoscored=SimpleNamespace(status="CACHE_HIT"),understat=SimpleNamespace(status="CACHE_HIT"))
+    monkeypatch.setattr(update_pipeline,"run_smart_refresh",lambda operations,season:SimpleNamespace(status="DESKTOP_REQUIRED",final_plan=plan))
     operations = FakeOperationsService()
     render(
         "2627",
@@ -322,16 +263,31 @@ def test_rebuild_analytics_quick_action_uses_live_build():
         operations_service=operations,
         ui=ui,
     )
-    assert operations.run_calls == [
-        ("build_live_season_datasets", "2627", {})
-    ]
-    assert ui.successes == ["Refresh completed successfully"]
+    assert operations.run_calls == []
+    assert "DESKTOP DATA REQUIRED" in ui.warnings
+    assert ("python scripts/refresh_desktop_sources.py",{"language":"text"}) in ui.codes
+
+
+def test_smart_refresh_completes_when_inputs_exist(monkeypatch):
+    ui = FakeUI(values={"SMART REFRESH": True})
+    plan=SimpleNamespace(current_gw=3,previous_gw=2,current_gw_status="COMPLETE_PENDING_CORRECTIONS",previous_gw_status="FINALIZED",fantrax=SimpleNamespace(status="CACHE_HIT"),whoscored=SimpleNamespace(status="NO_ACTION_REQUIRED"),understat=SimpleNamespace(status="CACHE_HIT"))
+    monkeypatch.setattr(update_pipeline,"run_smart_refresh",lambda operations,season:SimpleNamespace(status="PASS",final_plan=plan))
+    operations = FakeOperationsService()
+    render(
+        "2627",
+        data_manager=FakeDataManager(),
+        season_manager=FakeSeasonManager(),
+        operations_service=operations,
+        ui=ui,
+    )
+    assert ui.successes == ["REFRESH COMPLETE"]
+    assert ui.cache_data.clears == 1
 
 
 def test_running_state_prevents_duplicate_execution():
     ui = FakeUI(
-        values={"Refresh League": True},
-        session_state={"_operation_running_refresh_live_fantrax_sources": True},
+        values={"SMART REFRESH": True},
+        session_state={"_operation_running_smart_refresh": True},
     )
     operations = FakeOperationsService()
     render(

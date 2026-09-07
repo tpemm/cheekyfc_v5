@@ -13,6 +13,7 @@ from core.services.operations_service import OperationNotAllowedError, Operation
 from core.services.season_manager import SeasonManager
 from core.services.refresh_status import derive_refresh_status
 from core.services.core_refresh import CoreRefreshResult, run_core_refresh
+from core.services.smart_refresh import DESKTOP_COMMAND, SmartRefreshResult, run_smart_refresh
 from fantrax.live.season_state import live_period_phase,resolve_scoring_period_state
 
 REFRESH_OPERATION="refresh_fantrax_data"
@@ -50,15 +51,14 @@ def _render_live(ui:Any,operations:OperationsService,data:DataManager,season_id:
         acquired=advanced_status.get('stable',0)+advanced_status.get('preliminary',0);eligible=acquired+advanced_status.get('missing_eligible',0)
         ui.write(f"Eligible completed: {eligible} · Acquired: {acquired} · Missing eligible: {advanced_status.get('missing_eligible',0)} · Stable: {advanced_status.get('stable',0)} · Preliminary: {advanced_status.get('preliminary',0)} · Provider IDs resolved: {advanced_status.get('provider_ids_resolved',0)}")
     else:ui.caption("No current-season advanced plan has been recorded.")
-    ui.code("python scripts\\weekly_advanced_refresh.py --season 2627 --session-backed",language="text")
+    ui.code(DESKTOP_COMMAND,language="text")
     section_header(ui,"Provider Lifecycle","Correction-aware current-season evidence")
     maturity=period_state.current_status if hasattr(period_state,"current_status") else period_progress['state']
     ui.write(f"Fantrax GW{period_state.current_period or 'â€”'}: {str(maturity).replace('_',' ')} · explicit commissioner finalization required")
     ui.caption("WhoScored 10/10 · preliminary/stable rechecks are cache-first · Understat 10/10 · SOT monitoring · clearances caveated · fantasy assists source-specific")
 
-    section_header(ui,"Refresh League","Downloads the newest Fantrax information and updates the live league.")
-    available=operations.can_run(LIVE_REFRESH_OPERATION,season_id) and operations.can_run(LIVE_BUILD_OPERATION,season_id)
-    if ui.button("Refresh League",type="primary",disabled=not available,use_container_width=True): _refresh_league(ui,operations,season_id)
+    section_header(ui,"Smart Refresh","Updates everything available from validated caches and identifies desktop-only acquisition.")
+    if ui.button("SMART REFRESH",type="primary",use_container_width=True): _smart_refresh(ui,operations,season_id)
 
     section_header(ui,"Status","The datasets that power each live feature.")
     groups={"Standings":("league_standings",),"Players":("player_ownership",),"Rosters":("current_rosters",),"Managers":("league_teams","manager_week_summary"),"Analytics":("weekly_matchups","manager_week_summary"),"Ownership":("player_ownership","roster_history"),"Draft HQ":("draft_rankings",)}
@@ -68,15 +68,6 @@ def _render_live(ui:Any,operations:OperationsService,data:DataManager,season_id:
         timestamp=max((item.get("build_timestamp") or item.get("source_timestamp") or "" for item in items),default="")
         rows.append({"Status":"✓" if valid else "—","Area":label,"Last Update":_friendly_time(timestamp),"Rows":sum(int(item.get("row_count") or 0) for item in items) if items else "—","Version":next((str(item.get("sha256",""))[:10] for item in items if item.get("sha256")),"—")})
     ui.dataframe(rows,use_container_width=True,hide_index=True)
-
-    section_header(ui,"Quick Actions","Targeted maintenance using registered operations.")
-    actions=(("Refresh Standings","refresh_live_standings"),("Refresh Rosters","refresh_live_rosters"),("Refresh Players",LIVE_BUILD_OPERATION),("Refresh Managers",LIVE_BUILD_OPERATION),("Validate Ownership","validate_roster_ownership"),("Rebuild Analytics",LIVE_BUILD_OPERATION))
-    results=[]; columns=ui.columns(3)
-    for index,(label,operation) in enumerate(actions):
-        if columns[index%3].button(label,disabled=not operations.can_run(operation,season_id),use_container_width=True):
-            result=_run_once(ui,operations,operation,season_id,{},f"{label}…")
-            if result: results.append(result); _record_activity(ui,label,result)
-    if results: _show_result(ui,results)
 
     section_header(ui,"Recent Activity","Latest actions from this browser session.")
     activity=ui.session_state.get("_operations_activity",[])
@@ -103,15 +94,7 @@ def _render_live(ui:Any,operations:OperationsService,data:DataManager,season_id:
             if result: _record_activity(ui,label,result); _show_result(ui,[result])
 
     with ui.expander("Advanced",expanded=False):
-        ui.write("Dataset validation, registry tools, diagnostics, manifests, checksum reports, and developer rebuilds.")
-        for label,operation in (("Backfill Weekly Player Stats","backfill_live_weekly_stats"),("Force Refresh Current Period","force_refresh_live_weekly_stats"),("Validate Player Performance",LIVE_BUILD_OPERATION)):
-            if ui.button(label,key=f"advanced_{operation}",disabled=not operations.can_run(operation,season_id),use_container_width=True):
-                result=_run_once(ui,operations,operation,season_id,{},f"{label}â€¦")
-                if result: _record_activity(ui,label,result); _show_result(ui,[result])
-        for label,operation in (("Refresh League Metadata","refresh_live_league_metadata"),("Build Roster Tracking","build_roster_tracking"),("Legacy Refresh Tools",REFRESH_OPERATION),("Legacy Analytics Rebuild",ANALYTICS_OPERATION)):
-            if ui.button(label,disabled=not operations.can_run(operation,season_id),use_container_width=True):
-                result=_run_once(ui,operations,operation,season_id,{},f"{label}…")
-                if result: _record_activity(ui,label,result); _show_result(ui,[result])
+        ui.write("Read-only diagnostics, manifests, and source coverage.")
         with ui.expander("Diagnostics"): ui.json({"health":"healthy" if healthy else "review","datasets":len(datasets),"current_period":period_state.current_period,"latest_completed_period":period_state.latest_completed_period,"period_source":period_state.source})
         with ui.expander("View Source Coverage"): ui.write("Player and stat coverage is refreshed in data/quality/season_2627 after every live build.")
         with ui.expander("Manifest and checksum tools"): ui.json(manifest or {"status":"No manifest available"})
@@ -121,7 +104,7 @@ def _render_data_status(ui:Any,season_id:str)->None:
     section_header(ui,"Data Status","Can the current application data be trusted?")
     status=derive_refresh_status(season=season_id)
     ui.dataframe(status.rename(columns={'area':'Area','state':'State','last_successful_refresh':'Last successful refresh','coverage':'Coverage','detail':'Detail'}),use_container_width=True,hide_index=True)
-    ui.info("Advanced WhoScored refresh is commissioner-only and is not runnable from the hosted app. Local command: python scripts/weekly_advanced_refresh.py --season 2627 --session-backed")
+    ui.info(f"Desktop-only provider acquisition uses one commissioner command: {DESKTOP_COMMAND}")
 
 
 def _friendly_time(value:Any)->str:
@@ -166,6 +149,27 @@ def _show_core_result(ui:Any,run:CoreRefreshResult)->None:
     else:ui.error("Refresh failed at a required stage. Previous validated data was retained.")
     if run.attention:
         ui.write("Needs attention: "+" · ".join(f"{stage.label} — {stage.result.exception_message or stage.result.failed_stage or stage.result.message}" for stage in run.attention))
+
+
+def _smart_refresh(ui:Any,operations:OperationsService,season_id:str)->None:
+    key="_operation_running_smart_refresh"
+    if ui.session_state.get(key):ui.warning("This operation is already running.");return
+    ui.session_state[key]=True
+    try:
+        with ui.spinner("Planning and rebuilding current products…"):
+            run:SmartRefreshResult=run_smart_refresh(operations,season_id)
+    finally:ui.session_state[key]=False
+    plan=run.final_plan
+    ui.write(f"GW{plan.current_gw or '—'} SMART REFRESH")
+    ui.write(f"Fantrax: {plan.fantrax.status} · WhoScored: {plan.whoscored.status} · Understat: {plan.understat.status}")
+    if plan.previous_gw:ui.write(f"GW{plan.previous_gw} recheck: {plan.previous_gw_status.replace('_',' ').title()}")
+    ui.write(f"GW{plan.current_gw or '—'}: {plan.current_gw_status.replace('_',' ').title()}")
+    if run.status=="DESKTOP_REQUIRED":
+        ui.warning("DESKTOP DATA REQUIRED")
+        ui.write("Run this on the commissioner desktop, then return here and click SMART REFRESH again.")
+        ui.code(DESKTOP_COMMAND,language="text")
+    elif run.status=="PASS":_clear_streamlit_cache(ui);ui.success("REFRESH COMPLETE")
+    else:ui.error("Refresh failed. Previous validated data was retained.")
 
 
 def _render_finalized(ui:Any,data:DataManager,season:Any,namespace:str)->None:
