@@ -17,7 +17,7 @@ ROSTER_STATUS_OPTIONS = ("Available", "Rostered", "All")
 
 
 def acquire_current_state(config, *, fetch=fetch_json, now=None) -> dict[str, Any]:
-    """Reject incomplete responses: absence proves availability only in a full roster set."""
+    """Acquire current pool status separately from period roster/lineup evidence."""
     instant = now or datetime.now(timezone.utc)
     state = dict(healthy=False, retrieved_at=None, attempted_at=instant.isoformat(),
                  current_period=None, source="published snapshot", freshness_state="stale",
@@ -36,7 +36,11 @@ def acquire_current_state(config, *, fetch=fetch_json, now=None) -> dict[str, An
         if period is None:
             raise ValueError("Current scoring period unavailable")
         config.validate_period(period)
-        state.update(metadata=metadata, current_period=period, teams=teams)
+        player_info = metadata.get("playerInfo")
+        if not isinstance(player_info, dict) or not player_info or any(not isinstance(v, dict) for v in player_info.values()):
+            raise ValueError("Missing or malformed current playerInfo")
+        state.update(metadata=metadata, current_period=period, teams=teams, healthy=True,
+                     retrieved_at=instant.isoformat(), source="Fantrax getLeagueInfo.playerInfo", freshness_state="live")
         endpoint = "getTeamRosters"
         payload = fetch("rosters", league_id, period=period)
         validate_api_payload(payload)
@@ -51,15 +55,10 @@ def acquire_current_state(config, *, fetch=fetch_json, now=None) -> dict[str, An
                 if not isinstance(item, dict) or not item.get("id") or str(item["id"]) in seen:
                     raise ValueError("Missing or duplicate roster player identity")
                 seen.add(str(item["id"]))
-            # Roster names are current even when league metadata is cached upstream.
-            if team.get("teamName"):
-                mask = teams.fantasy_team_id.astype(str).eq(str(team_id))
-                teams.loc[mask, ["manager_name", "fantasy_team_name"]] = team["teamName"]
         rosters = normalize_rosters(payload, config, period=period, refreshed_at=instant.isoformat(), teams=teams)
         if len(rosters) != len(seen):
             raise ValueError("Roster normalization lost player identities")
-        state.update(healthy=True, rosters=rosters, retrieved_at=instant.isoformat(),
-                     source="Fantrax getTeamRosters", freshness_state="live")
+        state["rosters"] = rosters
     except Exception as exc:
         state["errors"][endpoint] = f"{type(exc).__name__}: {exc}"
     # Standings failure must not discard independently validated ownership.
@@ -75,6 +74,8 @@ def acquire_current_state(config, *, fetch=fetch_json, now=None) -> dict[str, An
             state["standings"] = overlay_manager_names(standings, state["teams"])
         except Exception as exc:
             state["errors"]["getStandings"] = f"{type(exc).__name__}: {exc}"
+    pool_ids = list(state.get("metadata", {}).get("playerInfo", {}))
+    state["players"] = overlay_player_state(pd.DataFrame({"fantrax_player_id": pool_ids}), pd.DataFrame(), state)
     return state
 
 
@@ -123,18 +124,38 @@ def overlay_player_state(frame: pd.DataFrame, snapshot: pd.DataFrame, state: dic
     out["current_period"] = state.get("current_period") if state["healthy"] else pd.NA
     out["source"] = state["source"]
     out["freshness_state"] = state["freshness_state"]
+    out["live_player_status"] = pd.NA
+    out["availability_type"] = "UNKNOWN"
     if state["healthy"]:
+        statuses = {str(pid): info.get("status") for pid, info in state["metadata"]["playerInfo"].items()}
+        out["live_player_status"] = ids.map(statuses)
+        status = out.live_player_status
+        available = status.isin(["FA", "WW"])
+        owned = status.eq("T").fillna(False)
+        known = available | owned
+        # Unknown/missing codes retain only explicit published fallback evidence.
+        out.loc[~known, "freshness_state"] = "stale"
+        out.loc[~known, "source"] = "published snapshot"
+        out.loc[known, "available"] = available[known]
+        out.loc[known, "ownership_status"] = "Rostered"
+        out.loc[available, "ownership_status"] = "Available"
+        out.loc[known, "retrieved_at"] = state["retrieved_at"]
+        out.loc[status.eq("FA").fillna(False), "availability_type"] = "FREE_AGENT"
+        out.loc[status.eq("WW").fillna(False), "availability_type"] = "WAIVERS"
+        out.loc[owned, "availability_type"] = "OWNED"
+        # A period roster is owner evidence only for a player currently reported T.
+        # It can never establish availability or carry an owner onto FA/WW rows.
         rosters = state["rosters"].copy()
-        rosters.index = rosters.fantrax_player_id.astype("string")
-        valid = ids.notna() & ids.str.strip().ne("")
-        owned = ids.isin(rosters.index)
-        for target, source in (("current_manager_id", "manager_id"), ("current_manager_name", "manager_name"), ("roster_status", "roster_status"), ("lineup_status", "lineup_status")):
-            out[target] = ids.map(rosters[source])
-        out["available"] = valid & ~owned
-        out["ownership_status"] = "Unknown"
-        out.loc[valid & ~owned, "ownership_status"] = "Available"
-        out.loc[owned, "ownership_status"] = "Rostered"
-        out["retrieved_at"] = state["retrieved_at"]
+        for field in ("current_manager_id", "current_manager_name", "roster_status", "lineup_status"):
+            out.loc[known, field] = pd.NA
+        if not rosters.empty:
+            rosters.index = rosters.fantrax_player_id.astype("string")
+            manager_ids = ids.map(rosters.manager_id)
+            names = state["teams"].drop_duplicates("manager_id").set_index("manager_id").manager_name
+            out.loc[owned, "current_manager_id"] = manager_ids[owned]
+            out.loc[owned, "current_manager_name"] = manager_ids[owned].map(names)
+            for field in ("roster_status", "lineup_status"):
+                out.loc[owned, field] = ids[owned].map(rosters[field])
     out["available"] = out.available.astype("string").str.lower().eq("true").fillna(False)
     out["is_available"] = out.available
     out["ownership_state"] = out.ownership_status.fillna("Unknown")
@@ -159,7 +180,9 @@ def filter_roster_status(frame: pd.DataFrame, status: str = "Available") -> pd.D
 def freshness_caption(state: dict) -> str:
     if state["healthy"]:
         suffix = " · standings: cached published snapshot" if "getStandings" in state.get("errors", {}) else ""
-        return f"Ownership: live Fantrax · retrieved {state['retrieved_at']} · cache up to {CACHE_TTL_SECONDS}s{suffix}"
+        if "getTeamRosters" in state.get("errors", {}):
+            suffix += " · owner resolution unavailable"
+        return f"Availability: live Fantrax player status · retrieved {state['retrieved_at']} · cache up to {CACHE_TTL_SECONDS}s{suffix}. Unknown statuses use stale published values when available."
     return "Ownership: cached/stale published snapshot · live Fantrax unavailable; last published values retained"
 
 

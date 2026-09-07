@@ -535,7 +535,7 @@ def _compact_profile_legacy(ui: Any, row: pd.Series, events: pd.DataFrame, histo
 
 def _compact_profile(ui: Any,row:pd.Series,events:pd.DataFrame,history:pd.DataFrame,frame:pd.DataFrame,weekly:pd.DataFrame,historical_weekly:pd.DataFrame,supplemental:pd.DataFrame=pd.DataFrame(),advanced_profiles:pd.DataFrame=pd.DataFrame(),role_usage:pd.DataFrame=pd.DataFrame(),set_pieces:pd.DataFrame=pd.DataFrame(),event_data:pd.DataFrame=pd.DataFrame(),advanced_season:str="2026/27 Current",match_log:pd.DataFrame=pd.DataFrame(),fixtures:pd.DataFrame=pd.DataFrame(),data_manager:DataManager|None=None,historical_match_log:pd.DataFrame=pd.DataFrame())->None:
     """Draft-Academical-style, fixed current-season research hierarchy."""
-    player_id=stable_player_id(row);fantrax_id=str(row.get("fantrax_player_id",""));owner=ownership_text(row);status="Available / Free Agent" if owner=="Available" else "Unknown" if owner=="Ownership unknown" else "Rostered"
+    player_id=stable_player_id(row);fantrax_id=str(row.get("fantrax_player_id",""));owner=ownership_text(row);status=owner if owner.startswith("Available") else "Unknown" if owner=="Ownership unknown" else "Rostered"
     ui.markdown(f'<div class="player-identity"><div><div class="ft-eyebrow">2026/27 Player Research</div><div class="player-name">{row.get("player_name","Player")}</div><div class="player-club">{row.get("premier_league_club","")} · <span class="ft-badge ft-badge-accent">{row.get("fantrax_position","")}</span></div></div><div class="player-owner"><span>{status}</span><b>{owner}</b></div></div>',unsafe_allow_html=True)
     kpis=overview_kpis(row);primary=ui.columns(6)
     for column,item in zip(primary,kpis[:6]):

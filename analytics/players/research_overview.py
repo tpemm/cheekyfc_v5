@@ -148,7 +148,8 @@ def resolve_metric(*,fantrax_value,fantrax_observed:bool,derived_value=pd.NA,der
 
 
 def ownership_text(row:pd.Series)->str:
-    if str(row.get("available", False)).lower()=="true":return "Available"
+    if str(row.get("available", False)).lower()=="true":
+        return "Available / Waivers" if row.get("availability_type")=="WAIVERS" else "Available / Free Agent" if row.get("availability_type")=="FREE_AGENT" else "Available"
     manager=row.get("current_manager_name")
     if pd.notna(manager) and str(manager).strip():return str(manager)
     return "Ownership unknown"

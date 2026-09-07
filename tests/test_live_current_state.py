@@ -22,7 +22,8 @@ def config():
 
 def responses(name="nhauptma 🤡", owned=True):
     return {
-        "league_metadata": {"teamInfo": {TEAM: {"name": "Pot Splashers"}, OTHER: {"name": "nhauptma"}},
+        "league_metadata": {"teamInfo": {TEAM: {"name": "Pot Splashers"}, OTHER: {"name": name}},
+                            "playerInfo": {PLAYER: {"status": "T" if owned else "FA"}, "05abc": {"status": "FA"}},
                             "scoringPeriods": [{"number": 3, "startDate": "2026-09-04T00:00:00Z", "endDate": "2026-09-11T00:00:00Z"}]},
         "rosters": {"period": 3, "rosters": {TEAM: {"teamName": "Pot Splashers", "rosterItems": []},
                      OTHER: {"teamName": name, "rosterItems": [{"id": PLAYER, "status": "ACTIVE"}] if owned else []}}},
@@ -67,7 +68,7 @@ def test_live_rosters_authority_and_shared_database_profile():
     assert {"canonical_player_id", "ownership_state", "current_manager_display_name", "retrieved_at", "source", "freshness_state"} <= set(result)
 
 
-@pytest.mark.parametrize("kind", ["league_metadata", "rosters"])
+@pytest.mark.parametrize("kind", ["league_metadata"])
 def test_failure_preserves_published_values_and_timestamp(kind):
     payload = responses();payload[kind] = PermissionError("HTTP 403")
     state = acquire(payload)
@@ -82,7 +83,7 @@ def test_failure_preserves_published_values_and_timestamp(kind):
 
 
 def test_failure_without_snapshot_is_unknown_never_free_agent():
-    payload = responses();payload["rosters"] = OSError("offline")
+    payload = responses();payload["league_metadata"] = OSError("offline")
     result = live.overlay_player_state(players(), pd.DataFrame(), acquire(payload))
     assert not result.available.any()
     assert result.ownership_state.eq("Unknown").all()
@@ -98,8 +99,11 @@ def test_partial_or_malformed_response_cannot_prove_availability(damage):
     if damage == "duplicate_player":roster["rosters"][TEAM]["rosterItems"] = [{"id": PLAYER}]
     if damage == "missing_id":roster["rosters"][TEAM]["rosterItems"] = [{}]
     state = acquire(payload)
-    assert not state["healthy"]
-    assert not live.overlay_player_state(players(), snapshot(), state).available.iloc[0]
+    assert state["healthy"] and "getTeamRosters" in state["errors"]
+    result = live.overlay_player_state(players(), snapshot(), state)
+    assert not result.available.iloc[0]
+    assert result.available.iloc[1]
+    assert pd.isna(result.current_manager_id.iloc[0])
 
 
 def test_drop_and_mutable_name_do_not_change_identity_or_observations():
@@ -109,7 +113,7 @@ def test_drop_and_mutable_name_do_not_change_identity_or_observations():
     dropped = live.overlay_player_state(original, published, acquire(responses(owned=False)))
     assert first.current_manager_id.iloc[0] == renamed.current_manager_id.iloc[0] == OTHER
     assert renamed.current_manager_name.iloc[0] == "New 🤡"
-    assert dropped.available.iloc[0] and ownership_text(dropped.iloc[0]) == "Available"
+    assert dropped.available.iloc[0] and ownership_text(dropped.iloc[0]) == "Available / Free Agent"
     assert_frame_equal(original, before);assert_frame_equal(published, published_before)
     assert renamed.fantasy_points.tolist() == before.fantasy_points.tolist()
 
@@ -194,7 +198,7 @@ def test_database_render_defaults_to_available_and_uses_live_drop(monkeypatch):
     page.render("2627", data_manager=MagicMock(), season_manager=MagicMock(), ui=ui)
     shown = ui.dataframe.call_args.args[0]
     assert len(shown) == 2
-    assert shown["Fantasy Manager / Available"].eq("Available").all()
+    assert shown["Fantasy Manager / Available"].eq("Available / Free Agent").all()
     assert shown["Club"].tolist() == ["AVL", "LEE"]
     ui.selectbox.assert_any_call("Roster Status", ("Available", "Rostered", "All"), index=0)
 
@@ -205,7 +209,9 @@ def test_canonical_clubs_survive_null_live_metadata_by_player_id():
     canonical = pd.DataFrame({"fantrax_player_id": ids, "player_name": ["Same name"] * 4,
                               "club": clubs, "premier_league_club": [None, "None", "", pd.NA]})
     before = canonical.copy(deep=True)
-    state = acquire(responses(owned=False))
+    payload = responses(owned=False)
+    payload["league_metadata"]["playerInfo"].update({pid: {"status": "FA"} for pid in ids})
+    state = acquire(payload)
     # Neither null roster club fields nor conflicting display names are metadata authority.
     state["rosters"]["club"] = None
     published = pd.DataFrame({"fantrax_player_id": ids[::-1], "player_name": ["Other name"] * 4,
@@ -216,13 +222,13 @@ def test_canonical_clubs_survive_null_live_metadata_by_player_id():
     assert result.player_name.tolist() == ["Same name"] * 4
     assert result.available.all()
     assert live_database_frame(result, "Per Start")["Club"].tolist() == clubs
-    assert [ownership_text(row) for _, row in result.iterrows()] == ["Available"] * 4
+    assert [ownership_text(row) for _, row in result.iterrows()] == ["Available / Free Agent"] * 4
     assert_frame_equal(canonical, before)
     canonical["premier_league_club"] = "Existing"
     assert preserve_canonical_club(canonical).premier_league_club.eq("Existing").all()
 
 
-def test_buendia_period_response_is_not_overruled_by_unvalidated_metadata():
+def test_buendia_waivers_override_period_owner_without_rewriting_roster():
     payload = responses()
     team_id = "aup99ojzmrp1z5vp"
     payload["league_metadata"]["teamInfo"][team_id] = payload["league_metadata"]["teamInfo"].pop(OTHER)
@@ -232,9 +238,16 @@ def test_buendia_period_response_is_not_overruled_by_unvalidated_metadata():
     payload["rosters"]["rosters"][team_id]["rosterItems"] = [{"id": "051kl", "position": "M", "status": "ACTIVE"}]
     payload["league_metadata"]["playerInfo"] = {"051kl": {"eligiblePos": "M", "status": "WW"}}
     pool = pd.DataFrame({"fantrax_player_id": ["051kl"], "player_name": ["Emiliano Buendia"], "club": ["AVL"]})
-    result = live.overlay_player_state(pool, pd.DataFrame(), acquire(payload))
-    assert not result.available.iloc[0]
-    assert result.current_manager_id.iloc[0] == team_id
+    state = acquire(payload)
+    before = state["rosters"].copy(deep=True)
+    result = live.overlay_player_state(pool, pd.DataFrame(), state)
+    assert result.available.iloc[0]
+    assert pd.isna(result.current_manager_id.iloc[0])
+    assert pd.isna(result.current_manager_display_name.iloc[0])
+    assert ownership_text(result.iloc[0]) == "Available / Waivers"
+    assert live_database_frame(result, "Per Start")["Fantasy Manager / Available"].iloc[0] == ownership_text(result.iloc[0])
+    assert_frame_equal(state["rosters"], before)
+    assert before.manager_id.iloc[0] == team_id
 
 
 def test_force_refresh_applies_returned_roster_change_immediately(monkeypatch):
@@ -243,7 +256,8 @@ def test_force_refresh_applies_returned_roster_change_immediately(monkeypatch):
     original_acquire = live.acquire_current_state
     def acquire_fixture(config):
         calls.append(1)
-        payload = responses(owned=len(calls) == 1)
+        payload = responses()
+        payload["league_metadata"]["playerInfo"][PLAYER]["status"] = "T" if len(calls) == 1 else "WW"
         return original_acquire(config, fetch=lambda kind, *args, **kwargs: payload[kind], now=NOW)
     monkeypatch.setattr(live, "acquire_current_state", acquire_fixture)
     live._cached_state.clear()
@@ -254,3 +268,48 @@ def test_force_refresh_applies_returned_roster_change_immediately(monkeypatch):
         assert not first.available.iloc[0] and not cached.available.iloc[0]
         assert changed.available.iloc[0] and len(calls) == 2
     finally:live._cached_state.clear()
+
+
+@pytest.mark.parametrize("code,available,kind", [
+    ("FA", True, "FREE_AGENT"), ("WW", True, "WAIVERS"),
+    ("T", False, "OWNED"), ("UNRECOGNIZED", False, "UNKNOWN"), (None, False, "UNKNOWN"),
+])
+def test_exact_pool_codes_control_availability_even_with_period_owner(code, available, kind):
+    payload = responses()
+    payload["league_metadata"]["playerInfo"][PLAYER]["status"] = code
+    state = acquire(payload)
+    result = live.overlay_player_state(players(), pd.DataFrame(), state)
+    row = result.iloc[0]
+    assert bool(row.is_available) == available
+    assert row.availability_type == kind
+    assert pd.isna(row.live_player_status) if code is None else row.live_player_status == code
+    if code != "T":assert pd.isna(row.current_manager_id)
+    assert state["rosters"].fantrax_player_id.tolist() == [PLAYER]
+    assert state["players"].set_index("fantrax_player_id").loc[PLAYER, "availability_type"] == kind
+
+
+def test_unknown_status_uses_only_explicit_stale_snapshot_evidence():
+    payload = responses();payload["league_metadata"]["playerInfo"] = {PLAYER: {"status": "UNRECOGNIZED"}}
+    result = live.overlay_player_state(players(), snapshot(), acquire(payload))
+    assert result.available.tolist() == [False, True]
+    assert result.freshness_state.eq("stale").all()
+    assert result.source.eq("published snapshot").all()
+    assert result.retrieved_at.eq("2026-09-01").all()
+
+
+def test_roster_failure_preserves_live_waivers_and_owned_is_unresolved():
+    payload = responses();payload["rosters"] = OSError("offline")
+    payload["league_metadata"]["playerInfo"]["05abc"]["status"] = "WW"
+    result = live.overlay_player_state(players(), snapshot(), acquire(payload))
+    assert result.available.tolist() == [False, True]
+    assert result.current_manager_id.isna().all()
+    assert result.freshness_state.eq("live").all()
+    assert ownership_text(result.iloc[1]) == "Available / Waivers"
+
+
+def test_owned_name_comes_from_current_metadata_not_period_name():
+    payload = responses(name="Current name")
+    payload["rosters"]["rosters"][OTHER]["teamName"] = "Old period name"
+    result = live.overlay_player_state(players(), snapshot(), acquire(payload))
+    assert result.current_manager_id.iloc[0] == OTHER
+    assert result.current_manager_display_name.iloc[0] == "Current name"
