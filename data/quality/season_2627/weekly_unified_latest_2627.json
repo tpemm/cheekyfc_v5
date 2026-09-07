@@ -1,12 +1,12 @@
 {
   "status": "CURRENT",
-  "unified_rows": 1282,
-  "all_player_unique": 665,
-  "rostered": 380,
-  "all_player_only": 902,
-  "waiver_rows": 902,
-  "whoscored": 786,
-  "understat": 534,
+  "unified_rows": 1950,
+  "all_player_unique": 668,
+  "rostered": 571,
+  "all_player_only": 1379,
+  "waiver_rows": 1379,
+  "whoscored": 1179,
+  "understat": 790,
   "fantasy_allowed_rows": 80,
-  "elapsed_seconds": 0.19
+  "elapsed_seconds": 0.205
 }

@@ -1,3 +1,4 @@
 period,status,row_count,checksum,retrieved_at,finalized,unresolved_players,validation_status
 1,ACQUIRED,617,6812952dab6101c9f18b0b96f663edcb6e997970cc7cb9a300d4c15779b71c8b,2026-08-25T14:54:07+00:00,True,0,valid
 2,ACQUIRED,665,e5542568c51c5c80a7eaa5e56fd74bb72db5b901d98342b91fca9758b3aaca6d,2026-09-02T23:53:22+00:00,False,0,valid
+3,ACQUIRED,668,839829ada72ee139d2948125afefdbea5c4b486ab1faac236065d7715d449034,2026-09-07T14:11:37+00:00,False,0,valid

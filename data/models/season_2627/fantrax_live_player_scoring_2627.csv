@@ -189,3 +189,194 @@ season_id,period,fantrax_team_id,manager,lineup_status,fantrax_player_id,player_
 2627,1,w2mnqywumrp1z5vp,tpem,ACTIVE,06v05,Jeremie Frimpong,4.5,Fantrax getLiveScoringStats,2026-08-25T15:42:07+00:00
 2627,1,w2mnqywumrp1z5vp,tpem,ACTIVE,070hc,Brian Brobbey,1.0,Fantrax getLiveScoringStats,2026-08-25T15:42:07+00:00
 2627,1,w2mnqywumrp1z5vp,tpem,ACTIVE,0784b,Marco Palestra,0.0,Fantrax getLiveScoringStats,2026-08-25T15:42:07+00:00
+2627,3,2dxfjlk0mrp1z5vo,nhauptma 🤡,ACTIVE,03rzp,Antonee Robinson,4.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,2dxfjlk0mrp1z5vo,nhauptma 🤡,BENCH,05l2z,Bobby Thomas,18.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,2dxfjlk0mrp1z5vo,nhauptma 🤡,BENCH,05uhs,James Mcatee,16.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,2dxfjlk0mrp1z5vo,nhauptma 🤡,BENCH,062ci,Kaoru Mitoma,0.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,2dxfjlk0mrp1z5vo,nhauptma 🤡,ACTIVE,062p3,Keane Lewis-Potter,11.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,2dxfjlk0mrp1z5vo,nhauptma 🤡,BENCH,0689w,Georginio Rutter,0.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,2dxfjlk0mrp1z5vo,nhauptma 🤡,ACTIVE,06uyc,Adrien Truffert,1.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,2dxfjlk0mrp1z5vo,nhauptma 🤡,ACTIVE,06v0g,Trai Hume,3.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,2dxfjlk0mrp1z5vo,nhauptma 🤡,ACTIVE,06ybp,Thierno Barry,6.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,2dxfjlk0mrp1z5vo,nhauptma 🤡,ACTIVE,06zbx,Anton Stach,9.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,2dxfjlk0mrp1z5vo,nhauptma 🤡,ACTIVE,0700p,Malick Thiaw,3.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,2dxfjlk0mrp1z5vo,nhauptma 🤡,ACTIVE,070f9,Yeremy Pino,13.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,2dxfjlk0mrp1z5vo,nhauptma 🤡,ACTIVE,072zs,Nilson Angulo,2.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,2dxfjlk0mrp1z5vo,nhauptma 🤡,ACTIVE,0784w,Emersonn,2.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,2dxfjlk0mrp1z5vo,nhauptma 🤡,ACTIVE,0788g,Lukas Hornícek,7.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,2dxfjlk0mrp1z5vo,nhauptma 🤡,BENCH,0793q,Bradley Barcola,3.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,61fz0pmkmrp1z5vo,wmuck1 🤡,ACTIVE,03vlj,Virgil van Dijk,13.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,61fz0pmkmrp1z5vo,wmuck1 🤡,ACTIVE,04sjv,Ryan Giles,16.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,61fz0pmkmrp1z5vo,wmuck1 🤡,ACTIVE,0521z,James Justin,10.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,61fz0pmkmrp1z5vo,wmuck1 🤡,BENCH,056iy,Pedro Neto,8.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,61fz0pmkmrp1z5vo,wmuck1 🤡,ACTIVE,05akv,Tyrick Mitchell,28.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,61fz0pmkmrp1z5vo,wmuck1 🤡,ACTIVE,05r94,Iliman Ndiaye,6.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,61fz0pmkmrp1z5vo,wmuck1 🤡,ACTIVE,05u1m,Nathan Collins,0.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,61fz0pmkmrp1z5vo,wmuck1 🤡,BENCH,063e7,Marcos Senesi,0.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,61fz0pmkmrp1z5vo,wmuck1 🤡,ACTIVE,06clt,Justin Kluivert,-0.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,61fz0pmkmrp1z5vo,wmuck1 🤡,BENCH,06jgi,Daniel Munoz,1.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,61fz0pmkmrp1z5vo,wmuck1 🤡,ACTIVE,06mvz,Savio,8.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,61fz0pmkmrp1z5vo,wmuck1 🤡,ACTIVE,06r5b,Diego Gomez,12.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,61fz0pmkmrp1z5vo,wmuck1 🤡,ACTIVE,06v0p,Enzo Le Fée,15.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,61fz0pmkmrp1z5vo,wmuck1 🤡,BENCH,06xza,Eli Kroupi,0.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,61fz0pmkmrp1z5vo,wmuck1 🤡,ACTIVE,06znb,Robin Roefs,3.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,61fz0pmkmrp1z5vo,wmuck1 🤡,BENCH,0793x,Ibrahim Mbaye,0.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,acjx0vg4mrp1z5vo,yudesh,ACTIVE,04abn,Harvey Barnes,19.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,acjx0vg4mrp1z5vo,yudesh,BENCH,04ge6,Joe Willock,1.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,acjx0vg4mrp1z5vo,yudesh,ACTIVE,05l8q,Cole Palmer,3.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,acjx0vg4mrp1z5vo,yudesh,ACTIVE,05opj,Elliot Anderson,10.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,acjx0vg4mrp1z5vo,yudesh,BENCH,05tr9,Mathias Jensen,0.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,acjx0vg4mrp1z5vo,yudesh,ACTIVE,05ylj,Bruno Guimaraes,0.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,acjx0vg4mrp1z5vo,yudesh,ACTIVE,0635j,Chris Richards,7.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,acjx0vg4mrp1z5vo,yudesh,ACTIVE,068ym,Enzo Fernandez,6.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,acjx0vg4mrp1z5vo,yudesh,BENCH,06fup,Jeremy Doku,0.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,acjx0vg4mrp1z5vo,yudesh,ACTIVE,06jgs,Adam Wharton,4.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,acjx0vg4mrp1z5vo,yudesh,ACTIVE,06r9w,Abdukodir Khusanov,8.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,acjx0vg4mrp1z5vo,yudesh,BENCH,06ymu,El Hadji Malick Diouf,0.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,acjx0vg4mrp1z5vo,yudesh,BENCH,06zbm,Cristhian Mosquera,0.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,acjx0vg4mrp1z5vo,yudesh,ACTIVE,06zna,Dan Ndoye,1.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,acjx0vg4mrp1z5vo,yudesh,ACTIVE,078az,Konstantinos Tzolakis,9.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,acjx0vg4mrp1z5vo,yudesh,ACTIVE,078ud,Amar Dedic,4.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,aup99ojzmrp1z5vp,The Facerockers,BENCH,02lz0,Emiliano Martinez,15.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,aup99ojzmrp1z5vp,The Facerockers,ACTIVE,032f9,Jordan Pickford,0.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,aup99ojzmrp1z5vp,The Facerockers,ACTIVE,0435m,Granit Xhaka,7.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,aup99ojzmrp1z5vp,The Facerockers,ACTIVE,049tq,Dominic Calvert-Lewin,7.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,aup99ojzmrp1z5vp,The Facerockers,ACTIVE,04agz,Declan Rice,13.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,aup99ojzmrp1z5vp,The Facerockers,ACTIVE,051kl,Emiliano Buendia,1.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,aup99ojzmrp1z5vp,The Facerockers,ACTIVE,05uel,Kristoffer Ajer,9.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,aup99ojzmrp1z5vp,The Facerockers,BENCH,05ybq,Vitalii Mykolenko,3.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,aup99ojzmrp1z5vp,The Facerockers,BENCH,062a9,Sven Botman,10.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,aup99ojzmrp1z5vp,The Facerockers,ACTIVE,0646f,Alexander Isak,24.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,aup99ojzmrp1z5vp,The Facerockers,ACTIVE,067zv,Kevin Schade,4.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,aup99ojzmrp1z5vp,The Facerockers,BENCH,06dmj,Jurrien Timber,0.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,aup99ojzmrp1z5vp,The Facerockers,ACTIVE,06do9,Milos Kerkez,9.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,aup99ojzmrp1z5vp,The Facerockers,BENCH,06fxe,Ryan Gravenberch,1.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,aup99ojzmrp1z5vp,The Facerockers,ACTIVE,0703c,Nordi Mukiele,15.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,aup99ojzmrp1z5vp,The Facerockers,ACTIVE,0784z,Jeremy Jacquet,12.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,ayk8m85amrp1z5vo,Up the Arse-nal,ACTIVE,0477b,Oliver McBurnie,7.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,ayk8m85amrp1z5vo,Up the Arse-nal,BENCH,04spw,James Garner,8.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,ayk8m85amrp1z5vo,Up the Arse-nal,ACTIVE,052cb,Ian Maatsen,13.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,ayk8m85amrp1z5vo,Up the Arse-nal,BENCH,05748,Ismaila Sarr,0.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,ayk8m85amrp1z5vo,Up the Arse-nal,ACTIVE,05l27,Jarrad Branthwaite,14.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,ayk8m85amrp1z5vo,Up the Arse-nal,BENCH,05r8o,Jean-Philippe Mateta,0.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,ayk8m85amrp1z5vo,Up the Arse-nal,ACTIVE,05r9b,Martin Odegaard,18.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,ayk8m85amrp1z5vo,Up the Arse-nal,BENCH,05rff,Jaden Philogene,0.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,ayk8m85amrp1z5vo,Up the Arse-nal,ACTIVE,05tqx,David Raya,13.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,ayk8m85amrp1z5vo,Up the Arse-nal,ACTIVE,061vb,James Hill,8.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,ayk8m85amrp1z5vo,Up the Arse-nal,BENCH,0666p,Kobbie Mainoo,13.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,ayk8m85amrp1z5vo,Up the Arse-nal,ACTIVE,067yv,Cody Gakpo,25.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,ayk8m85amrp1z5vo,Up the Arse-nal,ACTIVE,067yz,Matheus Cunha,2.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,ayk8m85amrp1z5vo,Up the Arse-nal,ACTIVE,06mw0,Nikola Milenkovic,13.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,ayk8m85amrp1z5vo,Up the Arse-nal,ACTIVE,06p6j,Evanilson,5.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,ayk8m85amrp1z5vo,Up the Arse-nal,ACTIVE,06v21,Florian Wirtz,10.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,cjn4stydmrp1z5vp,Robertske,BENCH,02oq6,Luke Shaw,17.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,cjn4stydmrp1z5vp,Robertske,ACTIVE,03mfe,Matt Grimes,5.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,cjn4stydmrp1z5vp,Robertske,ACTIVE,044ei,Nick Pope,0.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,cjn4stydmrp1z5vp,Robertske,ACTIVE,04y92,Bukayo Saka,12.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,cjn4stydmrp1z5vp,Robertske,ACTIVE,051k7,Reece James,5.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,cjn4stydmrp1z5vp,Robertske,ACTIVE,05nns,Danny Ballard,14.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,cjn4stydmrp1z5vp,Robertske,BENCH,05oeh,Kenny Tete,0.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,cjn4stydmrp1z5vp,Robertske,ACTIVE,05y9n,Lewis Hall,14.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,cjn4stydmrp1z5vp,Robertske,ACTIVE,063q8,Mikkel Damsgaard,12.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,cjn4stydmrp1z5vp,Robertske,ACTIVE,06v07,Rayan Cherki,9.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,cjn4stydmrp1z5vp,Robertske,BENCH,076d0,Milan van Ewijk,9.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,cjn4stydmrp1z5vp,Robertske,ACTIVE,076d3,Jack Rudoni,11.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,cjn4stydmrp1z5vp,Robertske,BENCH,076dq,Mohamed Belloumi,16.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,cjn4stydmrp1z5vp,Robertske,ACTIVE,0784o,Oscar Mingueza,1.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,cjn4stydmrp1z5vp,Robertske,ACTIVE,0784y,Tarik Muharemovic,10.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,h1vdt8ynmrp1z5vp,Pot Splashers,BENCH,02lm7,Jack Grealish,4.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,h1vdt8ynmrp1z5vp,Pot Splashers,ACTIVE,03ybi,Marcus Rashford,5.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,h1vdt8ynmrp1z5vp,Pot Splashers,ACTIVE,04sjt,Alisson Becker,17.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,h1vdt8ynmrp1z5vp,Pot Splashers,BENCH,04tsb,Viktor Gyökeres,0.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,h1vdt8ynmrp1z5vp,Pot Splashers,BENCH,0558w,William Saliba,0.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,h1vdt8ynmrp1z5vp,Pot Splashers,ACTIVE,05gcr,Bruno Fernandes,4.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,h1vdt8ynmrp1z5vp,Pot Splashers,BENCH,05nt6,Eberechi Eze,0.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,h1vdt8ynmrp1z5vp,Pot Splashers,ACTIVE,05omu,Ruben Dias,13.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,h1vdt8ynmrp1z5vp,Pot Splashers,ACTIVE,061va,Boubacar Kamara,7.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,h1vdt8ynmrp1z5vp,Pot Splashers,ACTIVE,066sd,Myles Lewis-Skelly,2.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,h1vdt8ynmrp1z5vp,Pot Splashers,ACTIVE,06ex4,Josko Gvardiol,13.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,h1vdt8ynmrp1z5vp,Pot Splashers,ACTIVE,06ezb,Micky van de Ven,15.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,h1vdt8ynmrp1z5vp,Pot Splashers,ACTIVE,06pe1,Mateus Fernandes,-2.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,h1vdt8ynmrp1z5vp,Pot Splashers,ACTIVE,06y9m,Maxim De Cuyper,9.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,h1vdt8ynmrp1z5vp,Pot Splashers,BENCH,06zxy,Benjamin Sesko,11.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,h1vdt8ynmrp1z5vp,Pot Splashers,ACTIVE,072wq,Rayan,5.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,h2e8dn5dmrp1z5vp,Berkshire’s Club,ACTIVE,0427d,James Tarkowski,12.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,h2e8dn5dmrp1z5vp,Berkshire’s Club,ACTIVE,04f6h,Matz Sels,6.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,h2e8dn5dmrp1z5vp,Berkshire’s Club,ACTIVE,04qr9,Morgan Gibbs-White,3.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,h2e8dn5dmrp1z5vp,Berkshire’s Club,ACTIVE,052ca,Ezri Konsa,8.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,h2e8dn5dmrp1z5vp,Berkshire’s Club,ACTIVE,05uor,Yoane Wissa,2.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,h2e8dn5dmrp1z5vp,Berkshire’s Club,ACTIVE,061xs,Julio Enciso,6.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,h2e8dn5dmrp1z5vp,Berkshire’s Club,ACTIVE,068lx,Dango Ouattara,4.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,h2e8dn5dmrp1z5vp,Berkshire’s Club,ACTIVE,06cm1,Nicolas Jackson,4.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,h2e8dn5dmrp1z5vp,Berkshire’s Club,ACTIVE,06fwz,Murillo,14.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,h2e8dn5dmrp1z5vp,Berkshire’s Club,ACTIVE,06jh3,Joshua King,18.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,h2e8dn5dmrp1z5vp,Berkshire’s Club,BENCH,06mpp,Mats Wieffer,0.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,h2e8dn5dmrp1z5vp,Berkshire’s Club,BENCH,07848,Johan Manzambi,0.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,h2e8dn5dmrp1z5vp,Berkshire’s Club,ACTIVE,07877,Mamadou Sangaré,1.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,h2e8dn5dmrp1z5vp,Berkshire’s Club,BENCH,0787y,Antonio Silva,13.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,h2e8dn5dmrp1z5vp,Berkshire’s Club,BENCH,07898,Gonzalo García,8.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,h2e8dn5dmrp1z5vp,Berkshire’s Club,BENCH,078qg,Anan Khalaili,9.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,hpsurdtbmrp1z5vo,GVand35,BENCH,02lsa,Dan Burn,0.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,hpsurdtbmrp1z5vo,GVand35,ACTIVE,02m5l,John Egan,10.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,hpsurdtbmrp1z5vo,GVand35,ACTIVE,03gu4,Harry Maguire,8.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,hpsurdtbmrp1z5vo,GVand35,ACTIVE,050jq,Marc Guehi,17.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,hpsurdtbmrp1z5vo,GVand35,ACTIVE,05a6e,Neco Williams,11.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,hpsurdtbmrp1z5vo,GVand35,ACTIVE,05o4c,Timothy Castagne,11.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,hpsurdtbmrp1z5vo,GVand35,BENCH,05o6h,Kai Havertz,21.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,hpsurdtbmrp1z5vo,GVand35,ACTIVE,05oh0,Jan-Paul van Hecke,13.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,hpsurdtbmrp1z5vo,GVand35,BENCH,05os4,Rayan Ait-Nouri,0.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,hpsurdtbmrp1z5vo,GVand35,ACTIVE,05uht,Morgan Rogers,12.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,hpsurdtbmrp1z5vo,GVand35,ACTIVE,068y0,Antoine Semenyo,15.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,hpsurdtbmrp1z5vo,GVand35,ACTIVE,06r6s,Antonin Kinsky,12.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,hpsurdtbmrp1z5vo,GVand35,ACTIVE,06rf9,Omar Marmoush,2.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,hpsurdtbmrp1z5vo,GVand35,BENCH,06rm8,Mathys Tel,7.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,hpsurdtbmrp1z5vo,GVand35,ACTIVE,06y59,Noah Sadiki,3.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,hpsurdtbmrp1z5vo,GVand35,BENCH,0784x,Daizen Maeda,3.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,qwkltl98mrp1z5vp,epatel3,ACTIVE,038ze,Alex Iwobi,3.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,qwkltl98mrp1z5vp,epatel3,ACTIVE,04qfz,Diogo Dalot,6.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,qwkltl98mrp1z5vp,epatel3,ACTIVE,05g2o,Joao Pedro,4.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,qwkltl98mrp1z5vp,epatel3,ACTIVE,05gcc,Kiernan Dewsbury-Hall,9.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,qwkltl98mrp1z5vp,epatel3,ACTIVE,05o4b,Matty Cash,9.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,qwkltl98mrp1z5vp,epatel3,ACTIVE,05os8,Joachim Andersen,5.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,qwkltl98mrp1z5vp,epatel3,BENCH,06mgd,Abdul Fatawu,12.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,qwkltl98mrp1z5vp,epatel3,ACTIVE,06mn0,Igor Thiago,9.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,qwkltl98mrp1z5vp,epatel3,ACTIVE,06nu7,Riccardo Calafiori,2.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,qwkltl98mrp1z5vp,epatel3,BENCH,06phe,Ferdi Kadioglu,7.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,qwkltl98mrp1z5vp,epatel3,ACTIVE,06pia,Maxence Lacroix,6.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,qwkltl98mrp1z5vp,epatel3,BENCH,06rlj,Patrick Dorgu,1.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,qwkltl98mrp1z5vp,epatel3,BENCH,06y9o,Igor Jesus,-0.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,qwkltl98mrp1z5vp,epatel3,BENCH,070cj,Noah Okafor,3.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,qwkltl98mrp1z5vp,epatel3,ACTIVE,070hs,Gianluigi Donnarumma,15.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,qwkltl98mrp1z5vp,epatel3,ACTIVE,076qg,Victor Muñoz,1.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,rx9bjhp3mrp1z5vo,KindComet 🤡,ACTIVE,04lav,Ethan Ampadu,9.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,rx9bjhp3mrp1z5vo,KindComet 🤡,ACTIVE,04yo7,Youri Tielemans,7.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,rx9bjhp3mrp1z5vo,KindComet 🤡,ACTIVE,05nzu,Gabriel Magalhaes,9.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,rx9bjhp3mrp1z5vo,KindComet 🤡,ACTIVE,05uox,Christos Tzolis,16.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,rx9bjhp3mrp1z5vo,KindComet 🤡,ACTIVE,0639x,Marcus Tavernier,21.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,rx9bjhp3mrp1z5vo,KindComet 🤡,BENCH,067x8,Nico O'Reilly,0.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,rx9bjhp3mrp1z5vo,KindComet 🤡,ACTIVE,06cmm,Dominik Szoboszlai,21.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,rx9bjhp3mrp1z5vo,KindComet 🤡,ACTIVE,06f8y,Alex Scott,22.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,rx9bjhp3mrp1z5vo,KindComet 🤡,ACTIVE,06fuw,Djordje Petrovic,1.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,rx9bjhp3mrp1z5vo,KindComet 🤡,BENCH,06fv8,Mohammed Kudus,4.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,rx9bjhp3mrp1z5vo,KindComet 🤡,ACTIVE,06msb,Malick Yalcouye,7.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,rx9bjhp3mrp1z5vo,KindComet 🤡,ACTIVE,06v0y,Luka Vuskovic,20.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,rx9bjhp3mrp1z5vo,KindComet 🤡,BENCH,06v51,Jaka Bijol,2.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,rx9bjhp3mrp1z5vo,KindComet 🤡,BENCH,06zbz,Hugo Ekitiké,0.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,rx9bjhp3mrp1z5vo,KindComet 🤡,ACTIVE,0792s,Ayyoub Bouaddi,3.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,rx9bjhp3mrp1z5vo,KindComet 🤡,BENCH,07942,Matias Fernandez-Pardo,1.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,w2mnqywumrp1z5vp,tpem,BENCH,04abb,Phil Foden,3.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,w2mnqywumrp1z5vp,tpem,ACTIVE,04e1e,Ben White,3.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,w2mnqywumrp1z5vp,tpem,ACTIVE,04fk1,Pascal Gross,1.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,w2mnqywumrp1z5vp,tpem,ACTIVE,05n07,Pedro Porro,16.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,w2mnqywumrp1z5vp,tpem,BENCH,05ogb,Anthony Elanga,5.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,w2mnqywumrp1z5vp,tpem,ACTIVE,05oz3,James Trafford,11.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,w2mnqywumrp1z5vp,tpem,BENCH,05r34,Amad Diallo,0.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,w2mnqywumrp1z5vp,tpem,ACTIVE,05trb,Bryan Mbeumo,17.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,w2mnqywumrp1z5vp,tpem,ACTIVE,05tre,Vitaly Janelt,15.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,w2mnqywumrp1z5vp,tpem,ACTIVE,061vq,Erling Haaland,21.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,w2mnqywumrp1z5vp,tpem,BENCH,067ys,Jack Hinshelwood,0.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,w2mnqywumrp1z5vp,tpem,ACTIVE,06ab3,Lewis Miley,-0.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,w2mnqywumrp1z5vp,tpem,ACTIVE,06rgg,Michael Kayode,4.5,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,w2mnqywumrp1z5vp,tpem,ACTIVE,06yb9,Reinildo,6.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,w2mnqywumrp1z5vp,tpem,BENCH,0784b,Marco Palestra,0.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00
+2627,3,w2mnqywumrp1z5vp,tpem,ACTIVE,0793h,Exequiel Palacios,9.0,Fantrax getLiveScoringStats,2026-09-07T14:11:47+00:00

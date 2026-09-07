@@ -1,10 +1,10 @@
 {
   "status": "CURRENT",
-  "matches": 20,
-  "team_rows": 40,
-  "player_rows": 622,
-  "mapped_players": 534,
-  "unresolved_players": 57,
-  "retrieved_at": "2026-09-02T22:44:43.651762+00:00",
-  "built_at": "2026-09-02T23:53:37.687280+00:00"
+  "matches": 30,
+  "team_rows": 60,
+  "player_rows": 929,
+  "mapped_players": 790,
+  "unresolved_players": 72,
+  "retrieved_at": "2026-09-07T13:58:03.340919+00:00",
+  "built_at": "2026-09-07T14:11:51.912185+00:00"
 }

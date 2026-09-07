@@ -1,5 +1,5 @@
 rule,status,detail
-current_roster_valid,pass,190 rows
+current_roster_valid,pass,191 rows
 unique_event_ids,pass,90 events
 one_current_owner,pass,Current roster reconciliation
 snapshot_chain,pass,bfd30fc9ec339cce9167a7fae4c31b4f06503f917cf947bb0e2fdb366ce02821

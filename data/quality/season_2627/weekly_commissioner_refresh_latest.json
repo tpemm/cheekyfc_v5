@@ -1,7 +1,7 @@
 {
-  "status": "PARTIAL",
-  "started_at": "2026-09-02T23:53:54.011157+00:00",
-  "elapsed_seconds": 68.746,
+  "status": "SUCCESS",
+  "started_at": "2026-09-07T14:12:09.422232+00:00",
+  "elapsed_seconds": 66.816,
   "stages": [
     {
       "stage": "fantrax_weekly",
@@ -25,7 +25,7 @@
     },
     {
       "stage": "whoscored_advanced",
-      "returncode": 1
+      "returncode": 0
     },
     {
       "stage": "unified_models",
@@ -58,9 +58,11 @@
   ],
   "final_plan": {
     "season": "2627",
-    "fantrax_current_period": 2,
-    "fantrax_maturity": "COMPLETE_PENDING_CORRECTIONS",
-    "pending_correction_confirmation": true,
+    "fantrax_current_period": 3,
+    "previous_gw_status": "LIVE",
+    "previous_correction_checked": true,
+    "fantrax_maturity": "LIVE",
+    "pending_correction_confirmation": false,
     "manager_csv_expected": 12,
     "manager_csv_current": 12,
     "all_player_state": "CURRENT",
@@ -68,64 +70,64 @@
       "status": "AUTHORITATIVE_CURRENT",
       "matchups": 6,
       "teams": 12,
-      "acquired_at": "2026-09-02T23:53:32+00:00"
+      "acquired_at": "2026-09-07T14:11:47+00:00"
     },
     "team_models": {
-      "rows": 40,
-      "completed_matches": 20,
+      "rows": 60,
+      "completed_matches": 30,
       "clubs": 20,
-      "whoscored_team_coverage": 40,
-      "understat_xg_coverage": 40,
-      "formation_coverage": 40,
-      "manager_coverage": 40,
-      "fantasy_position_rows": 158,
+      "whoscored_team_coverage": 60,
+      "understat_xg_coverage": 60,
+      "formation_coverage": 60,
+      "manager_coverage": 60,
+      "fantasy_position_rows": 238,
       "historical_reference_available": true,
       "tactical_methodology_version": "team_tactical_v1",
       "current_tactical_rows": 20,
       "current_tactical_clubs": 20,
-      "trait_confidence_state": "Very Early",
+      "trait_confidence_state": "Emerging",
       "tactical_products_status": "CURRENT",
       "status": "STALE_OR_MISSING"
     },
     "fantrax_targets": [
-      2
+      3
     ],
     "fantrax_auth_state_present": true,
     "whoscored": {
       "fixtures_scheduled": 380,
-      "future": 360,
+      "future": 350,
       "too_recent": 0,
       "stable": 20,
-      "preliminary": 0,
+      "preliminary": 10,
       "missing_eligible": 0,
       "failed_retryable": 0,
       "provider_ids_resolved": 380,
       "would_acquire": 0,
-      "would_recheck": 0,
+      "would_recheck": 10,
       "maturity": {
         "provider": "whoscored",
-        "expected": 20,
-        "present": 20,
+        "expected": 30,
+        "present": 30,
         "missing": 0,
-        "preliminary": 20,
-        "stable": 0,
-        "due_for_recheck": 20
+        "preliminary": 10,
+        "stable": 20,
+        "due_for_recheck": 0
       }
     },
     "understat": {
-      "expected_completed_matches": 20,
-      "cached_completed_matches": 20,
+      "expected_completed_matches": 30,
+      "cached_completed_matches": 30,
       "missing_matches": 0,
-      "gameweeks": "1-2",
+      "gameweeks": "1-3",
       "would_acquire": 0,
-      "cache_state": "STABLE",
+      "cache_state": "COMPLETE",
       "maturity": {
         "provider": "understat",
-        "expected": 10,
-        "present": 20,
+        "expected": 30,
+        "present": 30,
         "missing": 0,
-        "preliminary": 0,
-        "stable": 20,
+        "preliminary": 30,
+        "stable": 0,
         "due_for_recheck": 0
       }
     },

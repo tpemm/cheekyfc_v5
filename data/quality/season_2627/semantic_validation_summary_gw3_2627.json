@@ -1,0 +1,15 @@
+{
+  "exact_observations": 171,
+  "players": 171,
+  "clubs": 20,
+  "matches": 10,
+  "periods_included": [
+    3
+  ],
+  "started": 148,
+  "substitutes": 23,
+  "fantasy_assist_only": 21,
+  "clearance_mismatches": 20,
+  "provider_corrections": 0,
+  "elapsed_seconds": 0.611
+}

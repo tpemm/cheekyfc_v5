@@ -29,8 +29,24 @@ soccerdata:sofascore:16363255,fulham,606,503,4090.7,52,37,20,2,11,8,8,23,35,11,7
 soccerdata:sofascore:16363255,sunderland,427,350,3482.0,47,27,20,6,12,6,9,17,35,13,7,39,37,2026-08-30,fulham,H,mgr:1a031e232e88,Régis Le Bris,4231,1,1.0,observed_or_transparently_derived,False
 soccerdata:sofascore:16363256,newcastle_united,402,333,3509.2999999999997,36,32,16,5,11,4,11,14,23,12,3,29,33,2026-08-29,tottenham_hotspur,A,mgr:bdab23b1e545,Matthias Jaissle,4231,1,1.0,observed_or_transparently_derived,False
 soccerdata:sofascore:16363256,tottenham_hotspur,543,467,3507.6,55,41,26,1,17,9,11,18,23,13,4,21,38,2026-08-29,newcastle_united,H,mgr:b283d24885e5,Roberto De Zerbi,4231,1,1.0,observed_or_transparently_derived,False
+soccerdata:sofascore:16363257,arsenal,491,406,4030.9,61,42,16,4,16,15,14,8,29,10,9,23,29,2026-09-06,chelsea,H,mgr:5fdd2f365fdc,Mikel Arteta,4231,1,1.0,observed_or_transparently_derived,False
+soccerdata:sofascore:16363257,chelsea,413,326,3663.9,47,37,16,1,13,7,10,9,29,12,7,25,34,2026-09-06,arsenal,A,mgr:84bddcc0c0d7,Xabi Alonso,3421,1,1.0,observed_or_transparently_derived,False
+soccerdata:sofascore:16363258,brighton_hove_albion,580,465,3986.5,55,45,35,1,20,12,14,22,42,8,5,33,38,2026-09-05,leeds_united,H,mgr:dfda8206a0e2,Fabian Hürzeler,4231,1,1.0,observed_or_transparently_derived,False
+soccerdata:sofascore:16363258,leeds_united,289,183,3445.4,38,36,19,0,10,6,7,18,42,17,8,39,24,2026-09-05,brighton_hove_albion,A,mgr:fa5d385e34dc,Daniel Farke,352,1,1.0,observed_or_transparently_derived,False
+soccerdata:sofascore:16363259,everton,465,385,3590.7000000000003,49,40,21,1,18,13,14,15,30,16,12,18,39,2026-09-06,manchester_united,H,mgr:84316c036a2d,David Moyes,4231,1,1.0,observed_or_transparently_derived,False
+soccerdata:sofascore:16363259,manchester_united,557,478,3897.8,47,36,13,2,14,9,10,16,30,11,9,33,40,2026-09-06,everton,A,mgr:3aa905054daf,Michael Carrick,4231,1,1.0,observed_or_transparently_derived,False
+soccerdata:sofascore:16363260,brentford,415,310,4012.4,55,41,19,0,12,6,7,26,53,10,8,31,40,2026-09-05,sunderland,H,mgr:5f487ee40c90,Keith Andrews,4231,1,1.0,observed_or_transparently_derived,False
+soccerdata:sofascore:16363260,sunderland,418,309,4266.8,69,45,15,1,14,8,7,16,53,19,5,28,47,2026-09-05,brentford,A,mgr:1a031e232e88,Régis Le Bris,4231,1,1.0,observed_or_transparently_derived,False
+soccerdata:sofascore:16363261,ipswich_town,469,382,3586.2,46,28,15,0,14,9,13,15,22,18,9,28,38,2026-09-04,liverpool,H,mgr:2e016582b3f8,Gary O'Neil,4231,1,1.0,observed_or_transparently_derived,False
+soccerdata:sofascore:16363261,liverpool,562,489,4354.2,67,23,13,3,10,9,10,23,22,15,5,27,37,2026-09-04,ipswich_town,A,mgr:b4b8eecb310f,Andoni Iraola,4231,1,1.0,observed_or_transparently_derived,False
+soccerdata:sofascore:16363262,aston_villa,730,642,4368.1,76,43,14,4,13,6,9,18,30,7,4,20,31,2026-09-05,hull_city,A,mgr:dcdf2dffc0c2,Unai Emery,4231,1,1.0,observed_or_transparently_derived,False
+soccerdata:sofascore:16363262,hull_city,266,179,3324.5,37,28,24,0,11,4,9,15,30,16,16,17,29,2026-09-05,aston_villa,H,mgr:9f4440ec2ca8,Sergej Jakirovic,541,1,1.0,observed_or_transparently_derived,False
+soccerdata:sofascore:16363263,coventry_city,250,157,3378.7,42,29,17,0,12,6,9,16,37,16,18,26,37,2026-09-05,manchester_city,A,mgr:fb84c76f2aab,Frank Lampard,3421,1,1.0,observed_or_transparently_derived,False
+soccerdata:sofascore:16363263,manchester_city,855,772,4439.5,71,40,20,4,15,10,11,23,37,13,5,26,41,2026-09-05,coventry_city,H,mgr:dc01d928d84f,Enzo Maresca,4231,1,1.0,observed_or_transparently_derived,False
 soccerdata:sofascore:16363266,brentford,480,360,4058.4,66,55,32,0,22,16,16,18,39,19,10,39,45,2026-08-30,leeds_united,A,mgr:5f487ee40c90,Keith Andrews,4231,1,1.0,observed_or_transparently_derived,False
 soccerdata:sofascore:16363266,leeds_united,421,300,4010.2,62,43,26,0,12,8,7,25,39,19,11,47,40,2026-08-30,brentford,H,mgr:fa5d385e34dc,Daniel Farke,3421,1,1.0,observed_or_transparently_derived,False
+soccerdata:sofascore:16363269,crystal_palace,403,312,3672.2000000000003,34,27,8,4,10,7,8,10,23,18,12,29,35,2026-09-05,fulham,A,mgr:698607e509b7,Pierre Sage,3421,1,1.0,observed_or_transparently_derived,False
+soccerdata:sofascore:16363269,fulham,718,626,4696.1,63,61,18,4,25,15,20,27,23,11,9,14,47,2026-09-05,crystal_palace,H,mgr:c4ccacd3c126,Álvaro Arbeloa,4231,1,1.0,observed_or_transparently_derived,False
 soccerdata:sofascore:16363633,arsenal,653,583,3525.1,57,48,21,2,20,14,17,9,28,9,5,26,37,2026-08-21,coventry_city,H,mgr:5fdd2f365fdc,Mikel Arteta,4231,1,1.0,observed_or_transparently_derived,False
 soccerdata:sofascore:16363633,coventry_city,367,280,3739.0,57,23,13,1,4,2,3,10,28,4,9,33,35,2026-08-21,arsenal,A,mgr:fb84c76f2aab,Frank Lampard,4141,1,1.0,observed_or_transparently_derived,False
 soccerdata:sofascore:16363634,hull_city,291,202,4134.1,48,23,17,0,8,5,5,9,38,17,6,55,29,2026-08-22,manchester_united,H,mgr:9f4440ec2ca8,Sergej Jakirovic,541,1,1.0,observed_or_transparently_derived,False
@@ -39,3 +55,7 @@ soccerdata:sofascore:16363635,crystal_palace,617,529,3482.2,56,26,13,4,11,7,10,9
 soccerdata:sofascore:16363635,everton,457,364,3648.5,46,41,16,1,16,12,13,25,30,18,8,21,54,2026-08-22,crystal_palace,H,mgr:84316c036a2d,David Moyes,4231,1,1.0,observed_or_transparently_derived,False
 soccerdata:sofascore:16363636,ipswich_town,371,284,3711.7,56,27,17,0,10,4,9,21,27,22,9,34,42,2026-08-22,sunderland,H,mgr:2e016582b3f8,Gary O'Neil,4231,1,1.0,observed_or_transparently_derived,False
 soccerdata:sofascore:16363636,sunderland,613,521,4459.4,66,37,24,2,11,8,9,18,27,16,9,13,40,2026-08-22,ipswich_town,A,mgr:1a031e232e88,Régis Le Bris,4231,1,1.0,observed_or_transparently_derived,False
+soccerdata:sofascore:16363637,afc_bournemouth,365,271,3638.7,64,28,13,0,17,12,10,15,41,12,8,22,46,2026-09-05,newcastle_united,A,mgr:6fe0e0af19e4,Marco Rose,4231,1,1.0,observed_or_transparently_derived,False
+soccerdata:sofascore:16363637,newcastle_united,493,398,4103.2,38,32,13,0,9,5,6,24,41,5,6,15,48,2026-09-05,afc_bournemouth,H,mgr:bdab23b1e545,Matthias Jaissle,4231,1,1.0,observed_or_transparently_derived,False
+soccerdata:sofascore:16363638,nottingham_forest,348,255,3949.2999999999997,48,36,24,1,12,5,8,11,31,28,6,30,47,2026-09-05,tottenham_hotspur,H,mgr:1058459b93f2,Oliver Glasner,3421,1,1.0,observed_or_transparently_derived,False
+soccerdata:sofascore:16363638,tottenham_hotspur,506,413,3813.4,53,36,26,3,11,4,7,42,31,14,6,26,34,2026-09-05,nottingham_forest,A,mgr:b283d24885e5,Roberto De Zerbi,4231,1,1.0,observed_or_transparently_derived,False

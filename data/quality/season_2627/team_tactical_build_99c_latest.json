@@ -4,10 +4,10 @@
   "historical_baseline_available": true,
   "historical_rows": 760,
   "historical_clubs": 20,
-  "current_rows": 40,
+  "current_rows": 60,
   "current_clubs": 20,
-  "current_match_count": 20,
-  "trait_confidence_state": "Very Early",
+  "current_match_count": 30,
+  "trait_confidence_state": "Emerging",
   "products_status": "CURRENT",
-  "elapsed_seconds": 0.604
+  "elapsed_seconds": 0.687
 }

@@ -1,10 +1,10 @@
 area,state,last_successful_refresh,coverage,detail
-Core Data,Current,2026-09-02T23:53:36.590156+00:00,,Registered Fantrax/API build manifest
-Fantrax Weekly Exports,Current,2026-09-02T23:53:22.529887+00:00,12/12 managers,GW2 LIVE · all-player 665 rows · 0 manager exports missing
-Fantrax Matchup Scores,Current,2026-09-02T23:53:32+00:00,12/12 teams · 6/6 matchups,GW2 authoritative getLiveScoringStats
-Player / Matchup Reconciliation,Partial,2026-09-02T23:53:36.223795+00:00,12/12 live exact,8 all-source exact · 16 documented CSV source-state differences
-Unified Player-Week,Current,2026-09-02T23:53:45.143988+00:00,1282 players · 902 waivers,80 Fantasy Allowed rows · CURRENT
-WhoScored Advanced,Complete,2026-09-02T23:53:39.995177+00:00,20/20,0 preliminary · 20 stable · 0 missing · 0 failed · latest <NA>
-Schedule / Understat,Current,2026-09-02T22:44:43.651762+00:00,20 matches · 40 team · 622 player,Latest completed GW 2 · 57 unresolved player identities
-Advanced Models,Current,2026-09-02T23:53:42.392978+00:00,786 player-match · 30766 events,68 unresolved players · 20 managers
-Quality,Current,2026-09-02T23:53:37.685904+00:00,5/5 gates,0 failed validation gates
+Core Data,Current,2026-09-07T14:11:50.820568+00:00,,Registered Fantrax/API build manifest
+Fantrax Weekly Exports,Current,2026-09-07T14:11:37.063844+00:00,12/12 managers,GW3 LIVE · all-player 668 rows · 0 manager exports missing
+Fantrax Matchup Scores,Current,2026-09-07T14:11:47+00:00,12/12 teams · 6/6 matchups,GW3 authoritative getLiveScoringStats
+Player / Matchup Reconciliation,Partial,2026-09-07T14:11:50.534471+00:00,24/12 live exact,14 all-source exact · 22 documented CSV source-state differences
+Unified Player-Week,Current,2026-09-07T14:12:00.360060+00:00,1950 players · 1379 waivers,80 Fantasy Allowed rows · CURRENT
+WhoScored Advanced,Complete,2026-09-07T14:11:54.864636+00:00,30/30,10 preliminary · 20 stable · 0 missing · 0 failed · latest <NA>
+Schedule / Understat,Current,2026-09-07T13:58:03.317481+00:00,30 matches · 60 team · 929 player,Latest completed GW 3 · 72 unresolved player identities
+Advanced Models,Current,2026-09-07T14:11:57.592424+00:00,1179 player-match · 46038 events,67 unresolved players · 20 managers
+Quality,Current,2026-09-07T14:11:51.906148+00:00,5/5 gates,0 failed validation gates

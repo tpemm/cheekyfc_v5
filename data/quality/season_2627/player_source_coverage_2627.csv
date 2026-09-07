@@ -50,6 +50,7 @@ fantrax_player_id,registry_player_id,player_name,premier_league_club,fantasy_rel
 06yey,pr_d3c6d9758c0d58f0,Borna Sosa,CRY,False,True,True,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 061va,pr_b016316c46da3681,Boubacar Kamara,AVL,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,fantrax_weekly,fantrax_weekly,understat,fantrax_weekly,FANTRAX_PLUS_UNDERSTAT
 06r7l,,Bradley Burrowes,AVL,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
+072iu,,Braiden Graham,EVE,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 04gyd,pr_4b0a795381846473,Brandon Austin,TOT,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 076db,pr_93aaa65524dc1a19,Brandon Thomas-Asante,COV,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 061vp,pr_e6ad775ebcbdd929,Brenden Aaronson,LEE,True,True,True,True,True,True,False,True,True,True,True,True,True,True,False,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
@@ -92,12 +93,12 @@ fantrax_player_id,registry_player_id,player_name,premier_league_club,fantasy_rel
 04o82,pr_8e1c01c626f74500,Curtis Jones,LIV,True,True,True,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 06mnc,pr_5d553e6120b9bf92,Daichi Kamada,CRY,True,True,True,True,True,True,False,True,True,True,True,True,True,True,False,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
 02lsa,pr_e498483dbe5f9df9,Dan Burn,NEW,True,True,True,True,False,True,False,True,True,False,True,False,False,False,True,fantrax_weekly,fantrax_weekly,,fantrax_weekly,FULL_FANTRAX
-06zna,pr_0ba804aa25588fd7,Dan Ndoye,NOT,True,True,True,True,True,True,False,True,True,True,True,True,True,True,False,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
+06zna,pr_0ba804aa25588fd7,Dan Ndoye,NOT,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
 068lx,pr_bbe3dd6e230317d6,Dango Ouattara,BRF,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,fantrax_weekly,fantrax_weekly,understat,fantrax_weekly,FANTRAX_PLUS_UNDERSTAT
 03yr0,pr_9408d0ec5ea4f903,Daniel James,LEE,True,True,True,True,True,True,False,True,True,True,True,True,True,True,False,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
 06jgi,pr_d97faf00cf6a46e9,Daniel Muñoz Mejía,CRY,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,fantrax_weekly,fantrax_weekly,understat,fantrax_weekly,FANTRAX_PLUS_UNDERSTAT
 05nns,pr_16e9fdda80585024,Daniel Ballard,SUN,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,fantrax_weekly,fantrax_weekly,understat,fantrax_weekly,FANTRAX_PLUS_UNDERSTAT
-02lnx,pr_bb63dba0111b5f09,Danny Welbeck,BHA,True,True,True,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
+02lnx,pr_bb63dba0111b5f09,Danny Welbeck,BHA,True,True,True,True,True,True,False,True,True,True,True,True,True,True,False,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
 04gpx,pr_73bc3e2e40864d74,Dara O'Shea,IPS,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 06uzv,pr_8d7bd2aa76dc604e,Dário Luís Essugo,CHE,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 062du,pr_c3e918a39e04702e,Darko Gyabi,HUL,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
@@ -148,11 +149,12 @@ fantrax_player_id,registry_player_id,player_name,premier_league_club,fantasy_rel
 06phw,pr_6db8ea0b44fd6606,Federico Chiesa,LIV,True,True,True,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 06phe,pr_4dc99d3d6580cf12,Ferdi Kadıoğlu,BHA,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,fantrax_weekly,fantrax_weekly,understat,fantrax_weekly,FANTRAX_PLUS_UNDERSTAT
 06v21,pr_2d7f985dd7974e87,Florian Wirtz,LIV,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,fantrax_weekly,fantrax_weekly,understat,fantrax_weekly,FANTRAX_PLUS_UNDERSTAT
+073ab,pr_0776977ccd7efd7f,Floyd Samba,MCI,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 05ue7,pr_e6f716b92b2b5e00,Frank Onyeka,COV,False,True,True,True,True,True,False,True,True,True,True,True,True,True,False,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
 02ltw,pr_e25a0fd8f803e984,Fraser Forster,BOU,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 06s7r,,Freddie Simmonds,BHA,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 03m5i,pr_b334a8f437b9649d,Freddie Woodman,LIV,True,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
-06yb7,pr_870dfbdf3b841502,Gabriel Gudmundsson,LEE,True,True,True,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
+06yb7,pr_870dfbdf3b841502,Gabriel Gudmundsson,LEE,True,True,True,True,True,True,False,True,True,True,True,True,True,True,False,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
 045c8,pr_284e4e94d5730715,Gabriel Fernando de Jesus,ARS,True,True,True,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 05nzu,pr_244b54d86191f031,Gabriel dos Santos Magalhães,ARS,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,fantrax_weekly,fantrax_weekly,understat,fantrax_weekly,FANTRAX_PLUS_UNDERSTAT
 052h5,pr_f0ee48197b16402f,Gabriel Martinelli Silva,ARS,True,True,True,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
@@ -187,7 +189,7 @@ fantrax_player_id,registry_player_id,player_name,premier_league_club,fantasy_rel
 032aa,pr_9dbbd0694b98abcc,Jack Butland,HUL,True,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 05244,pr_48d75cf5aacf5c68,Jack Clarke,IPS,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 06mul,pr_cf992af79b4e943f,Jack Fletcher,MUN,False,True,True,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
-02lm7,pr_9b41dca09396d8c0,Jack Grealish,MCI,True,True,True,True,True,True,False,True,True,True,True,True,True,True,False,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
+02lm7,pr_9b41dca09396d8c0,Jack Grealish,MCI,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
 067ys,pr_b655ef0c4648a52a,Jack Hinshelwood,BHA,True,True,True,True,True,True,False,True,True,True,True,True,True,True,True,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
 076d3,pr_8423ecb420e3995f,Jack Rudoni,COV,True,True,False,True,False,True,True,True,True,False,True,False,False,False,True,fantrax_weekly,fantrax_weekly,,fantrax_weekly,FULL_FANTRAX
 06mg2,pr_d3ac41dee5429a37,Jack Taylor,IPS,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
@@ -232,7 +234,7 @@ fantrax_player_id,registry_player_id,player_name,premier_league_club,fantasy_rel
 04ge6,pr_097ebba0bedd1153,Joe Willock,NEW,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
 04h87,pr_36c16f1607d1980f,Joel Latibeaudiere,COV,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 0554i,pr_a32f5af33c18dffb,Joelinton Cássio Apolinário de Lira,NEW,True,True,True,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
-02m5l,pr_69e1eb773f5ff783,John Egan,HUL,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
+02m5l,pr_69e1eb773f5ff783,John Egan,HUL,True,True,False,True,False,True,True,True,True,False,True,False,False,False,True,fantrax_weekly,fantrax_weekly,,fantrax_weekly,FULL_FANTRAX
 051k0,pr_d6bde77cc34cf0fb,John McGinn,AVL,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,fantrax_weekly,fantrax_weekly,understat,fantrax_weekly,FANTRAX_PLUS_UNDERSTAT
 070gt,pr_5586d166809ee771,John Victor Maciel Furtado,NOT,False,True,True,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 070hr,pr_a237495b0b94cc5d,Jonah Kusi-Asare,FUL,False,True,True,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
@@ -263,7 +265,7 @@ fantrax_player_id,registry_player_id,player_name,premier_league_club,fantasy_rel
 05oeh,pr_fdad4dd485095d9d,Kenny Tete,FUL,True,True,True,True,False,True,False,True,True,False,True,False,False,False,True,fantrax_weekly,fantrax_weekly,,fantrax_weekly,FULL_FANTRAX
 04u40,pr_5ab5fac85b8b7d1a,Kepa Arrizabalaga Revuelta,ARS,True,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 070hj,pr_14a035f217071a3f,Kevin Santos Lopes de Macedo,FUL,True,True,True,True,True,True,False,True,True,True,True,True,True,True,False,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
-057cr,pr_ba572aab8d270f02,Kevin Danso,TOT,False,True,True,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
+057cr,pr_ba572aab8d270f02,Kevin Danso,TOT,False,True,True,True,True,True,False,True,True,True,True,True,True,True,False,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
 067zv,pr_1c86486bec2ca92c,Kevin Schade,BRF,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,fantrax_weekly,fantrax_weekly,understat,fantrax_weekly,FANTRAX_PLUS_UNDERSTAT
 03m5h,pr_f02a3ae767424fd0,Kieran Dowell,HUL,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 05gcc,pr_d8513955615ea805,Kiernan Dewsbury-Hall,EVE,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,fantrax_weekly,fantrax_weekly,understat,fantrax_weekly,FANTRAX_PLUS_UNDERSTAT
@@ -361,7 +363,7 @@ fantrax_player_id,registry_player_id,player_name,premier_league_club,fantasy_rel
 06mw0,pr_acaab790210f98b9,Nikola Milenković,NOT,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,fantrax_weekly,fantrax_weekly,understat,fantrax_weekly,FANTRAX_PLUS_UNDERSTAT
 072zs,pr_57dcdf49fa6ad0c0,Nilson Angulo,SUN,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,fantrax_weekly,fantrax_weekly,understat,fantrax_weekly,FANTRAX_PLUS_UNDERSTAT
 070cj,pr_73449eaf1ab68772,Noah Okafor,LEE,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,fantrax_weekly,fantrax_weekly,understat,fantrax_weekly,FANTRAX_PLUS_UNDERSTAT
-06y59,pr_c12e367361f3c17c,Noah Sadiki,SUN,False,True,True,True,True,True,False,True,True,True,True,True,True,True,False,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
+06y59,pr_c12e367361f3c17c,Noah Sadiki,SUN,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
 068n8,pr_c11c67017662dd73,Noni Madueke,ARS,True,True,True,True,True,True,False,True,True,True,True,True,True,True,False,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
 0703c,pr_ce87cfe19ab26a49,Nordi Mukiele,SUN,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,fantrax_weekly,fantrax_weekly,understat,fantrax_weekly,FANTRAX_PLUS_UNDERSTAT
 06p4j,pr_8ef17c294f616856,Noussair Mazraoui,MUN,True,True,True,True,True,True,False,True,True,True,True,True,True,True,False,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
@@ -377,7 +379,7 @@ fantrax_player_id,registry_player_id,player_name,premier_league_club,fantasy_rel
 03jlw,pr_9c0382a9cd8c69be,Paddy McNair,HUL,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 05w7t,pr_010a78223f8fc1bb,Pape Matar Sarr,TOT,True,True,True,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 04fk1,pr_9bde7d9c1f7c1b22,Pascal Groß,BHA,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,fantrax_weekly,fantrax_weekly,understat,fantrax_weekly,FANTRAX_PLUS_UNDERSTAT
-05mzz,pr_eb0b754e571da0e8,Pascal Struijk,BHA,True,True,True,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
+05mzz,pr_eb0b754e571da0e8,Pascal Struijk,BHA,True,True,True,True,True,True,False,True,True,True,True,True,True,True,False,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
 06rlj,pr_a36ef466ba952a14,Patrick Dorgu,MUN,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,fantrax_weekly,fantrax_weekly,understat,fantrax_weekly,FANTRAX_PLUS_UNDERSTAT
 06crm,pr_b1a354ac3b584cb0,Pau Torres,AVL,False,True,True,True,True,True,False,True,True,True,True,True,True,True,False,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
 056iy,pr_2fd3c5759a893d42,Pedro Lomba Neto,CHE,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,fantrax_weekly,fantrax_weekly,understat,fantrax_weekly,FANTRAX_PLUS_UNDERSTAT
@@ -419,7 +421,7 @@ fantrax_player_id,registry_player_id,player_name,premier_league_club,fantasy_rel
 05gcs,pr_91372d79a4be3f49,Sander Berge,FUL,False,True,True,True,True,True,False,True,True,True,True,True,True,True,False,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
 06cms,pr_285914ad61e3c1cc,Sandro Tonali,TOT,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,fantrax_weekly,fantrax_weekly,understat,fantrax_weekly,FANTRAX_PLUS_UNDERSTAT
 068yt,pr_a49ea4eff9cfbd48,Saša Lukić,FUL,True,True,True,True,True,True,False,True,True,True,True,True,True,True,False,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
-06mvz,pr_19b0f43a1db7e807,Sávio Moreira de Oliveira,MCI,True,True,True,True,False,True,False,True,True,False,True,False,False,False,True,fantrax_weekly,fantrax_weekly,,fantrax_weekly,FULL_FANTRAX
+06mvz,pr_19b0f43a1db7e807,Sávio Moreira de Oliveira,MCI,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,fantrax_weekly,fantrax_weekly,understat,fantrax_weekly,FANTRAX_PLUS_UNDERSTAT
 04ug0,pr_7d14212484bbcff7,Sean Longstaff,LEE,True,True,True,True,True,True,False,True,True,True,True,True,True,True,False,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
 06rnn,pr_f481f2c3cc1325ac,Sean Neave,NEW,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 03ksl,pr_deac0127221bee1b,Semi Ajayi,HUL,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
@@ -455,12 +457,12 @@ fantrax_player_id,registry_player_id,player_name,premier_league_club,fantasy_rel
 05akv,pr_d1e57b4a1b01e197,Tyrick Mitchell,CRY,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,fantrax_weekly,fantrax_weekly,understat,fantrax_weekly,FANTRAX_PLUS_UNDERSTAT
 06l4i,pr_fcffb1691d80c346,Tyrique George,EVE,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
 03rec,pr_1465ee1e7e1b56ba,Tyrone Mings,AVL,True,True,True,True,True,True,False,True,True,True,True,True,True,True,False,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
-05s08,pr_9b6355573f72b76b,Tino Livramento,NEW,True,True,True,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
+05s08,pr_9b6355573f72b76b,Tino Livramento,NEW,True,True,True,True,True,True,False,True,True,True,True,True,True,True,False,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
 070h9,pr_83c8f0a378bae427,Veljko Milosavljevic,BOU,False,True,True,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 04fk8,pr_243687ad8f276898,Victor Lindelöf,AVL,False,True,True,True,True,True,False,True,True,True,True,True,True,True,False,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
 076qg,pr_2dc8909ca052885f,Victor Munoz,LIV,True,True,False,True,False,True,True,True,True,False,True,False,False,False,True,fantrax_weekly,fantrax_weekly,,fantrax_weekly,FULL_FANTRAX
 076d7,pr_0083a6386e63c255,Victor Torp,COV,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
-04tsb,pr_9d461d0dfbe7f315,Viktor Gyökeres,ARS,True,True,True,True,False,True,False,True,True,False,True,False,False,False,True,fantrax_weekly,fantrax_weekly,,fantrax_weekly,FULL_FANTRAX
+04tsb,pr_9d461d0dfbe7f315,Viktor Gyökeres,ARS,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,fantrax_weekly,fantrax_weekly,understat,fantrax_weekly,FANTRAX_PLUS_UNDERSTAT
 03vlj,pr_d22ad43e3232f497,Virgil van Dijk,LIV,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,fantrax_weekly,fantrax_weekly,understat,fantrax_weekly,FANTRAX_PLUS_UNDERSTAT
 05ybq,pr_8f85fecae7a44d42,Vitalii Mykolenko,EVE,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
 05tre,pr_47422fce4553de7a,Vitaly Janelt,BRF,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
@@ -468,7 +470,7 @@ fantrax_player_id,registry_player_id,player_name,premier_league_club,fantasy_rel
 06fso,pr_54f511d8f8bd84de,Endo Wataru,LIV,False,True,True,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 05opl,pr_e348963d95814752,Wesley Fofana,CHE,True,True,True,True,True,True,False,True,True,True,True,True,True,True,False,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
 064a0,pr_4344aca4affbf1c5,Wilfried Gnonto,LEE,True,True,True,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
-04f6o,pr_217d82a1e5b8b409,Will Hughes,CRY,False,True,True,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
+04f6o,pr_217d82a1e5b8b409,Will Hughes,CRY,False,True,True,True,True,True,False,True,True,True,True,True,True,True,False,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
 05t6x,pr_3027067dcd49893e,William Osula,NEW,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,fantrax_weekly,fantrax_weekly,understat,fantrax_weekly,FANTRAX_PLUS_UNDERSTAT
 0558w,pr_57ea6d12eca7fc8a,William Saliba,ARS,True,True,True,True,False,True,False,True,True,False,True,False,False,False,True,fantrax_weekly,fantrax_weekly,,fantrax_weekly,FULL_FANTRAX
 06v0t,pr_c8af411415f16716,Wilson Isidor,SUN,True,True,True,True,True,True,False,True,True,True,True,True,True,True,False,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
@@ -485,20 +487,27 @@ fantrax_player_id,registry_player_id,player_name,premier_league_club,fantasy_rel
 061xs,FTX-061XS,Julio Enciso,,True,True,False,True,True,True,True,True,True,True,True,True,True,True,True,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
 06cm1,,Nicolas Jackson,,True,True,False,True,False,True,True,True,True,False,True,False,False,False,True,fantrax_weekly,fantrax_weekly,,fantrax_weekly,FULL_FANTRAX
 06mgd,FTX-06MGD,Abdul Fatawu,IPS,True,True,False,True,True,True,True,True,True,True,True,True,True,True,True,fantrax_weekly,fantrax_weekly,understat,fantrax_weekly,FANTRAX_PLUS_UNDERSTAT
+06msb,FTX-06MSB,Malick Yalcouye,BHA,True,True,False,True,True,True,True,True,True,True,True,True,True,True,True,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
+06ymu,FTX-06YMU,El Hadji Malick Diouf,,True,True,False,True,False,True,False,True,True,False,True,False,False,False,True,fantrax_weekly,fantrax_weekly,,fantrax_weekly,FULL_FANTRAX
 07848,,Johan Manzambi,AVL,True,True,False,True,False,True,False,True,True,False,True,False,False,False,True,fantrax_weekly,fantrax_weekly,,fantrax_weekly,FULL_FANTRAX
 0784b,,Marco Palestra,CHE,True,True,False,True,False,True,False,True,True,False,True,False,False,False,True,fantrax_weekly,fantrax_weekly,,fantrax_weekly,FULL_FANTRAX
 0784o,FTX-0784O,Oscar Mingueza,CRY,True,True,False,True,False,True,True,True,True,False,True,False,False,False,True,fantrax_weekly,fantrax_weekly,,fantrax_weekly,FULL_FANTRAX
-0784p,FTX-0784P,Hayden Hackney,EVE,True,True,False,True,True,True,True,True,True,True,True,True,True,True,True,fantrax_weekly,fantrax_weekly,understat,fantrax_weekly,FANTRAX_PLUS_UNDERSTAT
 0784w,FTX-0784W,Emersonn,IPS,True,True,False,True,True,True,True,True,True,True,True,True,True,True,True,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
 0784x,FTX-0784X,Daizen Maeda,IPS,True,True,False,True,True,True,True,True,True,True,True,True,True,True,True,fantrax_weekly,fantrax_weekly,understat,fantrax_weekly,FANTRAX_PLUS_UNDERSTAT
 0784y,FTX-0784Y,Tarik Muharemovic,LEE,True,True,False,True,True,True,True,True,True,True,True,True,True,True,True,fantrax_weekly,fantrax_weekly,understat,fantrax_weekly,FANTRAX_PLUS_UNDERSTAT
 0784z,FTX-0784Z,Jeremy Jacquet,LIV,True,True,False,True,True,True,True,True,True,True,True,True,True,True,True,fantrax_weekly,fantrax_weekly,understat,fantrax_weekly,FANTRAX_PLUS_UNDERSTAT
 07877,FTX-07877,Mamadou Sangare,BRF,True,True,False,True,True,True,True,True,True,True,True,True,True,True,True,fantrax_weekly,fantrax_weekly,understat,fantrax_weekly,FANTRAX_PLUS_UNDERSTAT
 0787y,FTX-0787Y,Antonio Silva,BOU,True,True,False,True,True,True,True,True,True,True,True,True,True,True,True,fantrax_weekly,fantrax_weekly,understat,fantrax_weekly,FANTRAX_PLUS_UNDERSTAT
+0788g,FTX-0788G,Lukas Hornicek,,True,True,False,True,True,True,True,True,True,True,True,True,True,True,True,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
 07898,FTX-07898,Gonzalo Garcia,,True,True,False,True,True,True,True,True,True,True,True,True,True,True,True,fantrax_weekly,fantrax_weekly,understat,fantrax_weekly,FANTRAX_PLUS_UNDERSTAT
 078az,FTX-078AZ,Konstantinos Tzolakis,,True,True,False,True,True,True,True,True,True,True,True,True,True,True,True,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
-078j4,,Ousmane Diomande,,True,True,False,True,False,True,False,True,True,False,True,False,False,False,True,fantrax_weekly,fantrax_weekly,,fantrax_weekly,FULL_FANTRAX
+078qg,FTX-078QG,Anan Khalaili,,True,True,False,True,True,True,True,True,True,True,True,True,True,True,True,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
 078ud,FTX-078UD,Amar Dedic,,True,True,False,True,True,True,True,True,True,True,True,True,True,True,True,fantrax_weekly,fantrax_weekly,understat,fantrax_weekly,FANTRAX_PLUS_UNDERSTAT
+0792s,FTX-0792S,Ayyoub Bouaddi,,True,True,False,True,True,True,True,True,True,True,True,True,True,True,True,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
+0793h,FTX-0793H,Exequiel Palacios,,True,True,False,True,True,True,True,True,True,True,True,True,True,True,True,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
+0793q,,Bradley Barcola,,True,True,False,True,False,True,True,True,True,False,True,False,False,False,True,fantrax_weekly,fantrax_weekly,,fantrax_weekly,FULL_FANTRAX
+0793x,,Ibrahim Mbaye,,True,True,False,True,False,True,False,True,True,False,True,False,False,False,True,fantrax_weekly,fantrax_weekly,,fantrax_weekly,FULL_FANTRAX
+07942,,Matias Fernandez-Pardo,,True,True,False,True,False,True,True,True,True,False,True,False,False,False,True,fantrax_weekly,fantrax_weekly,,fantrax_weekly,FULL_FANTRAX
 02lo6,,Daniel Bentley,,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 02lzt,,Keith Andrews,,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 03m3q,,Ainsley Maitland-Niles,,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
@@ -545,7 +554,6 @@ fantrax_player_id,registry_player_id,player_name,premier_league_club,fantasy_rel
 06mg4,FTX-06MG4,Cameron Humphreys,,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 06mgk,,Jayden Meghoma,,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 06mn1,FTX-06MN1,Ibrahim Osman,,False,True,False,True,True,True,False,True,True,True,True,True,True,True,False,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
-06msb,FTX-06MSB,Malick Yalcouye,,False,True,False,True,True,True,False,True,True,True,True,True,True,True,False,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
 06muk,,James Scanlon,,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 06nbu,,Stephen Mfuni,,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 06p4l,,Julian Araujo,,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
@@ -562,7 +570,6 @@ fantrax_player_id,registry_player_id,player_name,premier_league_club,fantasy_rel
 06xzp,,Luis Semedo,,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 06y27,FTX-06Y27,Loum Tchaouna,,False,True,False,True,True,True,False,True,True,True,True,True,True,True,False,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
 06ya6,,Kota Takai,,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
-06ymu,FTX-06YMU,El Hadji Malick Diouf,,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 06yxc,,Rory Mahady,,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 0703h,,Arnaud Kalimuendo,,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 070ha,,Florentino,,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
@@ -574,6 +581,7 @@ fantrax_player_id,registry_player_id,player_name,premier_league_club,fantasy_rel
 0784f,,Mahdi Nicoll-Jazuli,,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 0784i,FTX-0784I,Aurele Amenda,,False,True,False,True,True,True,False,True,True,True,True,True,True,True,False,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
 0784j,,Raphael Borges Rodrigues,,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
+0784p,FTX-0784P,Hayden Hackney,,False,True,False,True,True,True,True,True,True,True,True,True,True,True,True,fantrax_weekly,fantrax_weekly,understat,fantrax_weekly,FANTRAX_PLUS_UNDERSTAT
 0784r,FTX-0784R,Hidemasa Morita,,False,True,False,True,True,True,False,True,True,True,True,True,True,True,False,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
 0784s,,Abdulkadir Omur,,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 0784t,,Oscar Zambrano,,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
@@ -586,7 +594,6 @@ fantrax_player_id,registry_player_id,player_name,premier_league_club,fantasy_rel
 0785j,FTX-0785J,Thomas Meunier,,False,True,False,True,True,True,False,True,True,True,True,True,True,True,False,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
 0788a,,Darryl Ombang,,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 0788b,,Callum Mills,,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
-0788g,FTX-0788G,Lukas Hornicek,,False,True,False,True,True,True,False,True,True,True,True,True,True,True,False,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
 07897,FTX-07897,Cesar Palacios,,False,True,False,True,True,True,False,True,True,True,True,True,True,True,False,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
 078ei,FTX-078EI,Juanlu Sanchez,,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 078fx,,Owen Asemota,,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
@@ -605,13 +612,13 @@ fantrax_player_id,registry_player_id,player_name,premier_league_club,fantasy_rel
 078hi,FTX-078HI,Elliot Stroud,,False,True,False,True,True,True,False,True,True,True,True,True,True,True,False,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
 078hj,,Max-Edgar Chabot,,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 078i7,FTX-078I7,Ronald Araujo,,False,True,False,True,True,True,True,True,True,True,True,True,True,True,True,fantrax_weekly,fantrax_weekly,understat,fantrax_weekly,FANTRAX_PLUS_UNDERSTAT
+078j4,,Ousmane Diomande,,False,True,False,True,False,True,False,True,True,False,True,False,False,False,True,fantrax_weekly,fantrax_weekly,,fantrax_weekly,FULL_FANTRAX
 078le,FTX-078LE,Pep Chavarria,,False,True,False,True,True,True,False,True,True,True,True,True,True,True,False,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
 078lf,,George Pickford,,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 078lg,,Harvey Foster,,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 078lh,,Solomon Honor,,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 078ml,FTX-078ML,Lucas Herrington,,False,True,False,True,True,True,False,True,True,True,True,True,True,True,False,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
 078mm,FTX-078MM,Nobel Mendy,,False,True,False,True,True,True,False,True,True,True,True,True,True,True,False,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
-078qg,FTX-078QG,Anan Khalaili,,False,True,False,True,True,True,False,True,True,True,True,True,True,True,False,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
 078qh,FTX-078QH,Lucas Gourna-Douath,,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 078qi,,Miracle Adewole,,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 078qj,,Reiss Elliot-Parris,,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
@@ -631,23 +638,18 @@ fantrax_player_id,registry_player_id,player_name,premier_league_club,fantasy_rel
 0791n,FTX-0791N,Jaouen Hadjam,,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 0791o,,Charlie Compton,,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 0791p,,Tudor Mendel-Idowu,,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
-0792s,FTX-0792S,Ayyoub Bouaddi,,False,True,False,True,True,True,False,True,True,True,True,True,True,True,False,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
 0792z,,Leon Goretzka,,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 07930,,Josh Robertson,,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 07931,,Shane Nti,,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 07932,,Bradley Slade,,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 07933,,Chibby Nwoko,,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 07934,FTX-07934,Mohamed-Ali Cho,,False,True,False,True,True,True,False,True,True,True,True,True,True,True,False,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
-0793h,FTX-0793H,Exequiel Palacios,,False,True,False,True,True,True,False,True,True,True,True,True,True,True,False,understat,understat,understat,understat,FANTRAX_PLUS_UNDERSTAT
 0793n,,Michael Zetterer,,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 0793o,,Matias Orozco,,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 0793p,,Allan,,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
-0793q,,Bradley Barcola,,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 0793w,,Ilyas Ansah,,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
-0793x,,Ibrahim Mbaye,,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 0793y,,Honest Ahanor,,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 07941,,Jorja Fox,,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
-07942,,Matias Fernandez-Pardo,,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 07947,,Lucca Brughmans,,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 07948,,Hugo Larsson,,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 07949,,Manuel Angel,,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
@@ -664,3 +666,4 @@ fantrax_player_id,registry_player_id,player_name,premier_league_club,fantasy_rel
 0794k,,Juan Angulo,,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 0794m,,Quinten Timber,,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
 0794n,,Femi Azeez,,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX
+07959,,Yann Gboho,,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,,,,FULL_FANTRAX

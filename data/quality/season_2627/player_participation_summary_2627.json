@@ -1,12 +1,12 @@
 {
-  "starter_observations": 439,
-  "matches": 20,
-  "club_match_groups": 40,
+  "starter_observations": 658,
+  "matches": 30,
+  "club_match_groups": 60,
   "all_club_matches_have_11": false,
   "duplicate_player_match": false,
   "starter_gate_pass": false,
-  "participation_rows": 786,
-  "appeared": 616,
-  "summary_players": 665,
+  "participation_rows": 1179,
+  "appeared": 919,
+  "summary_players": 668,
   "janelt_fixed": false
 }

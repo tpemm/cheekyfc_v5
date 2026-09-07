@@ -1,7 +1,7 @@
 dataset,season,rows,load_seconds
-live_player_weekly_enriched,2627,1282,0.0011
-supplemental_player_match,2627,786,0.0008
-player_pitch_events,2627,30766,0.0012
-player_pitch_events,2526,571844,0.1624
-team_playstyle_profile,2627,21,0.0026
-manager_week_summary,2627,24,0.0007
+live_player_weekly_enriched,2627,1950,0.0009
+supplemental_player_match,2627,1179,0.0006
+player_pitch_events,2627,46038,0.0013
+player_pitch_events,2526,571844,0.143
+team_playstyle_profile,2627,23,0.0019
+manager_week_summary,2627,36,0.0007
