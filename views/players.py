@@ -23,6 +23,7 @@ from components.player_pitch import add_lines, add_points, draw_pitch
 from analytics.teams.fixtures import enrich_players_with_fixtures
 from components.charts import apply_chart_theme
 from fantrax.live.player_performance import aggregate_player_window
+from fantrax.live.current_state import ROSTER_STATUS_OPTIONS, filter_roster_status, freshness_caption, get_current_state, overlay_player_state
 from core.services.data_manager import DataManager
 from core.services.season_manager import SeasonManager
 from core.services.historical_advanced import get_historical_player_advanced,load_historical_advanced_frame
@@ -72,7 +73,7 @@ def _live_database_frame_legacy(frame: pd.DataFrame, rate_basis: str) -> pd.Data
     result=pd.DataFrame(index=frame.index)
     result["Player"]=frame.get("player_name")
     result["Club / Position"]=frame.get("premier_league_club",pd.Series("",index=frame.index)).fillna("").astype(str)+" · "+frame.get("fantrax_position",pd.Series("",index=frame.index)).fillna("").astype(str)
-    result["Owner / Availability"]=owner.mask(available,"Available").replace("","Available")
+    result["Owner / Availability"]=frame.apply(ownership_text,axis=1)
     for label,field in ((points_label,points),(ghost_label,ghost),(xgi_label,xgi)):
         result[label]=pd.to_numeric(frame.get(field,pd.Series(pd.NA,index=frame.index)),errors="coerce")
     for label,field in (("Goals","current_goals"),("Fantrax Assists","current_assists"),("KP","current_key_passes"),("TkW","current_tackles_won"),("Int","current_interceptions"),("AER","current_aerials_won"),("Accurate Crosses","current_accurate_crosses"),("xG","current_xg"),("xA","current_xa")):
@@ -85,7 +86,7 @@ def _live_database_frame_legacy(frame: pd.DataFrame, rate_basis: str) -> pd.Data
 def live_database_frame(frame:pd.DataFrame,rate_basis:str)->pd.DataFrame:
     """Current-first discovery and waiver-research contract."""
     available=frame.get("available",pd.Series(False,index=frame.index)).fillna(False).astype(bool);owner=frame.get("current_manager_name",pd.Series(index=frame.index,dtype=object)).fillna("").astype(str).str.strip()
-    result=pd.DataFrame(index=frame.index);result["Player"]=frame.get("player_name");result["Club"]=frame.get("premier_league_club");result["Position"]=frame.get("fantrax_position");result["Fantasy Manager / Available"]=owner.mask(available,"Available").replace("","Available");result["Ownership %"]=pd.to_numeric(frame.get("rostered_pct",pd.Series(pd.NA,index=frame.index)),errors="coerce")
+    result=pd.DataFrame(index=frame.index);result["Player"]=frame.get("player_name");result["Club"]=frame.get("premier_league_club");result["Position"]=frame.get("fantrax_position");result["Fantasy Manager / Available"]=frame.apply(ownership_text,axis=1);result["Ownership %"]=pd.to_numeric(frame.get("rostered_pct",pd.Series(pd.NA,index=frame.index)),errors="coerce")
     for label,field in (("FPts","current_fantasy_points"),("FPts/Game","current_points_per_game"),("FPts/Start","current_points_per_start"),("Ghost/Start","current_ghost_per_start"),("GP","current_appearances"),("Starts","current_starts"),("Minutes","current_minutes"),("Goals","current_goals"),("Assists","current_assists"),("KP","current_key_passes"),("TkW","current_tackles_won"),("Interceptions","current_interceptions"),("Aerial Wins","current_aerials_won"),("Accurate Crosses","current_accurate_crosses"),("Clean Sheets","current_clean_sheets"),("xG","current_xg"),("xA","current_xa"),("xG/90","current_xg_per_90"),("xA/90","current_xa_per_90")):
         result[label]=pd.to_numeric(frame.get(field,pd.Series(pd.NA,index=frame.index)),errors="coerce")
     return result
@@ -534,7 +535,7 @@ def _compact_profile_legacy(ui: Any, row: pd.Series, events: pd.DataFrame, histo
 
 def _compact_profile(ui: Any,row:pd.Series,events:pd.DataFrame,history:pd.DataFrame,frame:pd.DataFrame,weekly:pd.DataFrame,historical_weekly:pd.DataFrame,supplemental:pd.DataFrame=pd.DataFrame(),advanced_profiles:pd.DataFrame=pd.DataFrame(),role_usage:pd.DataFrame=pd.DataFrame(),set_pieces:pd.DataFrame=pd.DataFrame(),event_data:pd.DataFrame=pd.DataFrame(),advanced_season:str="2026/27 Current",match_log:pd.DataFrame=pd.DataFrame(),fixtures:pd.DataFrame=pd.DataFrame(),data_manager:DataManager|None=None,historical_match_log:pd.DataFrame=pd.DataFrame())->None:
     """Draft-Academical-style, fixed current-season research hierarchy."""
-    player_id=stable_player_id(row);fantrax_id=str(row.get("fantrax_player_id",""));owner=ownership_text(row);status="Rostered" if owner!="Available" else "Available / Waiver"
+    player_id=stable_player_id(row);fantrax_id=str(row.get("fantrax_player_id",""));owner=ownership_text(row);status="Available / Free Agent" if owner=="Available" else "Unknown" if owner=="Ownership unknown" else "Rostered"
     ui.markdown(f'<div class="player-identity"><div><div class="ft-eyebrow">2026/27 Player Research</div><div class="player-name">{row.get("player_name","Player")}</div><div class="player-club">{row.get("premier_league_club","")} · <span class="ft-badge ft-badge-accent">{row.get("fantrax_position","")}</span></div></div><div class="player-owner"><span>{status}</span><b>{owner}</b></div></div>',unsafe_allow_html=True)
     kpis=overview_kpis(row);primary=ui.columns(6)
     for column,item in zip(primary,kpis[:6]):
@@ -603,17 +604,19 @@ def render(season_id: str, *, data_manager: DataManager | None = None, season_ma
     else:
         window=ui.selectbox("Performance window",["Season","Last 3","Last 5","Last 10"],key="live_player_window"); frame,window_label=apply_live_window(frame,weekly,window); ui.caption(f"Current performance coverage: {window_label}")
     if not summary.empty:frame=overlay_current_summary(frame,summary,match_log)
-    if not ownership.empty:frame=overlay_current_ownership(frame,ownership)
+    live_state=get_current_state()
+    frame=overlay_player_state(frame,ownership,live_state)
+    ui.caption(freshness_caption(live_state))
     if not historical_profile.empty:frame=overlay_historical_advanced(frame,historical_profile)
     state=getattr(ui,"session_state",st.session_state)
     subview=ui.segmented_control("Players view",["Player Database","Player Profile","Player Comparison"],default="Player Database",key="players_subview",label_visibility="collapsed",width="stretch")
     if subview=="Player Database":
         a,b,c,d,e=ui.columns(5)
-        search=a.text_input("Search"); availability=b.selectbox("Availability",["All Players","Available Only"]); rate_basis=c.selectbox("Rate Basis",LIVE_RATE_BASES,index=1,key="live_database_rate"); position=d.selectbox("Position",["All","G","D","M","F"])
+        search=a.text_input("Search"); availability=b.selectbox("Roster Status",ROSTER_STATUS_OPTIONS,index=0); rate_basis=c.selectbox("Rate Basis",LIVE_RATE_BASES,index=1,key="live_database_rate"); position=d.selectbox("Position",["All","G","D","M","F"])
         default_sort="Points" if live_sort_field(frame,rate_basis)!="fantrax_projected_points" else "Projected Points"
         sort_by=e.selectbox("Sort By",SORT_OPTIONS,index=SORT_OPTIONS.index(default_sort))
         filtered=filter_players(frame,search=search,position=position)
-        if availability=="Available Only": filtered=filtered[filtered.get("available",pd.Series(False,index=filtered.index)).fillna(False).astype(bool)]
+        filtered=filter_roster_status(filtered,availability)
         filtered=sort_players(filtered,live_sort_field(frame,rate_basis,sort_by),False)
         display=live_database_frame(filtered,rate_basis); cols=list(display.columns)
         if ui is st:

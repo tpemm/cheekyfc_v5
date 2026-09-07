@@ -7,6 +7,7 @@ import streamlit as st
 from components.presentation import SHARED_COMPONENT_CSS, page_header, section_header
 from core.services.data_manager import DataManager
 from core.services.season_manager import SeasonManager
+from fantrax.live.current_state import get_current_state, overlay_player_state, overlay_manager_names, overlay_manager_roster_metrics, freshness_caption
 from fantrax.live.analytics import expected_record
 from views.live_league_hub import _load
 
@@ -49,6 +50,12 @@ def render(season_id:str,*,data_manager:DataManager|None=None,season_manager:Sea
     frames={key:_load(data,key,season_id,namespace,ui) for key in keys};managers=frames["live_manager_analytics"];players=frames["live_player_analytics"];strength=frames["live_position_strength"];weeks=frames["manager_week_summary"];manager_players=frames["manager_player_weekly"];events=frames["roster_change_events"];cup_matchups=frames["cup_matchups"];cup_records=frames["cup_records"]
     historical=_load(data,"manager_profile_summary","2526",seasons.resolve_namespace("2526"),ui)
     if managers.empty:ui.info("Run Refresh League in Operations Center to build live manager analytics.");return
+    live_state=get_current_state()
+    ui.caption(freshness_caption(live_state))
+    managers=overlay_manager_names(managers,live_state["teams"])
+    ownership=_load(data,"player_ownership",season_id,namespace,ui)
+    players=overlay_player_state(players,ownership,live_state)
+    managers=overlay_manager_roster_metrics(managers,players,live_state)
     directory=managers.copy();directory["Record"]=directory[[c for c in ("wins","draws","losses") if c in directory]].apply(pd.to_numeric,errors="coerce").fillna(0).astype(int).astype(str).agg("-".join,axis=1)
     display=directory.rename(columns={"current_rank":"Rank","fantasy_team_name":"Team","manager_name":"Manager","points_for":"Points For","average_weekly_score":"Average Score","current_roster_projection":"Roster Projection","historical_points_per_90":"Historical Points / 90","current_roster_points_per_90":"Current Points / 90","current_roster_ghost_per_90":"Current Ghost / 90","draft_retention_pct":"Draft Retention %","latest_roster_change":"Recent Activity"})
     ui.dataframe(display[[c for c in ("Rank","Team","Manager","Record","Points For","Average Score","Roster Projection","Historical Points / 90","Current Points / 90","Current Ghost / 90","Draft Retention %","Recent Activity") if c in display]],hide_index=True,use_container_width=True)

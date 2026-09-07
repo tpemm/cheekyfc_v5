@@ -130,12 +130,16 @@ def _show_result(ui:Any,results:list[OperationResult])->None:
 
 
 def _refresh_league(ui:Any,operations:OperationsService,season_id:str)->None:
+    from fantrax.live.current_state import get_current_state, freshness_caption
     running_key="_operation_running_core_refresh"
     if ui.session_state.get(running_key) or ui.session_state.get("_operation_running_refresh_live_fantrax_sources"):
         ui.warning("This operation is already running.");return
     ui.session_state[running_key]=True
     progress=ui.progress(0,text="Connecting to Fantrax");started=datetime.now()
     try:
+        if str(season_id)=="2627":
+            live_state=get_current_state(force=True)
+            ui.caption(freshness_caption(live_state))
         with ui.spinner("Refreshing registered core stages…"):run=run_core_refresh(operations,season_id)
     finally:ui.session_state[running_key]=False
     for stage in run.stages:_record_activity(ui,stage.label,stage.result)

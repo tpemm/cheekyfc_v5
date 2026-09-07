@@ -134,9 +134,10 @@ def resolve_metric(*,fantrax_value,fantrax_observed:bool,derived_value=pd.NA,der
 
 
 def ownership_text(row:pd.Series)->str:
+    if str(row.get("available", False)).lower()=="true":return "Available"
     manager=row.get("current_manager_name")
     if pd.notna(manager) and str(manager).strip():return str(manager)
-    return "Available"
+    return "Ownership unknown"
 
 
 def overview_kpis(row:pd.Series)->list[dict]:

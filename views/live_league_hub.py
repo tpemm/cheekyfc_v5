@@ -14,7 +14,7 @@ from fantrax.live.league_analytics import (
     configured_manager_of_month,league_highlights,manager_active_season_totals,manager_award_leaderboards,scoring_frames,
 )
 from fantrax.live.league_lineups import manager_performance_weeks
-from fantrax.live.manager_name_history import resolve_current_manager_names
+from fantrax.live.current_state import get_current_state, freshness_caption, overlay_current_standings
 
 LIVE_DATASET_KEYS=("league_teams","league_standings","weekly_matchups","manager_week_summary","cup_configuration","cup_matchups","league_active_player_weekly","current_player_weekly")
 HEADLINE_CARD_CSS="""<style>.hub-headline-card{min-height:112px;height:100%;display:flex;flex-direction:column;justify-content:flex-start}.hub-headline-card .ft-kpi-value{font-size:1.15rem}.hub-leaderboard{min-height:165px}.hub-leader-row{display:grid;grid-template-columns:1.2rem 1fr auto;gap:.35rem;padding:.3rem 0;border-bottom:1px solid var(--ft-border);font-size:.78rem}.hub-leader-row:first-of-type{font-weight:800}</style>"""
@@ -84,11 +84,13 @@ def render(season_id:str,*,data_manager:DataManager|None=None,season_manager:Sea
     ui.markdown(SHARED_COMPONENT_CSS+HEADLINE_CARD_CSS,unsafe_allow_html=True);page_header(ui,"League Hub",badge="2026/27 \u00b7 Live")
     frames={key:_load(data,key,season_id,namespace,ui) for key in LIVE_DATASET_KEYS}
     if frames["league_standings"].empty and frames["league_teams"].empty:ui.info("Live league data is not available yet.");return
-    weeks=manager_performance_weeks(resolve_current_manager_names(frames["manager_week_summary"],frames["league_teams"]),frames["current_player_weekly"])
-    current_names=dict(zip(frames["league_teams"].fantasy_team_id.astype(str),frames["league_teams"].fantasy_team_name.astype(str))) if not frames["league_teams"].empty else {}
-    for side in ("home","away"):
-        frames["weekly_matchups"][f"{side}_manager"]=frames["weekly_matchups"][f"{side}_team_id"].astype(str).map(current_names).fillna(frames["weekly_matchups"][f"{side}_manager"])
+    live_state=get_current_state()
+    ui.caption(freshness_caption(live_state))
+    if not live_state["teams"].empty:frames["league_teams"]=live_state["teams"].copy()
+    if not live_state["standings"].empty:frames["league_standings"]=live_state["standings"].copy()
+    weeks=manager_performance_weeks(frames["manager_week_summary"],frames["current_player_weekly"])
     model=build_live_hub_model(frames["league_teams"],frames["league_standings"],frames["weekly_matchups"],weeks)
+    model["summary"]=overlay_current_standings(model["summary"],live_state["standings"])
     final_weeks=weeks[~weeks.get("source_coverage",pd.Series(index=weeks.index,dtype=object)).astype(str).str.contains("live",case=False,na=False)]
     jesters=jester_history(final_weeks);latest=jesters.sort_values("period").tail(1);counts=jesters.groupby(["manager_id","manager_name"],dropna=False).size().reset_index(name="count") if not jesters.empty else pd.DataFrame()
     latest_value="Not awarded yet" if latest.empty else str(latest.iloc[0]["manager_name"]);latest_detail="" if latest.empty else f"GW {int(latest.iloc[0]['period'])} \u00b7 {_number(latest.iloc[0]['weekly_score'])} pts"
