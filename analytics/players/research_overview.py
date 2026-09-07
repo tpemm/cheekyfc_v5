@@ -74,6 +74,20 @@ SUMMARY_ALIASES["aerial_wins"]="current_aerials_won"
 for _suffix in ("per_game","per_start","per_90"):SUMMARY_ALIASES[f"aerial_wins_{_suffix}"]=f"current_aerials_won_{_suffix}"
 
 
+def preserve_canonical_club(frame: pd.DataFrame) -> pd.DataFrame:
+    """Resolve display club from the same canonical player row, before ownership joins.
+
+    Players added after the preseason pool can have a populated ``club`` but no
+    ``premier_league_club``. Never interpret fantasy ``current_team`` as a club.
+    """
+    from fantrax.live.current_identity import nonblank
+    out = frame.copy()
+    primary = out.get("premier_league_club", pd.Series(index=out.index, dtype="string"))
+    fallback = out.get("club", pd.Series(index=out.index, dtype="string"))
+    out["premier_league_club"] = nonblank(primary).combine_first(nonblank(fallback))
+    return out
+
+
 def overlay_current_summary(frame:pd.DataFrame,summary:pd.DataFrame,observations:pd.DataFrame|None=None)->pd.DataFrame:
     """Promote the canonical 9.8A summary without historical or projection fallback."""
     if frame.empty or summary.empty:return frame.copy()

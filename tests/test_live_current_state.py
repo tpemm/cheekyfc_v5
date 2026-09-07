@@ -7,7 +7,7 @@ from pandas.testing import assert_frame_equal
 
 from fantrax.live import current_state as live
 from fantrax.live.config import load_live_season_config
-from analytics.players.research_overview import ownership_text
+from analytics.players.research_overview import ownership_text, preserve_canonical_club
 from views.players import live_database_frame
 
 TEAM = "h1vdt8ynmrp1z5vp"
@@ -182,6 +182,7 @@ def test_database_render_defaults_to_available_and_uses_live_drop(monkeypatch):
     from unittest.mock import MagicMock
     from views import players as page
     pool = players();pool["fantrax_projected_points"] = [100., 50.];pool["historical_minutes"] = [90., 90.]
+    pool["premier_league_club"] = None;pool["club"] = ["AVL", "LEE"]
     published = snapshot();published["available"] = False;published["ownership_status"] = "Rostered"
     monkeypatch.setattr(page, "_load", lambda data, key, *args: pool.copy() if key == "live_player_analytics" else published.copy() if key == "player_ownership" else pd.DataFrame())
     monkeypatch.setattr(page, "get_current_state", lambda: acquire(responses(owned=False)))
@@ -194,4 +195,62 @@ def test_database_render_defaults_to_available_and_uses_live_drop(monkeypatch):
     shown = ui.dataframe.call_args.args[0]
     assert len(shown) == 2
     assert shown["Fantasy Manager / Available"].eq("Available").all()
+    assert shown["Club"].tolist() == ["AVL", "LEE"]
     ui.selectbox.assert_any_call("Roster Status", ("Available", "Rostered", "All"), index=0)
+
+
+def test_canonical_clubs_survive_null_live_metadata_by_player_id():
+    ids = ["078i7", "078mm", "078wo", "06ew2"]
+    clubs = ["LIV", "HUL", "LEE", "CRY"]
+    canonical = pd.DataFrame({"fantrax_player_id": ids, "player_name": ["Same name"] * 4,
+                              "club": clubs, "premier_league_club": [None, "None", "", pd.NA]})
+    before = canonical.copy(deep=True)
+    state = acquire(responses(owned=False))
+    # Neither null roster club fields nor conflicting display names are metadata authority.
+    state["rosters"]["club"] = None
+    published = pd.DataFrame({"fantrax_player_id": ids[::-1], "player_name": ["Other name"] * 4,
+                              "club": [None] * 4, "available": [False] * 4})
+    result = live.overlay_player_state(preserve_canonical_club(canonical), published, state)
+    assert result.premier_league_club.tolist() == clubs
+    assert result.fantrax_player_id.tolist() == ids
+    assert result.player_name.tolist() == ["Same name"] * 4
+    assert result.available.all()
+    assert live_database_frame(result, "Per Start")["Club"].tolist() == clubs
+    assert [ownership_text(row) for _, row in result.iterrows()] == ["Available"] * 4
+    assert_frame_equal(canonical, before)
+    canonical["premier_league_club"] = "Existing"
+    assert preserve_canonical_club(canonical).premier_league_club.eq("Existing").all()
+
+
+def test_buendia_period_response_is_not_overruled_by_unvalidated_metadata():
+    payload = responses()
+    team_id = "aup99ojzmrp1z5vp"
+    payload["league_metadata"]["teamInfo"][team_id] = payload["league_metadata"]["teamInfo"].pop(OTHER)
+    payload["rosters"]["rosters"][team_id] = payload["rosters"]["rosters"].pop(OTHER)
+    payload["rosters"]["rosters"][team_id]["teamName"] = "The Facerockers"
+    payload["standings"][1]["teamId"] = team_id
+    payload["rosters"]["rosters"][team_id]["rosterItems"] = [{"id": "051kl", "position": "M", "status": "ACTIVE"}]
+    payload["league_metadata"]["playerInfo"] = {"051kl": {"eligiblePos": "M", "status": "WW"}}
+    pool = pd.DataFrame({"fantrax_player_id": ["051kl"], "player_name": ["Emiliano Buendia"], "club": ["AVL"]})
+    result = live.overlay_player_state(pool, pd.DataFrame(), acquire(payload))
+    assert not result.available.iloc[0]
+    assert result.current_manager_id.iloc[0] == team_id
+
+
+def test_force_refresh_applies_returned_roster_change_immediately(monkeypatch):
+    calls = []
+    monkeypatch.setattr(live, "load_live_season_config", config)
+    original_acquire = live.acquire_current_state
+    def acquire_fixture(config):
+        calls.append(1)
+        payload = responses(owned=len(calls) == 1)
+        return original_acquire(config, fetch=lambda kind, *args, **kwargs: payload[kind], now=NOW)
+    monkeypatch.setattr(live, "acquire_current_state", acquire_fixture)
+    live._cached_state.clear()
+    try:
+        first = live.overlay_player_state(players(), snapshot(), live.get_current_state())
+        cached = live.overlay_player_state(players(), snapshot(), live.get_current_state())
+        changed = live.overlay_player_state(players(), snapshot(), live.get_current_state(force=True))
+        assert not first.available.iloc[0] and not cached.available.iloc[0]
+        assert changed.available.iloc[0] and len(calls) == 2
+    finally:live._cached_state.clear()

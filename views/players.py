@@ -13,7 +13,7 @@ from analytics.players.comparison import COMPARE_KEY, add_compare, clear_compare
 from analytics.players.comparison_display import COMPARE_CARD_CSS, comparison_card_html, comparison_cards, comparison_exact_table, comparison_table_styler
 from analytics.players.match_analysis import calculate_home_away_split, calculate_points_breakdown, match_research_summary, prepare_gameweek_table, prepare_last_n_periods, prepare_match_research_frame, prepare_match_research_table, prepare_player_gameweek_frame, production_distribution, supported_optional_columns
 from analytics.players.profile_overview import DEFAULT_RADAR_KEYS, OVERVIEW_METRICS, exact_stats_frame, overview_radar_records, valid_radar_records
-from analytics.players.research_overview import ATTACKING_AXES, DEFENSIVE_AXES, FANTASY_AXES, fixed_radar_records, fixture_cards_html, format_overview_value, historical_profile_availability, next_fixtures, overview_gameweek_table, overview_kpis, overlay_current_ownership, overlay_current_summary, overlay_historical_advanced, ownership_text, set_piece_chips
+from analytics.players.research_overview import ATTACKING_AXES, DEFENSIVE_AXES, FANTASY_AXES, fixed_radar_records, fixture_cards_html, format_overview_value, historical_profile_availability, next_fixtures, overview_gameweek_table, overview_kpis, overlay_current_ownership, overlay_current_summary, overlay_historical_advanced, ownership_text, preserve_canonical_club, set_piece_chips
 from analytics.players.ranking import sort_by_metric
 from analytics.advanced_descriptive import filter_pitch_events,apply_event_window,add_plot_coordinates
 from analytics.advanced_presentation import PLAYER_GROUPS, player_metric_group, player_snapshot, pitch_layer_summary, role_share_frame
@@ -594,6 +594,7 @@ def render(season_id: str, *, data_manager: DataManager | None = None, season_ma
     seasons=season_manager or SeasonManager(); data=data_manager or DataManager(season_manager=seasons); namespace=seasons.resolve_namespace(season_id)
     ui.markdown(SHARED_COMPONENT_CSS,unsafe_allow_html=True); page_header(ui,"Players",badge="2026/27 · Live")
     frame=_load(data,"live_player_analytics",season_id,namespace,ui); events=_load(data,"roster_change_events",season_id,namespace,ui); history=_load(data,"roster_history",season_id,namespace,ui); ownership=_load(data,"player_ownership",season_id,namespace,ui); weekly=_load(data,"live_player_weekly_enriched",season_id,namespace,ui); summary=_load(data,"current_player_season_summary",season_id,namespace,ui); match_log=_load(data,"current_player_match_log",season_id,namespace,ui);historical_profile=_load(data,"historical_player_research_profile",season_id,namespace,ui)
+    frame=preserve_canonical_club(frame)
     if weekly.empty:weekly=_load(data,"current_player_weekly",season_id,namespace,ui)
     clubs=_load(data,"premier_league_clubs",season_id,namespace,ui); fixtures=_load(data,"team_fixtures",season_id,namespace,ui)
     if not frame.empty and not clubs.empty and not fixtures.empty:
