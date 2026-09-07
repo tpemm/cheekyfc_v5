@@ -8,7 +8,7 @@ ROOT=Path(__file__).resolve().parents[1];sys.path.insert(0,str(ROOT))
 from fantrax.live.config import load_live_season_config
 from fantrax.live.normalization import load_cached_json
 from fantrax.live.weekly_acquisition import _auth_path,plan_periods,read_period_metadata
-from integrations.whoscored.live_refresh import acquisition_plan,build_live_manifest,cached_provider_schedule
+from integrations.whoscored.live_refresh import acquisition_plan,build_live_manifest,cached_provider_schedule,validated_cache_manifest
 from integrations.whoscored.workflows import atomic_json
 from scripts.refresh_understat_live import refresh_plan as understat_plan
 from fantrax.live.provider_maturity import provider_plan
@@ -22,19 +22,9 @@ def browser_command(script,*args):
     return [executable,str(ROOT/'scripts'/script),*map(str,args)]
 def plan(season):
     config=load_live_season_config();league_path=config.raw_root/f'league/league_metadata_{season}_latest.json';league=load_cached_json(league_path);fp=plan_periods(league,config.raw_root);period=fp['current_period'];meta=read_period_metadata(config.raw_root,period) if period else {}
-    fixtures=pd.read_csv(config.model_root/f'team_matches_{season}.csv');manifest_path=ROOT/f'data/reference/whoscored_season_manifest_{season}.csv';existing=pd.read_csv(manifest_path) if manifest_path.exists() else pd.DataFrame();provider=cached_provider_schedule(ROOT/f'data/raw/whoscored/{season}/poc/_soccerdata_native');wm=build_live_manifest(fixtures,existing=existing,provider_schedule=provider);wp=acquisition_plan(wm)
+    fixtures=pd.read_csv(config.model_root/f'team_matches_{season}.csv');manifest_path=ROOT/f'data/reference/whoscored_season_manifest_{season}.csv';existing=pd.read_csv(manifest_path) if manifest_path.exists() else pd.DataFrame();provider=cached_provider_schedule(ROOT/f'data/raw/whoscored/{season}/poc/_soccerdata_native');wm=build_live_manifest(fixtures,existing=existing,provider_schedule=provider);wm,ws_meta=validated_cache_manifest(wm,ROOT/f'data/raw/whoscored/{season}/poc');wp=acquisition_plan(wm)
     up=understat_plan(season)
     weekly_path=config.model_root/f'current_player_weekly_{season}.csv';weekly=pd.read_csv(weekly_path,low_memory=False) if weekly_path.exists() else pd.DataFrame();period_rows=weekly[pd.to_numeric(weekly.get('period'),errors='coerce').eq(period)] if period and not weekly.empty else pd.DataFrame();fantrax_maturity='FINALIZED' if meta.get('finalized') else 'COMPLETE_PENDING_CORRECTIONS' if len(period_rows) and period_rows.get('period_complete',pd.Series(False,index=period_rows.index)).fillna(False).astype(bool).all() else meta.get('maturity','MISSING')
-    ws_meta=[]
-    for path in (ROOT/f'data/raw/whoscored/{season}/poc').glob('match_*/metadata.json'):
-        try:ws_meta.append(json.loads(path.read_text(encoding='utf-8')))
-        except Exception:pass
-    us_meta=[]
-    latest=ROOT/f'data/quality/season_{season}/understat_live_latest_{season}.json'
-    if latest.exists():
-        try:
-            value=json.loads(latest.read_text(encoding='utf-8'));us_maturity=value.get('maturity') or ('STABLE' if up.get('cache_state')=='STABLE' else 'PRELIMINARY');us_meta=[{'maturity':us_maturity,'retrieved_at':value.get('retrieved_at')}]*int(value.get('matches',10))
-        except Exception:pass
     eligible_ws=wp.get('stable',0)+wp.get('preliminary',0)+wp.get('missing_eligible',0)+wp.get('failed_retryable',0)
     matchup_meta_path=config.raw_root/f'matchups/period_{int(period or 1):02d}/metadata.json'
     try:matchup_meta=json.loads(matchup_meta_path.read_text(encoding='utf-8'))
@@ -47,7 +37,7 @@ def plan(season):
     try:marker=json.loads(marker_path.read_text(encoding='utf-8'))
     except Exception:marker={}
     previous_checked=bool(previous and marker.get('previous_gw')==previous and marker.get('previous_correction_check')=='PASS')
-    return {'season':season,'fantrax_current_period':period,'previous_gw_status':previous_status,'previous_correction_checked':previous_checked,'fantrax_maturity':fantrax_maturity,'pending_correction_confirmation':fantrax_maturity=='COMPLETE_PENDING_CORRECTIONS','manager_csv_expected':len(league.get('teamInfo',{})),'manager_csv_current':meta.get('manager_exports_acquired',0),'all_player_state':'CURRENT' if meta.get('all_player_rows',0) else 'MISSING','matchup_data':{'status':'AUTHORITATIVE_CURRENT' if matchup_meta.get('validation_status')=='valid' else 'MISSING','matchups':matchup_meta.get('matchup_rows',0),'teams':matchup_meta.get('team_coverage',0),'acquired_at':matchup_meta.get('acquired_at')},'team_models':team_status,'fantrax_targets':fp['targets'],'fantrax_auth_state_present':_auth_path(ROOT).exists(),'whoscored':{**wp,'maturity':provider_plan('whoscored',ws_meta,eligible_ws)},'understat':{**up,'maturity':provider_plan('understat',us_meta,10)},'model_rebuild_required':bool(fp['targets']) or matchup_meta.get('validation_status')!='valid' or wp['would_acquire']+wp['would_recheck']+up['would_acquire']>0}
+    return {'season':season,'fantrax_current_period':period,'previous_gw_status':previous_status,'previous_correction_checked':previous_checked,'fantrax_maturity':fantrax_maturity,'pending_correction_confirmation':fantrax_maturity=='COMPLETE_PENDING_CORRECTIONS','manager_csv_expected':len(league.get('teamInfo',{})),'manager_csv_current':meta.get('manager_exports_acquired',0),'all_player_state':'CURRENT' if meta.get('all_player_rows',0) else 'MISSING','matchup_data':{'status':'AUTHORITATIVE_CURRENT' if matchup_meta.get('validation_status')=='valid' else 'MISSING','matchups':matchup_meta.get('matchup_rows',0),'teams':matchup_meta.get('team_coverage',0),'acquired_at':matchup_meta.get('acquired_at')},'team_models':team_status,'fantrax_targets':fp['targets'],'fantrax_auth_state_present':_auth_path(ROOT).exists(),'whoscored':{**wp,'maturity':provider_plan('whoscored',ws_meta,eligible_ws)},'understat':{**up,'maturity':up['maturity']},'model_rebuild_required':bool(fp['targets']) or matchup_meta.get('validation_status')!='valid' or wp['would_acquire']+wp['would_recheck']+up['would_acquire']>0}
 def main():
     p=argparse.ArgumentParser();p.add_argument('--season',default='2627');p.add_argument('--plan',action='store_true');p.add_argument('--skip-whoscored',action='store_true');p.add_argument('--period',type=int);p.add_argument('--finalize',action='store_true',help='Commissioner confirmation after the correction window closes');a=p.parse_args()
     if a.season!='2627':raise SystemExit('Commissioner refresh currently supports season 2627 only')

@@ -18,23 +18,26 @@ def _read(name):return pd.read_csv(MODELS/name,dtype={"fantrax_player_id":str})
 def test_real_gw1_results_records_awards_and_trends():
     games=_read("weekly_matchups_2627.csv");weeks=_read("manager_week_summary_2627.csv");gw=games.query("period == 1")
     assert len(gw)==6 and gw.status.eq("completed").all() and len(completed_matchups(gw))==6
-    assert weeks.result.value_counts().to_dict()=={"W":12,"L":12}
-    assert weeks.cumulative_wins.sum()==weeks.cumulative_losses.sum()==18
+    periods=weeks.period.nunique()
+    assert weeks.result.value_counts().to_dict()=={"W":6*periods,"L":6*periods}
+    assert weeks.cumulative_wins.sum()==weeks.cumulative_losses.sum()==6*sum(range(1,periods+1))
     assert weeks.query("period == 1").lineup_changes.isna().all()
     assert weeks.query("period == 2").lineup_changes.notna().all() and weeks.lineup_efficiency_pct.notna().sum()==24
     jester=jester_history(weeks).iloc[0];assert (jester.manager_name.split()[0],jester.weekly_score,int(jester.period))==("wmuck1",68.0,1)
     highlights={row["label"]:row for row in league_highlights(weeks,games)}
-    assert highlights["Highest Score"]["value"]=="tpem" and "167.5 pts" in highlights["Highest Score"]["detail"]
-    assert highlights["Lowest Score"]["value"].startswith("KindComet") and "71.0 pts" in highlights["Lowest Score"]["detail"]
+    latest=weeks[weeks.period.eq(weeks.period.max())]
+    high=latest.loc[latest.fantasy_points.idxmax()];low=latest.loc[latest.fantasy_points.idxmin()]
+    assert highlights["Highest Score"]["value"]==high.manager_name and f"{high.fantasy_points:.1f} pts" in highlights["Highest Score"]["detail"]
+    assert highlights["Lowest Score"]["value"]==low.manager_name and f"{low.fantasy_points:.1f} pts" in highlights["Lowest Score"]["detail"]
     assert "Berkshire’s Club 91.5 (W)" in highlights["Closest Match"]["value"] and "epatel3 91.0" in highlights["Closest Match"]["detail"]
     assert "tpem 167.5 (W)" in highlights["Biggest Blowout"]["value"] and "Berkshire’s Club 110.5" in highlights["Biggest Blowout"]["detail"]
-    scoring,history=scoring_frames(weeks);assert scoring.shape==(2,13) and history.shape[0]==2
+    scoring,history=scoring_frames(weeks);assert scoring.shape==(periods,13) and history.shape[0]==periods
     assert sorted(history.iloc[-1].dropna().astype(int))==list(range(1,13))
 
 
 def test_real_active_lineup_exact_132_and_excludes_bench_and_waivers():
     active=_read("league_active_player_weekly_2627.csv");weekly=_read("current_player_weekly_2627.csv")
-    assert len(active)==264 and active.groupby(["period","manager_id"]).size().eq(11).all()
+    assert len(active)==132*active.period.nunique() and active.groupby(["period","manager_id"]).size().eq(11).all()
     assert not active.duplicated(["period","fantrax_player_id"]).any() and active.active_start.astype(str).str.lower().eq("true").all()
     for period,rows in active.groupby("period"):
         same=weekly[pd.to_numeric(weekly.period,errors="coerce").eq(period)]
@@ -74,8 +77,9 @@ def test_real_league_hub_apptest_is_finalized_and_fast():
     started=time.perf_counter();app=AppTest.from_file(str(ROOT/"app.py"),default_timeout=45).run();app.sidebar.radio(key="page_nav").set_value("League Hub").run();elapsed=time.perf_counter()-started
     assert not app.exception and elapsed<20
     rendered=" ".join(str(x.value) for x in app.markdown);assert "2026/27" in rendered and "Latest Jester" in rendered and "wmuck1" in rendered
-    assert "Highest Score" in rendered and "167.5 pts" in rendered and "Closest Match" in rendered and "Biggest Blowout" in rendered
+    weeks=_read("manager_week_summary_2627.csv");latest=int(weeks.period.max());high=weeks.query("period == @latest").fantasy_points.max()
+    assert "Highest Score" in rendered and f"{high:.1f} pts" in rendered and "Closest Match" in rendered and "Biggest Blowout" in rendered
     assert "Weekly Scoring" in rendered and "League Position History" in rendered and "Manager Awards" in rendered
     assert "Player Leaderboards" not in rendered and "Ghost King" in rendered
-    assert "GW2 Results" in rendered and "GW2 Live Matchups" not in rendered
+    assert f"GW{latest} Results" in rendered and f"GW{latest} Live Matchups" not in rendered
     tables=[x.value for x in app.dataframe];assert any(len(table)==12 and "Record" in table for table in tables)

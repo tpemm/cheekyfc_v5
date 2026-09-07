@@ -15,8 +15,8 @@ def team_match():return pd.read_csv(ROOT/"data/models/season_2627/team_match_ana
 
 
 def test_current_canonical_grain_and_coverage(team_match):
-    assert len(team_match)==40
-    assert team_match.canonical_match_id.nunique()==20
+    assert len(team_match)==60
+    assert team_match.canonical_match_id.nunique()==30
     assert team_match.club_id.nunique()==20
     assert team_match.groupby("canonical_match_id").size().eq(2).all()
     assert not team_match.duplicated(["canonical_match_id","club_id"]).any()
@@ -24,13 +24,13 @@ def test_current_canonical_grain_and_coverage(team_match):
 
 def test_reciprocal_opponent_score_xg_and_venue(team_match):
     validation=reciprocal_validation(team_match)
-    assert len(validation)==20 and validation.validation_status.eq("PASS").all()
+    assert len(validation)==30 and validation.validation_status.eq("PASS").all()
 
 
 def test_current_context_and_provider_quality_gates(team_match):
-    assert team_match.manager_id.notna().sum()==40
-    assert team_match.formation.notna().sum()==40
-    assert team_match.xg.notna().sum()==40 and team_match.xga.notna().sum()==40
+    assert team_match.manager_id.notna().sum()==60
+    assert team_match.formation.notna().sum()==60
+    assert team_match.xg.notna().sum()==60 and team_match.xga.notna().sum()==60
     assert team_match.event_count.gt(0).all()
     assert team_match.match_completed.all()
 
@@ -64,7 +64,7 @@ def test_profiles_manager_formation_home_away_and_neutral_context(team_match):
     formation=pd.read_csv(ROOT/"data/models/season_2627/team_formation_analytics_2627.csv")
     venue=pd.read_csv(ROOT/"data/models/season_2627/team_home_away_profile_2627.csv")
     assert len(season)==len(manager)==20
-    assert len(formation)==21 and len(venue)==40
+    assert len(formation)==23 and len(venue)==40
     assert np.allclose(formation.groupby("club_id").formation_share.sum(),1)
     assert any(c.endswith("_volume_rank") for c in season) and not any("best_rank" in c for c in season)
     assert not any(frame.contains_prediction.any() for frame in (season,manager,formation,venue))
@@ -73,8 +73,8 @@ def test_profiles_manager_formation_home_away_and_neutral_context(team_match):
 def test_fantasy_allowed_match_and_position_foundations():
     total=pd.read_csv(ROOT/"data/models/season_2627/team_fantasy_allowed_match_2627.csv")
     position=pd.read_csv(ROOT/"data/models/season_2627/team_fantasy_allowed_position_match_2627.csv")
-    assert len(total)==40 and total.canonical_match_id.nunique()==20
-    assert len(position)==158 and set(position.position_group)<=set(["GK","DEF","MID","FWD"])
+    assert len(total)==60 and total.canonical_match_id.nunique()==30
+    assert len(position)==238 and set(position.position_group)<=set(["GK","DEF","MID","FWD"])
     assert total.fantasy_points_allowed.notna().all() and position.fantasy_points_allowed.notna().all()
     assert not total.contains_prediction.any() and not position.contains_prediction.any()
 

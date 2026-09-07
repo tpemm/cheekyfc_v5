@@ -118,8 +118,32 @@ def acquisition_plan(manifest:pd.DataFrame)->dict[str,Any]:
             "failed_retryable":counts.get("FAILED_RETRYABLE",0),"provider_ids_resolved":int(resolved.sum()),"would_acquire":int(acquire.sum()),"would_recheck":int(recheck.sum())}
 
 
+def validated_cache_manifest(manifest: pd.DataFrame, base: Path) -> tuple[pd.DataFrame, list[dict]]:
+    """Count usable payloads, not planned rows or failure metadata, as present."""
+    import json
+    from integrations.whoscored.controller import validate_cache, _cache_key
+    out = manifest.copy()
+    metadata = []
+    for index, row in out.iterrows():
+        if row.planner_status in {"FUTURE", "IN_PROGRESS_OR_TOO_RECENT"}:
+            continue
+        checked = validate_cache(base, row.to_dict()) if pd.notna(row.whoscored_match_id) else {"cache_valid": False}
+        if checked["cache_valid"]:
+            meta = json.loads((base / f"match_{_cache_key(row)}" / "metadata.json").read_text(encoding="utf-8"))
+            maturity = str(row.cache_status) if pd.notna(row.cache_status) else "PRELIMINARY"
+            if maturity not in {"STABLE", "PRELIMINARY"}:
+                maturity = "PRELIMINARY"
+            out.at[index, "cache_status"] = maturity
+            out.at[index, "planner_status"] = "STABLE" if maturity == "STABLE" else "ELIGIBLE_PRELIMINARY"
+            metadata.append({"maturity": maturity, "retrieved_at": meta.get("retrieved_at")})
+        else:
+            out.at[index, "cache_status"] = "MISSING"
+            out.at[index, "planner_status"] = "FAILED_RETRYABLE" if str(row.acquisition_status) in {"FAILED", "TIMEOUT"} else "ELIGIBLE_MISSING"
+    return out, metadata
+
+
 def maturity_after_recheck(previous:pd.Series,current:dict[str,Any],*,checked_at:Any=None,stabilization_hours:int=STABILIZATION_INTERVAL_HOURS)->str:
     checked=_now(checked_at);prior_time=pd.to_datetime(previous.get("last_checked_at"),utc=True,errors="coerce")
-    unchanged=(str(previous.get("payload_hash"))==str(current.get("payload_hash")) and pd.to_numeric(previous.get("event_count"),errors="coerce")==pd.to_numeric(current.get("event_count"),errors="coerce") and pd.to_numeric(previous.get("lineup_count"),errors="coerce")==pd.to_numeric(current.get("lineup_count"),errors="coerce") and pd.to_numeric(previous.get("ratings_count"),errors="coerce")==pd.to_numeric(current.get("ratings_count"),errors="coerce"))
+    unchanged=(str(previous.get("payload_hash"))==str(current.get("payload_hash")) and pd.to_numeric(previous.get("event_count"),errors="coerce")==pd.to_numeric(current.get("event_count"),errors="coerce") and all(pd.isna(previous.get(key)) and pd.isna(current.get(key)) or pd.to_numeric(previous.get(key),errors="coerce")==pd.to_numeric(current.get(key),errors="coerce") for key in ("lineup_count","ratings_count")))
     old_enough=pd.notna(prior_time) and checked-prior_time>=pd.Timedelta(hours=stabilization_hours)
     return "STABLE" if unchanged and old_enough else "PRELIMINARY"

@@ -20,7 +20,7 @@ def test_add_drop_refresh_overlay():
     f=pd.DataFrame([{"fantrax_player_id":"a","current_manager_name":"Old","available":False},{"fantrax_player_id":"b","current_manager_name":pd.NA,"available":True}]);o=pd.DataFrame([{"fantrax_player_id":"a","current_manager_name":pd.NA,"available":True},{"fantrax_player_id":"b","current_manager_name":"New","available":False}]);r=overlay_current_ownership(f,o).set_index("fantrax_player_id");assert r.loc["a","available"] and pd.isna(r.loc["a","current_manager_name"]);assert r.loc["b","current_manager_name"]=="New" and not r.loc["b","available"]
 
 def real():return overlay_current_summary(pd.read_csv(MODEL/"live_player_analytics_2627.csv",low_memory=False),pd.read_csv(MODEL/"current_player_season_summary_2627.csv"))
-@pytest.mark.parametrize("pid,gp,starts,minutes",[("06y9m",2,2,167),("05tre",2,2,180),("07877",2,2,165)])
+@pytest.mark.parametrize("pid,gp,starts,minutes",[("06y9m",3,3,243),("05tre",3,3,270),("07877",3,3,210)])
 def test_real_participation(pid,gp,starts,minutes):
     r=real()[lambda x:x.fantrax_player_id.astype(str).eq(pid)].iloc[0];assert (r.current_appearances,r.current_starts,r.current_minutes)==(gp,starts,minutes);assert pd.notna(r.current_points_per_start)
 def test_mamadou_name():assert real()[lambda x:x.fantrax_player_id.astype(str).eq("07877")].iloc[0].player_name=="Mamadou Sangare"

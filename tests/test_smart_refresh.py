@@ -46,6 +46,8 @@ def test_desktop_command_rejects_client_mode(monkeypatch):
     monkeypatch.setenv("FANTRAX_MACHINE_ROLE","client")
     monkeypatch.setenv("COMMISSIONER_REFRESH_ENABLED","false")
     monkeypatch.setattr("sys.argv",["refresh_desktop_sources.py"])
+    monkeypatch.setattr(desktop, "desktop_dependencies", lambda: [])
+    monkeypatch.setattr(desktop, "provider_statuses", lambda report: {"Fantrax":"PASS","WhoScored":"PASS","Understat":"PASS"})
     assert desktop.main()==2
 
 
@@ -58,5 +60,7 @@ def test_desktop_command_runs_previous_gw_correction_check(monkeypatch):
     monkeypatch.setattr(desktop,"atomic_json",lambda *args,**kwargs:None)
     monkeypatch.setattr(desktop,"publish_refresh",lambda *args,**kwargs:SimpleNamespace(status="NO_ACTION_REQUIRED",files=(),blockers=(),commit=None))
     monkeypatch.setattr("sys.argv",["refresh_desktop_sources.py"])
+    monkeypatch.setattr(desktop, "desktop_dependencies", lambda: [])
+    monkeypatch.setattr(desktop, "provider_statuses", lambda report: {"Fantrax":"PASS","WhoScored":"PASS","Understat":"PASS"})
     assert desktop.main()==0
     assert ("build_current_data_integrity.py",("--season","2627","--period",2)) in calls

@@ -23,8 +23,8 @@ def test_final_information_architecture_and_current_first_constants():
 
 def test_overview_kpis_trend_fixtures_and_understat_values():
     d=frames();model=prepare_team_overview("arsenal",d["matches"],d["profiles"],d["fantasy"],d["fixtures"]);s=model["summary"]
-    assert s.matches==2 and s.record=="2-0-0" and np.isclose(s.xg,3.37865) and np.isclose(s.xga,.840261)
-    assert len(model["trend"])==2 and 1<=len(model["fixtures"])<=5
+    assert s.matches==3 and s.record=="3-0-0" and np.isclose(s.xg,6.1842) and np.isclose(s.xga,1.270769)
+    assert len(model["trend"])==3 and 1<=len(model["fixtures"])<=5
 
 def test_profiles_use_full_league_neutral_volume_percentiles():
     d=frames();panels=prepare_team_profile_percentiles(d["profiles"],"arsenal")

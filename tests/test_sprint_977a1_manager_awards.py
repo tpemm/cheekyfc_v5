@@ -15,8 +15,9 @@ def real_active():return pd.read_csv(ROOT/"data/models/season_2627/league_active
 
 def test_real_manager_totals_reconcile_all_132_active_rows():
     active=real_active();totals=manager_active_season_totals(active)
-    assert len(active)==264 and len(totals)==12 and totals.season_id.astype(str).eq("2627").all()
-    assert totals.active_starts.eq(22).all() and totals.periods_counted.eq(2).all()
+    assert len(active)==132*active.period.nunique() and len(totals)==12 and totals.season_id.astype(str).eq("2627").all()
+    active=active[active.period_complete.fillna(False)]
+    assert totals.active_starts.eq(11*active.period.nunique()).all() and totals.periods_counted.eq(active.period.nunique()).all()
     for metric in ("goals","assists","clean_sheets"):
         expected=pd.to_numeric(active[metric],errors="coerce").sum(min_count=1);actual=pd.to_numeric(totals[metric],errors="coerce").sum(min_count=1);assert actual==expected
     complete_ghost=active.groupby("manager_id").filter(lambda rows: rows.ghost_points.notna().all())

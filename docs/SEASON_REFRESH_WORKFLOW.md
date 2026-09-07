@@ -22,6 +22,10 @@ python -m playwright install chromium
 For tests/development, use `python -m pip install -r requirements-dev.txt`.
 Desktop requirements include the existing app and football acquisition requirements
 plus Playwright; dev adds pytest. Streamlit still uses only `requirements.txt`.
+The included football requirements declare soccerdata, which installs its
+SeleniumBase/Selenium browser adapter and process-cleanup dependency (psutil).
+Run every desktop command from this activated environment; the desktop preflight
+reports missing acquisition dependencies before starting a refresh.
 
 ## Safe GitHub publishing
 
@@ -58,3 +62,7 @@ no authentication, acquisition, rebuild, data writes, staging, commit or push.
 Its eligibility is conditional on a future successful refresh; it does not
 certify that current data passed a new refresh. Successful publication prints
 the verified commit hash. Then open Streamlit and click **SMART REFRESH**.
+
+Each live WhoScored match retains its own sequential worker/browser session. A clearly dead or unreachable WebDriver gets at most one retry in a completely new child Python process. The child never retries in process; the parent waits for its exit, and records an unrecovered failure as retryable before continuing to the next missing match. Raw metadata preserves each browser attempt, original error, last navigation phase and process evidence. Valid caches are reused unless the caller explicitly requests a maturity recheck.
+
+WhoScored browser startup uses standard Selenium `webdriver.Chrome(options=options)` with installed Google Chrome and Selenium Manager driver management. No UC driver or manually launched driver server is used. Per-match isolation, health checks and one bounded subprocess recovery remain in place.

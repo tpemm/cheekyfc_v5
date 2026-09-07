@@ -205,6 +205,21 @@ def overwrite_csv(df: pd.DataFrame, out_path: Path) -> pd.DataFrame:
     return df
 
 
+def missing_match_schedule(schedule: pd.DataFrame, out_dir: Path, season_id: str, league_slug: str) -> pd.DataFrame:
+    """Keep stable cached matches untouched during incremental acquisition."""
+    schedule_path=out_dir/f"understat_schedule_{season_id}_{league_slug}.csv"
+    players_path=out_dir/f"understat_player_match_stats_{season_id}_{league_slug}.csv"
+    complete=set()
+    if schedule_path.exists() and players_path.exists():
+        prior=pd.read_csv(schedule_path);players=pd.read_csv(players_path)
+        valid=prior.get("has_data",pd.Series(False,index=prior.index)).astype(str).str.lower().eq("true")
+        for metric in ("home_xg","away_xg"):
+            valid &= pd.to_numeric(prior.get(metric,pd.Series(index=prior.index,dtype=float)),errors="coerce").notna()
+        complete=set(pd.to_numeric(prior.loc[valid,"game_id"],errors="coerce").dropna()) & set(pd.to_numeric(players.game_id,errors="coerce").dropna())
+    has_data=schedule.get("has_data",pd.Series(False,index=schedule.index)).astype(str).str.lower().eq("true")
+    return schedule[has_data & ~schedule.game_id.isin(complete)].copy()
+
+
 # -----------------------------
 # Main
 # -----------------------------
@@ -215,6 +230,7 @@ def main():
     parser.add_argument("--out_dir", default=DEFAULT_OUT_DIR, help="Output directory for CSVs")
     parser.add_argument("--gws", default="ALL", help='Understat gameweeks to filter: "ALL" or "1-5,8,10-12"')
     parser.add_argument("--mode", default="upsert", choices=["upsert", "overwrite"], help="Write mode")
+    parser.add_argument("--missing-only", action="store_true", help="Acquire only matches lacking usable cached player/team data")
 
     args = parser.parse_args()
     require_commissioner_writer("Understat provider-cache write")
@@ -238,11 +254,18 @@ def main():
 
     # Pull data (may come back as MultiIndex)
     schedule_raw = us.read_schedule()
-    pms_raw = us.read_player_match_stats()
+    schedule = standardize_schedule_columns(ensure_game_id(schedule_raw, "schedule"))
+    if gws_set is not None:
+        schedule = schedule[schedule.gameweek.isin(gws_set)].copy()
+    if args.missing_only:
+        schedule = missing_match_schedule(schedule,out_dir,season_id,league_slug)
+        if schedule.empty:
+            print("NO_ACTION_REQUIRED: provider has no missing completed match payloads available.")
+            return
+    pms_raw = us.read_player_match_stats(match_id=schedule.game_id.dropna().astype(int).tolist())
     players_season_raw = us.read_player_season_stats()
 
     # Flatten + standardize keys
-    schedule = ensure_game_id(schedule_raw, "schedule")
     pms = ensure_game_id(pms_raw, "player_match_stats")
     players_season = flatten_index(players_season_raw)
 

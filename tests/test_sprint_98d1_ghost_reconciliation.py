@@ -49,7 +49,7 @@ def test_real_jack_propagates_to_match_and_summary():
 def test_exact_population_and_quality_outputs():
     report=pd.read_csv(ROOT/"data/quality/season_2627/ghost_return_derivation_validation_2627.csv")
     summary=json.loads((ROOT/"data/quality/season_2627/ghost_return_derivation_summary_2627.json").read_text())
-    assert report.component_derived_ghost.notna().sum()==320 and summary["derived_ghost_observations"]==296 and summary["waiver_derived_observations"]==296
+    assert report.component_derived_ghost.notna().sum()==484 and summary["derived_ghost_observations"]==435 and summary["waiver_derived_observations"]==435
 
 def test_historical_sources_are_outside_rebuild_scope():
     import inspect,scripts.build_current_player_participation as builder

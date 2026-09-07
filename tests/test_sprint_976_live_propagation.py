@@ -14,14 +14,17 @@ def page(name:str):
 
 def test_live_manager_scores_propagate_to_two_gameweek_hub():
     expected=pd.read_csv(ROOT/"data/models/season_2627/manager_week_summary_2627.csv")
-    assert len(expected)==24 and set(expected.period)=={1,2} and expected.fantasy_points.notna().all()
+    periods=expected.period.nunique();latest=int(expected.period.max())
+    assert len(expected)==12*periods and expected.groupby("period").manager_id.nunique().eq(12).all() and expected.fantasy_points.notna().all()
     app=page("League Hub");assert not app.exception
     assert next(item for item in app.sidebar.selectbox if item.label=="Season").value=="2026/27"
     rendered=" ".join(item.value for item in app.markdown)
-    assert "GW2 Results" in rendered and "GW2 Live Matchups" not in rendered and "GW38" not in rendered
+    assert f"GW{latest} Results" in rendered and f"GW{latest} Live Matchups" not in rendered and "GW38" not in rendered
     matchups=next(item.value for item in app.dataframe if {"Home","Home Score","Away Score","Away","Status"}.issubset(item.value.columns))
     assert len(matchups)==6 and matchups.Status.eq("completed").all()
-    assert set(matchups["Home Score"])|set(matchups["Away Score"])==set(expected.query("period == 2").fantasy_points)
+    authoritative=pd.read_csv(ROOT/f"data/raw/fantrax/2627/matchups/period_{latest:02d}/fantrax_matchups.csv")
+    assert set(authoritative.home_score)|set(authoritative.away_score)==set(expected.query("period == @latest").fantasy_points)
+    assert set(matchups["Home Score"])|set(matchups["Away Score"])==set(expected.query("period == @latest").fantasy_points)
 
 
 def test_real_current_player_defaults_and_historical_switch():
@@ -55,7 +58,7 @@ def test_real_current_team_defaults_and_historical_switch():
     assert app.radio(key="team_match_season").value=="2026/27 Current"
     assert app.radio(key="team_fantasy_season").value=="2026/27 Current"
     metrics={(item.label,item.value) for item in app.metric};assert ("xG",f"{row.xg:.2f}") in metrics and ("xGA",f"{row.xga:.2f}") in metrics
-    assert ("Played","2") in metrics and any("Current sample: 2 matches observed" in item.value for item in app.caption)
+    assert ("Played","3") in metrics and any("Current sample: 3 matches observed" in item.value for item in app.caption)
     app.radio(key="team_match_season").set_value("2025/26 Historical").run();assert not app.exception
     assert app.radio(key="team_match_season").value=="2025/26 Historical"
 

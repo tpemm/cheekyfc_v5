@@ -13,7 +13,7 @@ def read(key,season="2526"):return pd.read_csv(ROOT/f"data/models/season_{season
 def test_match_product_grain_current_and_historical():
     h=read("team_tactical_match_features");c=read("team_tactical_match_features","2627")
     assert (len(h),h.canonical_match_id.nunique(),h.club_id.nunique())==(760,380,20)
-    assert (len(c),c.canonical_match_id.nunique(),c.club_id.nunique())==(40,20,20)
+    assert (len(c),c.canonical_match_id.nunique(),c.club_id.nunique())==(60,30,20)
     assert not h.duplicated(["canonical_match_id","club_id"]).any() and not c.duplicated(["canonical_match_id","club_id"]).any()
     assert h.opponent_id.notna().all() and c.opponent_id.notna().all()
 
@@ -38,7 +38,7 @@ def test_methodology_config_thresholds_and_no_primary_archetype():
 def test_current_is_observation_only_and_history_established():
     h=read("team_tactical_profile");c=read("team_tactical_profile","2627");traits=[x for x in c if x.endswith("_trait")]
     assert h.matches.eq(38).all() and h.confidence.eq("Established").all()
-    assert c.matches.eq(2).all() and c.confidence.eq("Very Early").all()
+    assert c.matches.eq(3).all() and c.confidence.eq("Emerging").all()
     assert all(c[x].eq("Observation only").all() for x in traits)
     assert all(~h[x].eq("Observation only").any() for x in traits)
 
@@ -69,8 +69,8 @@ def test_correlation_stability_and_sample_size_evidence():
 
 def test_opponent_player_and_fantasy_join_hooks():
     context=read("team_opponent_tactical_context");players=pd.read_csv(ROOT/"data/models/season_2627/current_player_match_log_2627.csv",low_memory=False);current=read("team_opponent_tactical_context","2627");joined=join_player_opponent_context(players,current)
-    assert len(context)==760 and len(current)==40 and joined.filter(like="opponent_").notna().any().any()
-    fantasy=pd.read_csv(ROOT/"data/models/season_2627/team_fantasy_allowed_match_2627.csv");fj=join_fantasy_allowed_tactical(fantasy,current);assert len(fj)==40 and fj.filter(like="opponent_").notna().any().any()
+    assert len(context)==760 and len(current)==60 and joined.filter(like="opponent_").notna().any().any()
+    fantasy=pd.read_csv(ROOT/"data/models/season_2627/team_fantasy_allowed_match_2627.csv");fj=join_fantasy_allowed_tactical(fantasy,current);assert len(fj)==60 and fj.filter(like="opponent_").notna().any().any()
 
 def test_registry_refresh_and_cache_only_contract():
     keys={x.key for x in DatasetRegistry().list_all()};assert {"team_tactical_match_features","team_tactical_profile","team_manager_tactical_profile","team_formation_tactical_profile","team_venue_tactical_profile","team_opponent_tactical_context"}<=keys

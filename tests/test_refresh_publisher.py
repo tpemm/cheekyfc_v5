@@ -229,6 +229,8 @@ def test_finalized_previous_gw_not_rewritten(monkeypatch):
     monkeypatch.setattr(desktop, "atomic_json", lambda *args: None)
     monkeypatch.setattr(desktop, "publish_refresh", lambda *args, **kwargs: pub.PublishResult("NO_ACTION_REQUIRED"))
     monkeypatch.setattr("sys.argv", ["refresh_desktop_sources.py"])
+    monkeypatch.setattr(desktop, "desktop_dependencies", lambda: [])
+    monkeypatch.setattr(desktop, "provider_statuses", lambda report: {"Fantrax":"PASS","WhoScored":"PASS","Understat":"PASS"})
     assert desktop.main() == 0
     assert not any(script == "build_current_data_integrity.py" for script, _ in calls)
     assert not any("--finalize" in args for _, args in calls)
@@ -249,4 +251,6 @@ def test_cli_dry_run_never_acquires_or_writes(monkeypatch):
         return pub.PublishResult("DRY_RUN")
     monkeypatch.setattr(desktop, "publish_refresh", dry)
     monkeypatch.setattr("sys.argv", ["refresh_desktop_sources.py", "--publish-dry-run"])
+    monkeypatch.setattr(desktop, "desktop_dependencies", lambda: [])
+    monkeypatch.setattr(desktop, "provider_statuses", lambda report: {"Fantrax":"PASS","WhoScored":"PASS","Understat":"PASS"})
     assert desktop.main() == 0

@@ -15,16 +15,15 @@ def test_live_gw1_understat_products_are_exact_reciprocal_and_preserve_played_ze
     identity=pd.read_csv("data/reference/understat_match_identity_2627.csv")
     players=pd.read_csv("data/models/season_2627/understat_player_match_2627.csv")
     teams=pd.read_csv("data/models/season_2627/understat_team_match_2627.csv")
-    assert len(identity)==20 and identity.resolution_status.isin(["RESOLVED_EXACT","RESOLVED_EXACT_PAIR"]).all()
-    assert len(teams)==40 and teams.canonical_club_id.nunique()==20
+    assert len(identity)==30 and identity.resolution_status.isin(["RESOLVED_EXACT","RESOLVED_EXACT_PAIR"]).all()
+    assert len(teams)==60 and teams.canonical_club_id.nunique()==20
     for _,rows in teams.groupby("canonical_match_id"):
         assert len(rows)==2
         assert rows.iloc[0].xg==rows.iloc[1].xga and rows.iloc[0].xga==rows.iloc[1].xg
-    # The deterministic current identity repair expands exact coverage beyond
-    # the original 231-row bootstrap without changing the 310 observations.
-    assert len(players)==622 and players.canonical_player_id.notna().sum()>=534
+    # GW1-GW3 has 929 provider observations; only proven identities are mapped.
+    assert len(players)==929 and players.canonical_player_id.notna().sum()==790
     sangare=players[players.understat_player_id.eq(13917)]
-    assert len(sangare)==2 and sangare.canonical_player_id.notna().all()
+    assert len(sangare)==3 and sangare.canonical_player_id.notna().all()
     assert ((players.minutes>0)&players.xg.eq(0)&players.xa.eq(0)).any()
 
 
