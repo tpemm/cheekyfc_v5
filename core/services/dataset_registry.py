@@ -670,6 +670,18 @@ CORE_DATASETS: tuple[DatasetDefinition, ...] = (
         working_subdirectory="models/season_{season_id}", required_columns=("period","fantrax_team_id","fantrax_player_id","lineup_status","live_scoring_fpts"),
     ),
     _definition(
+        "transaction_events", "Transaction Events", "Official CSV claim, drop and lineup-change event observations; separate from current ownership.",
+        "live_model", "season", "transaction_events_{season_id}.csv", producer="fantrax.live.event_imports",
+        consumers=(), required=False, schema_name=None, working_subdirectory="models/season_{season_id}",
+        required_columns=("transaction_event_id", "transaction_group_id", "raw_transaction_type", "player_id", "manager_id", "event_timestamp"),
+    ),
+    _definition(
+        "lineup_events", "Lineup Events", "Official CSV lineup transitions with raw state and slot observations.",
+        "live_model", "season", "lineup_events_{season_id}.csv", producer="fantrax.live.event_imports",
+        consumers=(), required=False, schema_name=None, working_subdirectory="models/season_{season_id}",
+        required_columns=("lineup_event_id", "raw_from", "raw_to", "player_id", "manager_id", "event_timestamp"),
+    ),
+    _definition(
         "league_transactions", "League Transactions", "Normalized draft, add, drop, waiver, trade, and commissioner events.",
         "live_model", "season", "league_transactions_{season_id}.csv", producer="fantrax.live.pipeline",
         consumers=("Players", "Managers", "Trade Tool"), required=False, schema_name=None, working_subdirectory="models/season_{season_id}",
