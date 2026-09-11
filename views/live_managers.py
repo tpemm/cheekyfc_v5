@@ -102,7 +102,13 @@ def render(season_id:str,*,data_manager:DataManager|None=None,season_manager:Sea
         else:section_header(ui,"Lineup Decisions","Actual submitted lineup state only.");ui.dataframe(manager_players[manager_players.get("manager_id",pd.Series(index=manager_players.index,dtype=object)).astype(str).eq(manager_id)],hide_index=True,use_container_width=True)
         if ui.checkbox("Review decision event history",key="manager_decision_review"):
             from views.manager_decision_review import render_review
-            render_review(ui,manager_players,_load(data,"transaction_events",season_id,namespace,ui),_load(data,"lineup_events",season_id,namespace,ui),_load(data,"league_teams",season_id,namespace,ui),manager_id)
+            from fantrax.live.start_sit import analyze_start_sit, ReconciliationError
+            try:
+                outcomes,differences=analyze_start_sit(manager_players,_load(data,"current_player_weekly",season_id,namespace,ui),weeks)
+            except ReconciliationError as exc:
+                ui.error(f"Start/sit analysis stopped: {exc}")
+            else:
+                render_review(ui,manager_players,_load(data,"transaction_events",season_id,namespace,ui),_load(data,"lineup_events",season_id,namespace,ui),_load(data,"league_teams",season_id,namespace,ui),manager_id,outcomes,differences)
     with tabs[4]:
         section_header(ui,"Explorer","Registered manager events and weekly facts.");involved=events[(events.get("previous_manager_id",pd.Series(index=events.index,dtype=object)).astype(str).eq(manager_id))|(events.get("new_manager_id",pd.Series(index=events.index,dtype=object)).astype(str).eq(manager_id))] if not events.empty else events
         event_type=ui.selectbox("Event type",["All"]+sorted(involved.get("event_type",pd.Series(dtype=str)).dropna().astype(str).unique().tolist()))

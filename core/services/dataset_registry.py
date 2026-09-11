@@ -670,6 +670,18 @@ CORE_DATASETS: tuple[DatasetDefinition, ...] = (
         working_subdirectory="models/season_{season_id}", required_columns=("period","fantrax_team_id","fantrax_player_id","lineup_status","live_scoring_fpts"),
     ),
     _definition(
+        "manager_week_start_sit_summary", "Manager Week Start Sit Summary", "Finalized canonical XI outcomes explained using the existing Efficiency optimum.",
+        "live_model", "season", "manager_week_start_sit_summary_{season_id}.csv", producer="fantrax.live.start_sit",
+        consumers=("Managers",), required=False, schema_name=None, working_subdirectory="models/season_{season_id}",
+        required_columns=("manager_id", "gameweek"),
+    ),
+    _definition(
+        "manager_week_start_sit_decisions", "Manager Week Start Sit Decisions", "Finalized canonical XI outcomes explained using the existing Efficiency optimum.",
+        "live_model", "season", "manager_week_start_sit_decisions_{season_id}.csv", producer="fantrax.live.start_sit",
+        consumers=("Managers",), required=False, schema_name=None, working_subdirectory="models/season_{season_id}",
+        required_columns=("manager_id", "gameweek"),
+    ),
+    _definition(
         "manager_week_decision_summary", "Manager Week Decision Summary", "Canonical final lineup counts and descriptive event activity; no decision grading.",
         "live_model", "season", "manager_week_decision_summary_{season_id}.csv", producer="fantrax.live.manager_decisions",
         consumers=("Managers",), required=False, schema_name=None, working_subdirectory="models/season_{season_id}",
