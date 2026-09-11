@@ -670,6 +670,18 @@ CORE_DATASETS: tuple[DatasetDefinition, ...] = (
         working_subdirectory="models/season_{season_id}", required_columns=("period","fantrax_team_id","fantrax_player_id","lineup_status","live_scoring_fpts"),
     ),
     _definition(
+        "manager_week_decision_summary", "Manager Week Decision Summary", "Canonical final lineup counts and descriptive event activity; no decision grading.",
+        "live_model", "season", "manager_week_decision_summary_{season_id}.csv", producer="fantrax.live.manager_decisions",
+        consumers=("Managers",), required=False, schema_name=None, working_subdirectory="models/season_{season_id}",
+        required_columns=("manager_id", "gameweek", "lineup_event_count", "event_coverage_status"),
+    ),
+    _definition(
+        "manager_event_timeline", "Manager Event Timeline", "Chronological individual transaction and lineup actions with candidate group identifiers.",
+        "live_model", "season", "manager_event_timeline_{season_id}.csv", producer="fantrax.live.manager_decisions",
+        consumers=("Managers",), required=False, schema_name=None, working_subdirectory="models/season_{season_id}",
+        required_columns=("manager_id", "gameweek", "source_event_id", "event_timestamp"),
+    ),
+    _definition(
         "transaction_events", "Transaction Events", "Official CSV claim, drop and lineup-change event observations; separate from current ownership.",
         "live_model", "season", "transaction_events_{season_id}.csv", producer="fantrax.live.event_imports",
         consumers=(), required=False, schema_name=None, working_subdirectory="models/season_{season_id}",
